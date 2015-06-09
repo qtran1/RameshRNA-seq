@@ -1,0 +1,94 @@
+Generating and Normalizing the Counts Table
+========================================================
+
+```{r setup, echo=FALSE}
+counts_table_folder <- '../data/raw/htseq_counts'
+counts_table_file <- 'counts_table.csv'
+```
+This script takes the htseq-derived counts files in `r counts_table_folder` and converts it into a counts table file named `r counts_table_file`.  This script was most recently run on `r date()`.
+
+```{r counts-table}
+#function for tacking together files
+tack = function(files,nms) {
+  # browser()
+  out = read.delim(files[1], head=FALSE)
+  colnames(out) = c("sym", nms[1])
+  for(i in 2:length(files)) {
+    f=files[i]
+    nm=nms[i]
+    tmp = read.delim(f, head=FALSE)
+    out[[nm]]=tmp[[2]]
+    if(any(as.character(out[[1]])!=as.character(tmp[[1]])))
+      stop("files do not match")
+  }
+  rownames(out)=out$sym
+  return(out)
+}
+
+counts.table.initial = tack(files=paste(counts_table_folder, dir(counts_table_folder),sep='/'), 
+                    nms=sapply(strsplit(dir(counts_table_folder),'-'), "[", 1))
+write.csv(counts.table.initial[,1:length(dir(counts_table_folder))+1], file="../data/processed/counts_table.csv")
+
+
+counts.table <- counts.table.initial[,1:length(dir(counts_table_folder))+1]
+counts.table['total_reads',] <- colSums(counts.table)
+counts.table['pct_no_feature',] <- counts.table['no_feature',]/counts.table['total_reads',]*100
+counts.table['ambiguous',] <- counts.table['ambiguous ',]/counts.table['total_reads',]*100
+counts.table['pct_not_unique',] <- counts.table['alignment_not_unique',]/counts.table['total_reads',]*100
+counts.table['mapped_reads',] <- counts.table['total_reads',]-counts.table['pct_no_feature',]-counts.table['pct_not_unique',]
+counts.table[is.na(counts.table)] <- 0
+```
+
+Counts Table Summary
+----------------------
+
+HTSeq output files includes several important diagnostics.  These are listed below:
+
+```{r tables, echo=FALSE, results='asis'}
+library(xtable)
+print(xtable(as.data.frame(t(tail(counts.table,9))), align=rep('r',10), digits=0),include.colnames=T, type='html')
+```
+
+
+Generating RPKM Table
+----------------------
+
+```{r rpkm-table}
+#divide the counts table by the total reads
+normalized.counts.table <-  sweep(counts.table, 2, unlist(counts.table['total_reads',])/1E6,  "/")
+
+#calculate the length of each gene
+# First, import the GTF-file that you have also used as input for htseq-count
+library(GenomicFeatures)
+txdb <- makeTranscriptDbFromGFF("../data/raw/Mus_musculus.GRCm38.80.gtf",format="gtf")
+# then collect the exons per gene id
+exons.list.per.gene <- exonsBy(txdb,by="gene")
+# then for each gene, reduce all the exons to a set of non overlapping exons, calculate their lengths (widths) and sum then
+exonic.gene.sizes <- lapply(exons.list.per.gene,function(x){sum(width(reduce(x)))})
+gene_lengths <- unlist(exonic.gene.sizes)
+comvals <- intersect(names(gene_lengths),rownames(counts.table))
+
+counts.rpkm <-  sweep(normalized.counts.table[comvals,], 1, unlist(gene_lengths)/1E3,  "/")
+write.csv(counts.rpkm, file="../data/processed/rpkm_table.csv")
+```
+
+Diagnostic Plots
+------------------
+
+```{r diagnostic-plots}
+plot(density(log(counts.rpkm[,1])),
+     main="Distribution of RPKM Values",las=1,
+     xlab="log(RPKM)")
+
+for (n in seq(2,dim(counts.rpkm)[2])){
+  lines(density(log(counts.rpkm[,n])))
+}
+```
+
+
+Session Information
+-------------------
+
+```{r session-info}
+sessionInfo()
+```
