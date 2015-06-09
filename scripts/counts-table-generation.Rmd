@@ -32,10 +32,10 @@ write.csv(counts.table.initial[,1:length(dir(counts_table_folder))+1], file="../
 
 counts.table <- counts.table.initial[,1:length(dir(counts_table_folder))+1]
 counts.table['total_reads',] <- colSums(counts.table)
-counts.table['pct_no_feature',] <- counts.table['no_feature',]/counts.table['total_reads',]*100
-counts.table['ambiguous',] <- counts.table['ambiguous ',]/counts.table['total_reads',]*100
-counts.table['pct_not_unique',] <- counts.table['alignment_not_unique',]/counts.table['total_reads',]*100
-counts.table['mapped_reads',] <- counts.table['total_reads',]-counts.table['pct_no_feature',]-counts.table['pct_not_unique',]
+counts.table['pct_not_aligned',] <- counts.table['__not_aligned',]/counts.table['total_reads',]*100
+counts.table['ambiguous',] <- counts.table['__ambiguous',]/counts.table['total_reads',]*100
+counts.table['pct_not_unique',] <- counts.table['__alignment_not_unique',]/counts.table['total_reads',]*100
+counts.table['mapped_reads',] <- counts.table['total_reads',]-counts.table['pct_not_aligned',]-counts.table['pct_not_unique',]
 counts.table[is.na(counts.table)] <- 0
 ```
 
