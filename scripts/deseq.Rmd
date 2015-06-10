@@ -1,6 +1,11 @@
 DESeq Analysis
 ========================================================
 
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=12, fig.height=8, fig.path='figures/',
+                      echo=FALSE, warning=FALSE, message=FALSE)
+```
+
 ```{r setup}
 input_file <- "../data/processed/counts_table.csv"
 sample_mapping_file <- '../data/raw/sample_mapping.csv'
@@ -19,6 +24,10 @@ mapping.data$Diet <- relevel(mapping.data$Diet, ref="Normal")
 mapping.data$Treatment <- ifelse(mapping.data$Treatment=='vehicle', 'vehicle', 'GTX')
 mapping.data$Treatment <- as.factor(mapping.data$Treatment)
 mapping.data$Treatment <- relevel(mapping.data$Treatment, ref="vehicle")
+
+mapping.data$DT <- c(rep("Norm_Veh",3), rep("HF_Veh",3), rep("HF_GTX",3),rep("Norm_Veh",3), rep("HF_Veh",3), rep("HF_GTX",3))
+mapping.data$DT <- as.factor(mapping.data$DT)
+mapping.data$DT <- relevel(mapping.data$DT, ref="Norm_Veh")
 
 liver.mapping.data <- mapping.data[mapping.data$Tissue=="Liver",]
 wat.mapping.data <- mapping.data[mapping.data$Tissue=="WAT",]
@@ -59,7 +68,7 @@ Running DESeq
 
 Analysis of Liver Tissue
 -----------------------------------------------
-```{r deseq-analysis, dev=c('pdf','png')}
+```{r analysis_of_Liver, dev=c('pdf','png')}
 library(DESeq2)
 #for all comparasons
 liver.dds <- DESeqDataSetFromMatrix(countData = liver.annot.data[,-10],
@@ -95,16 +104,19 @@ colnames(liver.combined)[2:7]<- gsub("x","GTXvsVehicle", colnames(liver.combined
 colnames(liver.combined)[8:13]<-gsub("y","HighFatvsNormal", colnames(liver.combined[8:13]))
 
 
-head(liver.combined)
-summary(liver.combined)
+#head(liver.combined)
+#summary(liver.combined)
 
 liver.res.annot <- merge(liver.combined, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
 write.csv(liver.res.annot, "../data/processed/Liver_DESeqResultsProteinCodingOnly.csv")
 ```
+In liver, there are `r sum(liver.res.annot$padj.GTXvsVehicle<0.05, na.rm=TRUE)` significant differentially expressed genes in GTX mice compared to Vehicle mice. There are `r sum(liver.res.annot$padj.HighFatvsNormal<0.05, na.rm=TRUE)` significant differentially expressed genes in HF mice compared to Normal mice.
+
+
 
 Analysis of WAT Tissue
 -----------------------------------------------
-```{r differentiation-analysis, dev=c('pdf','png')}
+```{r analysis_of_WAT, dev=c('pdf','png')}
 wat.dds <- DESeqDataSetFromMatrix(countData = wat.annot.data[,-10],
   colData = wat.mapping.data,
   design = ~ Diet+Treatment)
@@ -138,17 +150,112 @@ colnames(wat.combined)[2:7]<- gsub("x","GTXvsVehicle", colnames(wat.combined)[2:
 colnames(wat.combined)[8:13]<-gsub("y","HighFatvsNormal", colnames(wat.combined[8:13]))
 
 
-head(wat.combined)
-summary(wat.combined)
+#head(wat.combined)
+#summary(wat.combined)
 
 wat.res.annot <- merge(wat.combined, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
 write.csv(wat.res.annot, "../data/processed/WAT_DESeqResultsProteinCodingOnly.csv")
 ```
+In WAT, there are `r sum(wat.res.annot$padj.GTXvsVehicle<0.05, na.rm=TRUE)` significant differentially expressed genes in GTX mice compared to Vehicle mice. There are `r sum(wat.res.annot$padj.HighFatvsNormal<0.05, na.rm=TRUE)` significant differentially expressed genes in HF mice compared to Normal mice.
+
+Analysis of Interaction Effect on Liver Tissue
+-----------------------------------------------
+```{r deseq_Liver_analysis_interaction, dev=c('pdf','png'), }
+#for all comparasons
+liver.dds.dt <- DESeqDataSetFromMatrix(countData = liver.annot.data[,-10],
+  colData = liver.mapping.data,
+  design = ~ DT)
+
+liver.dds.dt <- DESeq(liver.dds.dt,betaPrior=FALSE)
+liver.res.dt <- results(liver.dds.dt)
+liver.res.dt <- liver.res.dt[order(liver.res.dt$padj),]
+
+#make log transformed data for pca analysis
+liver.rld <- rlogTransformation(liver.dds.dt, blind=TRUE)
+plotPCA(liver.rld, intgroup="DT")
+dev.copy2pdf(file="figures/PCA_liver_Interaction.pdf")
+
+plotMA(liver.res.dt, main="DESeq2 interaction Liver", ylim=c(-2,2))
+dev.copy2pdf(file="figures/MAplot_Interaction_Liver.pdf")
+
+plotCounts(liver.dds.dt, gene=which.min(liver.res.dt$padj), intgroup="DT")
+dev.copy2pdf(file="figures/NormalizedCounts_Interaction_Liver_for_gene_with_smallest_padj.pdf")
+
+sum(liver.res.dt$padj<.05, na.rm=TRUE)
+colData(liver.dds.dt)
+
+#getting the results for HF_GTX vs Norm_Veh 
+liver.HFGTX.effect <- results(liver.dds.dt, name="DT_HF_GTX_vs_Norm_Veh")
+liver.HFGTX.effect <- as.data.frame(liver.HFGTX.effect)
+liver.res.dt <- as.data.frame(liver.res.dt)
+
+sum(liver.HFGTX.effect$padj<0.05, na.rm=TRUE)
+liver.combined2 <- merge(liver.res.dt, liver.HFGTX.effect, by.x="row.names", by.y="row.names")
+colnames(liver.combined2)[2:7]<- gsub("x","HFVeh_vs_NormVeh", colnames(liver.combined2)[2:7])
+colnames(liver.combined2)[8:13]<-gsub("y","HFGTX_vs_NormVeh", colnames(liver.combined2[8:13]))
+
+liver.HFVeh.effect <- results(liver.dds.dt, contrast=c("DT", "HF_GTX", "HF_Veh"))
+liver.HFVeh.effect <- as.data.frame(liver.HFVeh.effect)
+liver.combined3 <- merge(liver.combined2, liver.HFVeh.effect, by.x="Row.names", by.y="row.names")
+colnames(liver.combined3)[14:19]<-paste(colnames(liver.combined3[14:19]),"HFGTX_vs_HFVeh",sep="." )
+
+
+liver.res.dt.annot <- merge(liver.combined3, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
+write.csv(liver.res.dt.annot, "../data/processed/Liver_Interaction_DESeqResultsProteinCodingOnly.csv")
+```
+In liver, there are `r sum(liver.res.dt.annot$padj.HFVeh_vs_NormVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFVeh mice compared to Normal Vehicle mice. There are `r sum(liver.res.dt.annot$padj.HFGTX_vs_NormVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFGTX mice compared to Normal Vehicle mice. There are `r sum(liver.res.dt.annot$padj.HFGTX_vs_HFVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFGTX mice compared to HF Vehicle mice.
 
 
 
+Analysis of Interaction effect on WAT
+-----------------------------------------------
+```{r deseq_WAT_analysis_interaction, dev=c('pdf','png')}
+#for all comparasons
+wat.dds.dt <- DESeqDataSetFromMatrix(countData = wat.annot.data[,-10],
+  colData = wat.mapping.data,
+  design = ~ DT)
+
+wat.dds.dt <- DESeq(wat.dds.dt,betaPrior=FALSE)
+wat.res.dt <- results(wat.dds.dt)
+wat.res.dt <- wat.res.dt[order(wat.res.dt$padj),]
+
+#make log transformed data for pca analysis
+wat.rld <- rlogTransformation(wat.dds.dt, blind=TRUE)
+plotPCA(wat.rld, intgroup="DT")
+dev.copy2pdf(file="figures/PCA_WAT_Interaction.pdf")
+
+plotMA(wat.res.dt, main="DESeq2 interaction WAT", ylim=c(-2,2))
+dev.copy2pdf(file="figures/MAplot_Interaction_WAT.pdf")
+
+plotCounts(wat.dds.dt, gene=which.min(wat.res.dt$padj), intgroup="DT")
+dev.copy2pdf(file="figures/NormalizedCounts_WAT_Interaction_for_gene_with_smallest_padj.pdf")
+
+sum(wat.res.dt$padj<.05, na.rm=TRUE)
+colData(wat.dds.dt)
+
+#getting the results for HF_GTX vs Norm_Veh 
+wat.HFGTX.effect <- results(wat.dds.dt, name="DT_HF_GTX_vs_Norm_Veh")
+wat.HFGTX.effect <- as.data.frame(wat.HFGTX.effect)
+wat.res.dt <- as.data.frame(wat.res.dt)
+
+sum(wat.HFGTX.effect$padj<0.05, na.rm=TRUE)
+wat.combined2 <- merge(wat.res.dt, wat.HFGTX.effect, by.x="row.names", by.y="row.names")
+colnames(wat.combined2)[2:7]<- gsub("x","HFVeh_vs_NormVeh", colnames(wat.combined2)[2:7])
+colnames(wat.combined2)[8:13]<-gsub("y","HFGTX_vs_NormVeh", colnames(wat.combined2[8:13]))
+
+wat.HFVeh.effect <- results(wat.dds.dt, contrast=c("DT", "HF_GTX", "HF_Veh"))
+wat.HFVeh.effect <- as.data.frame(wat.HFVeh.effect)
+wat.combined3 <- merge(wat.combined2, wat.HFVeh.effect, by.x="Row.names", by.y="row.names")
+colnames(wat.combined3)[14:19]<-paste(colnames(wat.combined3[14:19]),"HFGTX_vs_HFVeh",sep="." )
 
 
+wat.res.dt.annot <- merge(wat.combined3, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
+write.csv(wat.res.dt.annot, "../data/processed/WAT_Interaction_DESeqResultsProteinCodingOnly.csv")
+```
+
+In WAT, there are `r sum(wat.res.dt.annot$padj.HFVeh_vs_NormVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFVeh mice compared to Normal Vehicle mice. There are `r sum(wat.res.dt.annot$padj.HFGTX_vs_NormVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFGTX mice compared to Normal Vehicle mice. There are `r sum(wat.res.dt.annot$padj.HFGTX_vs_HFVeh<0.05, na.rm=TRUE)` significant differentially expressed genes in HFGTX mice compared to HF Vehicle mice.
+
+  
 Session Information
 -------------------
 
