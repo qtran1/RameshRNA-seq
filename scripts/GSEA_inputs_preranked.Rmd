@@ -1,0 +1,87 @@
+Title Making input files for GSEA
+========================================================
+
+Making the input file
+
+```{r Read data}
+liver_interaction_file <- '../data/processed/Liver_Interaction_DESeqResultsProteinCodingOnly.csv'
+wat_interaction_file <- '../data/processed/WAT_Interaction_DESeqResultsProteinCodingOnly.csv'
+liver_file <- '../data/processed/Liver_DESeqResultsProteinCodingOnly.csv'
+wat_file <- '../data/processed/WAT_DESeqResultsProteinCodingOnly.csv'
+
+#exp_filename <- "../data/processed/rpkm_table.csv"
+sample_mapping_file <- "../data/raw/sample_mapping.csv"
+liver_interxn <- read.csv(liver_interaction_file, row.names="Row.names")
+wat_interxn <- read.csv(wat_interaction_file, row.names="Row.names")
+liver <- read.csv(liver_file)
+wat <- read.csv(wat_file)
+
+```
+
+Make GSEA input for Liver
+-----------------
+```{r Liver, echo=FALSE}
+#HFVeh vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+liver.HFVvsNV.noNA <- liver_interxn[which(liver_interxn$log2FoldChange.HFVeh_vs_NormVeh != 'NA'),]
+#sort by descending, upregulated genes come first "-"
+liver.HFVvsNV.order <- liver.HFVvsNV.noNA[order(-liver.HFVvsNV.noNA$log2FoldChange.HFVeh_vs_NormVeh),c(20,3)]
+#get rid of duplicate gene
+liver.HFVvsNV.noDup <- liver.HFVvsNV.order[!duplicated(liver.HFVvsNV.order$external_gene_name),]
+write.table(liver.HFVvsNV.noDup, file="../data/processed/GSEA_Liver_HFVvsNV_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+liver.HFGTXvsNV.noNA <- liver_interxn[which(liver_interxn$log2FoldChange.HFGTX_vs_NormVeh != 'NA'),]
+liver.HFGTXvsNV.order <- liver.HFGTXvsNV.noNA[order(-liver.HFGTXvsNV.noNA$log2FoldChange.HFGTX_vs_NormVeh),c(20,9)]
+#get rid of duplicate gene
+liver.HFGTXvsNV.noDup <- liver.HFGTXvsNV.order[!duplicated(liver.HFGTXvsNV.order$external_gene_name),]
+write.table(liver.HFGTXvsNV.noDup, file="../data/processed/GSEA_Liver_HFGTXvsNV_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs HFVeh
+#get rid of NA folchanges and then order by log2 foldchange
+liver.HFGTXvsHFVeh.noNA <- liver_interxn[which(liver_interxn$log2FoldChange.HFGTX_vs_HFVeh != 'NA'),]
+liver.HFGTXvsHFVeh.order <- liver.HFGTXvsHFVeh.noNA[order(-liver.HFGTXvsHFVeh.noNA$log2FoldChange.HFGTX_vs_HFVeh),c(20,15)]
+#get rid of duplicate gene
+liver.HFGTXvsHFVeh.noDup <- liver.HFGTXvsHFVeh.order[!duplicated(liver.HFGTXvsHFVeh.order$external_gene_name),]
+write.table(liver.HFGTXvsHFVeh.noDup, file="../data/processed/GSEA_Liver_HFGTXvsHFVeh_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+```
+
+Make GSEA input for WAT
+-----------------
+```{r WAT, echo=FALSE}
+#HFVeh vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+wat.HFVvsNV.noNA <- wat_interxn[which(wat_interxn$log2FoldChange.HFVeh_vs_NormVeh != 'NA'),]
+wat.HFVvsNV.order <- wat.HFVvsNV.noNA[order(-wat.HFVvsNV.noNA$log2FoldChange.HFVeh_vs_NormVeh),c(20,3)]
+#get rid of duplicate gene
+wat.HFVvsNV.noDup <- wat.HFVvsNV.order[!duplicated(wat.HFVvsNV.order$external_gene_name),]
+write.table(wat.HFVvsNV.noDup, file="../data/processed/GSEA_WAT_HFVvsNV_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+wat.HFGTXvsNV.noNA <- wat_interxn[which(wat_interxn$log2FoldChange.HFGTX_vs_NormVeh != 'NA'),]
+wat.HFGTXvsNV.order <- wat.HFGTXvsNV.noNA[order(-wat.HFGTXvsNV.noNA$log2FoldChange.HFGTX_vs_NormVeh),c(20,9)]
+#get rid of duplicate gene
+wat.HFGTXvsNV.noDup <- wat.HFGTXvsNV.order[!duplicated(wat.HFGTXvsNV.order$external_gene_name),]
+write.table(wat.HFGTXvsNV.noDup, file="../data/processed/GSEA_WAT_HFGTXvsNV_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs HFVeh
+#get rid of NA folchanges and then order by log2 foldchange
+wat.HFGTXvsHFVeh.noNA <- wat_interxn[which(wat_interxn$log2FoldChange.HFGTX_vs_HFVeh != 'NA'),]
+wat.HFGTXvsHFVeh.order <- wat.HFGTXvsHFVeh.noNA[order(-wat.HFGTXvsHFVeh.noNA$log2FoldChange.HFGTX_vs_HFVeh),c(20,15)]
+#get rid of duplicate gene
+wat.HFGTXvsHFVeh.noDup <- wat.HFGTXvsHFVeh.order[!duplicated(wat.HFGTXvsHFVeh.order$external_gene_name),]
+write.table(liver.HFGTXvsHFVeh.noDup, file="../data/processed/GSEA_WAT_HFGTXvsHFVeh_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+
+```
+
+
+Session Information
+---------------------
+
+```{r session-information}
+sessionInfo()
+```
+
