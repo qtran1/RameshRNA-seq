@@ -1,204 +1,151 @@
 Heatmaps for DPSC Analysis
 ========================================================
 
+```{r global_options, include=FALSE}
+knitr::opts_chunk$set(fig.width=12, fig.height=8, fig.path='figures/',
+                      echo=FALSE, warning=FALSE, message=FALSE)
+```
+
 ```{r setup, echo=FALSE}
 input_file <- "../data/processed/rpkm_table.csv"
-autism_genes_file <- '../data/raw/ASD_Candidates.csv'
-region.15q.file <- "../data/raw/15q Duplication Region.txt"
-sample_mapping_file <- '../data/raw/sample_mapping.csv'
-deseq_results_file <- "../data/processed/Neuron DESeq Results.csv"
-deseq_15q_results_file <- '../data/processed/Neuron 15q Duplication DESeq Results.csv'
-deseq_as_results_file <- "../data/processed/Neuron Angelmans DESeq Results.csv"
-deseq_differentiation_file <- "../data/processed/Differentiation DESeq Results.csv"
-deseq_2_disease_file <- "../data/processed/Neuron 15q Duplication vs AS Deletion DESeq Results.csv"
+sample_mapping_file <- "../data/raw/sample_mapping.csv"
+liver_results_file <- "../data/processed/Liver_DESeqResultsProteinCodingOnly.csv"
+wat_results_file <- "../data/processed/WAT_DESeqResultsProteinCodingOnly.csv"
 ```
 
 This file uses the RPKM counts table found in `r input_file` to calcualte a heatmap.  This script was most recently run on `r date()`.
 
 ```{r data-entry, echo=FALSE}
 rpkm.counts <- read.csv(input_file, row.names='X')
-autism.genes <- as.character(read.table(autism_genes_file)$V1)
+names(rpkm.counts) <- sub(".txt", "", names(rpkm.counts))
 
-mapping.data <- read.csv(sample_mapping_file, row.names='Sample.Names')
-mapping.data$Disease <- relevel(mapping.data$Disease, ref="Control")
+mapping.data <- read.csv(sample_mapping_file, row.names='Sample')
 
-ignored.data <- c('Neu_055_Lane2','Neu_076_Lane2')
-filtered.mapping.data <- mapping.data[!(rownames(mapping.data) %in% ignored.data),]
-ordered.mapping.data <- filtered.mapping.data[order(filtered.mapping.data$Cell.Type, filtered.mapping.data$Disease),]
+mapping.data$Diet <- as.factor(mapping.data$Diet)
+mapping.data$Diet <- relevel(mapping.data$Diet, ref="Normal")
+
+mapping.data$Treatment <- ifelse(mapping.data$Treatment=='vehicle', 'vehicle', 'GTX')
+mapping.data$Treatment <- as.factor(mapping.data$Treatment)
+mapping.data$Treatment <- relevel(mapping.data$Treatment, ref="vehicle")
+
+liver.mapping.data <- mapping.data[mapping.data$Tissue=="Liver",]
+wat.mapping.data <- mapping.data[mapping.data$Tissue=="WAT",]
+
+ordered.mapping.data <- mapping.data[order(mapping.data$Tissue, mapping.data$Treatment),]
 
 ordered.rpkm.data <- rpkm.counts[,rownames(ordered.mapping.data)]
+
 ```
 
-Autism Related Candidate Genes
--------------------------------
-
-```{r autism-heatmap, dev=c('png','pdf')}
-library(gplots)
-library(RColorBrewer,quietly=TRUE)
-bars <- brewer.pal(3, "Set1")
-
-color.map <- function(x) if(x=='Control'){
-  bars[1]
-} else {
-  if(x=='AS-Deletion'){
-    bars[2]
-  } else {
-    bars[3]
-  }
-}
-
-diagnosis.colors <- sapply(ordered.mapping.data$Disease, FUN=color.map)
-heatmap.colors <- brewer.pal(11, "BrBG")
-
-autism.df <- ordered.rpkm.data[autism.genes,]
-normalized.autism.df <- sweep(autism.df, 1, rowMeans(autism.df), '/')
-autism.matrix <- as.matrix(normalized.autism.df[complete.cases(normalized.autism.df),])
-heatmap.2(autism.matrix, cexCol=0.5, cexRow=0.5, 
-          main = "Autism Related Genes",
-          ColSideColors=diagnosis.colors, scale="row", density.info="none", dendrogram='row', Colv=F, col=heatmap.colors, trace='none')
-```
 
 Analysis of All Genes Combined
 -------------------------------
 ```{r all-heatmap, dev=c('png','pdf')}
-deseq_results <- read.csv(deseq_results_file, row.names='X')
-sig.genes <- rownames(subset(deseq_results, padj<0.05))
+library(gplots)
+library(RColorBrewer,quietly=TRUE)
+library(Heatplus)
+library(heatmap.plus)
+bars <- brewer.pal(2, "Set1")
+diet.bars <- brewer.pal(2, "Set2")
 
-sig.df <- ordered.rpkm.data[sig.genes,]
-normalized.sig.df <- sweep(sig.df, 1, rowMeans(sig.df), '/')
-sig.matrix <- as.matrix(normalized.sig.df[complete.cases(normalized.sig.df),])
-heatmap.2(sig.matrix, cexCol=0.5, cexRow=0.5, 
+color.map <- function(x) if(x=='vehicle'){ bars[1] } else {
+  if(x=='GTX'){bars[2]} else {
+  if(x=='Normal'){diet.bars[1]} else{
+    diet.bars[2]
+    }
+  }
+}
+
+
+treatment.colors <- as.matrix(sapply(ordered.mapping.data$Treatment, FUN=color.map))
+diet.colors <- as.matrix(sapply(ordered.mapping.data$Diet, FUN=color.map))
+clab <- matrix(nrow=18, ncol=2)
+clab[,1] <- treatment.colors
+clab[,2] <- diet.colors
+
+heatmap.colors <- brewer.pal(11, "BrBG")
+
+
+liver_deseq_results <- read.csv(liver_results_file, row.names='Row.names')
+sig.genes <- rownames(subset(liver_deseq_results, padj.GTXvsVehicle<0.05))
+
+all.sig.df <- ordered.rpkm.data[sig.genes,]
+normalized.sig.all <- sweep(all.sig.df, 1, rowMeans(all.sig.df), '/')
+all.sig.matrix <- as.matrix(normalized.sig.all[complete.cases(normalized.sig.all),])
+plot(regHeatmap(all.sig.matrix, legend=2, col=heat.colors, breaks=-3:3))
+corrdist = function(x) as.dist(1-cor(t(x)))
+hclust.avl = function(x) hclust(x, method="average")
+reg3 <- regHeatmap(all.sig.matrix, legend=2, dendrogram=list(clustfun=hclust.avl, distfun=corrdist), 
+                   col=heatmap.colors, breaks=-4:4)
+map <- annHeatmap(all.sig.matrix, ann=list(Col=list(data=ordered.mapping.data)), col=g2r.colors)
+plot(map)
+
+heatmap.plus(all.sig.matrix, cexCol=0.5, cexRow=0.5, 
           main="Analysis of All Genes Together",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, scale="row", Rowv=F, dendrogram='none', trace='none', density.info="none")
+          ColSideColors=clab, col=heatmap.colors, 
+          Colv=F, Rowv=F, scale='row')
 ```
 
-Analysis of Neuronal Differentiation Signature
+Analysis of GTX in Liver
 ---------------------------------------------------
 
-```{r differentiation, dev=c('png','pdf')}
-deseq_diff_results <- read.csv(deseq_differentiation_file, row.names='X')
-ordered.deseq.diff.results <- deseq_diff_results[order(deseq_diff_results$log2FoldChange),]
-sig.genes.diff <- rownames(subset(ordered.deseq.diff.results, padj<0.05))
+```{r Liver_GTXvsVehicle, dev=c('png','pdf')}
+liver_deseq_results <- read.csv(liver_results_file, row.names='Row.names')
+sig.genes <- rownames(subset(liver_deseq_results, padj.GTXvsVehicle<0.05))
+liver.sig.df <- ordered.rpkm.data[sig.genes,1:9]
 
-sig.diff.df <- ordered.rpkm.data[sig.genes.diff,]
-normalized.sig.diff.df <- sweep(sig.diff.df, 1, rowMeans(sig.diff.df), '/')
-sig.diff.matrix <- as.matrix(normalized.sig.diff.df[complete.cases(normalized.sig.diff.df),])
-heatmap.2(sig.diff.matrix, cexCol=0.5, cexRow=0.5, 
-          main="Neuronal Differentiation Signature",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
+liver.normalized.sig.df <- sweep(liver.sig.df, 1, rowMeans(liver.sig.df), '/')
+sig.matrix <- as.matrix(liver.normalized.sig.df[complete.cases(liver.normalized.sig.df),])
+
+map <- annHeatmap(sig.matrix, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
+plot(map)
 ```
 
-Analysis of 15q Duplication Signature from Neurons
+Analysis of HF diet effect on Liver
 ---------------------------------------------------
 
-```{r all-15q, dev=c('png','pdf')}
-deseq_15q_results <- read.csv(deseq_15q_results_file, row.names='X')
-ordered.deseq.15q.results <- deseq_15q_results[order(deseq_15q_results$log2FoldChange),]
-sig.genes.15q <- rownames(subset(ordered.deseq.15q.results, padj<0.05))
+```{r Liver_HFvsNormal, dev=c('png','pdf')}
+diet.sig.genes <- rownames(subset(liver_deseq_results, padj.HighFatvsNormal<0.05))
+liver.sig.diet <- ordered.rpkm.data[diet.sig.genes,1:9]
 
-sig.15q.df <- ordered.rpkm.data[sig.genes.15q,]
-normalized.sig.15q.df <- sweep(sig.15q.df, 1, rowMeans(sig.15q.df), '/')
-sig.15q.matrix <- as.matrix(normalized.sig.15q.df[complete.cases(normalized.sig.15q.df),])
-heatmap.2(sig.15q.matrix, cexCol=0.5, cexRow=0.5, 
-          main="Neuronal 15q Duplication Signature",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
+liver.normalized.sig.diet <- sweep(liver.sig.diet, 1, rowMeans(liver.sig.diet), '/')
+diet.sig.matrix <- as.matrix(liver.normalized.sig.diet[complete.cases(liver.normalized.sig.diet),])
+
+diet.map <- annHeatmap(diet.sig.matrix, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
+plot(diet.map)
 ```
 
-### Analysis of 15q Duplication Genes Previously Reported to be Autism Associated
-
-```{r autism-15q}
-autism_15q_summary <- rbind(c(length(intersect(rownames(subset(ordered.deseq.15q.results, padj<0.1)), autism.genes)),
-        length(autism.genes)), 
-      c(length(autism.genes),dim(ordered.deseq.15q.results)[1]))
-colnames(autism_15q_summary) <- c('Different','Total')
-rownames(autism_15q_summary) <- c('15q + Autism','15q Only')
-```
-
-There was `r length(sig.genes.15q)` significantly different in neurons from 15q-duplication subjects.  Of these, at an alpha of 0.05, there was `r length(intersect(rownames(subset(ordered.deseq.15q.results, padj<0.05)), autism.genes))` of these genes in the `r length(autism.genes)` autism genes group.  At an alpha of 0.10 there was `r length(intersect(rownames(subset(ordered.deseq.15q.results, padj<0.1)), autism.genes))` genes which were in both groups.  These genes were `r intersect(rownames(subset(ordered.deseq.15q.results, padj<0.1)), autism.genes)`.  The Fisher's exact test that the enrichment of this number of genes is statistically significant is `r round(fisher.test(autism_15q_summary)$p.value,3)`.
-
-### Analysis of 15q Duplication Region
-
-```{r region-15q, dev=c('pdf','png')}
-#this vector is ordered by their physical location
-region.15q.genes <- c('A26B1', 'OR4M2', 'OR4N4', 'TUBGCP5', 'NIPA1', 'CYFIP1', 'NIPA2', 'MKRN3', 'MAGEL2', 'NDN', 'SNURF', 'SNRPN', 'UBE3A', 'ATP10A', 'GABRB3', 'GABRA5', 'GABRG3', 'OCA2', 'HERC2', 'APBA2', 'NDNL2', 'TJP1', 'CHRFAM7A', 'MTMR10', 'TRPM1', 'CHRNA7', 'GREM1')
-
-region.15q.df <- ordered.rpkm.data[region.15q.genes,]
-normalized.region.15q.df <- sweep(region.15q.df, 1, rowMeans(region.15q.df), '/')
-region.15q.matrix <- as.matrix(normalized.region.15q.df[complete.cases(normalized.region.15q.df),])
-heatmap.2(region.15q.matrix, cexCol=0.5, cexRow=0.5, 
-          main="15q Duplication Region Gene Expression",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
-
-averaged.15q.df <- data.frame(
-dpsc.control = rowMeans(region.15q.df[,1:3]),
-dpsc.dup = rowMeans(region.15q.df[,4:6]),
-dpsc.ang = rowMeans(region.15q.df[,7:9]),
-neu.control = rowMeans(region.15q.df[,10:12]),
-neu.dup = rowMeans(region.15q.df[,13:15]),
-neu.ang = rowMeans(region.15q.df[,16:18]))
-averaged.normalized.region.15q.df <- sweep(averaged.15q.df, 1, rowMeans(averaged.15q.df), '/')
-averaged.15q.matrix <- as.matrix(averaged.normalized.region.15q.df[complete.cases(averaged.normalized.region.15q.df),])
-heatmap.2(averaged.15q.matrix, cexCol=0.5, cexRow=0.5, 
-          main="15q Duplication Region Gene Expression \n Averaged Replicates",
-          ColSideColors=c(bars,bars), col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
-
-```
-
-###Chemokine Activity Biological Function
-```{r chemokine, dev=c('pdf','png')}
-#this vector is ordered by their physical location
-chemokine.genes <- c('CCL7', 'CCL11', 'IL8', 'CXCL6', 'CCL8', 'CXCL5', 'CXCL2', 'CXCL16', 'CKLF', 'CXCL3', 'CCL2', 'CCL13', 'CCl1', 'CCL20', 'CCL4', 'CCL26', 'CXCL10', 'XCL2', 'CCL5', 'CCL3', 'CXCL13', 'XCL1', 'PF4', 'CCL21', 'CXCL29', 'CCL27', 'CXCL1', 'CCL16', 'CCL22', 'CXCL12', 'CX3CL1', 'C5', 'CCL28', 'CXCL14')
-
-bars_chem_color=c("#E41A1C", "#E41A1C", "#E41A1C", "#4DAF4A", "#4DAF4A", "#4DAF4A")
-chemokine.df <- ordered.rpkm.data[chemokine.genes,]
-normalized.chemokine.df <- sweep(chemokine.df, 1, rowMeans(chemokine.df), '/')
-normalized.chemokine.neu <- normalized.chemokine.df[,10:15]
-chemokine.matrix <- as.matrix(normalized.chemokine.neu[complete.cases(normalized.chemokine.neu),])
-heatmap.2(chemokine.matrix, cexCol=0.5, cexRow=0.5, 
-          main="Chemokine Gene Expression",
-          ColSideColors=bars_chem_color, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
-```
-
-
-Analysis of AS-Deletion Signature from Neurons
+Analysis of GTX vs vehicle in WAT
 ---------------------------------------------------
 
-```{r all-as-deletion, , dev=c('png','pdf')}
-deseq_as_results <- read.csv(deseq_as_results_file, row.names='X')
-ordered.deseq.as.results <- deseq_as_results[order(deseq_as_results$log2FoldChange),]
-sig.genes.as <- rownames(subset(ordered.deseq.as.results, padj<0.05))
+```{r WAT_GTXvsVehicle, dev=c('png','pdf')}
+wat_deseq_results <- read.csv(wat_results_file, row.names='Row.names')
+wat.sig.genes <- rownames(subset(wat_deseq_results, padj.GTXvsVehicle<0.05))
+wat.sig.df <- ordered.rpkm.data[wat.sig.genes,10:18]
 
-sig.as.df <- ordered.rpkm.data[sig.genes.as,]
-normalized.sig.as.df <- sweep(sig.as.df, 1, rowMeans(sig.as.df), '/')
-sig.as.matrix <- as.matrix(normalized.sig.as.df[complete.cases(normalized.sig.as.df),])
-heatmap.2(sig.as.matrix, cexCol=0.5, cexRow=0.5, 
-          main="Neuronal AS-Deletion Signature",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
+wat.normalized.sig.df <- sweep(wat.sig.df, 1, rowMeans(wat.sig.df), '/')
+wat.sig.matrix <- as.matrix(wat.normalized.sig.df[complete.cases(wat.normalized.sig.df),])
+
+wat.map <- annHeatmap(wat.sig.matrix, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
+plot(wat.map)
 ```
 
-Analysis of AS-Deletion vs 15q Duplication Signature from Neurons
-------------------------------------------------------------------
+Analysis of HF diet in WAT
+---------------------------------------------------
 
-```{r all-2-diseases-deletion, , dev=c('png','pdf')}
-deseq_2_disease_results <- read.csv(deseq_2_disease_file, row.names='X')
-ordered.deseq.2disease.results <- deseq_2_disease_results[order(deseq_2_disease_results$log2FoldChange),]
-sig.genes.2_disease <- rownames(subset(ordered.deseq.2disease.results, padj<0.05))
+```{r WAT_HFvsNormal, dev=c('png','pdf')}
+wat.sig.genes <- rownames(subset(wat_deseq_results, padj.HighFatvsNormal<0.05))
+wat.sig.diet <- ordered.rpkm.data[wat.sig.genes,10:18]
 
-sig.2disease.df <- ordered.rpkm.data[sig.genes.2_disease,]
-normalized.sig.2disease.df <- sweep(sig.2disease.df, 1, rowMeans(sig.2disease.df), '/')
-sig.2disease.matrix <- as.matrix(normalized.sig.2disease.df[complete.cases(normalized.sig.2disease.df),])
-heatmap.2(sig.2disease.matrix, cexCol=0.5, cexRow=0.5, 
-          main="Neuronal AS-Deletion vs 15q Duplication Signature",
-          ColSideColors=diagnosis.colors, col=heatmap.colors,
-          Colv=F, Rowv=F, scale='row', dendrogram='none', trace='none', density.info="none")
+wat.normalized.sig.diet <- sweep(wat.sig.diet, 1, rowMeans(wat.sig.diet), '/')
+wat.sig.diet <- as.matrix(wat.normalized.sig.diet[complete.cases(wat.normalized.sig.diet),])
+
+wat.map <- annHeatmap(wat.sig.diet, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
+plot(wat.map)
 ```
+
+
+
 
 Session Information
 -------------------
