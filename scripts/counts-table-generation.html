@@ -63,7 +63,7 @@ img {
 
 <div id="generating-and-normalizing-the-counts-table" class="section level1">
 <h1>Generating and Normalizing the Counts Table</h1>
-<p>This script takes the htseq-derived counts files in ../data/raw/htseq_counts and converts it into a counts table file named counts_table.csv. This script was most recently run on Tue Jun 9 11:59:11 2015.</p>
+<p>This script takes the htseq-derived counts files in ../data/raw/htseq_counts and converts it into a counts table file named counts_table.csv. This script was most recently run on Tue Jun 9 16:09:11 2015.</p>
 <pre class="r"><code>#function for tacking together files
 tack = function(files,nms) {
   # browser()
@@ -88,16 +88,16 @@ write.csv(counts.table.initial[,1:length(dir(counts_table_folder))+1], file=&quo
 
 counts.table &lt;- counts.table.initial[,1:length(dir(counts_table_folder))+1]
 counts.table['total_reads',] &lt;- colSums(counts.table)
-counts.table['pct_no_feature',] &lt;- counts.table['no_feature',]/counts.table['total_reads',]*100
-counts.table['ambiguous',] &lt;- counts.table['ambiguous ',]/counts.table['total_reads',]*100
-counts.table['pct_not_unique',] &lt;- counts.table['alignment_not_unique',]/counts.table['total_reads',]*100
-counts.table['mapped_reads',] &lt;- counts.table['total_reads',]-counts.table['pct_no_feature',]-counts.table['pct_not_unique',]
+counts.table['pct_not_aligned',] &lt;- counts.table['__not_aligned',]/counts.table['total_reads',]*100
+counts.table['ambiguous',] &lt;- counts.table['__ambiguous',]/counts.table['total_reads',]*100
+counts.table['pct_not_unique',] &lt;- counts.table['__alignment_not_unique',]/counts.table['total_reads',]*100
+counts.table['mapped_reads',] &lt;- counts.table['total_reads',]-counts.table['pct_not_aligned',]-counts.table['pct_not_unique',]
 counts.table[is.na(counts.table)] &lt;- 0</code></pre>
 <div id="counts-table-summary" class="section level2">
 <h2>Counts Table Summary</h2>
 <p>HTSeq output files includes several important diagnostics. These are listed below:</p>
 <!-- html table generated in R 3.1.2 by xtable 1.7-4 package -->
-<!-- Tue Jun  9 11:59:18 2015 -->
+<!-- Tue Jun  9 16:09:19 2015 -->
 <table border="1">
 <tr> <th>  </th> <th> 
 __ambiguous
@@ -110,7 +110,7 @@ __alignment_not_unique
 </th> <th> 
 total_reads
 </th> <th> 
-pct_no_feature
+pct_not_aligned
 </th> <th> 
 ambiguous
 </th> <th> 
@@ -131,13 +131,13 @@ Sample001.txt
 </td> <td align="right"> 
 32470199
 </td> <td align="right"> 
-0
+48
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+32470151
 </td> </tr>
   <tr> <td align="right"> 
 Sample002.txt
@@ -152,13 +152,13 @@ Sample002.txt
 </td> <td align="right"> 
 30516282
 </td> <td align="right"> 
-0
+52
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+30516230
 </td> </tr>
   <tr> <td align="right"> 
 Sample003.txt
@@ -173,13 +173,13 @@ Sample003.txt
 </td> <td align="right"> 
 32874565
 </td> <td align="right"> 
-0
+43
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+32874522
 </td> </tr>
   <tr> <td align="right"> 
 Sample004.txt
@@ -194,13 +194,13 @@ Sample004.txt
 </td> <td align="right"> 
 33564598
 </td> <td align="right"> 
-0
+60
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+33564538
 </td> </tr>
   <tr> <td align="right"> 
 Sample005.txt
@@ -215,13 +215,13 @@ Sample005.txt
 </td> <td align="right"> 
 38819520
 </td> <td align="right"> 
-0
+66
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+38819454
 </td> </tr>
   <tr> <td align="right"> 
 Sample006.txt
@@ -236,13 +236,13 @@ Sample006.txt
 </td> <td align="right"> 
 42961294
 </td> <td align="right"> 
-0
+66
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+42961228
 </td> </tr>
   <tr> <td align="right"> 
 Sample007.txt
@@ -257,13 +257,13 @@ Sample007.txt
 </td> <td align="right"> 
 41374438
 </td> <td align="right"> 
-0
+41
+</td> <td align="right"> 
+3
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+41374397
 </td> </tr>
   <tr> <td align="right"> 
 Sample008.txt
@@ -278,13 +278,13 @@ Sample008.txt
 </td> <td align="right"> 
 31735876
 </td> <td align="right"> 
-0
+49
+</td> <td align="right"> 
+3
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+31735827
 </td> </tr>
   <tr> <td align="right"> 
 Sample009.txt
@@ -299,13 +299,13 @@ Sample009.txt
 </td> <td align="right"> 
 34515291
 </td> <td align="right"> 
-0
+58
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+34515233
 </td> </tr>
   <tr> <td align="right"> 
 Sample010.txt
@@ -320,13 +320,13 @@ Sample010.txt
 </td> <td align="right"> 
 44787906
 </td> <td align="right"> 
-0
+61
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+44787845
 </td> </tr>
   <tr> <td align="right"> 
 Sample011.txt
@@ -341,13 +341,13 @@ Sample011.txt
 </td> <td align="right"> 
 37619537
 </td> <td align="right"> 
-0
+55
+</td> <td align="right"> 
+3
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+37619482
 </td> </tr>
   <tr> <td align="right"> 
 Sample012.txt
@@ -362,13 +362,13 @@ Sample012.txt
 </td> <td align="right"> 
 47676880
 </td> <td align="right"> 
-0
+60
+</td> <td align="right"> 
+3
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+47676820
 </td> </tr>
   <tr> <td align="right"> 
 Sample013.txt
@@ -383,13 +383,13 @@ Sample013.txt
 </td> <td align="right"> 
 42354352
 </td> <td align="right"> 
-0
+58
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+42354294
 </td> </tr>
   <tr> <td align="right"> 
 Sample014.txt
@@ -404,13 +404,13 @@ Sample014.txt
 </td> <td align="right"> 
 40719247
 </td> <td align="right"> 
-0
+55
+</td> <td align="right"> 
+2
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+40719192
 </td> </tr>
   <tr> <td align="right"> 
 Sample015.txt
@@ -425,13 +425,13 @@ Sample015.txt
 </td> <td align="right"> 
 34447201
 </td> <td align="right"> 
-0
+55
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+34447146
 </td> </tr>
   <tr> <td align="right"> 
 Sample016.txt
@@ -446,13 +446,13 @@ Sample016.txt
 </td> <td align="right"> 
 47112634
 </td> <td align="right"> 
-0
+53
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+47112581
 </td> </tr>
   <tr> <td align="right"> 
 Sample017.txt
@@ -467,13 +467,13 @@ Sample017.txt
 </td> <td align="right"> 
 35703680
 </td> <td align="right"> 
-0
+59
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+35703621
 </td> </tr>
   <tr> <td align="right"> 
 Sample018.txt
@@ -488,13 +488,13 @@ Sample018.txt
 </td> <td align="right"> 
 50085023
 </td> <td align="right"> 
-0
+56
+</td> <td align="right"> 
+1
 </td> <td align="right"> 
 0
 </td> <td align="right"> 
-0
-</td> <td align="right"> 
-0
+50084967
 </td> </tr>
    </table>
 
