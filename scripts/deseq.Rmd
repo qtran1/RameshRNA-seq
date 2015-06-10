@@ -1,0 +1,157 @@
+DESeq Analysis
+========================================================
+
+```{r setup}
+input_file <- "../data/processed/counts_table.csv"
+sample_mapping_file <- '../data/raw/sample_mapping.csv'
+```
+
+This file uses the counts table in `r input_file`.  This script was most recently run on `r date()`
+
+```{r data-entry}
+counts.data <- read.csv(input_file, row.names='X')
+names(counts.data) <- sub(".txt", "", names(counts.data))
+mapping.data <- read.csv(sample_mapping_file, row.names='Sample')
+
+mapping.data$Diet <- as.factor(mapping.data$Diet)
+mapping.data$Diet <- relevel(mapping.data$Diet, ref="Normal")
+
+mapping.data$Treatment <- ifelse(mapping.data$Treatment=='vehicle', 'vehicle', 'GTX')
+mapping.data$Treatment <- as.factor(mapping.data$Treatment)
+mapping.data$Treatment <- relevel(mapping.data$Treatment, ref="vehicle")
+
+liver.mapping.data <- mapping.data[mapping.data$Tissue=="Liver",]
+wat.mapping.data <- mapping.data[mapping.data$Tissue=="WAT",]
+
+liver.data <- counts.data[colnames(counts.data)%in%rownames(liver.mapping.data)]
+wat.data <- counts.data[colnames(counts.data)%in%rownames(wat.mapping.data)]
+```
+
+Annotation
+-------------
+
+This step annotates the data tables with the official gene symbols and filter out non-protein coding genes
+
+```{r annotation, echo=FALSE, message=FALSE}
+#required packages
+library(biomaRt,quietly=TRUE)
+
+#download gene name annotation data for results sets.
+ensembl <- useMart("ensembl",dataset = 'mmusculus_gene_ensembl')
+transcriptInfo <- getBM(
+    attributes=c('ensembl_gene_id','external_gene_name'), 
+    values = 'protein_coding',
+    filter = 'biotype',
+    mart=ensembl)
+#merge results files with transcript info files.
+liver.annot.data <- merge(liver.data, transcriptInfo, by.x=0, by.y="ensembl_gene_id")
+rownames(liver.annot.data) <- liver.annot.data[,1]
+liver.annot.data[,1] <- NULL
+wat.annot.data <- merge(wat.data, transcriptInfo, by.x=0, by.y="ensembl_gene_id")
+rownames(wat.annot.data) <- wat.annot.data[,1]
+wat.annot.data[,1] <- NULL
+
+`````
+
+Running DESeq
+---------------
+
+
+Analysis of Liver Tissue
+-----------------------------------------------
+```{r deseq-analysis, dev=c('pdf','png')}
+library(DESeq2)
+#for all comparasons
+liver.dds <- DESeqDataSetFromMatrix(countData = liver.annot.data[,-10],
+  colData = liver.mapping.data,
+  design = ~ Diet+Treatment)
+
+liver.dds <- DESeq(liver.dds,betaPrior=FALSE)
+liver.res <- results(liver.dds)
+liver.res <- liver.res[order(liver.res$padj),]
+
+#make log transformed data for pca analysis
+liver.rld <- rlogTransformation(liver.dds, blind=TRUE)
+plotPCA(liver.rld, intgroup=c("Diet","Treatment"))
+dev.copy2pdf(file="figures/PCA_liver.pdf")
+
+plotMA(liver.res, main="DESeq2 Liver", ylim=c(-2,2))
+dev.copy2pdf(file="figures/MAplot_Liver.pdf")
+
+plotCounts(liver.dds, gene=which.min(liver.res$padj), intgroup="Treatment")
+dev.copy2pdf(file="figures/NormalizedCounts_for_gene_with_smallest_padj.pdf")
+
+sum(liver.res$padj<.05, na.rm=TRUE)
+colData(liver.dds)
+
+#getting the results for diet 
+liver.diet.effect <- results(liver.dds, name="DietHigh.Fat")
+liver.diet.effect <- as.data.frame(liver.diet.effect)
+liver.res <- as.data.frame(liver.res)
+
+sum(liver.diet.effect$padj<0.05, na.rm=TRUE)
+liver.combined <- merge(liver.res, liver.diet.effect, by.x="row.names", by.y="row.names")
+colnames(liver.combined)[2:7]<- gsub("x","GTXvsVehicle", colnames(liver.combined)[2:7])
+colnames(liver.combined)[8:13]<-gsub("y","HighFatvsNormal", colnames(liver.combined[8:13]))
+
+
+head(liver.combined)
+summary(liver.combined)
+
+liver.res.annot <- merge(liver.combined, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
+write.csv(liver.res.annot, "../data/processed/Liver_DESeqResultsProteinCodingOnly.csv")
+```
+
+Analysis of WAT Tissue
+-----------------------------------------------
+```{r differentiation-analysis, dev=c('pdf','png')}
+wat.dds <- DESeqDataSetFromMatrix(countData = wat.annot.data[,-10],
+  colData = wat.mapping.data,
+  design = ~ Diet+Treatment)
+
+wat.dds <- DESeq(wat.dds,betaPrior=FALSE)
+wat.res <- results(wat.dds)
+wat.res <- wat.res[order(wat.res$padj),]
+
+#make log transformed data for pca analysis
+wat.rld <- rlogTransformation(wat.dds, blind=TRUE)
+plotPCA(wat.rld, intgroup=c("Diet","Treatment"))
+dev.copy2pdf(file="figures/PCA_WAT.pdf")
+
+plotMA(wat.res, main="DESeq2 WAT", ylim=c(-2,2))
+dev.copy2pdf(file="figures/MAplot_WAT.pdf")
+
+plotCounts(wat.dds, gene=which.min(wat.res$padj), intgroup="Treatment")
+dev.copy2pdf(file="figures/WAT_NormalizedCounts_for_gene_with_smallest_padj.pdf")
+
+sum(wat.res$padj<.05, na.rm=TRUE)
+colData(wat.dds)
+
+#getting the results for diet 
+wat.diet.effect <- results(wat.dds, name="DietHigh.Fat")
+wat.diet.effect <- as.data.frame(wat.diet.effect)
+wat.res <- as.data.frame(wat.res)
+
+sum(wat.diet.effect$padj<0.05, na.rm=TRUE)
+wat.combined <- merge(wat.res, wat.diet.effect, by.x="row.names", by.y="row.names")
+colnames(wat.combined)[2:7]<- gsub("x","GTXvsVehicle", colnames(wat.combined)[2:7])
+colnames(wat.combined)[8:13]<-gsub("y","HighFatvsNormal", colnames(wat.combined[8:13]))
+
+
+head(wat.combined)
+summary(wat.combined)
+
+wat.res.annot <- merge(wat.combined, transcriptInfo, by.x="Row.names", by.y="ensembl_gene_id")
+write.csv(wat.res.annot, "../data/processed/WAT_DESeqResultsProteinCodingOnly.csv")
+```
+
+
+
+
+
+Session Information
+-------------------
+
+```{r session-info}
+sessionInfo()
+```
