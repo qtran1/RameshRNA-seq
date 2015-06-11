@@ -1,0 +1,27 @@
+User data and parameters: User data: WebGestalt_Liver_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each PPI, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+PPI	Mmusculus_Module_837	DB_ID:837
+C=14;O=6;E=0.76;R=7.91;rawP=5.13e-05;adjP=0.0046
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Ifi30	NA	Ifi30	interferon gamma inducible protein 30	65972	ENSMUSG00000031838
+
+Ctsd	NA	Ctsd	cathepsin D	13033	ENSMUSG00000007891
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Cd74	NA	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	16149	ENSMUSG00000024610
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+
+

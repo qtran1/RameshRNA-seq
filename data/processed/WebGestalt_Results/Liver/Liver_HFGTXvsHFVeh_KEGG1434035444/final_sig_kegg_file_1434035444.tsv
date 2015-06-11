@@ -1,0 +1,2223 @@
+User data and parameters: User data: WebGestalt_Liver_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for the enriched KEGG pathways are listed in this table. For each pathway, the first row lists its KEGG pathway
+name, and corresponding KEGG ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the pathway are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+KEGG pathway	Metabolic pathways	01100
+C=1184;O=121;E=19.62;R=6.17;rawP=4.25e-58;adjP=4.38e-56
+Ido2	NA	Ido2	indoleamine 2,3-dioxygenase 2	209176	ENSMUSG00000031549
+
+Uox	NA	Uox	urate oxidase	22262	ENSMUSG00000028186
+
+Cyp17a1	NA	Cyp17a1	cytochrome P450, family 17, subfamily a, polypeptide 1	13074	ENSMUSG00000003555
+
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Ckb	NA	Ckb	creatine kinase, brain	12709	ENSMUSG00000001270
+
+Upp2	NA	Upp2	uridine phosphorylase 2	76654	ENSMUSG00000026839
+
+Fah	NA	Fah	fumarylacetoacetate hydrolase	14085	ENSMUSG00000030630
+
+Chpt1	NA	Chpt1	choline phosphotransferase 1	212862	ENSMUSG00000060002
+
+Acy1	NA	Acy1	aminoacylase 1	109652	ENSMUSG00000023262
+
+Aass	NA	Aass	aminoadipate-semialdehyde synthase	30956	ENSMUSG00000029695
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Cat	NA	Cat	catalase	12359	ENSMUSG00000027187
+
+Aco1	NA	Aco1	aconitase 1	11428	ENSMUSG00000028405
+
+Dpm3	NA	Dpm3	dolichyl-phosphate mannosyltransferase polypeptide 3	68563	ENSMUSG00000042737
+
+Scp2	NA	Scp2	sterol carrier protein 2, liver	20280	ENSMUSG00000028603
+
+Afmid	NA	Afmid	arylformamidase	71562	ENSMUSG00000017718
+
+Cyp2j5	NA	Cyp2j5	cytochrome P450, family 2, subfamily j, polypeptide 5	13109	ENSMUSG00000052520
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Dpm2	NA	Dpm2	dolichol-phosphate (beta-D) mannosyltransferase 2	13481	ENSMUSG00000026810
+
+Tat	NA	Tat	tyrosine aminotransferase	234724	ENSMUSG00000001670
+
+Hadhb	NA	Hadhb	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	231086	ENSMUSG00000059447
+
+Atp5a1	NA	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1	11946	ENSMUSG00000025428
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Alas1	NA	Alas1	aminolevulinic acid synthase 1	11655	ENSMUSG00000032786
+
+Tymp	NA	Tymp	thymidine phosphorylase	72962	ENSMUSG00000022615
+
+Ugp2	NA	Ugp2	UDP-glucose pyrophosphorylase 2	216558	ENSMUSG00000001891
+
+Ndufa11	NA	Ndufa11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	69875	ENSMUSG00000002379
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+Sephs1	NA	Sephs1	selenophosphate synthetase 1	109079	ENSMUSG00000026662
+
+Atp6v0b	NA	Atp6v0b	ATPase, H+ transporting, lysosomal V0 subunit B	114143	ENSMUSG00000033379
+
+Cyp4f15	NA	Cyp4f15	cytochrome P450, family 4, subfamily f, polypeptide 15	106648	ENSMUSG00000073424
+
+Qprt	NA	Qprt	quinolinate phosphoribosyltransferase	67375	ENSMUSG00000030674
+
+Cox5a	NA	Cox5a	cytochrome c oxidase, subunit Va	12858	ENSMUSG00000000088
+
+Cda	NA	Cda	cytidine deaminase	72269	ENSMUSG00000028755
+
+Cth	NA	Cth	cystathionase (cystathionine gamma-lyase)	107869	ENSMUSG00000028179
+
+Nnt	NA	Nnt	nicotinamide nucleotide transhydrogenase	18115	NULL
+
+Abat	NA	Abat	4-aminobutyrate aminotransferase	268860	ENSMUSG00000057880
+
+Ces1d	NA	Ces1d	carboxylesterase 1D	104158	ENSMUSG00000056973
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Chka	NA	Chka	choline kinase alpha	12660	ENSMUSG00000024843
+
+Isyna1	NA	Isyna1	myo-inositol 1-phosphate synthase A1	71780	ENSMUSG00000019139
+
+Cyp2j6	NA	Cyp2j6	cytochrome P450, family 2, subfamily j, polypeptide 6	13110	ENSMUSG00000052914
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Ptgis	NA	Ptgis	prostaglandin I2 (prostacyclin) synthase	19223	ENSMUSG00000017969
+
+Dad1	NA	Dad1	defender against cell death 1	13135	ENSMUSG00000022174
+
+Aldh1a7	NA	Aldh1a7	aldehyde dehydrogenase family 1, subfamily A7	26358	ENSMUSG00000024747
+
+Oat	NA	Oat	ornithine aminotransferase	18242	ENSMUSG00000030934
+
+Ephx2	NA	Ephx2	epoxide hydrolase 2, cytoplasmic	13850	ENSMUSG00000022040
+
+Atp5g1	NA	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9)	11951	ENSMUSG00000006057
+
+Ggt6	NA	Ggt6	gamma-glutamyltransferase 6	71522	ENSMUSG00000040471
+
+Aprt	NA	Aprt	adenine phosphoribosyl transferase	11821	ENSMUSG00000006589
+
+Mut	NA	Mut	methylmalonyl-Coenzyme A mutase	17850	ENSMUSG00000023921
+
+Atp5c1	NA	Atp5c1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	11949	ENSMUSG00000025781
+
+Cyp2b9	NA	Cyp2b9	cytochrome P450, family 2, subfamily b, polypeptide 9	13094	ENSMUSG00000040660
+
+Gmppb	NA	Gmppb	GDP-mannose pyrophosphorylase B	331026	ENSMUSG00000070284
+
+Dpyd	NA	Dpyd	dihydropyrimidine dehydrogenase	99586	ENSMUSG00000033308
+
+Cox17	NA	Cox17	cytochrome c oxidase, subunit XVII assembly protein homolog (yeast)	12856	ENSMUSG00000046516
+
+Hsd17b4	NA	Hsd17b4	hydroxysteroid (17-beta) dehydrogenase 4	15488	ENSMUSG00000024507
+
+Acadvl	NA	Acadvl	acyl-Coenzyme A dehydrogenase, very long chain	11370	ENSMUSG00000018574
+
+Polr2b	NA	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	231329	ENSMUSG00000029250
+
+Mthfd1	NA	Mthfd1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent), methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthase	108156	ENSMUSG00000021048
+
+Polr3a	NA	Polr3a	polymerase (RNA) III (DNA directed) polypeptide A	218832	ENSMUSG00000025280
+
+B4galnt1	NA	B4galnt1	beta-1,4-N-acetyl-galactosaminyl transferase 1	14421	ENSMUSG00000006731
+
+Nags	NA	Nags	N-acetylglutamate synthase	217214	ENSMUSG00000048217
+
+Ndufs1	NA	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	227197	ENSMUSG00000025968
+
+Gclc	NA	Gclc	glutamate-cysteine ligase, catalytic subunit	14629	ENSMUSG00000032350
+
+Polr1d	NA	Polr1d	polymerase (RNA) I polypeptide D	20018	ENSMUSG00000029642
+
+Gcdh	NA	Gcdh	glutaryl-Coenzyme A dehydrogenase	270076	ENSMUSG00000003809
+
+Bpnt1	NA	Bpnt1	bisphosphate 3'-nucleotidase 1	23827	ENSMUSG00000026617
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Aox1	NA	Aox1	aldehyde oxidase 1	11761	ENSMUSG00000063558
+
+Enpp3	NA	Enpp3	ectonucleotide pyrophosphatase/phosphodiesterase 3	209558	ENSMUSG00000019989
+
+Srm	NA	Srm	spermidine synthase	20810	ENSMUSG00000006442
+
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Aldh6a1	NA	Aldh6a1	aldehyde dehydrogenase family 6, subfamily A1	104776	ENSMUSG00000021238
+
+Mccc1	NA	Mccc1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)	72039	ENSMUSG00000027709
+
+Akr1d1	NA	Akr1d1	aldo-keto reductase family 1, member D1	208665	ENSMUSG00000038641
+
+Hsd17b2	NA	Hsd17b2	hydroxysteroid (17-beta) dehydrogenase 2	15486	ENSMUSG00000031844
+
+Rpia	NA	Rpia	ribose 5-phosphate isomerase A	19895	ENSMUSG00000053604
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Pkm	NA	Pkm	pyruvate kinase, muscle	18746	ENSMUSG00000032294
+
+Tpi1	NA	Tpi1	triosephosphate isomerase 1	21991	ENSMUSG00000023456
+
+Pigyl	NA	Pigyl	phosphatidylinositol glycan anchor biosynthesis, class Y-like	66268	ENSMUSG00000010607
+
+Cpox	NA	Cpox	coproporphyrinogen oxidase	12892	ENSMUSG00000022742
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Csad	NA	Csad	cysteine sulfinic acid decarboxylase	246277	ENSMUSG00000023044
+
+Gbe1	NA	Gbe1	glucan (1,4-alpha-), branching enzyme 1	74185	ENSMUSG00000022707
+
+Itpk1	NA	Itpk1	inositol 1,3,4-triphosphate 5/6 kinase	217837	ENSMUSG00000057963
+
+Lta4h	NA	Lta4h	leukotriene A4 hydrolase	16993	ENSMUSG00000015889
+
+Amy1	NA	Amy1	amylase 1, salivary	11722	ENSMUSG00000074264
+
+Cyp2u1	NA	Cyp2u1	cytochrome P450, family 2, subfamily u, polypeptide 1	71519	ENSMUSG00000027983
+
+Acmsd	NA	Acmsd	amino carboxymuconate semialdehyde decarboxylase	266645	ENSMUSG00000026348
+
+Papss2	NA	Papss2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	23972	ENSMUSG00000024899
+
+Acsm3	NA	Acsm3	acyl-CoA synthetase medium-chain family member 3	20216	ENSMUSG00000030935
+
+Chkb	NA	Chkb	choline kinase beta	12651	ENSMUSG00000022617
+
+Dgkq	NA	Dgkq	diacylglycerol kinase, theta	110524	ENSMUSG00000004815
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Acox1	NA	Acox1	acyl-Coenzyme A oxidase 1, palmitoyl	11430	ENSMUSG00000020777
+
+Dpys	NA	Dpys	dihydropyrimidinase	64705	ENSMUSG00000022304
+
+Dgat1	NA	Dgat1	diacylglycerol O-acyltransferase 1	13350	ENSMUSG00000022555
+
+Ndufc2	NA	Ndufc2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2	68197	ENSMUSG00000030647
+
+Nme6	NA	Nme6	NME/NM23 nucleoside diphosphate kinase 6	54369	ENSMUSG00000032478
+
+Atp6v1h	NA	Atp6v1h	ATPase, H+ transporting, lysosomal V1 subunit H	108664	ENSMUSG00000033793
+
+Aldh5a1	NA	Aldh5a1	aldhehyde dehydrogenase family 5, subfamily A1	214579	ENSMUSG00000035936
+
+Acsl1	NA	Acsl1	acyl-CoA synthetase long-chain family member 1	14081	ENSMUSG00000018796
+
+Bckdhb	NA	Bckdhb	branched chain ketoacid dehydrogenase E1, beta polypeptide	12040	ENSMUSG00000032263
+
+Ndufs3	NA	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	68349	ENSMUSG00000005510
+
+Mdh1	NA	Mdh1	malate dehydrogenase 1, NAD (soluble)	17449	ENSMUSG00000020321
+
+Cbr1	NA	Cbr1	carbonyl reductase 1	12408	ENSMUSG00000051483
+
+Anpep	NA	Anpep	alanyl (membrane) aminopeptidase	16790	ENSMUSG00000039062
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Cyp2a5	NA	Cyp2a5	cytochrome P450, family 2, subfamily a, polypeptide 5	13087	ENSMUSG00000005547
+
+B3galt1	NA	B3galt1	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 1	26877	ENSMUSG00000034780
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+Gapdh	NA	Gapdh	glyceraldehyde-3-phosphate dehydrogenase	14433	ENSMUSG00000057666
+
+Acss3	NA	Acss3	acyl-CoA synthetase short-chain family member 3	380660	ENSMUSG00000035948
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Nadsyn1	NA	Nadsyn1	NAD synthetase 1	78914	ENSMUSG00000031090
+
+Pipox	NA	Pipox	pipecolic acid oxidase	19193	ENSMUSG00000017453
+
+Ptgds	NA	Ptgds	prostaglandin D2 synthase (brain)	19215	ENSMUSG00000015090
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Phagosome	04145
+C=176;O=29;E=2.92;R=9.94;rawP=1.97e-20;adjP=1.01e-18
+Sftpa1	NA	Sftpa1	surfactant associated protein A1	20387	ENSMUSG00000021789
+
+Mbl2	NA	Mbl2	mannose-binding lectin (protein C) 2	17195	ENSMUSG00000024863
+
+Marco	NA	Marco	macrophage receptor with collagenous structure	17167	ENSMUSG00000026390
+
+Mrc1	NA	Mrc1	mannose receptor, C type 1	17533	ENSMUSG00000026712
+
+Cd14	NA	Cd14	CD14 antigen	12475	ENSMUSG00000051439
+
+Colec11	NA	Colec11	collectin sub-family member 11	71693	ENSMUSG00000036655
+
+Cyba	NA	Cyba	cytochrome b-245, alpha polypeptide	13057	ENSMUSG00000006519
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Tuba1c	NA	Tuba1c	tubulin, alpha 1C	22146	ENSMUSG00000043091
+
+Atp6v1h	NA	Atp6v1h	ATPase, H+ transporting, lysosomal V1 subunit H	108664	ENSMUSG00000033793
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Tubb2a	NA	Tubb2a	tubulin, beta 2A class IIA	22151	ENSMUSG00000058672
+
+Cybb	NA	Cybb	cytochrome b-245, beta polypeptide	13058	ENSMUSG00000015340
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+Itga5	NA	Itga5	integrin alpha 5 (fibronectin receptor alpha)	16402	ENSMUSG00000000555
+
+Lamp2	NA	Lamp2	lysosomal-associated membrane protein 2	16784	ENSMUSG00000016534
+
+Ncf4	NA	Ncf4	neutrophil cytosolic factor 4	17972	ENSMUSG00000071715
+
+Tfrc	NA	Tfrc	transferrin receptor	22042	ENSMUSG00000022797
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+Msr1	NA	Msr1	macrophage scavenger receptor 1	20288	ENSMUSG00000025044
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+Mbl1	NA	Mbl1	mannose-binding lectin (protein A) 1	17194	ENSMUSG00000037780
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Tubb5	NA	Tubb5	tubulin, beta 5 class I	22154	ENSMUSG00000001525
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+Tuba1b	NA	Tuba1b	tubulin, alpha 1B	22143	ENSMUSG00000023004
+
+Atp6v0b	NA	Atp6v0b	ATPase, H+ transporting, lysosomal V0 subunit B	114143	ENSMUSG00000033379
+
+
+KEGG pathway	Staphylococcus aureus infection	05150
+C=50;O=16;E=0.83;R=19.31;rawP=8.34e-17;adjP=2.86e-15
+Mbl2	NA	Mbl2	mannose-binding lectin (protein C) 2	17195	ENSMUSG00000024863
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+C1qc	NA	C1qc	complement component 1, q subcomponent, C chain	12262	ENSMUSG00000036896
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+Fpr2	NA	Fpr2	formyl peptide receptor 2	14289	ENSMUSG00000052270
+
+C1qa	NA	C1qa	complement component 1, q subcomponent, alpha polypeptide	12259	ENSMUSG00000036887
+
+Fpr1	NA	Fpr1	formyl peptide receptor 1	14293	ENSMUSG00000045551
+
+C1qb	NA	C1qb	complement component 1, q subcomponent, beta polypeptide	12260	ENSMUSG00000036905
+
+C4b	NA	C4b	complement component 4B (Chido blood group)	12268	ENSMUSG00000073418
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+Mbl1	NA	Mbl1	mannose-binding lectin (protein A) 1	17194	ENSMUSG00000037780
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Drug metabolism - cytochrome P450	00982
+C=87;O=19;E=1.44;R=13.18;rawP=3.00e-16;adjP=7.72e-15
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Cyp2d9	NA	Cyp2d9	cytochrome P450, family 2, subfamily d, polypeptide 9	13105	ENSMUSG00000068086
+
+Gstm7	NA	Gstm7	glutathione S-transferase, mu 7	68312	ENSMUSG00000004035
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Aox1	NA	Aox1	aldehyde oxidase 1	11761	ENSMUSG00000063558
+
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Gstm3	NA	Gstm3	glutathione S-transferase, mu 3	14864	ENSMUSG00000004038
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cyp2a5	NA	Cyp2a5	cytochrome P450, family 2, subfamily a, polypeptide 5	13087	ENSMUSG00000005547
+
+Gsta3	NA	Gsta3	glutathione S-transferase, alpha 3	14859	ENSMUSG00000025934
+
+Cyp2b9	NA	Cyp2b9	cytochrome P450, family 2, subfamily b, polypeptide 9	13094	ENSMUSG00000040660
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Gstm1	NA	Gstm1	glutathione S-transferase, mu 1	14862	ENSMUSG00000058135
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Drug metabolism - other enzymes	00983
+C=59;O=16;E=0.98;R=16.36;rawP=1.62e-15;adjP=3.34e-14
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Cda	NA	Cda	cytidine deaminase	72269	ENSMUSG00000028755
+
+Dpys	NA	Dpys	dihydropyrimidinase	64705	ENSMUSG00000022304
+
+Ces1d	NA	Ces1d	carboxylesterase 1D	104158	ENSMUSG00000056973
+
+Upp2	NA	Upp2	uridine phosphorylase 2	76654	ENSMUSG00000026839
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Ces1c	NA	Ces1c	carboxylesterase 1C	13884	ENSMUSG00000057400
+
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cyp2a5	NA	Cyp2a5	cytochrome P450, family 2, subfamily a, polypeptide 5	13087	ENSMUSG00000005547
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Dpyd	NA	Dpyd	dihydropyrimidine dehydrogenase	99586	ENSMUSG00000033308
+
+Tymp	NA	Tymp	thymidine phosphorylase	72962	ENSMUSG00000022615
+
+Ces2e	NA	Ces2e	carboxylesterase 2E	234673	ENSMUSG00000031886
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Metabolism of xenobiotics by cytochrome P450	00980
+C=77;O=16;E=1.28;R=12.54;rawP=1.53e-13;adjP=2.63e-12
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Gstm3	NA	Gstm3	glutathione S-transferase, mu 3	14864	ENSMUSG00000004038
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Gsta3	NA	Gsta3	glutathione S-transferase, alpha 3	14859	ENSMUSG00000025934
+
+Cyp2b9	NA	Cyp2b9	cytochrome P450, family 2, subfamily b, polypeptide 9	13094	ENSMUSG00000040660
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Gstm7	NA	Gstm7	glutathione S-transferase, mu 7	68312	ENSMUSG00000004035
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Gstm1	NA	Gstm1	glutathione S-transferase, mu 1	14862	ENSMUSG00000058135
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Retinol metabolism	00830
+C=77;O=15;E=1.28;R=11.75;rawP=2.38e-12;adjP=3.50e-11
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Cyp2a5	NA	Cyp2a5	cytochrome P450, family 2, subfamily a, polypeptide 5	13087	ENSMUSG00000005547
+
+Dgat1	NA	Dgat1	diacylglycerol O-acyltransferase 1	13350	ENSMUSG00000022555
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Cyp2b9	NA	Cyp2b9	cytochrome P450, family 2, subfamily b, polypeptide 9	13094	ENSMUSG00000040660
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Aldh1a7	NA	Aldh1a7	aldehyde dehydrogenase family 1, subfamily A7	26358	ENSMUSG00000024747
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Arachidonic acid metabolism	00590
+C=90;O=15;E=1.49;R=10.06;rawP=2.54e-11;adjP=3.27e-10
+Cyp4f15	NA	Cyp4f15	cytochrome P450, family 4, subfamily f, polypeptide 15	106648	ENSMUSG00000073424
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Ggt6	NA	Ggt6	gamma-glutamyltransferase 6	71522	ENSMUSG00000040471
+
+Cyp2b9	NA	Cyp2b9	cytochrome P450, family 2, subfamily b, polypeptide 9	13094	ENSMUSG00000040660
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Cyp2j6	NA	Cyp2j6	cytochrome P450, family 2, subfamily j, polypeptide 6	13110	ENSMUSG00000052914
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Ptgis	NA	Ptgis	prostaglandin I2 (prostacyclin) synthase	19223	ENSMUSG00000017969
+
+Lta4h	NA	Lta4h	leukotriene A4 hydrolase	16993	ENSMUSG00000015889
+
+Ptgds	NA	Ptgds	prostaglandin D2 synthase (brain)	19215	ENSMUSG00000015090
+
+Ephx2	NA	Ephx2	epoxide hydrolase 2, cytoplasmic	13850	ENSMUSG00000022040
+
+Cyp2u1	NA	Cyp2u1	cytochrome P450, family 2, subfamily u, polypeptide 1	71519	ENSMUSG00000027983
+
+Cbr1	NA	Cbr1	carbonyl reductase 1	12408	ENSMUSG00000051483
+
+Cyp2j5	NA	Cyp2j5	cytochrome P450, family 2, subfamily j, polypeptide 5	13109	ENSMUSG00000052520
+
+
+KEGG pathway	Complement and coagulation cascades	04610
+C=76;O=13;E=1.26;R=10.32;rawP=3.84e-10;adjP=4.39e-09
+Serpina1e	NA	Serpina1e	serine (or cysteine) peptidase inhibitor, clade A, member 1E	20704	ENSMUSG00000072849
+
+Mbl2	NA	Mbl2	mannose-binding lectin (protein C) 2	17195	ENSMUSG00000024863
+
+C1qb	NA	C1qb	complement component 1, q subcomponent, beta polypeptide	12260	ENSMUSG00000036905
+
+Serpina5	NA	Serpina5	serine (or cysteine) peptidase inhibitor, clade A, member 5	268591	ENSMUSG00000041550
+
+C4b	NA	C4b	complement component 4B (Chido blood group)	12268	ENSMUSG00000073418
+
+Cd55	NA	Cd55	CD55 antigen	13136	ENSMUSG00000026399
+
+C8b	NA	C8b	complement component 8, beta polypeptide	110382	ENSMUSG00000029656
+
+Mbl1	NA	Mbl1	mannose-binding lectin (protein A) 1	17194	ENSMUSG00000037780
+
+Serpina1c	NA	Serpina1c	serine (or cysteine) peptidase inhibitor, clade A, member 1C	20702	ENSMUSG00000079015
+
+C1qc	NA	C1qc	complement component 1, q subcomponent, C chain	12262	ENSMUSG00000036896
+
+F5	NA	F5	coagulation factor V	14067	ENSMUSG00000026579
+
+F13b	NA	F13b	coagulation factor XIII, beta subunit	14060	ENSMUSG00000026368
+
+C1qa	NA	C1qa	complement component 1, q subcomponent, alpha polypeptide	12259	ENSMUSG00000036887
+
+
+KEGG pathway	Osteoclast differentiation	04380
+C=118;O=15;E=1.96;R=7.67;rawP=1.30e-09;adjP=1.34e-08
+Junb	NA	Junb	Jun-B oncogene	16477	ENSMUSG00000052837
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Sirpa	NA	Sirpa	signal-regulatory protein alpha	19261	ENSMUSG00000037902
+
+Ncf4	NA	Ncf4	neutrophil cytosolic factor 4	17972	ENSMUSG00000071715
+
+Cyba	NA	Cyba	cytochrome b-245, alpha polypeptide	13057	ENSMUSG00000006519
+
+Csf1	NA	Csf1	colony stimulating factor 1 (macrophage)	12977	ENSMUSG00000014599
+
+Tyrobp	NA	Tyrobp	TYRO protein tyrosine kinase binding protein	22177	ENSMUSG00000030579
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+Csf1r	NA	Csf1r	colony stimulating factor 1 receptor	12978	ENSMUSG00000024621
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Cybb	NA	Cybb	cytochrome b-245, beta polypeptide	13058	ENSMUSG00000015340
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+
+KEGG pathway	Steroid hormone biosynthesis	00140
+C=55;O=11;E=0.91;R=12.07;rawP=1.51e-09;adjP=1.41e-08
+Srd5a1	NA	Srd5a1	steroid 5 alpha-reductase 1	78925	ENSMUSG00000021594
+
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cyp17a1	NA	Cyp17a1	cytochrome P450, family 17, subfamily a, polypeptide 1	13074	ENSMUSG00000003555
+
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Akr1d1	NA	Akr1d1	aldo-keto reductase family 1, member D1	208665	ENSMUSG00000038641
+
+Hsd17b2	NA	Hsd17b2	hydroxysteroid (17-beta) dehydrogenase 2	15486	ENSMUSG00000031844
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Leukocyte transendothelial migration	04670
+C=120;O=15;E=1.99;R=7.54;rawP=1.65e-09;adjP=1.42e-08
+Vcl	NA	Vcl	vinculin	22330	ENSMUSG00000021823
+
+Ezr	NA	Ezr	ezrin	22350	ENSMUSG00000052397
+
+Cdh5	NA	Cdh5	cadherin 5	12562	ENSMUSG00000031871
+
+Cldn3	NA	Cldn3	claudin 3	12739	ENSMUSG00000070473
+
+Ncf4	NA	Ncf4	neutrophil cytosolic factor 4	17972	ENSMUSG00000071715
+
+Cyba	NA	Cyba	cytochrome b-245, alpha polypeptide	13057	ENSMUSG00000006519
+
+Vcam1	NA	Vcam1	vascular cell adhesion molecule 1	22329	ENSMUSG00000027962
+
+Rapgef4	NA	Rapgef4	Rap guanine nucleotide exchange factor (GEF) 4	56508	ENSMUSG00000049044
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Cxcl12	NA	Cxcl12	chemokine (C-X-C motif) ligand 12	20315	ENSMUSG00000061353
+
+Cybb	NA	Cybb	cytochrome b-245, beta polypeptide	13058	ENSMUSG00000015340
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Cldn5	NA	Cldn5	claudin 5	12741	ENSMUSG00000041378
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Starch and sucrose metabolism	00500
+C=45;O=10;E=0.75;R=13.41;rawP=2.82e-09;adjP=2.23e-08
+Gys2	NA	Gys2	glycogen synthase 2	232493	ENSMUSG00000030244
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Ugp2	NA	Ugp2	UDP-glucose pyrophosphorylase 2	216558	ENSMUSG00000001891
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Gbe1	NA	Gbe1	glucan (1,4-alpha-), branching enzyme 1	74185	ENSMUSG00000022707
+
+Amy1	NA	Amy1	amylase 1, salivary	11722	ENSMUSG00000074264
+
+Enpp3	NA	Enpp3	ectonucleotide pyrophosphatase/phosphodiesterase 3	209558	ENSMUSG00000019989
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Ascorbate and aldarate metabolism	00053
+C=25;O=8;E=0.41;R=19.31;rawP=4.66e-09;adjP=3.43e-08
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Valine, leucine and isoleucine degradation	00280
+C=50;O=10;E=0.83;R=12.07;rawP=8.42e-09;adjP=4.93e-08
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Aldh6a1	NA	Aldh6a1	aldehyde dehydrogenase family 6, subfamily A1	104776	ENSMUSG00000021238
+
+Mccc1	NA	Mccc1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)	72039	ENSMUSG00000027709
+
+Abat	NA	Abat	4-aminobutyrate aminotransferase	268860	ENSMUSG00000057880
+
+Mut	NA	Mut	methylmalonyl-Coenzyme A mutase	17850	ENSMUSG00000023921
+
+Hadhb	NA	Hadhb	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	231086	ENSMUSG00000059447
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Bckdhb	NA	Bckdhb	branched chain ketoacid dehydrogenase E1, beta polypeptide	12040	ENSMUSG00000032263
+
+Aox1	NA	Aox1	aldehyde oxidase 1	11761	ENSMUSG00000063558
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Peroxisome	04146
+C=80;O=12;E=1.33;R=9.05;rawP=8.61e-09;adjP=4.93e-08
+Pex1	NA	Pex1	peroxisomal biogenesis factor 1	71382	ENSMUSG00000005907
+
+Decr2	NA	Decr2	2-4-dienoyl-Coenzyme A reductase 2, peroxisomal	26378	ENSMUSG00000036775
+
+Acox1	NA	Acox1	acyl-Coenzyme A oxidase 1, palmitoyl	11430	ENSMUSG00000020777
+
+Nudt12	NA	Nudt12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	67993	ENSMUSG00000024228
+
+Slc27a2	NA	Slc27a2	solute carrier family 27 (fatty acid transporter), member 2	26458	ENSMUSG00000027359
+
+Acsl1	NA	Acsl1	acyl-CoA synthetase long-chain family member 1	14081	ENSMUSG00000018796
+
+Cat	NA	Cat	catalase	12359	ENSMUSG00000027187
+
+Hsd17b4	NA	Hsd17b4	hydroxysteroid (17-beta) dehydrogenase 4	15488	ENSMUSG00000024507
+
+Pipox	NA	Pipox	pipecolic acid oxidase	19193	ENSMUSG00000017453
+
+Ephx2	NA	Ephx2	epoxide hydrolase 2, cytoplasmic	13850	ENSMUSG00000022040
+
+Scp2	NA	Scp2	sterol carrier protein 2, liver	20280	ENSMUSG00000028603
+
+Pex26	NA	Pex26	peroxisomal biogenesis factor 26	74043	ENSMUSG00000067825
+
+
+KEGG pathway	PPAR signaling pathway	03320
+C=80;O=12;E=1.33;R=9.05;rawP=8.61e-09;adjP=4.93e-08
+Fabp5	NA	Fabp5	fatty acid binding protein 5, epidermal	16592	ENSMUSG00000027533
+
+Apoa1	NA	Apoa1	apolipoprotein A-I	11806	ENSMUSG00000032083
+
+Sorbs1	NA	Sorbs1	sorbin and SH3 domain containing 1	20411	ENSMUSG00000025006
+
+Lpl	NA	Lpl	lipoprotein lipase	16956	ENSMUSG00000015568
+
+Acox1	NA	Acox1	acyl-Coenzyme A oxidase 1, palmitoyl	11430	ENSMUSG00000020777
+
+Apoa5	NA	Apoa5	apolipoprotein A-V	66113	ENSMUSG00000032079
+
+Apoa2	NA	Apoa2	apolipoprotein A-II	11807	ENSMUSG00000005681
+
+Slc27a2	NA	Slc27a2	solute carrier family 27 (fatty acid transporter), member 2	26458	ENSMUSG00000027359
+
+Acsl1	NA	Acsl1	acyl-CoA synthetase long-chain family member 1	14081	ENSMUSG00000018796
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Apoc3	NA	Apoc3	apolipoprotein C-III	11814	ENSMUSG00000032081
+
+Scp2	NA	Scp2	sterol carrier protein 2, liver	20280	ENSMUSG00000028603
+
+
+KEGG pathway	Leishmaniasis	05140
+C=64;O=11;E=1.06;R=10.37;rawP=8.18e-09;adjP=4.93e-08
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Ncf4	NA	Ncf4	neutrophil cytosolic factor 4	17972	ENSMUSG00000071715
+
+Cyba	NA	Cyba	cytochrome b-245, alpha polypeptide	13057	ENSMUSG00000006519
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+
+KEGG pathway	Glutathione metabolism	00480
+C=54;O=10;E=0.90;R=11.17;rawP=1.85e-08;adjP=1.00e-07
+Srm	NA	Srm	spermidine synthase	20810	ENSMUSG00000006442
+
+Gstm3	NA	Gstm3	glutathione S-transferase, mu 3	14864	ENSMUSG00000004038
+
+Ggt6	NA	Ggt6	gamma-glutamyltransferase 6	71522	ENSMUSG00000040471
+
+Gsta3	NA	Gsta3	glutathione S-transferase, alpha 3	14859	ENSMUSG00000025934
+
+Oplah	NA	Oplah	5-oxoprolinase (ATP-hydrolysing)	75475	ENSMUSG00000022562
+
+Gstm7	NA	Gstm7	glutathione S-transferase, mu 7	68312	ENSMUSG00000004035
+
+Gstm1	NA	Gstm1	glutathione S-transferase, mu 1	14862	ENSMUSG00000058135
+
+Gpx4	NA	Gpx4	glutathione peroxidase 4	625249	ENSMUSG00000075706
+
+Gclc	NA	Gclc	glutamate-cysteine ligase, catalytic subunit	14629	ENSMUSG00000032350
+
+Anpep	NA	Anpep	alanyl (membrane) aminopeptidase	16790	ENSMUSG00000039062
+
+
+KEGG pathway	Pentose and glucuronate interconversions	00040
+C=31;O=8;E=0.51;R=15.57;rawP=3.11e-08;adjP=1.53e-07
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugp2	NA	Ugp2	UDP-glucose pyrophosphorylase 2	216558	ENSMUSG00000001891
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Pyruvate metabolism	00620
+C=43;O=9;E=0.71;R=12.63;rawP=3.10e-08;adjP=1.53e-07
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Acot12	NA	Acot12	acyl-CoA thioesterase 12	74156	ENSMUSG00000021620
+
+Hagh	NA	Hagh	hydroxyacyl glutathione hydrolase	14651	ENSMUSG00000024158
+
+Pkm	NA	Pkm	pyruvate kinase, muscle	18746	ENSMUSG00000032294
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Me2	NA	Me2	malic enzyme 2, NAD(+)-dependent, mitochondrial	107029	ENSMUSG00000024556
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+Mdh1	NA	Mdh1	malate dehydrogenase 1, NAD (soluble)	17449	ENSMUSG00000020321
+
+
+KEGG pathway	Tryptophan metabolism	00380
+C=45;O=9;E=0.75;R=12.07;rawP=4.72e-08;adjP=2.21e-07
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Ido2	NA	Ido2	indoleamine 2,3-dioxygenase 2	209176	ENSMUSG00000031549
+
+Gcdh	NA	Gcdh	glutaryl-Coenzyme A dehydrogenase	270076	ENSMUSG00000003809
+
+Cat	NA	Cat	catalase	12359	ENSMUSG00000027187
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Aox1	NA	Aox1	aldehyde oxidase 1	11761	ENSMUSG00000063558
+
+Afmid	NA	Afmid	arylformamidase	71562	ENSMUSG00000017718
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+Acmsd	NA	Acmsd	amino carboxymuconate semialdehyde decarboxylase	266645	ENSMUSG00000026348
+
+
+KEGG pathway	beta-Alanine metabolism	00410
+C=23;O=7;E=0.38;R=18.36;rawP=6.54e-08;adjP=2.93e-07
+Srm	NA	Srm	spermidine synthase	20810	ENSMUSG00000006442
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Dpyd	NA	Dpyd	dihydropyrimidine dehydrogenase	99586	ENSMUSG00000033308
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Abat	NA	Abat	4-aminobutyrate aminotransferase	268860	ENSMUSG00000057880
+
+Dpys	NA	Dpys	dihydropyrimidinase	64705	ENSMUSG00000022304
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Fatty acid metabolism	00071
+C=48;O=9;E=0.80;R=11.31;rawP=8.55e-08;adjP=3.67e-07
+Acadvl	NA	Acadvl	acyl-Coenzyme A dehydrogenase, very long chain	11370	ENSMUSG00000018574
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Acox1	NA	Acox1	acyl-Coenzyme A oxidase 1, palmitoyl	11430	ENSMUSG00000020777
+
+Hadhb	NA	Hadhb	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	231086	ENSMUSG00000059447
+
+Gcdh	NA	Gcdh	glutaryl-Coenzyme A dehydrogenase	270076	ENSMUSG00000003809
+
+Acsl1	NA	Acsl1	acyl-CoA synthetase long-chain family member 1	14081	ENSMUSG00000018796
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Hematopoietic cell lineage	04640
+C=82;O=11;E=1.36;R=8.09;rawP=1.18e-07;adjP=4.86e-07
+Itga5	NA	Itga5	integrin alpha 5 (fibronectin receptor alpha)	16402	ENSMUSG00000000555
+
+Cd1d1	NA	Cd1d1	CD1d1 antigen	12479	ENSMUSG00000028076
+
+Cd14	NA	Cd14	CD14 antigen	12475	ENSMUSG00000051439
+
+Tfrc	NA	Tfrc	transferrin receptor	22042	ENSMUSG00000022797
+
+Csf1	NA	Csf1	colony stimulating factor 1 (macrophage)	12977	ENSMUSG00000014599
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Cd55	NA	Cd55	CD55 antigen	13136	ENSMUSG00000026399
+
+Dntt	NA	Dntt	deoxynucleotidyltransferase, terminal	21673	ENSMUSG00000025014
+
+Csf1r	NA	Csf1r	colony stimulating factor 1 receptor	12978	ENSMUSG00000024621
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+Anpep	NA	Anpep	alanyl (membrane) aminopeptidase	16790	ENSMUSG00000039062
+
+
+KEGG pathway	Regulation of actin cytoskeleton	04810
+C=216;O=17;E=3.58;R=4.75;rawP=1.54e-07;adjP=6.10e-07
+Ezr	NA	Ezr	ezrin	22350	ENSMUSG00000052397
+
+Cd14	NA	Cd14	CD14 antigen	12475	ENSMUSG00000051439
+
+Iqgap1	NA	Iqgap1	IQ motif containing GTPase activating protein 1	29875	ENSMUSG00000030536
+
+Pdgfa	NA	Pdgfa	platelet derived growth factor, alpha	18590	ENSMUSG00000025856
+
+Arpc2	NA	Arpc2	actin related protein 2/3 complex, subunit 2	76709	ENSMUSG00000006304
+
+Nckap1	NA	Nckap1	NCK-associated protein 1	50884	ENSMUSG00000027002
+
+Rras	NA	Rras	Harvey rat sarcoma oncogene, subgroup R	20130	ENSMUSG00000038387
+
+Rdx	NA	Rdx	radixin	19684	ENSMUSG00000032050
+
+Vcl	NA	Vcl	vinculin	22330	ENSMUSG00000021823
+
+Arpc4	NA	Arpc4	actin related protein 2/3 complex, subunit 4	68089	ENSMUSG00000079426
+
+Itga5	NA	Itga5	integrin alpha 5 (fibronectin receptor alpha)	16402	ENSMUSG00000000555
+
+Cyfip1	NA	Cyfip1	cytoplasmic FMR1 interacting protein 1	20430	ENSMUSG00000030447
+
+Iqgap2	NA	Iqgap2	IQ motif containing GTPase activating protein 2	544963	ENSMUSG00000021676
+
+Tmsb4x	NA	Tmsb4x	thymosin, beta 4, X chromosome	19241	ENSMUSG00000049775
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Baiap2	NA	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2	108100	ENSMUSG00000025372
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+
+KEGG pathway	Chemokine signaling pathway	04062
+C=185;O=15;E=3.07;R=4.89;rawP=5.61e-07;adjP=2.14e-06
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Cxcl14	NA	Cxcl14	chemokine (C-X-C motif) ligand 14	57266	ENSMUSG00000021508
+
+Ccl6	NA	Ccl6	chemokine (C-C motif) ligand 6	20305	ENSMUSG00000018927
+
+Cxcl16	NA	Cxcl16	chemokine (C-X-C motif) ligand 16	66102	ENSMUSG00000018920
+
+Foxo3	NA	Foxo3	forkhead box O3	56484	ENSMUSG00000048756
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Cxcl1	NA	Cxcl1	chemokine (C-X-C motif) ligand 1	14825	ENSMUSG00000029380
+
+Ccr5	NA	Ccr5	chemokine (C-C motif) receptor 5	12774	ENSMUSG00000079227
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Cxcl12	NA	Cxcl12	chemokine (C-X-C motif) ligand 12	20315	ENSMUSG00000061353
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Gng5	NA	Gng5	guanine nucleotide binding protein (G protein), gamma 5	14707	ENSMUSG00000068523
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+Cxcl13	NA	Cxcl13	chemokine (C-X-C motif) ligand 13	55985	ENSMUSG00000023078
+
+Adcy9	NA	Adcy9	adenylate cyclase 9	11515	ENSMUSG00000005580
+
+
+KEGG pathway	Antigen processing and presentation	04612
+C=78;O=10;E=1.29;R=7.74;rawP=6.79e-07;adjP=2.50e-06
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+Ifi30	NA	Ifi30	interferon gamma inducible protein 30	65972	ENSMUSG00000031838
+
+Rfxap	NA	Rfxap	regulatory factor X-associated protein	170767	ENSMUSG00000036615
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Ctsb	NA	Ctsb	cathepsin B	13030	ENSMUSG00000021939
+
+Nfyc	NA	Nfyc	nuclear transcription factor-Y gamma	18046	ENSMUSG00000032897
+
+Cd74	NA	Cd74	CD74 antigen (invariant polypeptide of major histocompatibility complex, class II antigen-associated)	16149	ENSMUSG00000024610
+
+
+KEGG pathway	Linoleic acid metabolism	00591
+C=46;O=8;E=0.76;R=10.49;rawP=8.27e-07;adjP=2.94e-06
+Cyp3a11	NA	Cyp3a11	cytochrome P450, family 3, subfamily a, polypeptide 11	13112	ENSMUSG00000056035
+
+Cyp2c50	NA	Cyp2c50	cytochrome P450, family 2, subfamily c, polypeptide 50	107141	ENSMUSG00000054827
+
+Cyp2j6	NA	Cyp2j6	cytochrome P450, family 2, subfamily j, polypeptide 6	13110	ENSMUSG00000052914
+
+Cyp2c29	NA	Cyp2c29	cytochrome P450, family 2, subfamily c, polypeptide 29	13095	ENSMUSG00000003053
+
+Cyp3a25	NA	Cyp3a25	cytochrome P450, family 3, subfamily a, polypeptide 25	56388	ENSMUSG00000029630
+
+Cyp2c54	NA	Cyp2c54	cytochrome P450, family 2, subfamily c, polypeptide 54	404195	ENSMUSG00000067225
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+Cyp2j5	NA	Cyp2j5	cytochrome P450, family 2, subfamily j, polypeptide 5	13109	ENSMUSG00000052520
+
+
+KEGG pathway	Cytokine-cytokine receptor interaction	04060
+C=245;O=17;E=4.06;R=4.19;rawP=9.11e-07;adjP=3.13e-06
+Ccl6	NA	Ccl6	chemokine (C-C motif) ligand 6	20305	ENSMUSG00000018927
+
+Cxcl16	NA	Cxcl16	chemokine (C-X-C motif) ligand 16	66102	ENSMUSG00000018920
+
+Il15ra	NA	Il15ra	interleukin 15 receptor, alpha chain	16169	ENSMUSG00000023206
+
+Pdgfa	NA	Pdgfa	platelet derived growth factor, alpha	18590	ENSMUSG00000025856
+
+Bmp7	NA	Bmp7	bone morphogenetic protein 7	12162	ENSMUSG00000008999
+
+Tnfrsf12a	NA	Tnfrsf12a	tumor necrosis factor receptor superfamily, member 12a	27279	ENSMUSG00000023905
+
+Kdr	NA	Kdr	kinase insert domain protein receptor	16542	ENSMUSG00000062960
+
+Cxcl1	NA	Cxcl1	chemokine (C-X-C motif) ligand 1	14825	ENSMUSG00000029380
+
+Cxcl12	NA	Cxcl12	chemokine (C-X-C motif) ligand 12	20315	ENSMUSG00000061353
+
+Ghr	NA	Ghr	growth hormone receptor	14600	ENSMUSG00000055737
+
+Inhbc	NA	Inhbc	inhibin beta-C	16325	ENSMUSG00000025405
+
+Prlr	NA	Prlr	prolactin receptor	19116	ENSMUSG00000005268
+
+Cxcl14	NA	Cxcl14	chemokine (C-X-C motif) ligand 14	57266	ENSMUSG00000021508
+
+Csf1	NA	Csf1	colony stimulating factor 1 (macrophage)	12977	ENSMUSG00000014599
+
+Csf1r	NA	Csf1r	colony stimulating factor 1 receptor	12978	ENSMUSG00000024621
+
+Ccr5	NA	Ccr5	chemokine (C-C motif) receptor 5	12774	ENSMUSG00000079227
+
+Cxcl13	NA	Cxcl13	chemokine (C-X-C motif) ligand 13	55985	ENSMUSG00000023078
+
+
+KEGG pathway	Propanoate metabolism	00640
+C=33;O=7;E=0.55;R=12.80;rawP=9.86e-07;adjP=3.28e-06
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Acss3	NA	Acss3	acyl-CoA synthetase short-chain family member 3	380660	ENSMUSG00000035948
+
+Aldh6a1	NA	Aldh6a1	aldehyde dehydrogenase family 6, subfamily A1	104776	ENSMUSG00000021238
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Abat	NA	Abat	4-aminobutyrate aminotransferase	268860	ENSMUSG00000057880
+
+Mut	NA	Mut	methylmalonyl-Coenzyme A mutase	17850	ENSMUSG00000023921
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Huntington's disease	05016
+C=197;O=15;E=3.27;R=4.59;rawP=1.24e-06;adjP=3.99e-06
+Cox5a	NA	Cox5a	cytochrome c oxidase, subunit Va	12858	ENSMUSG00000000088
+
+Polr2b	NA	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	231329	ENSMUSG00000029250
+
+Slc25a4	NA	Slc25a4	solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4	11739	ENSMUSG00000031633
+
+Atp5g1	NA	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9)	11951	ENSMUSG00000006057
+
+Cltb	NA	Cltb	clathrin, light polypeptide (Lcb)	74325	ENSMUSG00000047547
+
+Ndufc2	NA	Ndufc2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2	68197	ENSMUSG00000030647
+
+Taf4a	NA	Taf4a	TAF4A RNA polymerase II, TATA box binding protein (TBP)-associated factor	228980	ENSMUSG00000039117
+
+Atp5c1	NA	Atp5c1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	11949	ENSMUSG00000025781
+
+Ndufs1	NA	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	227197	ENSMUSG00000025968
+
+Atp5a1	NA	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1	11946	ENSMUSG00000025428
+
+Clta	NA	Clta	clathrin, light polypeptide (Lca)	12757	ENSMUSG00000028478
+
+Tgm2	NA	Tgm2	transglutaminase 2, C polypeptide	21817	ENSMUSG00000037820
+
+Ndufa11	NA	Ndufa11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	69875	ENSMUSG00000002379
+
+Ndufa13	NA	Ndufa13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	67184	ENSMUSG00000036199
+
+Ndufs3	NA	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	68349	ENSMUSG00000005510
+
+
+KEGG pathway	Cell adhesion molecules (CAMs)	04514
+C=149;O=13;E=2.47;R=5.26;rawP=1.38e-06;adjP=4.18e-06
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+Sdc1	NA	Sdc1	syndecan 1	20969	ENSMUSG00000020592
+
+Cdh5	NA	Cdh5	cadherin 5	12562	ENSMUSG00000031871
+
+Cldn3	NA	Cldn3	claudin 3	12739	ENSMUSG00000070473
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Sdc3	NA	Sdc3	syndecan 3	20970	ENSMUSG00000025743
+
+Vcam1	NA	Vcam1	vascular cell adhesion molecule 1	22329	ENSMUSG00000027962
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Cldn5	NA	Cldn5	claudin 5	12741	ENSMUSG00000041378
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Systemic lupus erythematosus	05322
+C=149;O=13;E=2.47;R=5.26;rawP=1.38e-06;adjP=4.18e-06
+H2afx	NA	H2afx	H2A histone family, member X	15270	ENSMUSG00000049932
+
+C1qb	NA	C1qb	complement component 1, q subcomponent, beta polypeptide	12260	ENSMUSG00000036905
+
+C4b	NA	C4b	complement component 4B (Chido blood group)	12268	ENSMUSG00000073418
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+C8b	NA	C8b	complement component 8, beta polypeptide	110382	ENSMUSG00000029656
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+C1qc	NA	C1qc	complement component 1, q subcomponent, C chain	12262	ENSMUSG00000036896
+
+H2afj	NA	H2afj	H2A histone family, member J	232440	ENSMUSG00000060032
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+C1qa	NA	C1qa	complement component 1, q subcomponent, alpha polypeptide	12259	ENSMUSG00000036887
+
+
+KEGG pathway	Bacterial invasion of epithelial cells	05100
+C=71;O=9;E=1.18;R=7.65;rawP=2.70e-06;adjP=7.95e-06
+Vcl	NA	Vcl	vinculin	22330	ENSMUSG00000021823
+
+Hcls1	NA	Hcls1	hematopoietic cell specific Lyn substrate 1	15163	ENSMUSG00000022831
+
+Itga5	NA	Itga5	integrin alpha 5 (fibronectin receptor alpha)	16402	ENSMUSG00000000555
+
+Arpc4	NA	Arpc4	actin related protein 2/3 complex, subunit 4	68089	ENSMUSG00000079426
+
+Cltb	NA	Cltb	clathrin, light polypeptide (Lcb)	74325	ENSMUSG00000047547
+
+Arpc2	NA	Arpc2	actin related protein 2/3 complex, subunit 2	76709	ENSMUSG00000006304
+
+Clta	NA	Clta	clathrin, light polypeptide (Lca)	12757	ENSMUSG00000028478
+
+Arhgef26	NA	Arhgef26	Rho guanine nucleotide exchange factor (GEF) 26	622434	ENSMUSG00000036885
+
+Rhog	NA	Rhog	ras homolog gene family, member G	56212	ENSMUSG00000073982
+
+
+KEGG pathway	Arginine and proline metabolism	00330
+C=54;O=8;E=0.90;R=8.94;rawP=2.93e-06;adjP=8.38e-06
+Srm	NA	Srm	spermidine synthase	20810	ENSMUSG00000006442
+
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Ckb	NA	Ckb	creatine kinase, brain	12709	ENSMUSG00000001270
+
+Nags	NA	Nags	N-acetylglutamate synthase	217214	ENSMUSG00000048217
+
+Acy1	NA	Acy1	aminoacylase 1	109652	ENSMUSG00000023262
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Oat	NA	Oat	ornithine aminotransferase	18242	ENSMUSG00000030934
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Alzheimer's disease	05010
+C=188;O=14;E=3.12;R=4.49;rawP=3.62e-06;adjP=9.81e-06
+Cox5a	NA	Cox5a	cytochrome c oxidase, subunit Va	12858	ENSMUSG00000000088
+
+Lpl	NA	Lpl	lipoprotein lipase	16956	ENSMUSG00000015568
+
+Atp5g1	NA	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9)	11951	ENSMUSG00000006057
+
+Ndufc2	NA	Ndufc2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2	68197	ENSMUSG00000030647
+
+Psen2	NA	Psen2	presenilin 2	19165	ENSMUSG00000010609
+
+Atp5c1	NA	Atp5c1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	11949	ENSMUSG00000025781
+
+Ndufs1	NA	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	227197	ENSMUSG00000025968
+
+Gapdh	NA	Gapdh	glyceraldehyde-3-phosphate dehydrogenase	14433	ENSMUSG00000057666
+
+Atp5a1	NA	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1	11946	ENSMUSG00000025428
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Calm3	NA	Calm3	calmodulin 3	12315	ENSMUSG00000019370
+
+Ndufa11	NA	Ndufa11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	69875	ENSMUSG00000002379
+
+Ndufa13	NA	Ndufa13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	67184	ENSMUSG00000036199
+
+Ndufs3	NA	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	68349	ENSMUSG00000005510
+
+
+KEGG pathway	Nicotinate and nicotinamide metabolism	00760
+C=26;O=6;E=0.43;R=13.92;rawP=3.54e-06;adjP=9.81e-06
+Qprt	NA	Qprt	quinolinate phosphoribosyltransferase	67375	ENSMUSG00000030674
+
+Nnt	NA	Nnt	nicotinamide nucleotide transhydrogenase	18115	NULL
+
+Nadsyn1	NA	Nadsyn1	NAD synthetase 1	78914	ENSMUSG00000031090
+
+Aox1	NA	Aox1	aldehyde oxidase 1	11761	ENSMUSG00000063558
+
+Nudt12	NA	Nudt12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	67993	ENSMUSG00000024228
+
+Enpp3	NA	Enpp3	ectonucleotide pyrophosphatase/phosphodiesterase 3	209558	ENSMUSG00000019989
+
+
+KEGG pathway	Porphyrin and chlorophyll metabolism	00860
+C=40;O=7;E=0.66;R=10.56;rawP=3.89e-06;adjP=1.03e-05
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Alas1	NA	Alas1	aminolevulinic acid synthase 1	11655	ENSMUSG00000032786
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Cpox	NA	Cpox	coproporphyrinogen oxidase	12892	ENSMUSG00000022742
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	Purine metabolism	00230
+C=168;O=13;E=2.78;R=4.67;rawP=5.26e-06;adjP=1.35e-05
+Papss2	NA	Papss2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	23972	ENSMUSG00000024899
+
+Uox	NA	Uox	urate oxidase	22262	ENSMUSG00000028186
+
+Polr2b	NA	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	231329	ENSMUSG00000029250
+
+Aprt	NA	Aprt	adenine phosphoribosyl transferase	11821	ENSMUSG00000006589
+
+Entpd5	NA	Entpd5	ectonucleoside triphosphate diphosphohydrolase 5	12499	ENSMUSG00000021236
+
+Nme6	NA	Nme6	NME/NM23 nucleoside diphosphate kinase 6	54369	ENSMUSG00000032478
+
+Polr3a	NA	Polr3a	polymerase (RNA) III (DNA directed) polypeptide A	218832	ENSMUSG00000025280
+
+Pkm	NA	Pkm	pyruvate kinase, muscle	18746	ENSMUSG00000032294
+
+Polr1d	NA	Polr1d	polymerase (RNA) I polypeptide D	20018	ENSMUSG00000029642
+
+Pde6d	NA	Pde6d	phosphodiesterase 6D, cGMP-specific, rod, delta	18582	ENSMUSG00000026239
+
+Pde8a	NA	Pde8a	phosphodiesterase 8A	18584	ENSMUSG00000025584
+
+Adcy9	NA	Adcy9	adenylate cyclase 9	11515	ENSMUSG00000005580
+
+Enpp3	NA	Enpp3	ectonucleotide pyrophosphatase/phosphodiesterase 3	209558	ENSMUSG00000019989
+
+
+KEGG pathway	Pyrimidine metabolism	00240
+C=99;O=10;E=1.64;R=6.09;rawP=6.15e-06;adjP=1.55e-05
+Polr2b	NA	Polr2b	polymerase (RNA) II (DNA directed) polypeptide B	231329	ENSMUSG00000029250
+
+Cda	NA	Cda	cytidine deaminase	72269	ENSMUSG00000028755
+
+Dpys	NA	Dpys	dihydropyrimidinase	64705	ENSMUSG00000022304
+
+Upp2	NA	Upp2	uridine phosphorylase 2	76654	ENSMUSG00000026839
+
+Entpd5	NA	Entpd5	ectonucleoside triphosphate diphosphohydrolase 5	12499	ENSMUSG00000021236
+
+Nme6	NA	Nme6	NME/NM23 nucleoside diphosphate kinase 6	54369	ENSMUSG00000032478
+
+Polr3a	NA	Polr3a	polymerase (RNA) III (DNA directed) polypeptide A	218832	ENSMUSG00000025280
+
+Dpyd	NA	Dpyd	dihydropyrimidine dehydrogenase	99586	ENSMUSG00000033308
+
+Polr1d	NA	Polr1d	polymerase (RNA) I polypeptide D	20018	ENSMUSG00000029642
+
+Tymp	NA	Tymp	thymidine phosphorylase	72962	ENSMUSG00000022615
+
+
+KEGG pathway	Oxidative phosphorylation	00190
+C=147;O=12;E=2.44;R=4.93;rawP=6.97e-06;adjP=1.68e-05
+Cox5a	NA	Cox5a	cytochrome c oxidase, subunit Va	12858	ENSMUSG00000000088
+
+Atp5g1	NA	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9)	11951	ENSMUSG00000006057
+
+Ndufc2	NA	Ndufc2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2	68197	ENSMUSG00000030647
+
+Atp5c1	NA	Atp5c1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	11949	ENSMUSG00000025781
+
+Ndufs1	NA	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	227197	ENSMUSG00000025968
+
+Atp6v1h	NA	Atp6v1h	ATPase, H+ transporting, lysosomal V1 subunit H	108664	ENSMUSG00000033793
+
+Atp5a1	NA	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1	11946	ENSMUSG00000025428
+
+Cox17	NA	Cox17	cytochrome c oxidase, subunit XVII assembly protein homolog (yeast)	12856	ENSMUSG00000046516
+
+Ndufa11	NA	Ndufa11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	69875	ENSMUSG00000002379
+
+Ndufs3	NA	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	68349	ENSMUSG00000005510
+
+Ndufa13	NA	Ndufa13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	67184	ENSMUSG00000036199
+
+Atp6v0b	NA	Atp6v0b	ATPase, H+ transporting, lysosomal V0 subunit B	114143	ENSMUSG00000033379
+
+
+KEGG pathway	Lysosome	04142
+C=123;O=11;E=2.04;R=5.40;rawP=7.00e-06;adjP=1.68e-05
+Arsg	NA	Arsg	arylsulfatase G	74008	ENSMUSG00000020604
+
+Ctsd	NA	Ctsd	cathepsin D	13033	ENSMUSG00000007891
+
+Lamp2	NA	Lamp2	lysosomal-associated membrane protein 2	16784	ENSMUSG00000016534
+
+Pla2g15	NA	Pla2g15	phospholipase A2, group XV	192654	ENSMUSG00000031903
+
+Gm2a	NA	Gm2a	GM2 ganglioside activator protein	14667	ENSMUSG00000000594
+
+Laptm5	NA	Laptm5	lysosomal-associated protein transmembrane 5	16792	ENSMUSG00000028581
+
+Cltb	NA	Cltb	clathrin, light polypeptide (Lcb)	74325	ENSMUSG00000047547
+
+Atp6v1h	NA	Atp6v1h	ATPase, H+ transporting, lysosomal V1 subunit H	108664	ENSMUSG00000033793
+
+Clta	NA	Clta	clathrin, light polypeptide (Lca)	12757	ENSMUSG00000028478
+
+Ctsb	NA	Ctsb	cathepsin B	13030	ENSMUSG00000021939
+
+Atp6v0b	NA	Atp6v0b	ATPase, H+ transporting, lysosomal V0 subunit B	114143	ENSMUSG00000033379
+
+
+KEGG pathway	Parkinson's disease	05012
+C=148;O=12;E=2.45;R=4.89;rawP=7.47e-06;adjP=1.75e-05
+Cox5a	NA	Cox5a	cytochrome c oxidase, subunit Va	12858	ENSMUSG00000000088
+
+Ube2j2	NA	Ube2j2	ubiquitin-conjugating enzyme E2J 2	140499	ENSMUSG00000023286
+
+Slc25a4	NA	Slc25a4	solute carrier family 25 (mitochondrial carrier, adenine nucleotide translocator), member 4	11739	ENSMUSG00000031633
+
+Atp5g1	NA	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9)	11951	ENSMUSG00000006057
+
+Ndufc2	NA	Ndufc2	NADH dehydrogenase (ubiquinone) 1, subcomplex unknown, 2	68197	ENSMUSG00000030647
+
+Atp5c1	NA	Atp5c1	ATP synthase, H+ transporting, mitochondrial F1 complex, gamma polypeptide 1	11949	ENSMUSG00000025781
+
+Ndufs1	NA	Ndufs1	NADH dehydrogenase (ubiquinone) Fe-S protein 1	227197	ENSMUSG00000025968
+
+Park7	NA	Park7	Parkinson disease (autosomal recessive, early onset) 7	57320	ENSMUSG00000028964
+
+Atp5a1	NA	Atp5a1	ATP synthase, H+ transporting, mitochondrial F1 complex, alpha subunit 1	11946	ENSMUSG00000025428
+
+Ndufs3	NA	Ndufs3	NADH dehydrogenase (ubiquinone) Fe-S protein 3	68349	ENSMUSG00000005510
+
+Ndufa13	NA	Ndufa13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	67184	ENSMUSG00000036199
+
+Ndufa11	NA	Ndufa11	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex 11	69875	ENSMUSG00000002379
+
+
+KEGG pathway	Rheumatoid arthritis	05323
+C=81;O=9;E=1.34;R=6.70;rawP=8.17e-06;adjP=1.87e-05
+Csf1	NA	Csf1	colony stimulating factor 1 (macrophage)	12977	ENSMUSG00000014599
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Atp6v1h	NA	Atp6v1h	ATPase, H+ transporting, lysosomal V1 subunit H	108664	ENSMUSG00000033793
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Cxcl12	NA	Cxcl12	chemokine (C-X-C motif) ligand 12	20315	ENSMUSG00000061353
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Atp6v0b	NA	Atp6v0b	ATPase, H+ transporting, lysosomal V0 subunit B	114143	ENSMUSG00000033379
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	ABC transporters	02010
+C=45;O=7;E=0.75;R=9.39;rawP=8.81e-06;adjP=1.89e-05
+Abcc10	NA	Abcc10	ATP-binding cassette, sub-family C (CFTR/MRP), member 10	224814	ENSMUSG00000032842
+
+Abcc3	NA	Abcc3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	76408	ENSMUSG00000020865
+
+Abca6	NA	Abca6	ATP-binding cassette, sub-family A (ABC1), member 6	76184	ENSMUSG00000044749
+
+Abcg2	NA	Abcg2	ATP-binding cassette, sub-family G (WHITE), member 2	26357	ENSMUSG00000029802
+
+Abcc2	NA	Abcc2	ATP-binding cassette, sub-family C (CFTR/MRP), member 2	12780	ENSMUSG00000025194
+
+Abcg1	NA	Abcg1	ATP-binding cassette, sub-family G (WHITE), member 1	11307	ENSMUSG00000024030
+
+Abcg3	NA	Abcg3	ATP-binding cassette, sub-family G (WHITE), member 3	27405	ENSMUSG00000029299
+
+
+KEGG pathway	Glycolysis / Gluconeogenesis	00010
+C=62;O=8;E=1.03;R=7.79;rawP=8.48e-06;adjP=1.89e-05
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Pkm	NA	Pkm	pyruvate kinase, muscle	18746	ENSMUSG00000032294
+
+Tpi1	NA	Tpi1	triosephosphate isomerase 1	21991	ENSMUSG00000023456
+
+Gapdh	NA	Gapdh	glyceraldehyde-3-phosphate dehydrogenase	14433	ENSMUSG00000057666
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Adh4	NA	Adh4	alcohol dehydrogenase 4 (class II), pi polypeptide	26876	ENSMUSG00000037797
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Lysine degradation	00310
+C=45;O=7;E=0.75;R=9.39;rawP=8.81e-06;adjP=1.89e-05
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Aass	NA	Aass	aminoadipate-semialdehyde synthase	30956	ENSMUSG00000029695
+
+Gcdh	NA	Gcdh	glutaryl-Coenzyme A dehydrogenase	270076	ENSMUSG00000003809
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Pipox	NA	Pipox	pipecolic acid oxidase	19193	ENSMUSG00000017453
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+Setdb2	NA	Setdb2	SET domain, bifurcated 2	239122	ENSMUSG00000071350
+
+
+KEGG pathway	Gap junction	04540
+C=88;O=9;E=1.46;R=6.17;rawP=1.61e-05;adjP=3.38e-05
+Pdgfa	NA	Pdgfa	platelet derived growth factor, alpha	18590	ENSMUSG00000025856
+
+Tuba1c	NA	Tuba1c	tubulin, alpha 1C	22146	ENSMUSG00000043091
+
+Adrb1	NA	Adrb1	adrenergic receptor, beta 1	11554	ENSMUSG00000035283
+
+Lpar1	NA	Lpar1	lysophosphatidic acid receptor 1	14745	ENSMUSG00000038668
+
+Tubb2a	NA	Tubb2a	tubulin, beta 2A class IIA	22151	ENSMUSG00000058672
+
+Tubb5	NA	Tubb5	tubulin, beta 5 class I	22154	ENSMUSG00000001525
+
+Tjp1	NA	Tjp1	tight junction protein 1	21872	ENSMUSG00000030516
+
+Tuba1b	NA	Tuba1b	tubulin, alpha 1B	22143	ENSMUSG00000023004
+
+Adcy9	NA	Adcy9	adenylate cyclase 9	11515	ENSMUSG00000005580
+
+
+KEGG pathway	Viral myocarditis	05416
+C=89;O=9;E=1.48;R=6.10;rawP=1.77e-05;adjP=3.65e-05
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Cd55	NA	Cd55	CD55 antigen	13136	ENSMUSG00000026399
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Spliceosome	03040
+C=138;O=11;E=2.29;R=4.81;rawP=2.09e-05;adjP=4.22e-05
+Xab2	NA	Xab2	XPA binding protein 2	67439	ENSMUSG00000019470
+
+Prpf8	NA	Prpf8	pre-mRNA processing factor 8	192159	ENSMUSG00000020850
+
+Gm8186	NA	Gm8186	small nuclear ribonucleoprotein polypeptide G pseudogene	666609	NULL
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Snrnp200	NA	Snrnp200	small nuclear ribonucleoprotein 200 (U5)	320632	ENSMUSG00000003660
+
+Ddx39b	NA	Ddx39b	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B	53817	ENSMUSG00000019432
+
+Ppil1	NA	Ppil1	peptidylprolyl isomerase (cyclophilin)-like 1	68816	ENSMUSG00000024007
+
+Sf3b5	NA	Sf3b5	splicing factor 3b, subunit 5	66125	ENSMUSG00000078348
+
+Snw1	NA	Snw1	SNW domain containing 1	66354	ENSMUSG00000021039
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+Sf3b1	NA	Sf3b1	splicing factor 3b, subunit 1	81898	ENSMUSG00000025982
+
+
+KEGG pathway	Endocytosis	04144
+C=220;O=14;E=3.65;R=3.84;rawP=2.17e-05;adjP=4.30e-05
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+Rab4a	NA	Rab4a	RAB4A, member RAS oncogene family	19341	ENSMUSG00000019478
+
+Erbb3	NA	Erbb3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	13867	ENSMUSG00000018166
+
+Folr2	NA	Folr2	folate receptor 2 (fetal)	14276	ENSMUSG00000032725
+
+Tfrc	NA	Tfrc	transferrin receptor	22042	ENSMUSG00000022797
+
+Cltb	NA	Cltb	clathrin, light polypeptide (Lcb)	74325	ENSMUSG00000047547
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+Smad6	NA	Smad6	SMAD family member 6	17130	ENSMUSG00000036867
+
+Adrb1	NA	Adrb1	adrenergic receptor, beta 1	11554	ENSMUSG00000035283
+
+Csf1r	NA	Csf1r	colony stimulating factor 1 receptor	12978	ENSMUSG00000024621
+
+Clta	NA	Clta	clathrin, light polypeptide (Lca)	12757	ENSMUSG00000028478
+
+Kdr	NA	Kdr	kinase insert domain protein receptor	16542	ENSMUSG00000062960
+
+Ccr5	NA	Ccr5	chemokine (C-C motif) receptor 5	12774	ENSMUSG00000079227
+
+Erbb4	NA	Erbb4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	13869	ENSMUSG00000062209
+
+
+KEGG pathway	Cytosolic DNA-sensing pathway	04623
+C=56;O=7;E=0.93;R=7.54;rawP=3.85e-05;adjP=7.48e-05
+Adar	NA	Adar	adenosine deaminase, RNA-specific	56417	ENSMUSG00000027951
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Polr1d	NA	Polr1d	polymerase (RNA) I polypeptide D	20018	ENSMUSG00000029642
+
+Pycard	NA	Pycard	PYD and CARD domain containing	66824	ENSMUSG00000030793
+
+Polr3a	NA	Polr3a	polymerase (RNA) III (DNA directed) polypeptide A	218832	ENSMUSG00000025280
+
+Irf7	NA	Irf7	interferon regulatory factor 7	54123	ENSMUSG00000025498
+
+
+KEGG pathway	Intestinal immune network for IgA production	04672
+C=43;O=6;E=0.71;R=8.42;rawP=7.37e-05;adjP=0.0001
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Pigr	NA	Pigr	polymeric immunoglobulin receptor	18703	ENSMUSG00000026417
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Cxcl12	NA	Cxcl12	chemokine (C-X-C motif) ligand 12	20315	ENSMUSG00000061353
+
+Il15ra	NA	Il15ra	interleukin 15 receptor, alpha chain	16169	ENSMUSG00000023206
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+KEGG pathway	Neurotrophin signaling pathway	04722
+C=131;O=10;E=2.17;R=4.61;rawP=7.09e-05;adjP=0.0001
+Ywhaz	NA	Ywhaz	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	22631	ENSMUSG00000022285
+
+Rps6ka1	NA	Rps6ka1	ribosomal protein S6 kinase polypeptide 1	20111	ENSMUSG00000003644
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Atf4	NA	Atf4	activating transcription factor 4	11911	ENSMUSG00000042406
+
+Psen2	NA	Psen2	presenilin 2	19165	ENSMUSG00000010609
+
+Foxo3	NA	Foxo3	forkhead box O3	56484	ENSMUSG00000048756
+
+Arhgdia	NA	Arhgdia	Rho GDP dissociation inhibitor (GDI) alpha	192662	ENSMUSG00000025132
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Calm3	NA	Calm3	calmodulin 3	12315	ENSMUSG00000019370
+
+Map3k5	NA	Map3k5	mitogen-activated protein kinase kinase kinase 5	26408	ENSMUSG00000071369
+
+
+KEGG pathway	Other types of O-glycan biosynthesis	00514
+C=43;O=6;E=0.71;R=8.42;rawP=7.37e-05;adjP=0.0001
+Ugt1a6b	NA	Ugt1a6b	UDP glucuronosyltransferase 1 family, polypeptide A6B	394435	ENSMUSG00000090145
+
+Ugt2b38	NA	Ugt2b38	UDP glucuronosyltransferase 2 family, polypeptide B38	100559	ENSMUSG00000061906
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Ugt1a6a	NA	Ugt1a6a	UDP glucuronosyltransferase 1 family, polypeptide A6A	94284	ENSMUSG00000054545
+
+Ugt1a7c	NA	Ugt1a7c	UDP glucuronosyltransferase 1 family, polypeptide A7C	394432	ENSMUSG00000090124
+
+Ugt1a1	NA	Ugt1a1	UDP glucuronosyltransferase 1 family, polypeptide A1	394436	ENSMUSG00000089960
+
+
+KEGG pathway	RNA transport	03013
+C=168;O=11;E=2.78;R=3.95;rawP=0.0001;adjP=0.0002
+Eif4a2	NA	Eif4a2	eukaryotic translation initiation factor 4A2	13682	ENSMUSG00000022884
+
+Gemin7	NA	Gemin7	gem (nuclear organelle) associated protein 7	69731	ENSMUSG00000044709
+
+Ube2i	NA	Ube2i	ubiquitin-conjugating enzyme E2I	22196	ENSMUSG00000015120
+
+Eif3e	NA	Eif3e	eukaryotic translation initiation factor 3, subunit E	16341	ENSMUSG00000022336
+
+Pop7	NA	Pop7	processing of precursor 7, ribonuclease P family, (S. cerevisiae)	74097	ENSMUSG00000029715
+
+Pabpc1	NA	Pabpc1	poly(A) binding protein, cytoplasmic 1	18458	ENSMUSG00000022283
+
+Ddx39b	NA	Ddx39b	DEAD (Asp-Glu-Ala-Asp) box polypeptide 39B	53817	ENSMUSG00000019432
+
+Tpr	NA	Tpr	translocated promoter region	108989	ENSMUSG00000006005
+
+Pop5	NA	Pop5	processing of precursor 5, ribonuclease P/MRP family (S. cerevisiae)	117109	ENSMUSG00000060152
+
+Sumo3	NA	Sumo3	SMT3 suppressor of mif two 3 homolog 3 (yeast)	20610	ENSMUSG00000020265
+
+Xpo1	NA	Xpo1	exportin 1, CRM1 homolog (yeast)	103573	ENSMUSG00000020290
+
+
+KEGG pathway	Glycerolipid metabolism	00561
+C=51;O=6;E=0.85;R=7.10;rawP=0.0002;adjP=0.0003
+Aldh2	NA	Aldh2	aldehyde dehydrogenase 2, mitochondrial	11669	ENSMUSG00000029455
+
+Dgkq	NA	Dgkq	diacylglycerol kinase, theta	110524	ENSMUSG00000004815
+
+Lpl	NA	Lpl	lipoprotein lipase	16956	ENSMUSG00000015568
+
+Aldh1a1	NA	Aldh1a1	aldehyde dehydrogenase family 1, subfamily A1	11668	ENSMUSG00000053279
+
+Dgat1	NA	Dgat1	diacylglycerol O-acyltransferase 1	13350	ENSMUSG00000022555
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Ribosome	03010
+C=119;O=9;E=1.97;R=4.56;rawP=0.0002;adjP=0.0003
+Rpl23	NA	Rpl23	ribosomal protein L23	65019	ENSMUSG00000071415
+
+Rps2	NA	Rps2	ribosomal protein S2	16898	ENSMUSG00000044533
+
+Rpl13a	NA	Rpl13a	ribosomal protein L13A	22121	ENSMUSG00000074129
+
+Rps14	NA	Rps14	ribosomal protein S14	20044	ENSMUSG00000024608
+
+Gm9843	NA	Gm9843	predicted gene 9843	100039316	NULL
+
+Rps9	NA	Rps9	ribosomal protein S9	76846	ENSMUSG00000006333
+
+Rpl14	NA	Rpl14	ribosomal protein L14	67115	ENSMUSG00000025794
+
+Gm2000	NA	Gm2000	ribosomal protein L35 pseudogene	100038991	NULL
+
+Rpsa	NA	Rpsa	ribosomal protein SA	16785	ENSMUSG00000032518
+
+
+KEGG pathway	Glycine, serine and threonine metabolism	00260
+C=34;O=5;E=0.56;R=8.87;rawP=0.0002;adjP=0.0003
+Alas1	NA	Alas1	aminolevulinic acid synthase 1	11655	ENSMUSG00000032786
+
+Cth	NA	Cth	cystathionase (cystathionine gamma-lyase)	107869	ENSMUSG00000028179
+
+Pipox	NA	Pipox	pipecolic acid oxidase	19193	ENSMUSG00000017453
+
+Chdh	NA	Chdh	choline dehydrogenase	218865	ENSMUSG00000015970
+
+Aldh7a1	NA	Aldh7a1	aldehyde dehydrogenase family 7, member A1	110695	ENSMUSG00000053644
+
+
+KEGG pathway	Bile secretion	04976
+C=71;O=7;E=1.18;R=5.95;rawP=0.0002;adjP=0.0003
+Aqp1	NA	Aqp1	aquaporin 1	11826	ENSMUSG00000004655
+
+Abcc3	NA	Abcc3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	76408	ENSMUSG00000020865
+
+Abcg2	NA	Abcg2	ATP-binding cassette, sub-family G (WHITE), member 2	26357	ENSMUSG00000029802
+
+Abcc2	NA	Abcc2	ATP-binding cassette, sub-family C (CFTR/MRP), member 2	12780	ENSMUSG00000025194
+
+Slco1b2	NA	Slco1b2	solute carrier organic anion transporter family, member 1b2	28253	ENSMUSG00000030236
+
+Atp1b3	NA	Atp1b3	ATPase, Na+/K+ transporting, beta 3 polypeptide	11933	ENSMUSG00000032412
+
+Adcy9	NA	Adcy9	adenylate cyclase 9	11515	ENSMUSG00000005580
+
+
+KEGG pathway	Toxoplasmosis	05145
+C=127;O=9;E=2.10;R=4.28;rawP=0.0003;adjP=0.0005
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Ccr5	NA	Ccr5	chemokine (C-C motif) receptor 5	12774	ENSMUSG00000079227
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+
+KEGG pathway	Natural killer cell mediated cytotoxicity	04650
+C=125;O=9;E=2.07;R=4.34;rawP=0.0003;adjP=0.0005
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+Tyrobp	NA	Tyrobp	TYRO protein tyrosine kinase binding protein	22177	ENSMUSG00000030579
+
+Fcgr3	NA	Fcgr3	Fc receptor, IgG, low affinity III	14131	ENSMUSG00000059498
+
+Fcgr4	NA	Fcgr4	Fc receptor, IgG, low affinity IV	246256	ENSMUSG00000059089
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Fcer1g	NA	Fcer1g	Fc receptor, IgE, high affinity I, gamma polypeptide	14127	ENSMUSG00000058715
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Cd48	NA	Cd48	CD48 antigen	12506	ENSMUSG00000015355
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Prion diseases	05020
+C=35;O=5;E=0.58;R=8.62;rawP=0.0003;adjP=0.0005
+C8b	NA	C8b	complement component 8, beta polypeptide	110382	ENSMUSG00000029656
+
+Egr1	NA	Egr1	early growth response 1	13653	ENSMUSG00000038418
+
+C1qc	NA	C1qc	complement component 1, q subcomponent, C chain	12262	ENSMUSG00000036896
+
+C1qb	NA	C1qb	complement component 1, q subcomponent, beta polypeptide	12260	ENSMUSG00000036905
+
+C1qa	NA	C1qa	complement component 1, q subcomponent, alpha polypeptide	12259	ENSMUSG00000036887
+
+
+KEGG pathway	Type I diabetes mellitus	04940
+C=59;O=6;E=0.98;R=6.14;rawP=0.0004;adjP=0.0006
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+Hspd1	NA	Hspd1	heat shock protein 1 (chaperonin)	15510	ENSMUSG00000025980
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+KEGG pathway	Insulin signaling pathway	04910
+C=137;O=9;E=2.27;R=3.96;rawP=0.0005;adjP=0.0008
+Gys2	NA	Gys2	glycogen synthase 2	232493	ENSMUSG00000030244
+
+Sorbs1	NA	Sorbs1	sorbin and SH3 domain containing 1	20411	ENSMUSG00000025006
+
+Prkab1	NA	Prkab1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	19079	ENSMUSG00000029513
+
+Lipe	NA	Lipe	lipase, hormone sensitive	16890	ENSMUSG00000003123
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Calm3	NA	Calm3	calmodulin 3	12315	ENSMUSG00000019370
+
+Ppp1r3c	NA	Ppp1r3c	protein phosphatase 1, regulatory (inhibitor) subunit 3C	53412	ENSMUSG00000067279
+
+Phkg2	NA	Phkg2	phosphorylase kinase, gamma 2 (testis)	68961	ENSMUSG00000030815
+
+
+KEGG pathway	Protein processing in endoplasmic reticulum	04141
+C=169;O=10;E=2.80;R=3.57;rawP=0.0006;adjP=0.0009
+Sar1a	NA	Sar1a	SAR1 gene homolog A (S. cerevisiae)	20224	ENSMUSG00000020088
+
+Ube2j2	NA	Ube2j2	ubiquitin-conjugating enzyme E2J 2	140499	ENSMUSG00000023286
+
+Cryab	NA	Cryab	crystallin, alpha B	12955	ENSMUSG00000032060
+
+Atf4	NA	Atf4	activating transcription factor 4	11911	ENSMUSG00000042406
+
+Ssr2	NA	Ssr2	signal sequence receptor, beta	66256	ENSMUSG00000041355
+
+Dnaja1	NA	Dnaja1	DnaJ (Hsp40) homolog, subfamily A, member 1	15502	ENSMUSG00000028410
+
+Erp29	NA	Erp29	endoplasmic reticulum protein 29	67397	ENSMUSG00000029616
+
+Dad1	NA	Dad1	defender against cell death 1	13135	ENSMUSG00000022174
+
+Map3k5	NA	Map3k5	mitogen-activated protein kinase kinase kinase 5	26408	ENSMUSG00000071369
+
+Edem2	NA	Edem2	ER degradation enhancer, mannosidase alpha-like 2	108687	ENSMUSG00000038312
+
+
+KEGG pathway	Ribosome biogenesis in eukaryotes	03008
+C=86;O=7;E=1.43;R=4.91;rawP=0.0006;adjP=0.0009
+Imp3	NA	Imp3	IMP3, U3 small nucleolar ribonucleoprotein, homolog (yeast)	102462	ENSMUSG00000032288
+
+Wdr43	NA	Wdr43	WD repeat domain 43	72515	ENSMUSG00000041057
+
+Pop7	NA	Pop7	processing of precursor 7, ribonuclease P family, (S. cerevisiae)	74097	ENSMUSG00000029715
+
+Lsg1	NA	Lsg1	large subunit GTPase 1 homolog (S. cerevisiae)	224092	ENSMUSG00000022538
+
+Pop5	NA	Pop5	processing of precursor 5, ribonuclease P/MRP family (S. cerevisiae)	117109	ENSMUSG00000060152
+
+Xrn2	NA	Xrn2	5'-3' exoribonuclease 2	24128	ENSMUSG00000027433
+
+Xpo1	NA	Xpo1	exportin 1, CRM1 homolog (yeast)	103573	ENSMUSG00000020290
+
+
+KEGG pathway	Malaria	05144
+C=46;O=5;E=0.76;R=6.56;rawP=0.0010;adjP=0.0015
+Vcam1	NA	Vcam1	vascular cell adhesion molecule 1	22329	ENSMUSG00000027962
+
+Sdc1	NA	Sdc1	syndecan 1	20969	ENSMUSG00000020592
+
+Itgal	NA	Itgal	integrin alpha L	16408	ENSMUSG00000030830
+
+Sdc3	NA	Sdc3	syndecan 3	20970	ENSMUSG00000025743
+
+Icam1	NA	Icam1	intercellular adhesion molecule 1	15894	ENSMUSG00000037405
+
+
+KEGG pathway	Pancreatic cancer	05212
+C=71;O=6;E=1.18;R=5.10;rawP=0.0012;adjP=0.0018
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+E2f2	NA	E2f2	E2F transcription factor 2	242705	ENSMUSG00000018983
+
+
+KEGG pathway	Toll-like receptor signaling pathway	04620
+C=101;O=7;E=1.67;R=4.18;rawP=0.0015;adjP=0.0022
+Tlr5	NA	Tlr5	toll-like receptor 5	53791	ENSMUSG00000079164
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Cd14	NA	Cd14	CD14 antigen	12475	ENSMUSG00000051439
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Spp1	NA	Spp1	secreted phosphoprotein 1	20750	ENSMUSG00000029304
+
+Irf7	NA	Irf7	interferon regulatory factor 7	54123	ENSMUSG00000025498
+
+
+KEGG pathway	Adherens junction	04520
+C=75;O=6;E=1.24;R=4.83;rawP=0.0016;adjP=0.0023
+Vcl	NA	Vcl	vinculin	22330	ENSMUSG00000021823
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Sorbs1	NA	Sorbs1	sorbin and SH3 domain containing 1	20411	ENSMUSG00000025006
+
+Tjp1	NA	Tjp1	tight junction protein 1	21872	ENSMUSG00000030516
+
+Iqgap1	NA	Iqgap1	IQ motif containing GTPase activating protein 1	29875	ENSMUSG00000030536
+
+Baiap2	NA	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2	108100	ENSMUSG00000025372
+
+
+KEGG pathway	Allograft rejection	05330
+C=52;O=5;E=0.86;R=5.80;rawP=0.0017;adjP=0.0024
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+KEGG pathway	RNA degradation	03018
+C=76;O=6;E=1.26;R=4.76;rawP=0.0017;adjP=0.0024
+Btg2	NA	Btg2	B cell translocation gene 2, anti-proliferative	12227	ENSMUSG00000020423
+
+Hspd1	NA	Hspd1	heat shock protein 1 (chaperonin)	15510	ENSMUSG00000025980
+
+Pabpc1	NA	Pabpc1	poly(A) binding protein, cytoplasmic 1	18458	ENSMUSG00000022283
+
+Xrn2	NA	Xrn2	5'-3' exoribonuclease 2	24128	ENSMUSG00000027433
+
+Tob2	NA	Tob2	transducer of ERBB2, 2	57259	ENSMUSG00000048546
+
+Exosc4	NA	Exosc4	exosome component 4	109075	ENSMUSG00000034259
+
+
+KEGG pathway	Graft-versus-host disease	05332
+C=54;O=5;E=0.90;R=5.59;rawP=0.0020;adjP=0.0027
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+KEGG pathway	Hepatitis C	05160
+C=137;O=8;E=2.27;R=3.52;rawP=0.0021;adjP=0.0028
+Cldn3	NA	Cldn3	claudin 3	12739	ENSMUSG00000070473
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Eif3e	NA	Eif3e	eukaryotic translation initiation factor 3, subunit E	16341	ENSMUSG00000022336
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Stat1	NA	Stat1	signal transducer and activator of transcription 1	20846	ENSMUSG00000026104
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Cldn5	NA	Cldn5	claudin 5	12741	ENSMUSG00000041378
+
+Irf7	NA	Irf7	interferon regulatory factor 7	54123	ENSMUSG00000025498
+
+
+KEGG pathway	Glycerophospholipid metabolism	00564
+C=80;O=6;E=1.33;R=4.53;rawP=0.0022;adjP=0.0029
+Chkb	NA	Chkb	choline kinase beta	12651	ENSMUSG00000022617
+
+Dgkq	NA	Dgkq	diacylglycerol kinase, theta	110524	ENSMUSG00000004815
+
+Pla2g15	NA	Pla2g15	phospholipase A2, group XV	192654	ENSMUSG00000031903
+
+Chka	NA	Chka	choline kinase alpha	12660	ENSMUSG00000024843
+
+Chpt1	NA	Chpt1	choline phosphotransferase 1	212862	ENSMUSG00000060002
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+
+KEGG pathway	Acute myeloid leukemia	05221
+C=57;O=5;E=0.94;R=5.29;rawP=0.0025;adjP=0.0032
+Zbtb16	NA	Zbtb16	zinc finger and BTB domain containing 16	235320	ENSMUSG00000066687
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Pim1	NA	Pim1	proviral integration site 1	18712	ENSMUSG00000024014
+
+
+KEGG pathway	Amyotrophic lateral sclerosis (ALS)	05014
+C=56;O=5;E=0.93;R=5.39;rawP=0.0024;adjP=0.0032
+Tomm40l	NA	Tomm40l	translocase of outer mitochondrial membrane 40 homolog-like (yeast)	641376	ENSMUSG00000005674
+
+Ccs	NA	Ccs	copper chaperone for superoxide dismutase	12460	ENSMUSG00000034108
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Cat	NA	Cat	catalase	12359	ENSMUSG00000027187
+
+Map3k5	NA	Map3k5	mitogen-activated protein kinase kinase kinase 5	26408	ENSMUSG00000071369
+
+
+KEGG pathway	Neuroactive ligand-receptor interaction	04080
+C=277;O=12;E=4.59;R=2.61;rawP=0.0025;adjP=0.0032
+Prlr	NA	Prlr	prolactin receptor	19116	ENSMUSG00000005268
+
+Fpr1	NA	Fpr1	formyl peptide receptor 1	14293	ENSMUSG00000045551
+
+P2ry6	NA	P2ry6	pyrimidinergic receptor P2Y, G-protein coupled, 6	233571	ENSMUSG00000048779
+
+P2ry13	NA	P2ry13	purinergic receptor P2Y, G-protein coupled 13	74191	ENSMUSG00000036362
+
+Vipr1	NA	Vipr1	vasoactive intestinal peptide receptor 1	22354	ENSMUSG00000032528
+
+P2ry1	NA	P2ry1	purinergic receptor P2Y, G-protein coupled 1	18441	ENSMUSG00000027765
+
+Adrb1	NA	Adrb1	adrenergic receptor, beta 1	11554	ENSMUSG00000035283
+
+Lpar1	NA	Lpar1	lysophosphatidic acid receptor 1	14745	ENSMUSG00000038668
+
+Fpr2	NA	Fpr2	formyl peptide receptor 2	14289	ENSMUSG00000052270
+
+Grid1	NA	Grid1	glutamate receptor, ionotropic, delta 1	14803	ENSMUSG00000041078
+
+Tbxa2r	NA	Tbxa2r	thromboxane A2 receptor	21390	ENSMUSG00000034881
+
+Ghr	NA	Ghr	growth hormone receptor	14600	ENSMUSG00000055737
+
+
+KEGG pathway	NOD-like receptor signaling pathway	04621
+C=57;O=5;E=0.94;R=5.29;rawP=0.0025;adjP=0.0032
+Cxcl1	NA	Cxcl1	chemokine (C-X-C motif) ligand 1	14825	ENSMUSG00000029380
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Card6	NA	Card6	caspase recruitment domain family, member 6	239319	ENSMUSG00000041849
+
+Pycard	NA	Pycard	PYD and CARD domain containing	66824	ENSMUSG00000030793
+
+
+KEGG pathway	ECM-receptor interaction	04512
+C=86;O=6;E=1.43;R=4.21;rawP=0.0031;adjP=0.0039
+Cd47	NA	Cd47	CD47 antigen (Rh-related antigen, integrin-associated signal transducer)	16423	ENSMUSG00000055447
+
+Sdc1	NA	Sdc1	syndecan 1	20969	ENSMUSG00000020592
+
+Itga5	NA	Itga5	integrin alpha 5 (fibronectin receptor alpha)	16402	ENSMUSG00000000555
+
+Col5a3	NA	Col5a3	collagen, type V, alpha 3	53867	ENSMUSG00000004098
+
+Spp1	NA	Spp1	secreted phosphoprotein 1	20750	ENSMUSG00000029304
+
+Sdc3	NA	Sdc3	syndecan 3	20970	ENSMUSG00000025743
+
+
+KEGG pathway	Prostate cancer	05215
+C=89;O=6;E=1.48;R=4.07;rawP=0.0037;adjP=0.0046
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Bad	NA	Bad	BCL2-associated agonist of cell death	12015	ENSMUSG00000024959
+
+Atf4	NA	Atf4	activating transcription factor 4	11911	ENSMUSG00000042406
+
+Pdgfa	NA	Pdgfa	platelet derived growth factor, alpha	18590	ENSMUSG00000025856
+
+E2f2	NA	E2f2	E2F transcription factor 2	242705	ENSMUSG00000018983
+
+
+KEGG pathway	Fc gamma R-mediated phagocytosis	04666
+C=90;O=6;E=1.49;R=4.02;rawP=0.0039;adjP=0.0048
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Marcks	NA	Marcks	myristoylated alanine rich protein kinase C substrate	17118	ENSMUSG00000069662
+
+Arpc4	NA	Arpc4	actin related protein 2/3 complex, subunit 4	68089	ENSMUSG00000079426
+
+Fcgr1	NA	Fcgr1	Fc receptor, IgG, high affinity I	14129	ENSMUSG00000015947
+
+Ncf1	NA	Ncf1	neutrophil cytosolic factor 1	17969	ENSMUSG00000015950
+
+Arpc2	NA	Arpc2	actin related protein 2/3 complex, subunit 2	76709	ENSMUSG00000006304
+
+
+KEGG pathway	Autoimmune thyroid disease	05320
+C=67;O=5;E=1.11;R=4.50;rawP=0.0051;adjP=0.0062
+H2-D1	NA	H2-D1	histocompatibility 2, D region locus 1	14964	ENSMUSG00000073411
+
+H2-DMb1	NA	H2-DMb1	histocompatibility 2, class II, locus Mb1	14999	ENSMUSG00000079547
+
+H2-Ab1	NA	H2-Ab1	histocompatibility 2, class II antigen A, beta 1	14961	ENSMUSG00000073421
+
+H2-Q10	NA	H2-Q10	histocompatibility 2, Q region locus 10	15007	ENSMUSG00000067235
+
+H2-Eb1	NA	H2-Eb1	histocompatibility 2, class II antigen E beta	14969	ENSMUSG00000060586
+
+
+KEGG pathway	Cell cycle	04110
+C=127;O=7;E=2.10;R=3.33;rawP=0.0054;adjP=0.0064
+Ywhaz	NA	Ywhaz	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	22631	ENSMUSG00000022285
+
+Rbl2	NA	Rbl2	retinoblastoma-like 2	19651	ENSMUSG00000031666
+
+Cdc14b	NA	Cdc14b	CDC14 cell division cycle 14B	218294	ENSMUSG00000033102
+
+Wee1	NA	Wee1	WEE 1 homolog 1 (S. pombe)	22390	ENSMUSG00000031016
+
+Rad21	NA	Rad21	RAD21 homolog (S. pombe)	19357	ENSMUSG00000022314
+
+E2f2	NA	E2f2	E2F transcription factor 2	242705	ENSMUSG00000018983
+
+Anapc7	NA	Anapc7	anaphase promoting complex subunit 7	56317	ENSMUSG00000029466
+
+
+KEGG pathway	Adipocytokine signaling pathway	04920
+C=68;O=5;E=1.13;R=4.44;rawP=0.0055;adjP=0.0064
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Pck2	NA	Pck2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	74551	ENSMUSG00000040618
+
+Prkab1	NA	Prkab1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	19079	ENSMUSG00000029513
+
+Acsl1	NA	Acsl1	acyl-CoA synthetase long-chain family member 1	14081	ENSMUSG00000018796
+
+
+KEGG pathway	MAPK signaling pathway	04010
+C=268;O=11;E=4.44;R=2.48;rawP=0.0055;adjP=0.0064
+Rps6ka1	NA	Rps6ka1	ribosomal protein S6 kinase polypeptide 1	20111	ENSMUSG00000003644
+
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Cd14	NA	Cd14	CD14 antigen	12475	ENSMUSG00000051439
+
+Atf4	NA	Atf4	activating transcription factor 4	11911	ENSMUSG00000042406
+
+Pdgfa	NA	Pdgfa	platelet derived growth factor, alpha	18590	ENSMUSG00000025856
+
+Pla2g12a	NA	Pla2g12a	phospholipase A2, group XIIA	66350	ENSMUSG00000027999
+
+Rapgef2	NA	Rapgef2	Rap guanine nucleotide exchange factor (GEF) 2	76089	ENSMUSG00000062232
+
+Rac2	NA	Rac2	RAS-related C3 botulinum substrate 2	19354	ENSMUSG00000033220
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Rras	NA	Rras	Harvey rat sarcoma oncogene, subgroup R	20130	ENSMUSG00000038387
+
+Map3k5	NA	Map3k5	mitogen-activated protein kinase kinase kinase 5	26408	ENSMUSG00000071369
+
+
+KEGG pathway	RIG-I-like receptor signaling pathway	04622
+C=69;O=5;E=1.14;R=4.37;rawP=0.0058;adjP=0.0067
+Rela	NA	Rela	v-rel reticuloendotheliosis viral oncogene homolog A (avian)	19697	ENSMUSG00000024927
+
+Chuk	NA	Chuk	conserved helix-loop-helix ubiquitous kinase	12675	ENSMUSG00000025199
+
+Isg15	NA	Isg15	ISG15 ubiquitin-like modifier	100038882	ENSMUSG00000035692
+
+Rnf125	NA	Rnf125	ring finger protein 125	67664	ENSMUSG00000033107
+
+Irf7	NA	Irf7	interferon regulatory factor 7	54123	ENSMUSG00000025498
+
+
+
+

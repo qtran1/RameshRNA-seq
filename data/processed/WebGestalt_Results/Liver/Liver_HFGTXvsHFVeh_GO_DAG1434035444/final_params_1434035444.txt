@@ -1,0 +1,8 @@
+User file: WebGestalt_Liver_HFGTXvsHFVeh.txt
+Organism: mmusculus
+Id Type: gene_symbol
+Ref Set: entrezgene
+Significance Level: .01
+Statistics Test: Hypergeometric
+MTC: BH
+Minimum: 5
