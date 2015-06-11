@@ -1,0 +1,68 @@
+Title Making input files for GSEA
+========================================================
+
+Making the input file
+
+```{r Read data}
+liver_interaction_file <- '../data/processed/Liver_Interaction_DESeqResultsProteinCodingOnly.csv'
+wat_interaction_file <- '../data/processed/WAT_Interaction_DESeqResultsProteinCodingOnly.csv'
+liver_file <- '../data/processed/Liver_DESeqResultsProteinCodingOnly.csv'
+wat_file <- '../data/processed/WAT_DESeqResultsProteinCodingOnly.csv'
+
+#exp_filename <- "../data/processed/rpkm_table.csv"
+sample_mapping_file <- "../data/raw/sample_mapping.csv"
+liver_interxn <- read.csv(liver_interaction_file, row.names="Row.names")
+wat_interxn <- read.csv(wat_interaction_file, row.names="Row.names")
+liver <- read.csv(liver_file)
+wat <- read.csv(wat_file)
+
+```
+
+Make WebGestalt input for Liver
+-----------------
+```{r Liver, echo=FALSE}
+#HFVeh vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+liver.HFVvsNV.sig.genes <-liver_interxn[which(liver_interxn$padj.HFVeh_vs_NormVeh < 0.05),20] 
+liver.HFGTXvsNV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_NormVeh <0.05),20]
+liver.HFGTXvsHFV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_HFVeh <0.05),20]
+
+write.table(liver.HFVvsNV.sig.genes, file="../data/processed/WebGestalt_Liver_HFVvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs NormVeh
+write.table(liver.HFGTXvsNV.sig.genes, file="../data/processed/WebGestalt_Liver_HFGTXvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs HFVeh
+#get rid of NA folchanges and then order by log2 foldchange
+write.table(liver.HFGTXvsHFV.sig.genes , file="../data/processed/WebGestalt_Liver_HFGTXvsHFVeh.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+```
+
+Make WebGestalt input for WAT
+-----------------
+```{r WAT, echo=FALSE}
+#HFVeh vs NormVeh
+#get rid of NA folchanges and then order by log2 foldchange
+wat.HFVvsNV.sig.genes <-wat_interxn[which(wat_interxn$padj.HFVeh_vs_NormVeh < 0.05),20] 
+wat.HFGTXvsNV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_NormVeh <0.05),20]
+wat.HFGTXvsHFV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_HFVeh <0.05),20]
+
+write.table(wat.HFVvsNV.sig.genes, file="../data/processed/WebGestal_WAT_HFVvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs NormVeh
+write.table(wat.HFGTXvsNV.sig.genes, file="../data/processed/WebGestalt_WAT_HFGTXvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+#HFGTX vs HFVeh
+#get rid of NA folchanges and then order by log2 foldchange
+write.table(wat.HFGTXvsHFV.sig.genes , file="../data/processed/WebGestal_WAT_HFGTXvsHFVeh.txt", sep="\t", row.names=FALSE, quote=FALSE)
+
+```
+
+
+Session Information
+---------------------
+
+```{r session-information}
+sessionInfo()
+```
+
