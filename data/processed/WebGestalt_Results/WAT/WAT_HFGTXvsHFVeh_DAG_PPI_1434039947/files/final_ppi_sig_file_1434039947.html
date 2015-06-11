@@ -1,0 +1,182 @@
+<html>
+<head>
+<title>
+Anchored HTML File of EIDs</title>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/themes/base/jquery-ui.css" type="text/css" media="all" />
+<style>
+body{font-family:"Verdana", "Arial", "Helvetica", "sans-serif";font-size:10pt;margin:0;color:#000000;margin-left:50pt;margin-right:50pt;}
+a:link       { text-decoration: none; color:#4B5CC4 }
+a:visited    { text-decoration: none; color: #4B5CC4 }a:hover      { color: #4B5CC4 }
+.fake-link { color: blue; text-decoration: none; cursor: pointer; }
+</style>
+<link rel="Stylesheet" type="text/css" href="http://bioinfo.vanderbilt.edu/webgestalt/zebra1.css" />
+<link rel="Stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" />
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.21/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/cytoscapeweb/js/min/json2.min.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/cytoscapeweb/js/min/AC_OETags.min.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/cytoscapeweb/js/min/cytoscapeweb.min.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/cytoscapeWeb.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/showFunction.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/jquery-impromptu.3.2.min.js"></script>
+<script type="text/javascript" src="http://bioinfo.vanderbilt.edu/webgestalt/js/checkBoxColor.js"></script>
+</head>
+<body>
+<table>  
+<tr>
+    <td width="10%" rowspan="4" height="83">
+    <img border="0" src="http://bioinfo.vanderbilt.edu/webgestalt/gsa.jpg"></td>
+    <td width="90%" height="15"><font color="#828282">
+    <br><font face="Arial Black" size="6">WEB-based GEne SeT AnaLysis Toolkit</font><font face="Arial" size="6"><b>
+    </b></font></font></td>
+  </tr>
+  <tr>
+    <td width="90%" height="8">&nbsp;</td>
+  </tr>
+  <tr>
+  <td width="90%" height="28"><font face="Arial" color="#828282" size="4"><b><i>Translating gene lists into biological insights...</i></b></font></td>
+  </tr>
+  <tr>
+    <td width="90%" height="8">&nbsp;</td>
+  </tr>
+</table>
+<hr color="#FF9900">
+
+<br/><br/>
+<b>User data and parameters: User data: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5</b><br /><br />
+The results for each enriched gene sets are listed in this table.
+For each gene set, the first row lists database name, gene set name , and corresponding gene set ID.<br/>
+The second row lists the following statistics:<br/>
+<ul><li>C: the number of reference genes in the category</li><li>O: the number of genes in the gene set and also in the category</li><li>E: the expected number in the category</li><li>R: ratio of enrichment</li><li>rawP: p value from hypergeometric test</li><li>adjP: p value adjusted by the multiple test adjustment</li></ul>
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID, Ensembl Gene Stable ID, Gene symbol, and description. Ensembl Gene Stable ID and Entrez Gene ID are linked to the Ensembl and Entrez Gene databases, respectively.</br></br>
+<table class="zebra1">
+<thead>
+<tr>
+<th colspan="7">
+<a name = "Mmusculus_Module_185"><font color="black"><b>Database:PPI&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspName:Mmusculus_Module_185&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspID:DB_ID:185</b></font><span class="fake-link" onclick="showFunction(this,'mmusculus','185');" title="Clicking this button will show Gene Ontology terms related to the enriched network module"><font color="red"><b>  Related Function |</b></span>
+<span class="fake-link" onclick="cytoScapeWeb('mmusculus','185','Ldlr^Gulp1^Ctgf^Mmp12^Vwf^Adam28','');" title="Clicking this button will visualize a network graph contained input genes (in green) and their direct neighbors (in white) in the enriched module"><font color="blue"><b>  Network View</b></span>
+</a></th>
+</tr>
+<tr>
+<th colspan="7">
+C=235; O=6; E=1.18; R=5.08; rawP=0.0012; adjP=0.0096</th>
+</tr>
+<tr>
+<th class="tableIn" width="10%">Index</th>
+<th width="7%">UserID</th>
+<th width="6%">Value</th>
+<th nowrap width="11%">Gene Symbol</th>
+<th width="40%">Gene Name</th>
+<th width="10%">EntrezGene</th>
+<th width="16%">Ensembl</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="white">
+<td class="tableIn">
+1&nbsp<input type="checkbox"></td><td>
+<font color="black">Ldlr</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Ldlr</font></td>
+<td>
+<font color="black">low density lipoprotein receptor</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=16835">16835</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000032193" target="_blank">ENSMUSG00000032193</a> </td>
+</tr>
+<tr bgcolor="#e6f4d6">
+<td class="tableIn">
+2&nbsp<input type="checkbox"></td><td>
+<font color="black">Gulp1</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Gulp1</font></td>
+<td>
+<font color="black">GULP, engulfment adaptor PTB domain containing 1</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=70676">70676</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000056870" target="_blank">ENSMUSG00000056870</a> </td>
+</tr>
+<tr bgcolor="white">
+<td class="tableIn">
+3&nbsp<input type="checkbox"></td><td>
+<font color="black">Ctgf</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Ctgf</font></td>
+<td>
+<font color="black">connective tissue growth factor</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=14219">14219</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000019997" target="_blank">ENSMUSG00000019997</a> </td>
+</tr>
+<tr bgcolor="#e6f4d6">
+<td class="tableIn">
+4&nbsp<input type="checkbox"></td><td>
+<font color="black">Mmp12</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Mmp12</font></td>
+<td>
+<font color="black">matrix metallopeptidase 12</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=17381">17381</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000049723" target="_blank">ENSMUSG00000049723</a> </td>
+</tr>
+<tr bgcolor="white">
+<td class="tableIn">
+5&nbsp<input type="checkbox"></td><td>
+<font color="black">Vwf</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Vwf</font></td>
+<td>
+<font color="black">Von Willebrand factor homolog</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=22371">22371</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000001930" target="_blank">ENSMUSG00000001930</a> </td>
+</tr>
+<tr bgcolor="#e6f4d6">
+<td class="tableIn">
+6&nbsp<input type="checkbox"></td><td>
+<font color="black">Adam28</font></td>
+<td>
+<font>NA</font></td>
+<td>
+<font color="black">Adam28</font></td>
+<td>
+<font color="black">a disintegrin and metallopeptidase domain 28</font></td>
+<td>
+<a target="entrez" href="http://www.ncbi.nlm.nih.gov/sites/entrez?db=gene&cmd=Retrieve&dopt=Graphics&list_uids=13522">13522</a>
+</td>
+<td>
+<a href="http://www.ensembl.org/Mus_musculus/Gene/Summary?g=ENSMUSG00000014725" target="_blank">ENSMUSG00000014725</a> </td>
+</tr>
+</tbody></table><br/><br/>
+<br/><br/>
+
+<hr color="#FF9900">
+<p style="margin-top: 0; margin-bottom: 0" align="left"><font face="Arial" size="2">
+WebGestalt is currently developed and maintained by Jing Wang and Bing Zhang at the <a href=http://bioinfo.vanderbilt.edu/zhanglab> Zhang Lab</a>. Other people who have made significant contribution to the project include Dexter Duncan, Stefan Kirov, Zhiao Shi, and Jay Snoddy.<br><br>
+<b>Funding credits:</b> NIH/NIAAA (U01 AA016662, U01 AA013512); NIH/NIDA (P01 DA015027); NIH/NIMH (P50 MH078028, P50 MH096972); NIH/NCI (U24 CA159988); NIH/NIGMS (R01 GM088822).
+<br><br> 
+
+<br/><br/>
+</body>
+</html>

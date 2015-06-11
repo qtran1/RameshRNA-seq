@@ -1,0 +1,1929 @@
+User data and parameters: User data: WebGestalt_WAT_HFGTXvsNV.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each target, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+microRNA Target	mmu_GTGCCTT,MIR-506	DB_ID:491
+C=666;O=27;E=6.80;R=3.97;rawP=2.14e-09;adjP=1.41e-07
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Fam174b	NA	Fam174b	family with sequence similarity 174, member B	100038347	ENSMUSG00000078670
+
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Plp2	NA	Plp2	proteolipid protein 2	18824	ENSMUSG00000031146
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Shc4	NA	Shc4	SHC (Src homology 2 domain containing) family, member 4	271849	ENSMUSG00000035109
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+Galnt9	NA	Galnt9	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9	231605	ENSMUSG00000033316
+
+Arhgef40	NA	Arhgef40	Rho guanine nucleotide exchange factor (GEF) 40	268739	ENSMUSG00000004562
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Ubxn1	NA	Ubxn1	UBX domain protein 1	225896	ENSMUSG00000071655
+
+Zkscan3	NA	Zkscan3	zinc finger with KRAB and SCAN domains 3	72739	ENSMUSG00000021327
+
+Slc9a2	NA	Slc9a2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	226999	ENSMUSG00000026062
+
+Grasp	NA	Grasp	GRP1 (general receptor for phosphoinositides 1)-associated scaffold protein	56149	ENSMUSG00000000531
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Serinc2	NA	Serinc2	serine incorporator 2	230779	ENSMUSG00000023232
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Galnt10	NA	Galnt10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10	171212	ENSMUSG00000020520
+
+Pip4k2c	NA	Pip4k2c	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma	117150	ENSMUSG00000025417
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Tpst2	NA	Tpst2	protein-tyrosine sulfotransferase 2	22022	ENSMUSG00000029344
+
+
+microRNA Target	mmu_TGTTTAC,MIR-30A-5P,MIR-30C,MIR-30D,MIR-30B,MIR-30E-5P	DB_ID:446
+C=540;O=24;E=5.52;R=4.35;rawP=2.87e-09;adjP=1.41e-07
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Ddit4	NA	Ddit4	DNA-damage-inducible transcript 4	74747	ENSMUSG00000020108
+
+Rab8a	NA	Rab8a	RAB8A, member RAS oncogene family	17274	ENSMUSG00000003037
+
+Ppid	NA	Ppid	peptidylprolyl isomerase D (cyclophilin D)	67738	ENSMUSG00000027804
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Mbnl3	NA	Mbnl3	muscleblind-like 3 (Drosophila)	171170	ENSMUSG00000036109
+
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Herc2	NA	Herc2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2	15204	ENSMUSG00000030451
+
+Urm1	NA	Urm1	ubiquitin related modifier 1 homolog (S. cerevisiae)	68205	ENSMUSG00000069020
+
+Mtcp1	NA	Mtcp1	mature T cell proliferation 1	17763	ENSMUSG00000031200,ENSMUSG00000090110
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Sbk1	NA	Sbk1	SH3-binding kinase 1	104175	ENSMUSG00000042978
+
+Serpine1	NA	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	18787	ENSMUSG00000037411
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Slc41a2	NA	Slc41a2	solute carrier family 41, member 2	338365	ENSMUSG00000034591
+
+Fam83f	NA	Fam83f	family with sequence similarity 83, member F	213956	ENSMUSG00000022408
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_ACTGTGA,MIR-27A,MIR-27B	DB_ID:473
+C=438;O=21;E=4.47;R=4.69;rawP=7.59e-09;adjP=2.48e-07
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Rcan2	NA	Rcan2	regulator of calcineurin 2	53901	ENSMUSG00000039601
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Gata2	NA	Gata2	GATA binding protein 2	14461	ENSMUSG00000015053
+
+Mapk8ip3	NA	Mapk8ip3	mitogen-activated protein kinase 8 interacting protein 3	30957	ENSMUSG00000024163
+
+Pde3a	NA	Pde3a	phosphodiesterase 3A, cGMP inhibited	54611	ENSMUSG00000041741
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+Klhl4	NA	Klhl4	kelch-like 4 (Drosophila)	237010	ENSMUSG00000025597
+
+Nfe2l2	NA	Nfe2l2	nuclear factor, erythroid derived 2, like 2	18024	ENSMUSG00000015839
+
+Cacna2d3	NA	Cacna2d3	calcium channel, voltage-dependent, alpha2/delta subunit 3	12294	ENSMUSG00000021991
+
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Mfsd2a	NA	Mfsd2a	major facilitator superfamily domain containing 2A	76574	ENSMUSG00000028655
+
+Litaf	NA	Litaf	LPS-induced TN factor	56722	ENSMUSG00000022500
+
+Clk1	NA	Clk1	CDC-like kinase 1	12747	ENSMUSG00000026034
+
+Fam193b	NA	Fam193b	family with sequence similarity 193, member B	212483	ENSMUSG00000021495
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Gosr2	NA	Gosr2	golgi SNAP receptor complex member 2	56494	ENSMUSG00000020946
+
+Foxp2	NA	Foxp2	forkhead box P2	114142	ENSMUSG00000029563
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_ATGCTGG,MIR-338	DB_ID:584
+C=105;O=11;E=1.07;R=10.26;rawP=1.21e-08;adjP=2.96e-07
+Arhgef10l	NA	Arhgef10l	Rho guanine nucleotide exchange factor (GEF) 10-like	72754	ENSMUSG00000040964
+
+Mycbp2	NA	Mycbp2	MYC binding protein 2	105689	ENSMUSG00000033004
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Smtn	NA	Smtn	smoothelin	29856	ENSMUSG00000020439
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Amfr	NA	Amfr	autocrine motility factor receptor	23802	ENSMUSG00000031751
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Actr2	NA	Actr2	ARP2 actin-related protein 2	66713	ENSMUSG00000020152
+
+Zc3h7a	NA	Zc3h7a	zinc finger CCCH type containing 7 A	106205	ENSMUSG00000037965
+
+Rps19	NA	Rps19	ribosomal protein S19	20085	ENSMUSG00000040952
+
+
+microRNA Target	mmu_GCAAAAA,MIR-129	DB_ID:577
+C=167;O=13;E=1.71;R=7.62;rawP=2.16e-08;adjP=4.23e-07
+Dusp10	NA	Dusp10	dual specificity phosphatase 10	63953	ENSMUSG00000039384
+
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Agap1	NA	Agap1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1	347722	ENSMUSG00000055013
+
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Sbk1	NA	Sbk1	SH3-binding kinase 1	104175	ENSMUSG00000042978
+
+Kctd1	NA	Kctd1	potassium channel tetramerisation domain containing 1	106931	ENSMUSG00000036225
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Hmgb1	NA	Hmgb1	high mobility group box 1	15289	ENSMUSG00000066551
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_TTTTGAG,MIR-373	DB_ID:623
+C=209;O=14;E=2.13;R=6.56;rawP=4.17e-08;adjP=5.84e-07
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+Leng8	NA	Leng8	leukocyte receptor cluster (LRC) member 8	232798	ENSMUSG00000035545
+
+Ptpn5	NA	Ptpn5	protein tyrosine phosphatase, non-receptor type 5	19259	ENSMUSG00000030854
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Itga10	NA	Itga10	integrin, alpha 10	213119	ENSMUSG00000090210
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Eif4a1	NA	Eif4a1	eukaryotic translation initiation factor 4A1	13681	ENSMUSG00000059796
+
+Krit1	NA	Krit1	KRIT1, ankyrin repeat containing	79264	ENSMUSG00000000600
+
+Tmed9	NA	Tmed9	transmembrane emp24 protein transport domain containing 9	67511	ENSMUSG00000058569
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Actr2	NA	Actr2	ARP2 actin-related protein 2	66713	ENSMUSG00000020152
+
+Dlg4	NA	Dlg4	discs, large homolog 4 (Drosophila)	13385	ENSMUSG00000020886
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Nploc4	NA	Nploc4	nuclear protein localization 4 homolog (S. cerevisiae)	217365	ENSMUSG00000039703
+
+
+microRNA Target	mmu_GGCAGTG,MIR-324-3P	DB_ID:573
+C=92;O=10;E=0.94;R=10.64;rawP=3.90e-08;adjP=5.84e-07
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Slc20a1	NA	Slc20a1	solute carrier family 20, member 1	20515	ENSMUSG00000027397
+
+Klhdc10	NA	Klhdc10	kelch domain containing 10	76788	ENSMUSG00000029775
+
+Shc4	NA	Shc4	SHC (Src homology 2 domain containing) family, member 4	271849	ENSMUSG00000035109
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Stip1	NA	Stip1	stress-induced phosphoprotein 1	20867	ENSMUSG00000024966
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Cacna2d3	NA	Cacna2d3	calcium channel, voltage-dependent, alpha2/delta subunit 3	12294	ENSMUSG00000021991
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+
+microRNA Target	mmu_TGCTGCT,MIR-15A,MIR-16,MIR-15B,MIR-195,MIR-424,MIR-497	DB_ID:445
+C=560;O=22;E=5.72;R=3.85;rawP=1.13e-07;adjP=1.11e-06
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Ano3	NA	Ano3	anoctamin 3	228432	ENSMUSG00000074968
+
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Kctd1	NA	Kctd1	potassium channel tetramerisation domain containing 1	106931	ENSMUSG00000036225
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Actr2	NA	Actr2	ARP2 actin-related protein 2	66713	ENSMUSG00000020152
+
+Armcx2	NA	Armcx2	armadillo repeat containing, X-linked 2	67416	ENSMUSG00000033436
+
+Cldn2	NA	Cldn2	claudin 2	12738	ENSMUSG00000047230
+
+Klc4	NA	Klc4	kinesin light chain 4	74764	ENSMUSG00000003546
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+Zmym6	NA	Zmym6	zinc finger, MYM-type 6	100177	ENSMUSG00000042408
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Litaf	NA	Litaf	LPS-induced TN factor	56722	ENSMUSG00000022500
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Zyx	NA	Zyx	zyxin	22793	ENSMUSG00000029860
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_TGCCTTA,MIR-124A	DB_ID:590
+C=507;O=21;E=5.18;R=4.06;rawP=9.15e-08;adjP=1.11e-06
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Sec61a2	NA	Sec61a2	Sec61, alpha subunit 2 (S. cerevisiae)	57743	ENSMUSG00000025816
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Gpc4	NA	Gpc4	glypican 4	14735	ENSMUSG00000031119
+
+Slc35b2	NA	Slc35b2	solute carrier family 35, member B2	73836	ENSMUSG00000037089
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Ptpn1	NA	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	19246	ENSMUSG00000027540
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Litaf	NA	Litaf	LPS-induced TN factor	56722	ENSMUSG00000022500
+
+Serinc2	NA	Serinc2	serine incorporator 2	230779	ENSMUSG00000023232
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Nploc4	NA	Nploc4	nuclear protein localization 4 homolog (S. cerevisiae)	217365	ENSMUSG00000039703
+
+
+microRNA Target	mmu_AACATTC,MIR-409-3P	DB_ID:598
+C=130;O=11;E=1.33;R=8.28;rawP=1.12e-07;adjP=1.11e-06
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Alpl	NA	Alpl	alkaline phosphatase, liver/bone/kidney	11647	ENSMUSG00000028766
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Edn1	NA	Edn1	endothelin 1	13614	ENSMUSG00000021367
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Amfr	NA	Amfr	autocrine motility factor receptor	23802	ENSMUSG00000031751
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Elovl4	NA	Elovl4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	83603	ENSMUSG00000032262
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+
+microRNA Target	mmu_GCTTGAA,MIR-498	DB_ID:517
+C=105;O=10;E=1.07;R=9.32;rawP=1.39e-07;adjP=1.24e-06
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Rbpms	NA	Rbpms	RNA binding protein gene with multiple splicing	19663	ENSMUSG00000031586
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Cacna2d3	NA	Cacna2d3	calcium channel, voltage-dependent, alpha2/delta subunit 3	12294	ENSMUSG00000021991
+
+Rnf149	NA	Rnf149	ring finger protein 149	67702	ENSMUSG00000048234
+
+
+microRNA Target	mmu_AATGTGA,MIR-23A,MIR-23B	DB_ID:462
+C=391;O=18;E=3.99;R=4.51;rawP=1.62e-07;adjP=1.32e-06
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Atp6v1b2	NA	Atp6v1b2	ATPase, H+ transporting, lysosomal V1 subunit B2	11966	ENSMUSG00000006273
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Gpc4	NA	Gpc4	glypican 4	14735	ENSMUSG00000031119
+
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Spock1	NA	Spock1	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 1	20745	ENSMUSG00000056222
+
+Intu	NA	Intu	inturned planar cell polarity effector homolog (Drosophila)	380614	ENSMUSG00000060798
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Ctnnbip1	NA	Ctnnbip1	catenin beta interacting protein 1	67087	ENSMUSG00000028988
+
+
+microRNA Target	mmu_AACTGGA,MIR-145	DB_ID:614
+C=213;O=13;E=2.18;R=5.98;rawP=3.70e-07;adjP=2.79e-06
+Angpt2	NA	Angpt2	angiopoietin 2	11601	ENSMUSG00000031465
+
+Rbpms	NA	Rbpms	RNA binding protein gene with multiple splicing	19663	ENSMUSG00000031586
+
+Leng8	NA	Leng8	leukocyte receptor cluster (LRC) member 8	232798	ENSMUSG00000035545
+
+Slc6a15	NA	Slc6a15	solute carrier family 6 (neurotransmitter transporter), member 15	103098	ENSMUSG00000019894
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+Lox	NA	Lox	lysyl oxidase	16948	ENSMUSG00000024529
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Ccnl1	NA	Ccnl1	cyclin L1	56706	ENSMUSG00000027829
+
+Ggt7	NA	Ggt7	gamma-glutamyltransferase 7	207182	ENSMUSG00000027603
+
+Ctnnbip1	NA	Ctnnbip1	catenin beta interacting protein 1	67087	ENSMUSG00000028988
+
+
+microRNA Target	mmu_CCTGCTG,MIR-214	DB_ID:567
+C=223;O=13;E=2.28;R=5.71;rawP=6.23e-07;adjP=4.36e-06
+Trappc3	NA	Trappc3	trafficking protein particle complex 3	27096	ENSMUSG00000028847
+
+Snhg11	NA	Snhg11	small nucleolar RNA host gene 11	319317	ENSMUSG00000044349
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Zmym6	NA	Zmym6	zinc finger, MYM-type 6	100177	ENSMUSG00000042408
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Acly	NA	Acly	ATP citrate lyase	104112	ENSMUSG00000020917
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Lmod1	NA	Lmod1	leiomodin 1 (smooth muscle)	93689	ENSMUSG00000048096
+
+Pdrg1	NA	Pdrg1	p53 and DNA damage regulated 1	68559	ENSMUSG00000027472
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+
+microRNA Target	mmu_CTTTGTA,MIR-524	DB_ID:581
+C=415;O=17;E=4.24;R=4.01;rawP=1.76e-06;adjP=1.15e-05
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Adra2c	NA	Adra2c	adrenergic receptor, alpha 2c	11553	ENSMUSG00000045318
+
+Rcan2	NA	Rcan2	regulator of calcineurin 2	53901	ENSMUSG00000039601
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Lrrc32	NA	Lrrc32	leucine rich repeat containing 32	434215	ENSMUSG00000090958
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Tuft1	NA	Tuft1	tuftelin 1	22156	ENSMUSG00000005968
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Gnl1	NA	Gnl1	guanine nucleotide binding protein-like 1	14670	ENSMUSG00000024429
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+Lingo1	NA	Lingo1	leucine rich repeat and Ig domain containing 1	235402	ENSMUSG00000049556
+
+
+microRNA Target	mmu_TTTGCAC,MIR-19A,MIR-19B	DB_ID:475
+C=485;O=18;E=4.95;R=3.63;rawP=3.51e-06;adjP=2.15e-05
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Ano3	NA	Ano3	anoctamin 3	228432	ENSMUSG00000074968
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Atp6v1b2	NA	Atp6v1b2	ATPase, H+ transporting, lysosomal V1 subunit B2	11966	ENSMUSG00000006273
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Gulp1	NA	Gulp1	GULP, engulfment adaptor PTB domain containing 1	70676	ENSMUSG00000056870
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Csmd1	NA	Csmd1	CUB and Sushi multiple domains 1	94109	ENSMUSG00000060924
+
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Slc9a2	NA	Slc9a2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	226999	ENSMUSG00000026062
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Ccnl1	NA	Ccnl1	cyclin L1	56706	ENSMUSG00000027829
+
+
+microRNA Target	mmu_TGAATGT,MIR-181A,MIR-181B,MIR-181C,MIR-181D	DB_ID:448
+C=444;O=17;E=4.54;R=3.75;rawP=4.33e-06;adjP=2.50e-05
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Lrrc32	NA	Lrrc32	leucine rich repeat containing 32	434215	ENSMUSG00000090958
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Cyr61	NA	Cyr61	cysteine rich protein 61	16007	ENSMUSG00000028195
+
+Slc25a37	NA	Slc25a37	solute carrier family 25, member 37	67712	ENSMUSG00000034248
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Ggt7	NA	Ggt7	gamma-glutamyltransferase 7	207182	ENSMUSG00000027603
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_GTATTAT,MIR-369-3P	DB_ID:515
+C=190;O=11;E=1.94;R=5.67;rawP=4.83e-06;adjP=2.63e-05
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Agap1	NA	Agap1	ArfGAP with GTPase domain, ankyrin repeat and PH domain 1	347722	ENSMUSG00000055013
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Amfr	NA	Amfr	autocrine motility factor receptor	23802	ENSMUSG00000031751
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Spag7	NA	Spag7	sperm associated antigen 7	216873	ENSMUSG00000018287
+
+Glrb	NA	Glrb	glycine receptor, beta subunit	14658	ENSMUSG00000028020
+
+
+microRNA Target	mmu_ACATTCC,MIR-1,MIR-206	DB_ID:459
+C=275;O=13;E=2.81;R=4.63;rawP=6.29e-06;adjP=3.24e-05
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Trappc3	NA	Trappc3	trafficking protein particle complex 3	27096	ENSMUSG00000028847
+
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Edn1	NA	Edn1	endothelin 1	13614	ENSMUSG00000021367
+
+Rcan2	NA	Rcan2	regulator of calcineurin 2	53901	ENSMUSG00000039601
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Dlg4	NA	Dlg4	discs, large homolog 4 (Drosophila)	13385	ENSMUSG00000020886
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+Prex1	NA	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	277360	ENSMUSG00000039621
+
+
+microRNA Target	mmu_CTACTGT,MIR-199A	DB_ID:510
+C=166;O=10;E=1.70;R=5.90;rawP=9.17e-06;adjP=4.49e-05
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Ptpn5	NA	Ptpn5	protein tyrosine phosphatase, non-receptor type 5	19259	ENSMUSG00000030854
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Plod2	NA	Plod2	procollagen lysine, 2-oxoglutarate 5-dioxygenase 2	26432	ENSMUSG00000032374
+
+Nfe2l2	NA	Nfe2l2	nuclear factor, erythroid derived 2, like 2	18024	ENSMUSG00000015839
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_ATGCTGC,MIR-103,MIR-107	DB_ID:482
+C=208;O=11;E=2.12;R=5.18;rawP=1.14e-05;adjP=5.08e-05
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Ano3	NA	Ano3	anoctamin 3	228432	ENSMUSG00000074968
+
+Herc2	NA	Herc2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2	15204	ENSMUSG00000030451
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Pacsin1	NA	Pacsin1	protein kinase C and casein kinase substrate in neurons 1	23969	ENSMUSG00000040276
+
+Dlg4	NA	Dlg4	discs, large homolog 4 (Drosophila)	13385	ENSMUSG00000020886
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_TGGTGCT,MIR-29A,MIR-29B,MIR-29C	DB_ID:450
+C=478;O=17;E=4.88;R=3.48;rawP=1.13e-05;adjP=5.08e-05
+Xkr7	NA	Xkr7	X Kell blood group precursor related family member 7 homolog	228787	ENSMUSG00000042631
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Spry1	NA	Spry1	sprouty homolog 1 (Drosophila)	24063	ENSMUSG00000037211
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Esyt3	NA	Esyt3	extended synaptotagmin-like protein 3	272636	ENSMUSG00000037681
+
+Myl6	NA	Myl6	myosin, light polypeptide 6, alkali, smooth muscle and non-muscle	17904	ENSMUSG00000090841
+
+Etv4	NA	Etv4	ets variant gene 4 (E1A enhancer binding protein, E1AF)	18612	ENSMUSG00000017724
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Coro6	NA	Coro6	coronin 6	216961	ENSMUSG00000020836
+
+Pi15	NA	Pi15	peptidase inhibitor 15	94227	ENSMUSG00000067780
+
+Tubb2b	NA	Tubb2b	tubulin, beta 2B class IIB	73710	ENSMUSG00000045136
+
+Fam193b	NA	Fam193b	family with sequence similarity 193, member B	212483	ENSMUSG00000021495
+
+Tmed9	NA	Tmed9	transmembrane emp24 protein transport domain containing 9	67511	ENSMUSG00000058569
+
+Elovl4	NA	Elovl4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	83603	ENSMUSG00000032262
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+Ctnnbip1	NA	Ctnnbip1	catenin beta interacting protein 1	67087	ENSMUSG00000028988
+
+
+microRNA Target	mmu_CATTTCA,MIR-203	DB_ID:495
+C=267;O=12;E=2.73;R=4.40;rawP=2.34e-05;adjP=9.97e-05
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Ap1s2	NA	Ap1s2	adaptor-related protein complex 1, sigma 2 subunit	108012	ENSMUSG00000031367
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Zmym4	NA	Zmym4	zinc finger, MYM-type 4	67785	ENSMUSG00000042446
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Edn1	NA	Edn1	endothelin 1	13614	ENSMUSG00000021367
+
+Ypel4	NA	Ypel4	yippee-like 4 (Drosophila)	241525	ENSMUSG00000034059
+
+Glrb	NA	Glrb	glycine receptor, beta subunit	14658	ENSMUSG00000028020
+
+
+microRNA Target	mmu_GTACTGT,MIR-101	DB_ID:544
+C=230;O=11;E=2.35;R=4.68;rawP=2.89e-05;adjP=0.0001
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Ddit4	NA	Ddit4	DNA-damage-inducible transcript 4	74747	ENSMUSG00000020108
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Ppfia1	NA	Ppfia1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	233977	ENSMUSG00000037519
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Gltscr1	NA	Gltscr1	glioma tumor suppressor candidate region gene 1	243842	ENSMUSG00000070808
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Cttnbp2	NA	Cttnbp2	cortactin binding protein 2	30785	ENSMUSG00000000416
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+
+microRNA Target	mmu_TACTTGA,MIR-26A,MIR-26B	DB_ID:466
+C=279;O=12;E=2.85;R=4.21;rawP=3.59e-05;adjP=0.0001
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Tmem200b	NA	Tmem200b	transmembrane protein 200B	623230	ENSMUSG00000070720
+
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Intu	NA	Intu	inturned planar cell polarity effector homolog (Drosophila)	380614	ENSMUSG00000060798
+
+Stac2	NA	Stac2	SH3 and cysteine rich domain 2	217154	ENSMUSG00000017400
+
+Gsk3b	NA	Gsk3b	glycogen synthase kinase 3 beta	56637	ENSMUSG00000022812
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Plod2	NA	Plod2	procollagen lysine, 2-oxoglutarate 5-dioxygenase 2	26432	ENSMUSG00000032374
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Celsr1	NA	Celsr1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	12614	ENSMUSG00000016028
+
+
+microRNA Target	mmu_TTGCACT,MIR-130A,MIR-301,MIR-130B	DB_ID:455
+C=370;O=14;E=3.78;R=3.70;rawP=3.39e-05;adjP=0.0001
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Slc9a2	NA	Slc9a2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	226999	ENSMUSG00000026062
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Atp6v1b2	NA	Atp6v1b2	ATPase, H+ transporting, lysosomal V1 subunit B2	11966	ENSMUSG00000006273
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Csmd1	NA	Csmd1	CUB and Sushi multiple domains 1	94109	ENSMUSG00000060924
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_AAAGGAT,MIR-501	DB_ID:508
+C=118;O=8;E=1.21;R=6.64;rawP=3.09e-05;adjP=0.0001
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Apold1	NA	Apold1	apolipoprotein L domain containing 1	381823	ENSMUSG00000090698
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Clk1	NA	Clk1	CDC-like kinase 1	12747	ENSMUSG00000026034
+
+Zc3h7a	NA	Zc3h7a	zinc finger CCCH type containing 7 A	106205	ENSMUSG00000037965
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+
+microRNA Target	mmu_TGCAAAC,MIR-452	DB_ID:651
+C=101;O=7;E=1.03;R=6.79;rawP=8.41e-05;adjP=0.0002
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Leng8	NA	Leng8	leukocyte receptor cluster (LRC) member 8	232798	ENSMUSG00000035545
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Cyr61	NA	Cyr61	cysteine rich protein 61	16007	ENSMUSG00000028195
+
+Ggt7	NA	Ggt7	gamma-glutamyltransferase 7	207182	ENSMUSG00000027603
+
+Lingo1	NA	Lingo1	leucine rich repeat and Ig domain containing 1	235402	ENSMUSG00000049556
+
+
+microRNA Target	mmu_AAGCCAT,MIR-135A,MIR-135B	DB_ID:481
+C=307;O=12;E=3.14;R=3.83;rawP=8.95e-05;adjP=0.0002
+Creg1	NA	Creg1	cellular repressor of E1A-stimulated genes 1	433375	ENSMUSG00000040713
+
+Slc5a7	NA	Slc5a7	solute carrier family 5 (choline transporter), member 7	63993	ENSMUSG00000023945
+
+Spock1	NA	Spock1	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 1	20745	ENSMUSG00000056222
+
+Cttnbp2	NA	Cttnbp2	cortactin binding protein 2	30785	ENSMUSG00000000416
+
+Kctd1	NA	Kctd1	potassium channel tetramerisation domain containing 1	106931	ENSMUSG00000036225
+
+B4galnt1	NA	B4galnt1	beta-1,4-N-acetyl-galactosaminyl transferase 1	14421	ENSMUSG00000006731
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Lcp1	NA	Lcp1	lymphocyte cytosolic protein 1	18826	ENSMUSG00000021998
+
+Akr1a1	NA	Akr1a1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	58810	ENSMUSG00000028692
+
+Atp2b4	NA	Atp2b4	ATPase, Ca++ transporting, plasma membrane 4	381290	ENSMUSG00000026463
+
+Glrb	NA	Glrb	glycine receptor, beta subunit	14658	ENSMUSG00000028020
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_TTGGAGA,MIR-515-5P,MIR-519E	DB_ID:477
+C=134;O=8;E=1.37;R=5.84;rawP=7.64e-05;adjP=0.0002
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Slc9a2	NA	Slc9a2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	226999	ENSMUSG00000026062
+
+Cyr61	NA	Cyr61	cysteine rich protein 61	16007	ENSMUSG00000028195
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Cmtm6	NA	Cmtm6	CKLF-like MARVEL transmembrane domain containing 6	67213	ENSMUSG00000032434
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+
+microRNA Target	mmu_CAGCTTT,MIR-320	DB_ID:561
+C=241;O=11;E=2.46;R=4.47;rawP=4.42e-05;adjP=0.0002
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Armcx2	NA	Armcx2	armadillo repeat containing, X-linked 2	67416	ENSMUSG00000033436
+
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Klhdc9	NA	Klhdc9	kelch domain containing 9	68874	ENSMUSG00000045259
+
+Mapk8ip3	NA	Mapk8ip3	mitogen-activated protein kinase 8 interacting protein 3	30957	ENSMUSG00000024163
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+Gcnt4	NA	Gcnt4	glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	218476	ENSMUSG00000091387
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+Trmu	NA	Trmu	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase	72026	ENSMUSG00000022386
+
+
+microRNA Target	mmu_AAAGGGA,MIR-204,MIR-211	DB_ID:461
+C=209;O=10;E=2.13;R=4.68;rawP=6.58e-05;adjP=0.0002
+Alpl	NA	Alpl	alkaline phosphatase, liver/bone/kidney	11647	ENSMUSG00000028766
+
+P4hb	NA	P4hb	prolyl 4-hydroxylase, beta polypeptide	18453	ENSMUSG00000025130
+
+Sec61a2	NA	Sec61a2	Sec61, alpha subunit 2 (S. cerevisiae)	57743	ENSMUSG00000025816
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Kctd1	NA	Kctd1	potassium channel tetramerisation domain containing 1	106931	ENSMUSG00000036225
+
+Arap2	NA	Arap2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2	212285	ENSMUSG00000037999
+
+Ephb6	NA	Ephb6	Eph receptor B6	13848	ENSMUSG00000029869
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+
+microRNA Target	mmu_CACTGCC,MIR-34A,MIR-34C,MIR-449	DB_ID:452
+C=261;O=11;E=2.67;R=4.13;rawP=9.01e-05;adjP=0.0002
+Abcf3	NA	Abcf3	ATP-binding cassette, sub-family F (GCN20), member 3	27406	ENSMUSG00000003234
+
+Ppfia1	NA	Ppfia1	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 1	233977	ENSMUSG00000037519
+
+Zmym4	NA	Zmym4	zinc finger, MYM-type 4	67785	ENSMUSG00000042446
+
+Ergic1	NA	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	67458	ENSMUSG00000001576
+
+Sbk1	NA	Sbk1	SH3-binding kinase 1	104175	ENSMUSG00000042978
+
+Stac2	NA	Stac2	SH3 and cysteine rich domain 2	217154	ENSMUSG00000017400
+
+Serpine1	NA	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1	18787	ENSMUSG00000037411
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Ap2s1	NA	Ap2s1	adaptor-related protein complex 2, sigma 1 subunit	232910	ENSMUSG00000008036
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_GAGCCAG,MIR-149	DB_ID:574
+C=136;O=8;E=1.39;R=5.76;rawP=8.47e-05;adjP=0.0002
+Acly	NA	Acly	ATP citrate lyase	104112	ENSMUSG00000020917
+
+Dlg4	NA	Dlg4	discs, large homolog 4 (Drosophila)	13385	ENSMUSG00000020886
+
+Ccni	NA	Ccni	cyclin I	12453	ENSMUSG00000063015
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Esyt3	NA	Esyt3	extended synaptotagmin-like protein 3	272636	ENSMUSG00000037681
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+Zmat4	NA	Zmat4	zinc finger, matrin type 4	320158	ENSMUSG00000037492
+
+
+microRNA Target	mmu_TGCTTTG,MIR-330	DB_ID:622
+C=307;O=12;E=3.14;R=3.83;rawP=8.95e-05;adjP=0.0002
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Esyt3	NA	Esyt3	extended synaptotagmin-like protein 3	272636	ENSMUSG00000037681
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Pou3f1	NA	Pou3f1	POU domain, class 3, transcription factor 1	18991	ENSMUSG00000090125
+
+Gnl1	NA	Gnl1	guanine nucleotide binding protein-like 1	14670	ENSMUSG00000024429
+
+Armcx6	NA	Armcx6	armadillo repeat containing, X-linked 6	278097	ENSMUSG00000050394
+
+
+microRNA Target	mmu_AGGGCAG,MIR-18A	DB_ID:502
+C=129;O=8;E=1.32;R=6.07;rawP=5.84e-05;adjP=0.0002
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Ensa	NA	Ensa	endosulfine alpha	56205	ENSMUSG00000038619
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Mapk8ip3	NA	Mapk8ip3	mitogen-activated protein kinase 8 interacting protein 3	30957	ENSMUSG00000024163
+
+Gata2	NA	Gata2	GATA binding protein 2	14461	ENSMUSG00000015053
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_GCACCTT,MIR-18A,MIR-18B	DB_ID:487
+C=108;O=7;E=1.10;R=6.35;rawP=0.0001;adjP=0.0003
+Pacsin1	NA	Pacsin1	protein kinase C and casein kinase substrate in neurons 1	23969	ENSMUSG00000040276
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Glrb	NA	Glrb	glycine receptor, beta subunit	14658	ENSMUSG00000028020
+
+Gigyf1	NA	Gigyf1	GRB10 interacting GYF protein 1	57330	ENSMUSG00000029714
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_ATGAAGG,MIR-205	DB_ID:557
+C=143;O=8;E=1.46;R=5.48;rawP=0.0001;adjP=0.0003
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Amot	NA	Amot	angiomotin	27494	ENSMUSG00000041688
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+
+microRNA Target	mmu_TCATCTC,MIR-143	DB_ID:601
+C=140;O=8;E=1.43;R=5.59;rawP=0.0001;adjP=0.0003
+Ensa	NA	Ensa	endosulfine alpha	56205	ENSMUSG00000038619
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Esyt3	NA	Esyt3	extended synaptotagmin-like protein 3	272636	ENSMUSG00000037681
+
+Hmbs	NA	Hmbs	hydroxymethylbilane synthase	15288	ENSMUSG00000032126
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+
+microRNA Target	mmu_ACCATTT,MIR-522	DB_ID:607
+C=149;O=8;E=1.52;R=5.26;rawP=0.0002;adjP=0.0004
+Armcx2	NA	Armcx2	armadillo repeat containing, X-linked 2	67416	ENSMUSG00000033436
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Ptpn1	NA	Ptpn1	protein tyrosine phosphatase, non-receptor type 1	19246	ENSMUSG00000027540
+
+Mycbp2	NA	Mycbp2	MYC binding protein 2	105689	ENSMUSG00000033004
+
+Zc3h7a	NA	Zc3h7a	zinc finger CCCH type containing 7 A	106205	ENSMUSG00000037965
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+Nfe2l2	NA	Nfe2l2	nuclear factor, erythroid derived 2, like 2	18024	ENSMUSG00000015839
+
+Perp	NA	Perp	PERP, TP53 apoptosis effector	64058	ENSMUSG00000019851
+
+
+microRNA Target	mmu_TTTGTAG,MIR-520D	DB_ID:589
+C=327;O=12;E=3.34;R=3.59;rawP=0.0002;adjP=0.0004
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Serpinf2	NA	Serpinf2	serine (or cysteine) peptidase inhibitor, clade F, member 2	18816	ENSMUSG00000038224
+
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Ddit4l	NA	Ddit4l	DNA-damage-inducible transcript 4-like	73284	ENSMUSG00000046818
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Gnl1	NA	Gnl1	guanine nucleotide binding protein-like 1	14670	ENSMUSG00000024429
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+
+microRNA Target	mmu_ATGTCAC,MIR-489	DB_ID:566
+C=82;O=6;E=0.84;R=7.16;rawP=0.0002;adjP=0.0004
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Bmp7	NA	Bmp7	bone morphogenetic protein 7	12162	ENSMUSG00000008999
+
+Snx3	NA	Snx3	sorting nexin 3	54198	ENSMUSG00000019804
+
+Eif4a1	NA	Eif4a1	eukaryotic translation initiation factor 4A1	13681	ENSMUSG00000059796
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+
+microRNA Target	mmu_CCTGTGA,MIR-513	DB_ID:555
+C=116;O=7;E=1.18;R=5.91;rawP=0.0002;adjP=0.0004
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Mtcp1	NA	Mtcp1	mature T cell proliferation 1	17763	ENSMUSG00000031200,ENSMUSG00000090110
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Gabre	NA	Gabre	gamma-aminobutyric acid (GABA) A receptor, subunit epsilon	14404	ENSMUSG00000031340
+
+
+microRNA Target	mmu_GTTTGTT,MIR-495	DB_ID:505
+C=238;O=10;E=2.43;R=4.11;rawP=0.0002;adjP=0.0004
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Ddit4	NA	Ddit4	DNA-damage-inducible transcript 4	74747	ENSMUSG00000020108
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Tmed9	NA	Tmed9	transmembrane emp24 protein transport domain containing 9	67511	ENSMUSG00000058569
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Sox9	NA	Sox9	SRY-box containing gene 9	20682	ENSMUSG00000000567
+
+
+microRNA Target	mmu_GTGCCAA,MIR-96	DB_ID:600
+C=290;O=11;E=2.96;R=3.71;rawP=0.0002;adjP=0.0004
+Ldb1	NA	Ldb1	LIM domain binding 1	16825	ENSMUSG00000025223
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Slc9a2	NA	Slc9a2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	226999	ENSMUSG00000026062
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pdlim7	NA	Pdlim7	PDZ and LIM domain 7	67399	ENSMUSG00000021493
+
+B4galnt1	NA	B4galnt1	beta-1,4-N-acetyl-galactosaminyl transferase 1	14421	ENSMUSG00000006731
+
+Ldb2	NA	Ldb2	LIM domain binding 2	16826	ENSMUSG00000039706
+
+Tmbim6	NA	Tmbim6	transmembrane BAX inhibitor motif containing 6	110213	ENSMUSG00000023010
+
+Lcp1	NA	Lcp1	lymphocyte cytosolic protein 1	18826	ENSMUSG00000021998
+
+Plod2	NA	Plod2	procollagen lysine, 2-oxoglutarate 5-dioxygenase 2	26432	ENSMUSG00000032374
+
+Celsr1	NA	Celsr1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	12614	ENSMUSG00000016028
+
+
+microRNA Target	mmu_GCACTTT,MIR-17-5P,MIR-20A,MIR-106A,MIR-106B,MIR-20B,MIR-519D	DB_ID:444
+C=548;O=16;E=5.60;R=2.86;rawP=0.0002;adjP=0.0004
+Sorl1	NA	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	20660	ENSMUSG00000049313
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Ypel4	NA	Ypel4	yippee-like 4 (Drosophila)	241525	ENSMUSG00000034059
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+Gigyf1	NA	Gigyf1	GRB10 interacting GYF protein 1	57330	ENSMUSG00000029714
+
+Rasl11b	NA	Rasl11b	RAS-like, family 11, member B	68939	ENSMUSG00000049907
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Nploc4	NA	Nploc4	nuclear protein localization 4 homolog (S. cerevisiae)	217365	ENSMUSG00000039703
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Prex1	NA	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	277360	ENSMUSG00000039621
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_AGGCACT,MIR-515-3P	DB_ID:533
+C=81;O=6;E=0.83;R=7.25;rawP=0.0002;adjP=0.0004
+Slc6a15	NA	Slc6a15	solute carrier family 6 (neurotransmitter transporter), member 15	103098	ENSMUSG00000019894
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Gigyf1	NA	Gigyf1	GRB10 interacting GYF protein 1	57330	ENSMUSG00000029714
+
+Ypel4	NA	Ypel4	yippee-like 4 (Drosophila)	241525	ENSMUSG00000034059
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_GTTATAT,MIR-410	DB_ID:636
+C=82;O=6;E=0.84;R=7.16;rawP=0.0002;adjP=0.0004
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Hmgb1	NA	Hmgb1	high mobility group box 1	15289	ENSMUSG00000066551
+
+
+microRNA Target	mmu_CAGTATT,MIR-200B,MIR-200C,MIR-429	DB_ID:458
+C=437;O=14;E=4.46;R=3.14;rawP=0.0002;adjP=0.0004
+Cab39	NA	Cab39	calcium binding protein 39	12283	ENSMUSG00000036707
+
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Ap1s2	NA	Ap1s2	adaptor-related protein complex 1, sigma 2 subunit	108012	ENSMUSG00000031367
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Zmym4	NA	Zmym4	zinc finger, MYM-type 4	67785	ENSMUSG00000042446
+
+Lcp1	NA	Lcp1	lymphocyte cytosolic protein 1	18826	ENSMUSG00000021998
+
+Amfr	NA	Amfr	autocrine motility factor receptor	23802	ENSMUSG00000031751
+
+Gata2	NA	Gata2	GATA binding protein 2	14461	ENSMUSG00000015053
+
+Gosr2	NA	Gosr2	golgi SNAP receptor complex member 2	56494	ENSMUSG00000020946
+
+Sema3f	NA	Sema3f	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	20350	ENSMUSG00000034684
+
+
+microRNA Target	mmu_TAATAAT,MIR-126	DB_ID:655
+C=208;O=9;E=2.12;R=4.24;rawP=0.0003;adjP=0.0006
+Mettl17	NA	Mettl17	methyltransferase like 17	52535	ENSMUSG00000004561
+
+Inpp5d	NA	Inpp5d	inositol polyphosphate-5-phosphatase D	16331	ENSMUSG00000026288
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pnn	NA	Pnn	pinin	18949	ENSMUSG00000020994
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Hmgb1	NA	Hmgb1	high mobility group box 1	15289	ENSMUSG00000066551
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+
+microRNA Target	mmu_CCAGGGG,MIR-331	DB_ID:626
+C=86;O=6;E=0.88;R=6.83;rawP=0.0003;adjP=0.0006
+Cldn2	NA	Cldn2	claudin 2	12738	ENSMUSG00000047230
+
+Rhcg	NA	Rhcg	Rhesus blood group-associated C glycoprotein	56315	ENSMUSG00000030549
+
+Ensa	NA	Ensa	endosulfine alpha	56205	ENSMUSG00000038619
+
+Grasp	NA	Grasp	GRP1 (general receptor for phosphoinositides 1)-associated scaffold protein	56149	ENSMUSG00000000531
+
+Ggt7	NA	Ggt7	gamma-glutamyltransferase 7	207182	ENSMUSG00000027603
+
+Ypel4	NA	Ypel4	yippee-like 4 (Drosophila)	241525	ENSMUSG00000034059
+
+
+microRNA Target	mmu_CAGTGTT,MIR-141,MIR-200A	DB_ID:469
+C=295;O=11;E=3.01;R=3.65;rawP=0.0003;adjP=0.0006
+Xkr7	NA	Xkr7	X Kell blood group precursor related family member 7 homolog	228787	ENSMUSG00000042631
+
+Leng8	NA	Leng8	leukocyte receptor cluster (LRC) member 8	232798	ENSMUSG00000035545
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+Atp6v1b2	NA	Atp6v1b2	ATPase, H+ transporting, lysosomal V1 subunit B2	11966	ENSMUSG00000006273
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Slc20a1	NA	Slc20a1	solute carrier family 20, member 1	20515	ENSMUSG00000027397
+
+Fus	NA	Fus	fusion, derived from t(12;16) malignant liposarcoma (human)	233908	ENSMUSG00000030795
+
+Atp6v1a	NA	Atp6v1a	ATPase, H+ transporting, lysosomal V1 subunit A	11964	ENSMUSG00000052459
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+Runx1	NA	Runx1	runt related transcription factor 1	12394	ENSMUSG00000022952
+
+
+microRNA Target	mmu_ATGTACA,MIR-493	DB_ID:629
+C=296;O=11;E=3.02;R=3.64;rawP=0.0003;adjP=0.0006
+Ankrd34b	NA	Ankrd34b	ankyrin repeat domain 34B	218440	ENSMUSG00000045034
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Irx3	NA	Irx3	Iroquois related homeobox 3 (Drosophila)	16373	ENSMUSG00000031734
+
+Gpc4	NA	Gpc4	glypican 4	14735	ENSMUSG00000031119
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Rasl11b	NA	Rasl11b	RAS-like, family 11, member B	68939	ENSMUSG00000049907
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+Prex1	NA	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	277360	ENSMUSG00000039621
+
+
+microRNA Target	mmu_CAGCCTC,MIR-485-5P	DB_ID:652
+C=130;O=7;E=1.33;R=5.27;rawP=0.0004;adjP=0.0007
+Rbpms	NA	Rbpms	RNA binding protein gene with multiple splicing	19663	ENSMUSG00000031586
+
+Kcnj11	NA	Kcnj11	potassium inwardly rectifying channel, subfamily J, member 11	16514	ENSMUSG00000096146
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Pdlim7	NA	Pdlim7	PDZ and LIM domain 7	67399	ENSMUSG00000021493
+
+Chad	NA	Chad	chondroadherin	12643	ENSMUSG00000039084
+
+Trmu	NA	Trmu	tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase	72026	ENSMUSG00000022386
+
+Esyt3	NA	Esyt3	extended synaptotagmin-like protein 3	272636	ENSMUSG00000037681
+
+
+microRNA Target	mmu_TAGCTTT,MIR-9	DB_ID:538
+C=217;O=9;E=2.22;R=4.06;rawP=0.0004;adjP=0.0007
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Zmym4	NA	Zmym4	zinc finger, MYM-type 4	67785	ENSMUSG00000042446
+
+Cyr61	NA	Cyr61	cysteine rich protein 61	16007	ENSMUSG00000028195
+
+Pi15	NA	Pi15	peptidase inhibitor 15	94227	ENSMUSG00000067780
+
+Slc25a37	NA	Slc25a37	solute carrier family 25, member 37	67712	ENSMUSG00000034248
+
+Krit1	NA	Krit1	KRIT1, ankyrin repeat containing	79264	ENSMUSG00000000600
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+
+microRNA Target	mmu_TATTATA,MIR-374	DB_ID:506
+C=267;O=10;E=2.73;R=3.67;rawP=0.0005;adjP=0.0009
+Cbx4	NA	Cbx4	chromobox 4	12418	ENSMUSG00000039989
+
+Herc2	NA	Herc2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2	15204	ENSMUSG00000030451
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Ccnl1	NA	Ccnl1	cyclin L1	56706	ENSMUSG00000027829
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Arhgef40	NA	Arhgef40	Rho guanine nucleotide exchange factor (GEF) 40	268739	ENSMUSG00000004562
+
+
+microRNA Target	mmu_AAGCACA,MIR-218	DB_ID:564
+C=377;O=12;E=3.85;R=3.12;rawP=0.0006;adjP=0.0010
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Nebl	NA	Nebl	nebulette	74103	ENSMUSG00000053702
+
+Rab8a	NA	Rab8a	RAB8A, member RAS oncogene family	17274	ENSMUSG00000003037
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+Zmat4	NA	Zmat4	zinc finger, matrin type 4	320158	ENSMUSG00000037492
+
+Shc4	NA	Shc4	SHC (Src homology 2 domain containing) family, member 4	271849	ENSMUSG00000035109
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Mapk8ip3	NA	Mapk8ip3	mitogen-activated protein kinase 8 interacting protein 3	30957	ENSMUSG00000024163
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+Npy1r	NA	Npy1r	neuropeptide Y receptor Y1	18166	ENSMUSG00000036437
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Hs3st3b1	NA	Hs3st3b1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	54710	ENSMUSG00000070407
+
+
+microRNA Target	mmu_CCCAGAG,MIR-326	DB_ID:605
+C=143;O=7;E=1.46;R=4.79;rawP=0.0007;adjP=0.0011
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Pip4k2c	NA	Pip4k2c	phosphatidylinositol-5-phosphate 4-kinase, type II, gamma	117150	ENSMUSG00000025417
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Spock1	NA	Spock1	sparc/osteonectin, cwcv and kazal-like domains proteoglycan 1	20745	ENSMUSG00000056222
+
+Lrrc32	NA	Lrrc32	leucine rich repeat containing 32	434215	ENSMUSG00000090958
+
+Ggt7	NA	Ggt7	gamma-glutamyltransferase 7	207182	ENSMUSG00000027603
+
+
+microRNA Target	mmu_GGGACCA,MIR-133A,MIR-133B	DB_ID:479
+C=186;O=8;E=1.90;R=4.21;rawP=0.0007;adjP=0.0011
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Mycbp2	NA	Mycbp2	MYC binding protein 2	105689	ENSMUSG00000033004
+
+Fus	NA	Fus	fusion, derived from t(12;16) malignant liposarcoma (human)	233908	ENSMUSG00000030795
+
+Cttnbp2	NA	Cttnbp2	cortactin binding protein 2	30785	ENSMUSG00000000416
+
+Eif5a	NA	Eif5a	eukaryotic translation initiation factor 5A	276770	ENSMUSG00000078812
+
+Pacsin1	NA	Pacsin1	protein kinase C and casein kinase substrate in neurons 1	23969	ENSMUSG00000040276
+
+Dok1	NA	Dok1	docking protein 1	13448	ENSMUSG00000068335
+
+Prex1	NA	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	277360	ENSMUSG00000039621
+
+
+microRNA Target	mmu_GTGACTT,MIR-224	DB_ID:524
+C=144;O=7;E=1.47;R=4.76;rawP=0.0007;adjP=0.0011
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Gpc4	NA	Gpc4	glypican 4	14735	ENSMUSG00000031119
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Pdlim7	NA	Pdlim7	PDZ and LIM domain 7	67399	ENSMUSG00000021493
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+
+microRNA Target	mmu_GGTGTGT,MIR-329	DB_ID:646
+C=106;O=6;E=1.08;R=5.54;rawP=0.0008;adjP=0.0013
+Krit1	NA	Krit1	KRIT1, ankyrin repeat containing	79264	ENSMUSG00000000600
+
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Tmed9	NA	Tmed9	transmembrane emp24 protein transport domain containing 9	67511	ENSMUSG00000058569
+
+Rbpms	NA	Rbpms	RNA binding protein gene with multiple splicing	19663	ENSMUSG00000031586
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Rgag4	NA	Rgag4	retrotransposon gag domain containing 4	331474	ENSMUSG00000049191
+
+
+microRNA Target	mmu_GTCTTCC,MIR-7	DB_ID:529
+C=153;O=7;E=1.56;R=4.48;rawP=0.0011;adjP=0.0017
+Tmed9	NA	Tmed9	transmembrane emp24 protein transport domain containing 9	67511	ENSMUSG00000058569
+
+Ddit4	NA	Ddit4	DNA-damage-inducible transcript 4	74747	ENSMUSG00000020108
+
+Plp2	NA	Plp2	proteolipid protein 2	18824	ENSMUSG00000031146
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Gltscr1	NA	Gltscr1	glioma tumor suppressor candidate region gene 1	243842	ENSMUSG00000070808
+
+Zbtb22	NA	Zbtb22	zinc finger and BTB domain containing 22	81630	ENSMUSG00000051390
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+
+microRNA Target	mmu_GGCACTT,MIR-519E	DB_ID:628
+C=115;O=6;E=1.17;R=5.11;rawP=0.0012;adjP=0.0019
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Syne1	NA	Syne1	synaptic nuclear envelope 1	64009	ENSMUSG00000019769,ENSMUSG00000096054
+
+Gigyf1	NA	Gigyf1	GRB10 interacting GYF protein 1	57330	ENSMUSG00000029714
+
+Ypel4	NA	Ypel4	yippee-like 4 (Drosophila)	241525	ENSMUSG00000034059
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_ACTGCCT,MIR-34B	DB_ID:610
+C=204;O=8;E=2.08;R=3.84;rawP=0.0013;adjP=0.0020
+Arhgef10l	NA	Arhgef10l	Rho guanine nucleotide exchange factor (GEF) 10-like	72754	ENSMUSG00000040964
+
+Mycbp2	NA	Mycbp2	MYC binding protein 2	105689	ENSMUSG00000033004
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Ergic1	NA	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	67458	ENSMUSG00000001576
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Ap2s1	NA	Ap2s1	adaptor-related protein complex 2, sigma 1 subunit	232910	ENSMUSG00000008036
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Dll1	NA	Dll1	delta-like 1 (Drosophila)	13388	ENSMUSG00000014773
+
+
+microRNA Target	mmu_AGCTCCT,MIR-28	DB_ID:608
+C=81;O=5;E=0.83;R=6.04;rawP=0.0015;adjP=0.0023
+Mettl17	NA	Mettl17	methyltransferase like 17	52535	ENSMUSG00000004561
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Tmem200b	NA	Tmem200b	transmembrane protein 200B	623230	ENSMUSG00000070720
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Smad3	NA	Smad3	SMAD family member 3	17127	ENSMUSG00000032402
+
+
+microRNA Target	mmu_GTGCCAT,MIR-183	DB_ID:503
+C=164;O=7;E=1.68;R=4.18;rawP=0.0016;adjP=0.0024
+Dusp10	NA	Dusp10	dual specificity phosphatase 10	63953	ENSMUSG00000039384
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Pdcd4	NA	Pdcd4	programmed cell death 4	18569	ENSMUSG00000024975
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+
+microRNA Target	mmu_CTGAGCC,MIR-24	DB_ID:539
+C=218;O=8;E=2.23;R=3.59;rawP=0.0019;adjP=0.0028
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Sbk1	NA	Sbk1	SH3-binding kinase 1	104175	ENSMUSG00000042978
+
+Hip1r	NA	Hip1r	huntingtin interacting protein 1 related	29816	ENSMUSG00000000915
+
+Aars	NA	Aars	alanyl-tRNA synthetase	234734	ENSMUSG00000031960
+
+Plod2	NA	Plod2	procollagen lysine, 2-oxoglutarate 5-dioxygenase 2	26432	ENSMUSG00000032374
+
+Gpc4	NA	Gpc4	glypican 4	14735	ENSMUSG00000031119
+
+Trpm6	NA	Trpm6	transient receptor potential cation channel, subfamily M, member 6	225997	ENSMUSG00000024727
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+
+microRNA Target	mmu_ACTTTAT,MIR-142-5P	DB_ID:596
+C=274;O=9;E=2.80;R=3.22;rawP=0.0022;adjP=0.0032
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Nudt22	NA	Nudt22	nudix (nucleoside diphosphate linked moiety X)-type motif 22	68323	ENSMUSG00000037349
+
+Etv1	NA	Etv1	ets variant gene 1	14009	ENSMUSG00000004151
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Rnh1	NA	Rnh1	ribonuclease/angiogenin inhibitor 1	107702	ENSMUSG00000038650
+
+Btg1	NA	Btg1	B cell translocation gene 1, anti-proliferative	12226	ENSMUSG00000036478
+
+Nfe2l2	NA	Nfe2l2	nuclear factor, erythroid derived 2, like 2	18024	ENSMUSG00000015839
+
+Arhgef40	NA	Arhgef40	Rho guanine nucleotide exchange factor (GEF) 40	268739	ENSMUSG00000004562
+
+Celsr1	NA	Celsr1	cadherin, EGF LAG seven-pass G-type receptor 1 (flamingo homolog, Drosophila)	12614	ENSMUSG00000016028
+
+
+microRNA Target	mmu_TGCACTG,MIR-148A,MIR-152,MIR-148B	DB_ID:451
+C=278;O=9;E=2.84;R=3.17;rawP=0.0024;adjP=0.0034
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Etv5	NA	Etv5	ets variant gene 5	104156	ENSMUSG00000013089
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Esr1	NA	Esr1	estrogen receptor 1 (alpha)	13982	ENSMUSG00000019768
+
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Dock6	NA	Dock6	dedicator of cytokinesis 6	319899	ENSMUSG00000032198
+
+Srsf11	NA	Srsf11	serine/arginine-rich splicing factor 11	69207	ENSMUSG00000055436
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+
+microRNA Target	mmu_GTGCAAT,MIR-25,MIR-32,MIR-92,MIR-363,MIR-367	DB_ID:447
+C=290;O=9;E=2.96;R=3.04;rawP=0.0032;adjP=0.0045
+Dusp10	NA	Dusp10	dual specificity phosphatase 10	63953	ENSMUSG00000039384
+
+Ppp1r12a	NA	Ppp1r12a	protein phosphatase 1, regulatory (inhibitor) subunit 12A	17931	ENSMUSG00000019907
+
+Nox4	NA	Nox4	NADPH oxidase 4	50490	ENSMUSG00000030562
+
+Herc2	NA	Herc2	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 2	15204	ENSMUSG00000030451
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Mycbp2	NA	Mycbp2	MYC binding protein 2	105689	ENSMUSG00000033004
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+Gata2	NA	Gata2	GATA binding protein 2	14461	ENSMUSG00000015053
+
+Elovl4	NA	Elovl4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	83603	ENSMUSG00000032262
+
+
+microRNA Target	mmu_TGCACTT,MIR-519C,MIR-519B,MIR-519A	DB_ID:456
+C=409;O=11;E=4.18;R=2.63;rawP=0.0036;adjP=0.0050
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Sorl1	NA	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	20660	ENSMUSG00000049313
+
+Celsr2	NA	Celsr2	cadherin, EGF LAG seven-pass G-type receptor 2 (flamingo homolog, Drosophila)	53883	ENSMUSG00000068740
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Rasl11b	NA	Rasl11b	RAS-like, family 11, member B	68939	ENSMUSG00000049907
+
+Ddx5	NA	Ddx5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	13207	ENSMUSG00000020719
+
+Prex1	NA	Prex1	phosphatidylinositol-3,4,5-trisphosphate-dependent Rac exchange factor 1	277360	ENSMUSG00000039621
+
+
+microRNA Target	mmu_TCCAGAT,MIR-516-5P	DB_ID:496
+C=101;O=5;E=1.03;R=4.85;rawP=0.0039;adjP=0.0053
+Clk1	NA	Clk1	CDC-like kinase 1	12747	ENSMUSG00000026034
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Cxcl14	NA	Cxcl14	chemokine (C-X-C motif) ligand 14	57266	ENSMUSG00000021508
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+
+microRNA Target	mmu_CTACCTC,LET-7A,LET-7B,LET-7C,LET-7D,LET-7E,LET-7F,MIR-98,LET-7G,LET-7I	DB_ID:443
+C=356;O=10;E=3.64;R=2.75;rawP=0.0040;adjP=0.0054
+Pgm2l1	NA	Pgm2l1	phosphoglucomutase 2-like 1	70974	ENSMUSG00000030729
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Slc20a1	NA	Slc20a1	solute carrier family 20, member 1	20515	ENSMUSG00000027397
+
+Ergic1	NA	Ergic1	endoplasmic reticulum-golgi intermediate compartment (ERGIC) 1	67458	ENSMUSG00000001576
+
+Klhdc8b	NA	Klhdc8b	kelch domain containing 8B	78267	NULL
+
+Elovl4	NA	Elovl4	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4	83603	ENSMUSG00000032262
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Gcnt4	NA	Gcnt4	glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	218476	ENSMUSG00000091387
+
+Sema3f	NA	Sema3f	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	20350	ENSMUSG00000034684
+
+Lingo1	NA	Lingo1	leucine rich repeat and Ig domain containing 1	235402	ENSMUSG00000049556
+
+
+microRNA Target	mmu_TTGCCAA,MIR-182	DB_ID:536
+C=307;O=9;E=3.14;R=2.87;rawP=0.0047;adjP=0.0061
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Adra2c	NA	Adra2c	adrenergic receptor, alpha 2c	11553	ENSMUSG00000045318
+
+Palld	NA	Palld	palladin, cytoskeletal associated protein	72333	ENSMUSG00000058056
+
+Chmp1a	NA	Chmp1a	charged multivesicular body protein 1A	234852	ENSMUSG00000000743
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Nufip2	NA	Nufip2	nuclear fragile X mental retardation protein interacting protein 2	68564	ENSMUSG00000037857
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Shc4	NA	Shc4	SHC (Src homology 2 domain containing) family, member 4	271849	ENSMUSG00000035109
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+
+microRNA Target	mmu_ATGTTTC,MIR-494	DB_ID:543
+C=151;O=6;E=1.54;R=3.89;rawP=0.0047;adjP=0.0061
+Clk1	NA	Clk1	CDC-like kinase 1	12747	ENSMUSG00000026034
+
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Adamts6	NA	Adamts6	a disintegrin-like and metallopeptidase (reprolysin type) with thrombospondin type 1 motif, 6	108154	ENSMUSG00000046169
+
+Anks1b	NA	Anks1b	ankyrin repeat and sterile alpha motif domain containing 1B	77531	ENSMUSG00000096382
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Stac2	NA	Stac2	SH3 and cysteine rich domain 2	217154	ENSMUSG00000017400
+
+
+microRNA Target	mmu_AAGCAAT,MIR-137	DB_ID:587
+C=204;O=7;E=2.08;R=3.36;rawP=0.0053;adjP=0.0068
+Runx2	NA	Runx2	runt related transcription factor 2	12393	ENSMUSG00000039153
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+Tsc22d2	NA	Tsc22d2	TSC22 domain family, member 2	72033	ENSMUSG00000027806
+
+Wsb1	NA	Wsb1	WD repeat and SOCS box-containing 1	78889	ENSMUSG00000017677
+
+Srsf5	NA	Srsf5	serine/arginine-rich splicing factor 5	20384	ENSMUSG00000021134
+
+Egr2	NA	Egr2	early growth response 2	13654	ENSMUSG00000037868
+
+Acp1	NA	Acp1	acid phosphatase 1, soluble	11431	ENSMUSG00000044573
+
+
+microRNA Target	mmu_AGGAAGC,MIR-516-3P	DB_ID:551
+C=114;O=5;E=1.16;R=4.29;rawP=0.0064;adjP=0.0080
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Csnk1g1	NA	Csnk1g1	casein kinase 1, gamma 1	214897	ENSMUSG00000032384
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Tmem154	NA	Tmem154	transmembrane protein 154	320782	ENSMUSG00000056498
+
+Ogt	NA	Ogt	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	108155	ENSMUSG00000034160
+
+
+microRNA Target	mmu_CATGTAA,MIR-496	DB_ID:563
+C=160;O=6;E=1.63;R=3.67;rawP=0.0063;adjP=0.0080
+Gja1	NA	Gja1	gap junction protein, alpha 1	14609	ENSMUSG00000050953
+
+Ldb2	NA	Ldb2	LIM domain binding 2	16826	ENSMUSG00000039706
+
+Pde3a	NA	Pde3a	phosphodiesterase 3A, cGMP inhibited	54611	ENSMUSG00000041741
+
+Tmem47	NA	Tmem47	transmembrane protein 47	192216	ENSMUSG00000025666
+
+Leng8	NA	Leng8	leukocyte receptor cluster (LRC) member 8	232798	ENSMUSG00000035545
+
+Gria2	NA	Gria2	glutamate receptor, ionotropic, AMPA2 (alpha 2)	14800	ENSMUSG00000033981
+
+
+microRNA Target	mmu_ACTGTAG,MIR-139	DB_ID:620
+C=118;O=5;E=1.21;R=4.15;rawP=0.0074;adjP=0.0092
+Prpf4b	NA	Prpf4b	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	19134	ENSMUSG00000021413
+
+Ap1s2	NA	Ap1s2	adaptor-related protein complex 1, sigma 2 subunit	108012	ENSMUSG00000031367
+
+Ddit4	NA	Ddit4	DNA-damage-inducible transcript 4	74747	ENSMUSG00000020108
+
+Pde3a	NA	Pde3a	phosphodiesterase 3A, cGMP inhibited	54611	ENSMUSG00000041741
+
+Phf6	NA	Phf6	PHD finger protein 6	70998	ENSMUSG00000025626
+
+
+
+

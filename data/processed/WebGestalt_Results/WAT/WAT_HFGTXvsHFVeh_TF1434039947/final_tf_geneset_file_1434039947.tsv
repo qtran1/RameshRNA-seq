@@ -1,0 +1,626 @@
+User data and parameters: User data: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each gene set, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+Transcrription Target	mmu_CAGGTG_V$E12_Q6	DB_ID:1794
+C=2292;O=20;E=4.00;R=5.00;rawP=2.57e-09;adjP=4.37e-08
+Repin1	NA	Repin1	replication initiator 1	58887	ENSMUSG00000052751
+
+Hspbp1	NA	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1	66245	ENSMUSG00000063802
+
+Gjb4	NA	Gjb4	gap junction protein, beta 4	14621	ENSMUSG00000046623
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Ly6g5c	NA	Ly6g5c	lymphocyte antigen 6 complex, locus G5C	114652	ENSMUSG00000034482
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Lcn9	NA	Lcn9	lipocalin 9	77704	ENSMUSG00000023210
+
+Cyp1b1	NA	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1	13078	ENSMUSG00000024087
+
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Vwf	NA	Vwf	Von Willebrand factor homolog	22371	ENSMUSG00000001930
+
+
+Transcrription Target	mmu_TATAAA_V$TATA_01	DB_ID:1841
+C=1166;O=15;E=2.04;R=7.37;rawP=1.99e-09;adjP=4.37e-08
+Psma8	NA	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8	73677	ENSMUSG00000036743
+
+Prdx1	NA	Prdx1	peroxiredoxin 1	18477	ENSMUSG00000028691
+
+Rnf17	NA	Rnf17	ring finger protein 17	30054	ENSMUSG00000000365
+
+Slc5a7	NA	Slc5a7	solute carrier family 5 (choline transporter), member 7	63993	ENSMUSG00000023945
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Top2a	NA	Top2a	topoisomerase (DNA) II alpha	21973	ENSMUSG00000020914
+
+Il1rn	NA	Il1rn	interleukin 1 receptor antagonist	16181	ENSMUSG00000026981
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Nkiras2	NA	Nkiras2	NFKB inhibitor interacting Ras-like protein 2	71966	ENSMUSG00000017837
+
+Spag11b	NA	Spag11b	sperm associated antigen 11B	546038	ENSMUSG00000059463
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Cela1	NA	Cela1	chymotrypsin-like elastase family, member 1	109901	ENSMUSG00000023031
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+
+Transcrription Target	mmu_TTGTTT_V$FOXO4_01	DB_ID:1801
+C=1879;O=16;E=3.28;R=4.88;rawP=1.70e-07;adjP=1.93e-06
+Psma8	NA	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8	73677	ENSMUSG00000036743
+
+Ano3	NA	Ano3	anoctamin 3	228432	ENSMUSG00000074968
+
+Agr2	NA	Agr2	anterior gradient 2 (Xenopus laevis)	23795	ENSMUSG00000020581
+
+Pfkfb4	NA	Pfkfb4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	270198	ENSMUSG00000025648
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Grem2	NA	Grem2	gremlin 2 homolog, cysteine knot superfamily (Xenopus laevis)	23893	ENSMUSG00000050069
+
+Inmt	NA	Inmt	indolethylamine N-methyltransferase	21743	ENSMUSG00000003477
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Prdx1	NA	Prdx1	peroxiredoxin 1	18477	ENSMUSG00000028691
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Spon1	NA	Spon1	spondin 1, (f-spondin) extracellular matrix protein	233744	ENSMUSG00000038156
+
+Vwf	NA	Vwf	Von Willebrand factor homolog	22371	ENSMUSG00000001930
+
+Adam28	NA	Adam28	a disintegrin and metallopeptidase domain 28	13522	ENSMUSG00000014725
+
+
+Transcrription Target	mmu_TGTTTGY_V$HNF3_Q6	DB_ID:1808
+C=674;O=10;E=1.18;R=8.50;rawP=3.19e-07;adjP=2.71e-06
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Prdx1	NA	Prdx1	peroxiredoxin 1	18477	ENSMUSG00000028691
+
+Gjb4	NA	Gjb4	gap junction protein, beta 4	14621	ENSMUSG00000046623
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+Gas2l2	NA	Gas2l2	growth arrest-specific 2 like 2	237891	ENSMUSG00000020686
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+
+Transcrription Target	mmu_CAGGTA_V$AREB6_01	DB_ID:1789
+C=715;O=10;E=1.25;R=8.01;rawP=5.46e-07;adjP=3.21e-06
+Repin1	NA	Repin1	replication initiator 1	58887	ENSMUSG00000052751
+
+Agr2	NA	Agr2	anterior gradient 2 (Xenopus laevis)	23795	ENSMUSG00000020581
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Il1rn	NA	Il1rn	interleukin 1 receptor antagonist	16181	ENSMUSG00000026981
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Nedd8	NA	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8	18002	ENSMUSG00000010376
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+
+Transcrription Target	mmu_CTTTGA_V$LEF1_Q2	DB_ID:1812
+C=1107;O=12;E=1.93;R=6.21;rawP=5.67e-07;adjP=3.21e-06
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Pfkfb4	NA	Pfkfb4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	270198	ENSMUSG00000025648
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Slc38a5	NA	Slc38a5	solute carrier family 38, member 5	209837	ENSMUSG00000031170
+
+Pcdhga4	NA	Pcdhga4	protocadherin gamma subfamily A, 4	93712	NULL
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Zbtb32	NA	Zbtb32	zinc finger and BTB domain containing 32	58206	ENSMUSG00000006310
+
+Nkiras2	NA	Nkiras2	NFKB inhibitor interacting Ras-like protein 2	71966	ENSMUSG00000017837
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Nedd8	NA	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8	18002	ENSMUSG00000010376
+
+Cela1	NA	Cela1	chymotrypsin-like elastase family, member 1	109901	ENSMUSG00000023031
+
+
+Transcrription Target	mmu_TGANTCA_V$AP1_C	DB_ID:1787
+C=1041;O=11;E=1.82;R=6.05;rawP=2.21e-06;adjP=1.07e-05
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+Agr2	NA	Agr2	anterior gradient 2 (Xenopus laevis)	23795	ENSMUSG00000020581
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Il1rn	NA	Il1rn	interleukin 1 receptor antagonist	16181	ENSMUSG00000026981
+
+Mmp12	NA	Mmp12	matrix metallopeptidase 12	17381	ENSMUSG00000049723
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Zbtb32	NA	Zbtb32	zinc finger and BTB domain containing 32	58206	ENSMUSG00000006310
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+
+Transcrription Target	mmu_V$AMEF2_Q6	DB_ID:1457
+C=236;O=6;E=0.41;R=14.56;rawP=3.96e-06;adjP=1.50e-05
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+
+Transcrription Target	mmu_V$CEBP_Q3	DB_ID:1639
+C=232;O=6;E=0.40;R=14.82;rawP=3.59e-06;adjP=1.50e-05
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Rnf17	NA	Rnf17	ring finger protein 17	30054	ENSMUSG00000000365
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Dock8	NA	Dock8	dedicator of cytokinesis 8	76088	ENSMUSG00000052085
+
+
+Transcrription Target	mmu_CAGCTG_V$AP4_Q5	DB_ID:1788
+C=1387;O=12;E=2.42;R=4.96;rawP=5.75e-06;adjP=1.78e-05
+Armc5	NA	Armc5	armadillo repeat containing 5	233912	ENSMUSG00000042178
+
+Slc5a7	NA	Slc5a7	solute carrier family 5 (choline transporter), member 7	63993	ENSMUSG00000023945
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Rasl10b	NA	Rasl10b	RAS-like, family 10, member B	276952	ENSMUSG00000020684
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+C7	NA	C7	complement component 7	109828	ENSMUSG00000079105
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Baiap2	NA	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2	108100	ENSMUSG00000025372
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+
+Transcrription Target	mmu_WTGAAAT_UNKNOWN	DB_ID:1764
+C=548;O=8;E=0.96;R=8.36;rawP=5.75e-06;adjP=1.78e-05
+Rnf17	NA	Rnf17	ring finger protein 17	30054	ENSMUSG00000000365
+
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Cfh	NA	Cfh	complement component factor h	12628	ENSMUSG00000026365
+
+Ly6g5b	NA	Ly6g5b	lymphocyte antigen 6 complex, locus G5B	266614	ENSMUSG00000043807
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Nedd8	NA	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8	18002	ENSMUSG00000010376
+
+
+Transcrription Target	mmu_YTATTTTNR_V$MEF2_02	DB_ID:1816
+C=640;O=8;E=1.12;R=7.16;rawP=1.76e-05;adjP=4.99e-05
+Psma8	NA	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8	73677	ENSMUSG00000036743
+
+Rnf17	NA	Rnf17	ring finger protein 17	30054	ENSMUSG00000000365
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Dock8	NA	Dock8	dedicator of cytokinesis 8	76088	ENSMUSG00000052085
+
+Rrs1	NA	Rrs1	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)	59014	ENSMUSG00000061024
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Grem2	NA	Grem2	gremlin 2 homolog, cysteine knot superfamily (Xenopus laevis)	23893	ENSMUSG00000050069
+
+
+Transcrription Target	mmu_WGTTNNNNNAAA_UNKNOWN	DB_ID:1763
+C=490;O=7;E=0.86;R=8.18;rawP=2.59e-05;adjP=6.77e-05
+Inmt	NA	Inmt	indolethylamine N-methyltransferase	21743	ENSMUSG00000003477
+
+Spag11b	NA	Spag11b	sperm associated antigen 11B	546038	ENSMUSG00000059463
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Slc20a1	NA	Slc20a1	solute carrier family 20, member 1	20515	ENSMUSG00000027397
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Grem2	NA	Grem2	gremlin 2 homolog, cysteine knot superfamily (Xenopus laevis)	23893	ENSMUSG00000050069
+
+
+Transcrription Target	mmu_V$AHR_Q5	DB_ID:1648
+C=201;O=5;E=0.35;R=14.25;rawP=2.91e-05;adjP=7.07e-05
+Cyp1b1	NA	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1	13078	ENSMUSG00000024087
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+
+Transcrription Target	mmu_YNGTTNNNATT_UNKNOWN	DB_ID:1777
+C=340;O=6;E=0.59;R=10.11;rawP=3.12e-05;adjP=7.07e-05
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Ly6g5b	NA	Ly6g5b	lymphocyte antigen 6 complex, locus G5B	266614	ENSMUSG00000043807
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Gjb4	NA	Gjb4	gap junction protein, beta 4	14621	ENSMUSG00000046623
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+
+Transcrription Target	mmu_AAAYWAACM_V$HFH4_01	DB_ID:1806
+C=235;O=5;E=0.41;R=12.19;rawP=6.11e-05;adjP=0.0001
+Inmt	NA	Inmt	indolethylamine N-methyltransferase	21743	ENSMUSG00000003477
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Spon1	NA	Spon1	spondin 1, (f-spondin) extracellular matrix protein	233744	ENSMUSG00000038156
+
+
+Transcrription Target	mmu_GGGAGGRR_V$MAZ_Q6	DB_ID:1815
+C=2104;O=13;E=3.67;R=3.54;rawP=7.77e-05;adjP=0.0001
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Aldh1a2	NA	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2	19378	ENSMUSG00000013584
+
+Il1rn	NA	Il1rn	interleukin 1 receptor antagonist	16181	ENSMUSG00000026981
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+
+Transcrription Target	mmu_V$MMEF2_Q6	DB_ID:1458
+C=253;O=5;E=0.44;R=11.32;rawP=8.64e-05;adjP=0.0001
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+
+Transcrription Target	mmu_YKACATTT_UNKNOWN	DB_ID:1776
+C=252;O=5;E=0.44;R=11.37;rawP=8.48e-05;adjP=0.0001
+Rnf17	NA	Rnf17	ring finger protein 17	30054	ENSMUSG00000000365
+
+Zbtb32	NA	Zbtb32	zinc finger and BTB domain containing 32	58206	ENSMUSG00000006310
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+
+Transcrription Target	mmu_RACCACAR_V$AML_Q6	DB_ID:1786
+C=240;O=5;E=0.42;R=11.94;rawP=6.74e-05;adjP=0.0001
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Cfh	NA	Cfh	complement component factor h	12628	ENSMUSG00000026365
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Adam28	NA	Adam28	a disintegrin and metallopeptidase domain 28	13522	ENSMUSG00000014725
+
+
+Transcrription Target	mmu_TTCYNRGAA_V$STAT5B_01	DB_ID:1840
+C=311;O=5;E=0.54;R=9.21;rawP=0.0002;adjP=0.0003
+C7	NA	C7	complement component 7	109828	ENSMUSG00000079105
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Slc38a5	NA	Slc38a5	solute carrier family 38, member 5	209837	ENSMUSG00000031170
+
+
+Transcrription Target	mmu_TGGAAA_V$NFAT_Q4_01	DB_ID:1822
+C=1718;O=11;E=3.00;R=3.67;rawP=0.0002;adjP=0.0003
+Repin1	NA	Repin1	replication initiator 1	58887	ENSMUSG00000052751
+
+Psma8	NA	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8	73677	ENSMUSG00000036743
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Il1rn	NA	Il1rn	interleukin 1 receptor antagonist	16181	ENSMUSG00000026981
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Zbtb32	NA	Zbtb32	zinc finger and BTB domain containing 32	58206	ENSMUSG00000006310
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Ubd	NA	Ubd	ubiquitin D	24108	ENSMUSG00000035186
+
+
+Transcrription Target	mmu_MGGAAGTG_V$GABP_B	DB_ID:1803
+C=690;O=7;E=1.20;R=5.81;rawP=0.0002;adjP=0.0003
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Nkiras2	NA	Nkiras2	NFKB inhibitor interacting Ras-like protein 2	71966	ENSMUSG00000017837
+
+Dock8	NA	Dock8	dedicator of cytokinesis 8	76088	ENSMUSG00000052085
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Nedd8	NA	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8	18002	ENSMUSG00000010376
+
+
+Transcrription Target	mmu_CTGCAGY_UNKNOWN	DB_ID:1522
+C=692;O=7;E=1.21;R=5.80;rawP=0.0002;adjP=0.0003
+Dusp16	NA	Dusp16	dual specificity phosphatase 16	70686	ENSMUSG00000030203
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Sorl1	NA	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	20660	ENSMUSG00000049313
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+
+Transcrription Target	mmu_TGGNNNNNNKCCAR_UNKNOWN	DB_ID:1753
+C=386;O=5;E=0.67;R=7.42;rawP=0.0006;adjP=0.0008
+Smad7	NA	Smad7	SMAD family member 7	17131	ENSMUSG00000025880
+
+Prdx1	NA	Prdx1	peroxiredoxin 1	18477	ENSMUSG00000028691
+
+Vasn	NA	Vasn	vasorin	246154	ENSMUSG00000039646
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+Slco2a1	NA	Slco2a1	solute carrier organic anion transporter family, member 2a1	24059	ENSMUSG00000032548
+
+
+Transcrription Target	mmu_AACTTT_UNKNOWN	DB_ID:1236
+C=1750;O=10;E=3.05;R=3.27;rawP=0.0010;adjP=0.0013
+Psma8	NA	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8	73677	ENSMUSG00000036743
+
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+Pkig	NA	Pkig	protein kinase inhibitor, gamma	18769	ENSMUSG00000035268
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+
+Transcrription Target	mmu_GGGTGGRR_V$PAX4_03	DB_ID:1830
+C=1207;O=8;E=2.11;R=3.80;rawP=0.0013;adjP=0.0016
+Tnfrsf13c	NA	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c	72049	ENSMUSG00000068105
+
+Gjb4	NA	Gjb4	gap junction protein, beta 4	14621	ENSMUSG00000046623
+
+Agr2	NA	Agr2	anterior gradient 2 (Xenopus laevis)	23795	ENSMUSG00000020581
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Slc38a5	NA	Slc38a5	solute carrier family 38, member 5	209837	ENSMUSG00000031170
+
+Zbtb32	NA	Zbtb32	zinc finger and BTB domain containing 32	58206	ENSMUSG00000006310
+
+Nkiras2	NA	Nkiras2	NFKB inhibitor interacting Ras-like protein 2	71966	ENSMUSG00000017837
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+
+Transcrription Target	mmu_GGGCGGR_V$SP1_Q6	DB_ID:1837
+C=2704;O=12;E=4.72;R=2.54;rawP=0.0027;adjP=0.0033
+Tnfrsf13c	NA	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c	72049	ENSMUSG00000068105
+
+Armc5	NA	Armc5	armadillo repeat containing 5	233912	ENSMUSG00000042178
+
+Fut1	NA	Fut1	fucosyltransferase 1	14343	ENSMUSG00000008461
+
+Pfkfb4	NA	Pfkfb4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4	270198	ENSMUSG00000025648
+
+Top2a	NA	Top2a	topoisomerase (DNA) II alpha	21973	ENSMUSG00000020914
+
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Nkiras2	NA	Nkiras2	NFKB inhibitor interacting Ras-like protein 2	71966	ENSMUSG00000017837
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+
+Transcrription Target	mmu_GCANCTGNY_V$MYOD_Q6	DB_ID:1820
+C=854;O=6;E=1.49;R=4.02;rawP=0.0039;adjP=0.0046
+Tcf7	NA	Tcf7	transcription factor 7, T cell specific	21414	ENSMUSG00000000782
+
+Lcn9	NA	Lcn9	lipocalin 9	77704	ENSMUSG00000023210
+
+C7	NA	C7	complement component 7	109828	ENSMUSG00000079105
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Nr2f2	NA	Nr2f2	nuclear receptor subfamily 2, group F, member 2	11819	ENSMUSG00000030551
+
+Acta1	NA	Acta1	actin, alpha 1, skeletal muscle	11459	ENSMUSG00000031972
+
+
+Transcrription Target	mmu_CACGTG_V$MYC_Q2	DB_ID:1819
+C=949;O=6;E=1.66;R=3.62;rawP=0.0065;adjP=0.0074
+Gadd45g	NA	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma	23882	ENSMUSG00000021453
+
+Sorl1	NA	Sorl1	sortilin-related receptor, LDLR class A repeats-containing	20660	ENSMUSG00000049313
+
+Rrs1	NA	Rrs1	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)	59014	ENSMUSG00000061024
+
+Slc20a1	NA	Slc20a1	solute carrier family 20, member 1	20515	ENSMUSG00000027397
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Slc38a5	NA	Slc38a5	solute carrier family 38, member 5	209837	ENSMUSG00000031170
+
+
+
+

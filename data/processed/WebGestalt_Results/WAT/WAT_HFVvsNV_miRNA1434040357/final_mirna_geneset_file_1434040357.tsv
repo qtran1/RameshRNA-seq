@@ -1,0 +1,198 @@
+User data and parameters: User data: WebGestal_WAT_HFVvsNV.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each target, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+microRNA Target	mmu_TTGGAGA,MIR-515-5P,MIR-519E	DB_ID:477
+C=134;O=5;E=0.43;R=11.67;rawP=7.57e-05;adjP=0.0005
+Donson	NA	Donson	downstream neighbor of SON	60364	ENSMUSG00000022960
+
+Slc4a4	NA	Slc4a4	solute carrier family 4 (anion exchanger), member 4	54403	ENSMUSG00000060961
+
+Notch2	NA	Notch2	notch 2	18129	ENSMUSG00000027878
+
+Cmtm6	NA	Cmtm6	CKLF-like MARVEL transmembrane domain containing 6	67213	ENSMUSG00000032434
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+
+microRNA Target	mmu_GTGCCTT,MIR-506	DB_ID:491
+C=666;O=10;E=2.13;R=4.70;rawP=6.37e-05;adjP=0.0005
+Kif21b	NA	Kif21b	kinesin family member 21B	16565	ENSMUSG00000041642
+
+Plp2	NA	Plp2	proteolipid protein 2	18824	ENSMUSG00000031146
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Bcl11a	NA	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	14025	ENSMUSG00000000861
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Sfrp5	NA	Sfrp5	secreted frizzled-related sequence protein 5	54612	ENSMUSG00000018822
+
+Zdhhc2	NA	Zdhhc2	zinc finger, DHHC domain containing 2	70546	ENSMUSG00000039470
+
+
+microRNA Target	mmu_TTGCACT,MIR-130A,MIR-301,MIR-130B	DB_ID:455
+C=370;O=7;E=1.18;R=5.92;rawP=0.0002;adjP=0.0008
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Nrarp	NA	Nrarp	Notch-regulated ankyrin repeat protein	67122	ENSMUSG00000078202
+
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Sox5	NA	Sox5	SRY-box containing gene 5	20678	ENSMUSG00000041540
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+Pex5l	NA	Pex5l	peroxisomal biogenesis factor 5-like	58869	ENSMUSG00000027674
+
+
+microRNA Target	mmu_AATGTGA,MIR-23A,MIR-23B	DB_ID:462
+C=391;O=7;E=1.25;R=5.60;rawP=0.0003;adjP=0.0009
+Slc4a4	NA	Slc4a4	solute carrier family 4 (anion exchanger), member 4	54403	ENSMUSG00000060961
+
+Bcl11a	NA	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	14025	ENSMUSG00000000861
+
+Pde4b	NA	Pde4b	phosphodiesterase 4B, cAMP specific	18578	ENSMUSG00000028525
+
+Cldn12	NA	Cldn12	claudin 12	64945	ENSMUSG00000046798
+
+Spry2	NA	Spry2	sprouty homolog 2 (Drosophila)	24064	ENSMUSG00000022114
+
+Pde7a	NA	Pde7a	phosphodiesterase 7A	18583	ENSMUSG00000069094
+
+Tfpi2	NA	Tfpi2	tissue factor pathway inhibitor 2	21789	ENSMUSG00000029664
+
+
+microRNA Target	mmu_AAGCACA,MIR-218	DB_ID:564
+C=377;O=6;E=1.21;R=4.98;rawP=0.0014;adjP=0.0034
+Kif21b	NA	Kif21b	kinesin family member 21B	16565	ENSMUSG00000041642
+
+Thtpa	NA	Thtpa	thiamine triphosphatase	105663	ENSMUSG00000045691
+
+Sox5	NA	Sox5	SRY-box containing gene 5	20678	ENSMUSG00000041540
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+Pex5l	NA	Pex5l	peroxisomal biogenesis factor 5-like	58869	ENSMUSG00000027674
+
+
+microRNA Target	mmu_GCACTTT,MIR-17-5P,MIR-20A,MIR-106A,MIR-106B,MIR-20B,MIR-519D	DB_ID:444
+C=548;O=7;E=1.75;R=4.00;rawP=0.0020;adjP=0.0036
+Set	NA	Set	SET nuclear oncogene	56086	ENSMUSG00000054766
+
+Rsrc2	NA	Rsrc2	arginine/serine-rich coiled-coil 2	208606	ENSMUSG00000029422
+
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Chd5	NA	Chd5	chromodomain helicase DNA binding protein 5	269610	ENSMUSG00000005045
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+Pex5l	NA	Pex5l	peroxisomal biogenesis factor 5-like	58869	ENSMUSG00000027674
+
+
+microRNA Target	mmu_TGCACTG,MIR-148A,MIR-152,MIR-148B	DB_ID:451
+C=278;O=5;E=0.89;R=5.63;rawP=0.0021;adjP=0.0036
+Bcl11a	NA	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	14025	ENSMUSG00000000861
+
+Nrarp	NA	Nrarp	Notch-regulated ankyrin repeat protein	67122	ENSMUSG00000078202
+
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Sept4	NA	Sept4	septin 4	18952	ENSMUSG00000020486
+
+Ddx6	NA	Ddx6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	13209	ENSMUSG00000032097
+
+
+microRNA Target	mmu_CTCAGGG,MIR-125B,MIR-125A	DB_ID:465
+C=309;O=5;E=0.99;R=5.06;rawP=0.0033;adjP=0.0044
+Slc4a4	NA	Slc4a4	solute carrier family 4 (anion exchanger), member 4	54403	ENSMUSG00000060961
+
+Set	NA	Set	SET nuclear oncogene	56086	ENSMUSG00000054766
+
+Phyhip	NA	Phyhip	phytanoyl-CoA hydroxylase interacting protein	105653	ENSMUSG00000003469
+
+Arid3b	NA	Arid3b	AT rich interactive domain 3B (BRIGHT-like)	56380	ENSMUSG00000004661
+
+Ncan	NA	Ncan	neurocan	13004	ENSMUSG00000002341
+
+
+microRNA Target	mmu_TGAATGT,MIR-181A,MIR-181B,MIR-181C,MIR-181D	DB_ID:448
+C=444;O=6;E=1.42;R=4.23;rawP=0.0032;adjP=0.0044
+Bcl11a	NA	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	14025	ENSMUSG00000000861
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Bhlhe40	NA	Bhlhe40	basic helix-loop-helix family, member e40	20893	ENSMUSG00000030103
+
+Sox5	NA	Sox5	SRY-box containing gene 5	20678	ENSMUSG00000041540
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+
+microRNA Target	mmu_ACCAAAG,MIR-9	DB_ID:588
+C=463;O=6;E=1.48;R=4.05;rawP=0.0039;adjP=0.0047
+Bcl11a	NA	Bcl11a	B cell CLL/lymphoma 11A (zinc finger protein)	14025	ENSMUSG00000000861
+
+Notch2	NA	Notch2	notch 2	18129	ENSMUSG00000027878
+
+Cmtm6	NA	Cmtm6	CKLF-like MARVEL transmembrane domain containing 6	67213	ENSMUSG00000032434
+
+Slc20a2	NA	Slc20a2	solute carrier family 20, member 2	20516	ENSMUSG00000037656
+
+Arid3b	NA	Arid3b	AT rich interactive domain 3B (BRIGHT-like)	56380	ENSMUSG00000004661
+
+Maea	NA	Maea	macrophage erythroblast attacher	59003	ENSMUSG00000079562
+
+
+microRNA Target	mmu_CTACCTC,LET-7A,LET-7B,LET-7C,LET-7D,LET-7E,LET-7F,MIR-98,LET-7G,LET-7I	DB_ID:443
+C=356;O=5;E=1.14;R=4.39;rawP=0.0060;adjP=0.0065
+Slc4a4	NA	Slc4a4	solute carrier family 4 (anion exchanger), member 4	54403	ENSMUSG00000060961
+
+Nrarp	NA	Nrarp	Notch-regulated ankyrin repeat protein	67122	ENSMUSG00000078202
+
+Kif21b	NA	Kif21b	kinesin family member 21B	16565	ENSMUSG00000041642
+
+Cldn12	NA	Cldn12	claudin 12	64945	ENSMUSG00000046798
+
+Arid3b	NA	Arid3b	AT rich interactive domain 3B (BRIGHT-like)	56380	ENSMUSG00000004661
+
+
+microRNA Target	mmu_TGCTGCT,MIR-15A,MIR-16,MIR-15B,MIR-195,MIR-424,MIR-497	DB_ID:445
+C=560;O=6;E=1.79;R=3.35;rawP=0.0096;adjP=0.0096
+Slc4a4	NA	Slc4a4	solute carrier family 4 (anion exchanger), member 4	54403	ENSMUSG00000060961
+
+Armc5	NA	Armc5	armadillo repeat containing 5	233912	ENSMUSG00000042178
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Chd5	NA	Chd5	chromodomain helicase DNA binding protein 5	269610	ENSMUSG00000005045
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Kif5a	NA	Kif5a	kinesin family member 5A	16572	ENSMUSG00000074657
+
+
+
+

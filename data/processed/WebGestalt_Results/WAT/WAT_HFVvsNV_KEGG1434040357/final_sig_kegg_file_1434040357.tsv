@@ -1,0 +1,63 @@
+User data and parameters: User data: WebGestal_WAT_HFVvsNV.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for the enriched KEGG pathways are listed in this table. For each pathway, the first row lists its KEGG pathway
+name, and corresponding KEGG ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the pathway are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+KEGG pathway	Endocytosis	04144
+C=220;O=5;E=0.70;R=7.11;rawP=0.0007;adjP=0.0010
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+F2r	NA	F2r	coagulation factor II (thrombin) receptor	14062	ENSMUSG00000048376
+
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Chmp1a	NA	Chmp1a	charged multivesicular body protein 1A	234852	ENSMUSG00000000743
+
+Pdgfra	NA	Pdgfra	platelet derived growth factor receptor, alpha polypeptide	18595	ENSMUSG00000029231
+
+
+KEGG pathway	Huntington's disease	05016
+C=197;O=5;E=0.63;R=7.94;rawP=0.0005;adjP=0.0010
+Cltc	NA	Cltc	clathrin, heavy polypeptide (Hc)	67300	ENSMUSG00000047126
+
+Ndufs6	NA	Ndufs6	NADH dehydrogenase (ubiquinone) Fe-S protein 6	407785	ENSMUSG00000021606
+
+Cox6b2	NA	Cox6b2	cytochrome c oxidase subunit VIb polypeptide 2	333182	ENSMUSG00000051811
+
+Ppid	NA	Ppid	peptidylprolyl isomerase D (cyclophilin D)	67738	ENSMUSG00000027804
+
+Creb3l4	NA	Creb3l4	cAMP responsive element binding protein 3-like 4	78284	ENSMUSG00000027938
+
+
+KEGG pathway	Metabolic pathways	01100
+C=1184;O=11;E=3.79;R=2.91;rawP=0.0016;adjP=0.0016
+Gfpt1	NA	Gfpt1	glutamine fructose-6-phosphate transaminase 1	14583	ENSMUSG00000029992
+
+Hyal5	NA	Hyal5	hyaluronoglucosaminidase 5	74468	ENSMUSG00000029678
+
+B4galt1	NA	B4galt1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	14595	ENSMUSG00000028413
+
+Khk	NA	Khk	ketohexokinase	16548	ENSMUSG00000029162
+
+Inpp4b	NA	Inpp4b	inositol polyphosphate-4-phosphatase, type II	234515	ENSMUSG00000037940
+
+Ndufs6	NA	Ndufs6	NADH dehydrogenase (ubiquinone) Fe-S protein 6	407785	ENSMUSG00000021606
+
+Cox6b2	NA	Cox6b2	cytochrome c oxidase subunit VIb polypeptide 2	333182	ENSMUSG00000051811
+
+Thtpa	NA	Thtpa	thiamine triphosphatase	105663	ENSMUSG00000045691
+
+Uprt	NA	Uprt	uracil phosphoribosyltransferase (FUR1) homolog (S. cerevisiae)	331487	ENSMUSG00000073016
+
+Rrm2b	NA	Rrm2b	ribonucleotide reductase M2 B (TP53 inducible)	382985	ENSMUSG00000022292
+
+Pycrl	NA	Pycrl	pyrroline-5-carboxylate reductase-like	66194	ENSMUSG00000022571
+
+
+
+

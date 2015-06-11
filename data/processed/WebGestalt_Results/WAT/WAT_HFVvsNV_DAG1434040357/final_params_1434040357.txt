@@ -1,0 +1,8 @@
+User file: WebGestal_WAT_HFVvsNV.txt
+Organism: mmusculus
+Id Type: gene_symbol
+Ref Set: entrezgene
+Significance Level: .01
+Statistics Test: Hypergeometric
+MTC: BH
+Minimum: 5

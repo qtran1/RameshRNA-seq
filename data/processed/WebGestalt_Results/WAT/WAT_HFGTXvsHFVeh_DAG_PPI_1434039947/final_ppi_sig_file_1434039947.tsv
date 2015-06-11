@@ -1,0 +1,27 @@
+User data and parameters: User data: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each PPI, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+PPI	Mmusculus_Module_185	DB_ID:185
+C=235;O=6;E=1.18;R=5.08;rawP=0.0012;adjP=0.0096
+Ldlr	NA	Ldlr	low density lipoprotein receptor	16835	ENSMUSG00000032193
+
+Gulp1	NA	Gulp1	GULP, engulfment adaptor PTB domain containing 1	70676	ENSMUSG00000056870
+
+Ctgf	NA	Ctgf	connective tissue growth factor	14219	ENSMUSG00000019997
+
+Mmp12	NA	Mmp12	matrix metallopeptidase 12	17381	ENSMUSG00000049723
+
+Vwf	NA	Vwf	Von Willebrand factor homolog	22371	ENSMUSG00000001930
+
+Adam28	NA	Adam28	a disintegrin and metallopeptidase domain 28	13522	ENSMUSG00000014725
+
+
+
+

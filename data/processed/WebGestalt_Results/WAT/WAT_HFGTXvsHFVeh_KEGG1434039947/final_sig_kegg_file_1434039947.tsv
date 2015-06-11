@@ -1,0 +1,25 @@
+User data and parameters: User data: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for the enriched KEGG pathways are listed in this table. For each pathway, the first row lists its KEGG pathway
+name, and corresponding KEGG ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the pathway are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+KEGG pathway	Neuroactive ligand-receptor interaction	04080
+C=277;O=5;E=0.48;R=10.34;rawP=0.0001;adjP=0.0002
+P2rx1	NA	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1	18436	ENSMUSG00000020787
+
+Ednra	NA	Ednra	endothelin receptor type A	13617	ENSMUSG00000031616
+
+Ntsr2	NA	Ntsr2	neurotensin receptor 2	18217	ENSMUSG00000020591
+
+Avpr1a	NA	Avpr1a	arginine vasopressin receptor 1A	54140	ENSMUSG00000020123
+
+Adra1a	NA	Adra1a	adrenergic receptor, alpha 1a	11549	ENSMUSG00000045875
+
+
+
+

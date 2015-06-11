@@ -1,0 +1,2456 @@
+User file and parameters: User file: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for all enriched BP GO category are listed in this table. For each GO category, the first row lists its sub-root
+(biological process), category name, and corresponding GO ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the category are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+biological process	muscle tissue development	GO:0060537
+C=342;O=7;E=1.40;R=4.98;rawP=0.0005;adjP=0.0035
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	single-multicellular organism process	GO:0044707
+C=5889;O=39;E=24.19;R=1.61;rawP=0.0007;adjP=0.0042
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ntsr2	NA	18217	ENSMUSG00000020591	Ntsr2	neurotensin receptor 2
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Gjb4	NA	14621	ENSMUSG00000046623	Gjb4	gap junction protein, beta 4
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Agr2	NA	23795	ENSMUSG00000020581	Agr2	anterior gradient 2 (Xenopus laevis)
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Mapk1ip1	NA	69546	ENSMUSG00000041775	Mapk1ip1	mitogen-activated protein kinase 1 interacting protein 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	phosphorylation	GO:0016310
+C=1453;O=15;E=5.97;R=2.51;rawP=0.0008;adjP=0.0048
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Pfkfb4	NA	270198	ENSMUSG00000025648	Pfkfb4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Cdkl4	NA	381113	ENSMUSG00000033966	Cdkl4	cyclin-dependent kinase-like 4
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Pi4kb	NA	107650	ENSMUSG00000038861	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	anatomical structure morphogenesis	GO:0009653
+C=1856;O=17;E=7.62;R=2.23;rawP=0.0014;adjP=0.0067
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+
+biological process	regulation of tube size	GO:0035150
+C=122;O=5;E=0.50;R=9.98;rawP=0.0001;adjP=0.0014
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+
+biological process	cell proliferation	GO:0008283
+C=1327;O=15;E=5.45;R=2.75;rawP=0.0003;adjP=0.0029
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+
+biological process	blood vessel development	GO:0001568
+C=489;O=8;E=2.01;R=3.98;rawP=0.0009;adjP=0.0049
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	intracellular signal transduction	GO:0035556
+C=1640;O=18;E=6.74;R=2.67;rawP=0.0001;adjP=0.0014
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Nkiras2	NA	71966	ENSMUSG00000017837	Nkiras2	NFKB inhibitor interacting Ras-like protein 2
+
+Pi4kb	NA	107650	ENSMUSG00000038861	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	positive regulation of cellular protein metabolic process	GO:0032270
+C=640;O=9;E=2.63;R=3.42;rawP=0.0013;adjP=0.0066
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	organ development	GO:0048513
+C=2291;O=23;E=9.41;R=2.44;rawP=4.22e-05;adjP=0.0010
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	single-organism metabolic process	GO:0044710
+C=8434;O=49;E=34.64;R=1.41;rawP=0.0020;adjP=0.0084
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Snrnp25	NA	78372	ENSMUSG00000040767	Snrnp25	small nuclear ribonucleoprotein 25 (U11/U12)
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Cfh	NA	12628	ENSMUSG00000026365	Cfh	complement component factor h
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Cdkl4	NA	381113	ENSMUSG00000033966	Cdkl4	cyclin-dependent kinase-like 4
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Inmt	NA	21743	ENSMUSG00000003477	Inmt	indolethylamine N-methyltransferase
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nkiras2	NA	71966	ENSMUSG00000017837	Nkiras2	NFKB inhibitor interacting Ras-like protein 2
+
+Pi4kb	NA	107650	ENSMUSG00000038861	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide
+
+Gm4846	NA	226601	ENSMUSG00000086056	Gm4846	predicted gene 4846
+
+Adam28	NA	13522	ENSMUSG00000014725	Adam28	a disintegrin and metallopeptidase domain 28
+
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Psma8	NA	73677	ENSMUSG00000036743	Psma8	proteasome (prosome, macropain) subunit, alpha type, 8
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Pfkfb4	NA	270198	ENSMUSG00000025648	Pfkfb4	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 4
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fut1	NA	14343	ENSMUSG00000008461	Fut1	fucosyltransferase 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Gpx5	NA	14780	ENSMUSG00000004344	Gpx5	glutathione peroxidase 5
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Prodh	NA	19125	ENSMUSG00000003526	Prodh	proline dehydrogenase
+
+Prpf38b	NA	66921	ENSMUSG00000027881	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B
+
+Nedd8	NA	18002	ENSMUSG00000010376	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	circulatory system process	GO:0003013
+C=326;O=9;E=1.34;R=6.72;rawP=8.05e-06;adjP=0.0007
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of protein modification process	GO:0031399
+C=840;O=13;E=3.45;R=3.77;rawP=3.95e-05;adjP=0.0010
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	multicellular organismal development	GO:0007275
+C=3614;O=29;E=14.84;R=1.95;rawP=0.0002;adjP=0.0024
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Mapk1ip1	NA	69546	ENSMUSG00000041775	Mapk1ip1	mitogen-activated protein kinase 1 interacting protein 1
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	positive regulation of cellular process	GO:0048522
+C=2958;O=23;E=12.15;R=1.89;rawP=0.0017;adjP=0.0076
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	negative regulation of transferase activity	GO:0051348
+C=154;O=6;E=0.63;R=9.49;rawP=4.23e-05;adjP=0.0010
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	regulation of cellular protein metabolic process	GO:0032268
+C=1078;O=13;E=4.43;R=2.94;rawP=0.0005;adjP=0.0035
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of phosphate metabolic process	GO:0019220
+C=1089;O=13;E=4.47;R=2.91;rawP=0.0005;adjP=0.0035
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of blood pressure	GO:0008217
+C=150;O=6;E=0.62;R=9.74;rawP=3.65e-05;adjP=0.0010
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	regulation of protein kinase activity	GO:0045859
+C=458;O=8;E=1.88;R=4.25;rawP=0.0006;adjP=0.0039
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	muscle contraction	GO:0006936
+C=180;O=5;E=0.74;R=6.76;rawP=0.0009;adjP=0.0049
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of phosphorylation	GO:0042326
+C=201;O=7;E=0.83;R=8.48;rawP=1.96e-05;adjP=0.0009
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	regulation of anatomical structure size	GO:0090066
+C=294;O=6;E=1.21;R=4.97;rawP=0.0014;adjP=0.0067
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+
+biological process	regulation of phosphorylation	GO:0042325
+C=750;O=12;E=3.08;R=3.90;rawP=5.84e-05;adjP=0.0012
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	MAPK cascade	GO:0000165
+C=480;O=9;E=1.97;R=4.56;rawP=0.0002;adjP=0.0024
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of blood vessel size	GO:0050880
+C=121;O=5;E=0.50;R=10.06;rawP=0.0001;adjP=0.0014
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+
+biological process	positive regulation of cellular metabolic process	GO:0031325
+C=1717;O=17;E=7.05;R=2.41;rawP=0.0006;adjP=0.0039
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+
+biological process	single-organism process	GO:0044699
+C=7816;O=46;E=32.10;R=1.43;rawP=0.0024;adjP=0.0097
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Cfh	NA	12628	ENSMUSG00000026365	Cfh	complement component factor h
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nkiras2	NA	71966	ENSMUSG00000017837	Nkiras2	NFKB inhibitor interacting Ras-like protein 2
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Pi4kb	NA	107650	ENSMUSG00000038861	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ntsr2	NA	18217	ENSMUSG00000020591	Ntsr2	neurotensin receptor 2
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Gjb4	NA	14621	ENSMUSG00000046623	Gjb4	gap junction protein, beta 4
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Agr2	NA	23795	ENSMUSG00000020581	Agr2	anterior gradient 2 (Xenopus laevis)
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Mapk1ip1	NA	69546	ENSMUSG00000041775	Mapk1ip1	mitogen-activated protein kinase 1 interacting protein 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	negative regulation of protein modification process	GO:0031400
+C=246;O=7;E=1.01;R=6.93;rawP=7.09e-05;adjP=0.0014
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	positive regulation of metabolic process	GO:0009893
+C=1834;O=18;E=7.53;R=2.39;rawP=0.0004;adjP=0.0034
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+
+biological process	vasculature development	GO:0001944
+C=506;O=8;E=2.08;R=3.85;rawP=0.0011;adjP=0.0057
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of molecular function	GO:0044092
+C=685;O=9;E=2.81;R=3.20;rawP=0.0020;adjP=0.0084
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Cst11	NA	78240	ENSMUSG00000036958	Cst11	cystatin 11
+
+
+biological process	striated muscle tissue development	GO:0014706
+C=326;O=7;E=1.34;R=5.23;rawP=0.0004;adjP=0.0034
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	regulation of MAPK cascade	GO:0043408
+C=423;O=8;E=1.74;R=4.60;rawP=0.0004;adjP=0.0034
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	intracellular protein kinase cascade	GO:0007243
+C=794;O=11;E=3.26;R=3.37;rawP=0.0004;adjP=0.0034
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	regulation of phosphorus metabolic process	GO:0051174
+C=1090;O=13;E=4.48;R=2.90;rawP=0.0005;adjP=0.0035
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of catalytic activity	GO:0050790
+C=1334;O=14;E=5.48;R=2.56;rawP=0.0011;adjP=0.0057
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Cst11	NA	78240	ENSMUSG00000036958	Cst11	cystatin 11
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	positive regulation of protein metabolic process	GO:0051247
+C=714;O=10;E=2.93;R=3.41;rawP=0.0007;adjP=0.0042
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	cell activation	GO:0001775
+C=610;O=9;E=2.51;R=3.59;rawP=0.0009;adjP=0.0049
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	negative regulation of kinase activity	GO:0033673
+C=143;O=6;E=0.59;R=10.22;rawP=2.79e-05;adjP=0.0009
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	developmental process	GO:0032502
+C=4079;O=30;E=16.75;R=1.79;rawP=0.0007;adjP=0.0042
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Mapk1ip1	NA	69546	ENSMUSG00000041775	Mapk1ip1	mitogen-activated protein kinase 1 interacting protein 1
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	regulation of heart contraction	GO:0008016
+C=114;O=5;E=0.47;R=10.68;rawP=0.0001;adjP=0.0014
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	response to stimulus	GO:0050896
+C=7009;O=43;E=28.79;R=1.49;rawP=0.0016;adjP=0.0073
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Gm15386	NA	654464	ENSMUSG00000089923	Gm15386	predicted gene 15386
+
+Cfh	NA	12628	ENSMUSG00000026365	Cfh	complement component factor h
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Inmt	NA	21743	ENSMUSG00000003477	Inmt	indolethylamine N-methyltransferase
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mest	NA	17294	ENSMUSG00000051855	Mest	mesoderm specific transcript
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nkiras2	NA	71966	ENSMUSG00000017837	Nkiras2	NFKB inhibitor interacting Ras-like protein 2
+
+Pi4kb	NA	107650	ENSMUSG00000038861	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide
+
+Defb25	NA	654459	ENSMUSG00000074678	Defb25	defensin beta 25
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ntsr2	NA	18217	ENSMUSG00000020591	Ntsr2	neurotensin receptor 2
+
+Gjb4	NA	14621	ENSMUSG00000046623	Gjb4	gap junction protein, beta 4
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Fign	NA	60344	ENSMUSG00000075324	Fign	fidgetin
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Gpx5	NA	14780	ENSMUSG00000004344	Gpx5	glutathione peroxidase 5
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Nedd8	NA	18002	ENSMUSG00000010376	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	heart contraction	GO:0060047
+C=139;O=5;E=0.57;R=8.76;rawP=0.0003;adjP=0.0029
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	response to hormone stimulus	GO:0009725
+C=428;O=7;E=1.76;R=3.98;rawP=0.0019;adjP=0.0082
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	regulation of protein serine/threonine kinase activity	GO:0071900
+C=293;O=6;E=1.20;R=4.99;rawP=0.0013;adjP=0.0066
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+
+biological process	circulatory system development	GO:0072359
+C=737;O=10;E=3.03;R=3.30;rawP=0.0009;adjP=0.0049
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	response to organic substance	GO:0010033
+C=1538;O=16;E=6.32;R=2.53;rawP=0.0005;adjP=0.0035
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mest	NA	17294	ENSMUSG00000051855	Mest	mesoderm specific transcript
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Nedd8	NA	18002	ENSMUSG00000010376	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8
+
+
+biological process	muscle system process	GO:0003012
+C=210;O=5;E=0.86;R=5.80;rawP=0.0018;adjP=0.0080
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of kinase activity	GO:0043549
+C=493;O=9;E=2.02;R=4.44;rawP=0.0002;adjP=0.0024
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	protein phosphorylation	GO:0006468
+C=1175;O=13;E=4.83;R=2.69;rawP=0.0010;adjP=0.0054
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Cdkl4	NA	381113	ENSMUSG00000033966	Cdkl4	cyclin-dependent kinase-like 4
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of phosphorus metabolic process	GO:0010563
+C=237;O=8;E=0.97;R=8.22;rawP=6.14e-06;adjP=0.0007
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	biological adhesion	GO:0022610
+C=822;O=11;E=3.38;R=3.26;rawP=0.0006;adjP=0.0039
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Col6a5	NA	665033	ENSMUSG00000091345	Col6a5	collagen, type VI, alpha 5
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Pcdhga4	NA	93712	NULL	Pcdhga4	protocadherin gamma subfamily A, 4
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Spon1	NA	233744	ENSMUSG00000038156	Spon1	spondin 1, (f-spondin) extracellular matrix protein
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	cell adhesion	GO:0007155
+C=815;O=11;E=3.35;R=3.29;rawP=0.0005;adjP=0.0035
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Col6a5	NA	665033	ENSMUSG00000091345	Col6a5	collagen, type VI, alpha 5
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Pcdhga4	NA	93712	NULL	Pcdhga4	protocadherin gamma subfamily A, 4
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Spon1	NA	233744	ENSMUSG00000038156	Spon1	spondin 1, (f-spondin) extracellular matrix protein
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	response to endogenous stimulus	GO:0009719
+C=753;O=11;E=3.09;R=3.56;rawP=0.0003;adjP=0.0029
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of cellular protein metabolic process	GO:0032269
+C=346;O=8;E=1.42;R=5.63;rawP=9.14e-05;adjP=0.0014
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	heart process	GO:0003015
+C=139;O=5;E=0.57;R=8.76;rawP=0.0003;adjP=0.0029
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	regulation of transferase activity	GO:0051338
+C=515;O=9;E=2.12;R=4.25;rawP=0.0003;adjP=0.0029
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	localization	GO:0051179
+C=4006;O=32;E=16.45;R=1.94;rawP=8.97e-05;adjP=0.0014
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Ano3	NA	228432	ENSMUSG00000074968	Ano3	anoctamin 3
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Agr2	NA	23795	ENSMUSG00000020581	Agr2	anterior gradient 2 (Xenopus laevis)
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Slco2a1	NA	24059	ENSMUSG00000032548	Slco2a1	solute carrier organic anion transporter family, member 2a1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Gulp1	NA	70676	ENSMUSG00000056870	Gulp1	GULP, engulfment adaptor PTB domain containing 1
+
+Lcn9	NA	77704	ENSMUSG00000023210	Lcn9	lipocalin 9
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Rrs1	NA	59014	ENSMUSG00000061024	Rrs1	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae)
+
+Lcn10	NA	332578	ENSMUSG00000047356	Lcn10	lipocalin 10
+
+Mest	NA	17294	ENSMUSG00000051855	Mest	mesoderm specific transcript
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Slc38a5	NA	209837	ENSMUSG00000031170	Slc38a5	solute carrier family 38, member 5
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Nedd8	NA	18002	ENSMUSG00000010376	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8
+
+
+biological process	positive regulation of biological process	GO:0048518
+C=3296;O=25;E=13.54;R=1.85;rawP=0.0015;adjP=0.0069
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Cfh	NA	12628	ENSMUSG00000026365	Cfh	complement component factor h
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	negative regulation of catalytic activity	GO:0043086
+C=529;O=8;E=2.17;R=3.68;rawP=0.0015;adjP=0.0069
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Cst11	NA	78240	ENSMUSG00000036958	Cst11	cystatin 11
+
+
+biological process	vascular process in circulatory system	GO:0003018
+C=137;O=5;E=0.56;R=8.89;rawP=0.0003;adjP=0.0029
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+
+biological process	lipid localization	GO:0010876
+C=226;O=5;E=0.93;R=5.39;rawP=0.0024;adjP=0.0097
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Gulp1	NA	70676	ENSMUSG00000056870	Gulp1	GULP, engulfment adaptor PTB domain containing 1
+
+Mest	NA	17294	ENSMUSG00000051855	Mest	mesoderm specific transcript
+
+
+biological process	negative regulation of phosphate metabolic process	GO:0045936
+C=237;O=8;E=0.97;R=8.22;rawP=6.14e-06;adjP=0.0007
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	muscle organ development	GO:0007517
+C=326;O=6;E=1.34;R=4.48;rawP=0.0023;adjP=0.0096
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+
+biological process	blood circulation	GO:0008015
+C=325;O=9;E=1.33;R=6.74;rawP=7.86e-06;adjP=0.0007
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of protein phosphorylation	GO:0001932
+C=688;O=12;E=2.83;R=4.25;rawP=2.53e-05;adjP=0.0009
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of protein metabolic process	GO:0051248
+C=395;O=8;E=1.62;R=4.93;rawP=0.0002;adjP=0.0024
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+
+biological process	regulation of biological quality	GO:0065008
+C=2179;O=22;E=8.95;R=2.46;rawP=5.92e-05;adjP=0.0012
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Ntsr2	NA	18217	ENSMUSG00000020591	Ntsr2	neurotensin receptor 2
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Agr2	NA	23795	ENSMUSG00000020581	Agr2	anterior gradient 2 (Xenopus laevis)
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+C7	NA	109828	ENSMUSG00000079105	C7	complement component 7
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	multicellular organismal process	GO:0032501
+C=5902;O=39;E=24.24;R=1.61;rawP=0.0007;adjP=0.0042
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Rasl10b	NA	276952	ENSMUSG00000020684	Rasl10b	RAS-like, family 10, member B
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ncan	NA	13004	ENSMUSG00000002341	Ncan	neurocan
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Ntsr2	NA	18217	ENSMUSG00000020591	Ntsr2	neurotensin receptor 2
+
+Sorl1	NA	20660	ENSMUSG00000049313	Sorl1	sortilin-related receptor, LDLR class A repeats-containing
+
+Gjb4	NA	14621	ENSMUSG00000046623	Gjb4	gap junction protein, beta 4
+
+Slc5a7	NA	63993	ENSMUSG00000023945	Slc5a7	solute carrier family 5 (choline transporter), member 7
+
+Ldlr	NA	16835	ENSMUSG00000032193	Ldlr	low density lipoprotein receptor
+
+Agr2	NA	23795	ENSMUSG00000020581	Agr2	anterior gradient 2 (Xenopus laevis)
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Mapk1ip1	NA	69546	ENSMUSG00000041775	Mapk1ip1	mitogen-activated protein kinase 1 interacting protein 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	positive regulation of macromolecule metabolic process	GO:0010604
+C=1686;O=16;E=6.93;R=2.31;rawP=0.0014;adjP=0.0067
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+
+biological process	negative regulation of protein phosphorylation	GO:0001933
+C=190;O=7;E=0.78;R=8.97;rawP=1.37e-05;adjP=0.0009
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	system development	GO:0048731
+C=3091;O=24;E=12.70;R=1.89;rawP=0.0014;adjP=0.0067
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	cardiovascular system development	GO:0072358
+C=737;O=10;E=3.03;R=3.30;rawP=0.0009;adjP=0.0049
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	negative regulation of protein serine/threonine kinase activity	GO:0071901
+C=81;O=5;E=0.33;R=15.03;rawP=2.11e-05;adjP=0.0009
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	blood vessel morphogenesis	GO:0048514
+C=425;O=7;E=1.75;R=4.01;rawP=0.0019;adjP=0.0082
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	response to chemical stimulus	GO:0042221
+C=2194;O=20;E=9.01;R=2.22;rawP=0.0005;adjP=0.0035
+P2rx1	NA	18436	ENSMUSG00000020787	P2rx1	purinergic receptor P2X, ligand-gated ion channel, 1
+
+Repin1	NA	58887	ENSMUSG00000052751	Repin1	replication initiator 1
+
+Avpr1a	NA	54140	ENSMUSG00000020123	Avpr1a	arginine vasopressin receptor 1A
+
+Gjb4	NA	14621	ENSMUSG00000046623	Gjb4	gap junction protein, beta 4
+
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Inmt	NA	21743	ENSMUSG00000003477	Inmt	indolethylamine N-methyltransferase
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Lcn8	NA	78076	ENSMUSG00000036449	Lcn8	lipocalin 8
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mest	NA	17294	ENSMUSG00000051855	Mest	mesoderm specific transcript
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Nedd8	NA	18002	ENSMUSG00000010376	Nedd8	neural precursor cell expressed, developmentally down-regulated gene 8
+
+
+biological process	negative regulation of protein kinase activity	GO:0006469
+C=132;O=6;E=0.54;R=11.07;rawP=1.78e-05;adjP=0.0009
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+
+biological process	anatomical structure development	GO:0048856
+C=3606;O=28;E=14.81;R=1.89;rawP=0.0005;adjP=0.0035
+Aldh1a2	NA	19378	ENSMUSG00000013584	Aldh1a2	aldehyde dehydrogenase family 1, subfamily A2
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Tcf7	NA	21414	ENSMUSG00000000782	Tcf7	transcription factor 7, T cell specific
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Zbtb32	NA	58206	ENSMUSG00000006310	Zbtb32	zinc finger and BTB domain containing 32
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+C1galt1	NA	94192	ENSMUSG00000042460	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Acta1	NA	11459	ENSMUSG00000031972	Acta1	actin, alpha 1, skeletal muscle
+
+Bcl9l	NA	80288	ENSMUSG00000063382	Bcl9l	B cell CLL/lymphoma 9-like
+
+Cyp1b1	NA	13078	ENSMUSG00000024087	Cyp1b1	cytochrome P450, family 1, subfamily b, polypeptide 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Rnf17	NA	30054	ENSMUSG00000000365	Rnf17	ring finger protein 17
+
+Ctsl	NA	13039	ENSMUSG00000021477	Ctsl	cathepsin L
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Top2a	NA	21973	ENSMUSG00000020914	Top2a	topoisomerase (DNA) II alpha
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Mmp12	NA	17381	ENSMUSG00000049723	Mmp12	matrix metallopeptidase 12
+
+Foxc2	NA	14234	ENSMUSG00000046714	Foxc2	forkhead box C2
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Cryba4	NA	12959	ENSMUSG00000066975	Cryba4	crystallin, beta A4
+
+Baiap2	NA	108100	ENSMUSG00000025372	Baiap2	brain-specific angiogenesis inhibitor 1-associated protein 2
+
+Cela1	NA	109901	ENSMUSG00000023031	Cela1	chymotrypsin-like elastase family, member 1
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+Vwf	NA	22371	ENSMUSG00000001930	Vwf	Von Willebrand factor homolog
+
+
+biological process	regulation of intracellular protein kinase cascade	GO:0010627
+C=640;O=10;E=2.63;R=3.80;rawP=0.0003;adjP=0.0029
+Prdx1	NA	18477	ENSMUSG00000028691	Prdx1	peroxiredoxin 1
+
+Adra1a	NA	11549	ENSMUSG00000045875	Adra1a	adrenergic receptor, alpha 1a
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Slc20a1	NA	20515	ENSMUSG00000027397	Slc20a1	solute carrier family 20, member 1
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+Ubd	NA	24108	ENSMUSG00000035186	Ubd	ubiquitin D
+
+
+biological process	positive regulation of protein modification process	GO:0031401
+C=561;O=9;E=2.30;R=3.91;rawP=0.0005;adjP=0.0035
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+
+biological process	regulation of protein metabolic process	GO:0051246
+C=1215;O=15;E=4.99;R=3.01;rawP=0.0001;adjP=0.0014
+Tnfrsf13c	NA	72049	ENSMUSG00000068105	Tnfrsf13c	tumor necrosis factor receptor superfamily, member 13c
+
+Hspbp1	NA	66245	ENSMUSG00000063802	Hspbp1	HSPA (heat shock 70kDa) binding protein, cytoplasmic cochaperone 1
+
+Pkig	NA	18769	ENSMUSG00000035268	Pkig	protein kinase inhibitor, gamma
+
+Fgf13	NA	14168	ENSMUSG00000031137	Fgf13	fibroblast growth factor 13
+
+Spry2	NA	24064	ENSMUSG00000022114	Spry2	sprouty homolog 2 (Drosophila)
+
+Il1rn	NA	16181	ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist
+
+Cfh	NA	12628	ENSMUSG00000026365	Cfh	complement component factor h
+
+Pik3r1	NA	18708	ENSMUSG00000041417	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+
+Smad7	NA	17131	ENSMUSG00000025880	Smad7	SMAD family member 7
+
+Ednra	NA	13617	ENSMUSG00000031616	Ednra	endothelin receptor type A
+
+Dusp16	NA	70686	ENSMUSG00000030203	Dusp16	dual specificity phosphatase 16
+
+Gadd45g	NA	23882	ENSMUSG00000021453	Gadd45g	growth arrest and DNA-damage-inducible 45 gamma
+
+Hexim1	NA	192231	ENSMUSG00000048878	Hexim1	hexamethylene bis-acetamide inducible 1
+
+Nr2f2	NA	11819	ENSMUSG00000030551	Nr2f2	nuclear receptor subfamily 2, group F, member 2
+
+Ctgf	NA	14219	ENSMUSG00000019997	Ctgf	connective tissue growth factor
+
+

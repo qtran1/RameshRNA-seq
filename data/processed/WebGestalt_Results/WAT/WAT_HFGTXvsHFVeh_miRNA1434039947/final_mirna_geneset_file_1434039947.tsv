@@ -1,0 +1,42 @@
+User data and parameters: User data: WebGestal_WAT_HFGTXvsHFVeh.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each target, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+microRNA Target	mmu_TGCTGCT,MIR-15A,MIR-16,MIR-15B,MIR-195,MIR-424,MIR-497	DB_ID:445
+C=560;O=7;E=0.98;R=7.16;rawP=6.01e-05;adjP=0.0001
+Smad7	NA	Smad7	SMAD family member 7	17131	ENSMUSG00000025880
+
+Armc5	NA	Armc5	armadillo repeat containing 5	233912	ENSMUSG00000042178
+
+Ano3	NA	Ano3	anoctamin 3	228432	ENSMUSG00000074968
+
+Irf2bpl	NA	Irf2bpl	interferon regulatory factor 2 binding protein-like	238330	ENSMUSG00000034168
+
+Pi4kb	NA	Pi4kb	phosphatidylinositol 4-kinase, catalytic, beta polypeptide	107650	ENSMUSG00000038861
+
+Bcl9l	NA	Bcl9l	B cell CLL/lymphoma 9-like	80288	ENSMUSG00000063382
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+
+microRNA Target	mmu_ATGTACA,MIR-493	DB_ID:629
+C=296;O=5;E=0.52;R=9.68;rawP=0.0002;adjP=0.0002
+Fign	NA	Fign	fidgetin	60344	ENSMUSG00000075324
+
+Dusp16	NA	Dusp16	dual specificity phosphatase 16	70686	ENSMUSG00000030203
+
+Fgf13	NA	Fgf13	fibroblast growth factor 13	14168	ENSMUSG00000031137
+
+Prpf38b	NA	Prpf38b	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	66921	ENSMUSG00000027881
+
+Pik3r1	NA	Pik3r1	phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)	18708	ENSMUSG00000041417
+
+
+
+

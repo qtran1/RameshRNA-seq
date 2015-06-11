@@ -1,0 +1,52 @@
+User data and parameters: User data: WebGestalt_WAT_HFGTXvsNV.txt, Organism: mmusculus, Id Type: gene_symbol, Ref Set: entrezgene, Significance Level: .01, Statistics Test: Hypergeometric, MTC: BH, Minimum: 5
+
+The results for each enriched gene sets are listed in this table. For each PPI, the first row lists its gene set
+name, and corresponding Gene Set ID. The second row lists
+number of reference genes in the category (C), number of genes in the gene set and also in the category (O), expected number in the
+category (E), Ratio of enrichment (R), p value from hypergeometric test (rawP), and p value adjusted by the multiple test adjustment (adjP).
+Finally, genes in the gene set are listed. For each gene, the table lists the user uploaded ID and value (optional), Entrez ID,
+Ensembl Gene Stable ID, Gene symbol, and description.
+
+
+PPI	Mmusculus_Module_46	DB_ID:46
+C=38;O=9;E=1.21;R=7.45;rawP=2.20e-06;adjP=0.0001
+Galnt12	NA	Galnt12	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 12	230145	ENSMUSG00000039774
+
+Gcnt1	NA	Gcnt1	glucosaminyl (N-acetyl) transferase 1, core 2	14537	ENSMUSG00000038843
+
+Muc5b	NA	Muc5b	mucin 5, subtype B, tracheobronchial	74180	ENSMUSG00000066108
+
+Galnt10	NA	Galnt10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10	171212	ENSMUSG00000020520
+
+B3gnt7	NA	B3gnt7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	227327	ENSMUSG00000079445
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Gcnt4	NA	Gcnt4	glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	218476	ENSMUSG00000091387
+
+Galnt9	NA	Galnt9	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9	231605	ENSMUSG00000033316
+
+Galnt6	NA	Galnt6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6	207839	ENSMUSG00000037280
+
+
+PPI	Mmusculus_Module_228	DB_ID:228
+C=34;O=8;E=1.08;R=7.40;rawP=8.62e-06;adjP=0.0002
+Gcnt1	NA	Gcnt1	glucosaminyl (N-acetyl) transferase 1, core 2	14537	ENSMUSG00000038843
+
+Muc5b	NA	Muc5b	mucin 5, subtype B, tracheobronchial	74180	ENSMUSG00000066108
+
+Galnt10	NA	Galnt10	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 10	171212	ENSMUSG00000020520
+
+B3gnt7	NA	B3gnt7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	227327	ENSMUSG00000079445
+
+C1galt1	NA	C1galt1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	94192	ENSMUSG00000042460
+
+Gcnt4	NA	Gcnt4	glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	218476	ENSMUSG00000091387
+
+Galnt9	NA	Galnt9	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 9	231605	ENSMUSG00000033316
+
+Galnt6	NA	Galnt6	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 6	207839	ENSMUSG00000037280
+
+
+
+
