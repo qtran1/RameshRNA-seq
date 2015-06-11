@@ -23,9 +23,9 @@ Make WebGestalt input for Liver
 ```{r Liver, echo=FALSE}
 #HFVeh vs NormVeh
 #get rid of NA folchanges and then order by log2 foldchange
-liver.HFVvsNV.sig.genes <-liver_interxn[which(liver_interxn$padj.HFVeh_vs_NormVeh < 0.05),20] 
-liver.HFGTXvsNV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_NormVeh <0.05),20]
-liver.HFGTXvsHFV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_HFVeh <0.05),20]
+liver.HFVvsNV.sig.genes <-liver_interxn[which(liver_interxn$padj.HFVeh_vs_NormVeh < 0.05),c(20,3,7)] 
+liver.HFGTXvsNV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_NormVeh <0.05),c(20,9,13)]
+liver.HFGTXvsHFV.sig.genes <- liver_interxn[which(liver_interxn$padj.HFGTX_vs_HFVeh <0.05),c(20,15,19)]
 
 write.table(liver.HFVvsNV.sig.genes, file="../data/processed/WebGestalt_Liver_HFVvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
 
@@ -43,9 +43,9 @@ Make WebGestalt input for WAT
 ```{r WAT, echo=FALSE}
 #HFVeh vs NormVeh
 #get rid of NA folchanges and then order by log2 foldchange
-wat.HFVvsNV.sig.genes <-wat_interxn[which(wat_interxn$padj.HFVeh_vs_NormVeh < 0.05),20] 
-wat.HFGTXvsNV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_NormVeh <0.05),20]
-wat.HFGTXvsHFV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_HFVeh <0.05),20]
+wat.HFVvsNV.sig.genes <-wat_interxn[which(wat_interxn$padj.HFVeh_vs_NormVeh < 0.05),c(20,3,7)] 
+wat.HFGTXvsNV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_NormVeh <0.05),c(20,9,13)]
+wat.HFGTXvsHFV.sig.genes <- wat_interxn[which(wat_interxn$padj.HFGTX_vs_HFVeh <0.05),c(20,15,19)]
 
 write.table(wat.HFVvsNV.sig.genes, file="../data/processed/WebGestal_WAT_HFVvsNV.txt", sep="\t", row.names=FALSE, quote=FALSE)
 
