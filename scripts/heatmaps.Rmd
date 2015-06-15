@@ -45,8 +45,8 @@ library(gplots)
 library(RColorBrewer,quietly=TRUE)
 library(Heatplus)
 library(heatmap.plus)
-bars <- brewer.pal(2, "Set1")
-diet.bars <- brewer.pal(2, "Set2")
+bars <- brewer.pal(3, "Set1")
+diet.bars <- brewer.pal(3, "Set2")
 
 color.map <- function(x) if(x=='vehicle'){ bars[1] } else {
   if(x=='GTX'){bars[2]} else {
@@ -64,26 +64,31 @@ clab[,1] <- treatment.colors
 clab[,2] <- diet.colors
 
 heatmap.colors <- brewer.pal(11, "BrBG")
-
+#heatmap.colors <- colorRampPalette(c("brown", "green"), space = "rgb")(3)
 
 liver_deseq_results <- read.csv(liver_results_file, row.names='Row.names')
-sig.genes <- rownames(subset(liver_deseq_results, padj.GTXvsVehicle<0.05))
+liver.sig.genes <- rownames(subset(liver_deseq_results, padj.GTXvsVehicle<0.05))
+wat_deseq_results <- read.csv(wat_results_file, row.names='Row.names')
+wat.sig.genes <- rownames(subset(wat_deseq_results, padj.GTXvsVehicle<0.05))
+sig.genes <- union(liver.sig.genes, wat.sig.genes)
+sig.genes <- unique(sig.genes)
 
 all.sig.df <- ordered.rpkm.data[sig.genes,]
 normalized.sig.all <- sweep(all.sig.df, 1, rowMeans(all.sig.df), '/')
 all.sig.matrix <- as.matrix(normalized.sig.all[complete.cases(normalized.sig.all),])
-plot(regHeatmap(all.sig.matrix, legend=2, col=heat.colors, breaks=-3:3))
+dnd = list(Row=list(status="hidden"), Col=list(status="no"))
+plot(regHeatmap(all.sig.matrix, dendrogram=dnd, legend=2, col=heat.colors, breaks=-3:3))
 corrdist = function(x) as.dist(1-cor(t(x)))
 hclust.avl = function(x) hclust(x, method="average")
-reg3 <- regHeatmap(all.sig.matrix, legend=2, dendrogram=list(clustfun=hclust.avl, distfun=corrdist), 
-                   col=heatmap.colors, breaks=-4:4)
-map <- annHeatmap(all.sig.matrix, ann=list(Col=list(data=ordered.mapping.data)), col=g2r.colors)
+reg3 <- regHeatmap(all.sig.matrix, legend=2, dendrogram=dnd, 
+                   col=heatmap.colors, breaks=-2:2)
+map <- annHeatmap2(all.sig.matrix, dendrogram=dnd, ann=list(Col=list(data=ordered.mapping.data)), col=g2r.colors)
 plot(map)
 
 heatmap.plus(all.sig.matrix, cexCol=0.5, cexRow=0.5, 
           main="Analysis of All Genes Together",
           ColSideColors=clab, col=heatmap.colors, 
-          Colv=F, Rowv=F, scale='row')
+          dendrogram='none', Colv=NA, Rowv=NULL, scale='row')
 ```
 
 Analysis of GTX in Liver
@@ -97,7 +102,7 @@ liver.sig.df <- ordered.rpkm.data[sig.genes,1:9]
 liver.normalized.sig.df <- sweep(liver.sig.df, 1, rowMeans(liver.sig.df), '/')
 sig.matrix <- as.matrix(liver.normalized.sig.df[complete.cases(liver.normalized.sig.df),])
 
-map <- annHeatmap(sig.matrix, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
+map <- annHeatmap(sig.matrix, dendrogram=dnd, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
 plot(map)
 ```
 
@@ -111,7 +116,7 @@ liver.sig.diet <- ordered.rpkm.data[diet.sig.genes,1:9]
 liver.normalized.sig.diet <- sweep(liver.sig.diet, 1, rowMeans(liver.sig.diet), '/')
 diet.sig.matrix <- as.matrix(liver.normalized.sig.diet[complete.cases(liver.normalized.sig.diet),])
 
-diet.map <- annHeatmap(diet.sig.matrix, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
+diet.map <- annHeatmap(diet.sig.matrix, dendrogram=dnd, ann=list(Col=list(data=liver.mapping.data)), col=g2r.colors)
 plot(diet.map)
 ```
 
@@ -126,7 +131,7 @@ wat.sig.df <- ordered.rpkm.data[wat.sig.genes,10:18]
 wat.normalized.sig.df <- sweep(wat.sig.df, 1, rowMeans(wat.sig.df), '/')
 wat.sig.matrix <- as.matrix(wat.normalized.sig.df[complete.cases(wat.normalized.sig.df),])
 
-wat.map <- annHeatmap(wat.sig.matrix, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
+wat.map <- annHeatmap(wat.sig.matrix, dendrogram=dnd, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
 plot(wat.map)
 ```
 
@@ -140,7 +145,7 @@ wat.sig.diet <- ordered.rpkm.data[wat.sig.genes,10:18]
 wat.normalized.sig.diet <- sweep(wat.sig.diet, 1, rowMeans(wat.sig.diet), '/')
 wat.sig.diet <- as.matrix(wat.normalized.sig.diet[complete.cases(wat.normalized.sig.diet),])
 
-wat.map <- annHeatmap(wat.sig.diet, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
+wat.map <- annHeatmap(wat.sig.diet, dendrogram=dnd, ann=list(Col=list(data=wat.mapping.data)), col=g2r.colors)
 plot(wat.map)
 ```
 
