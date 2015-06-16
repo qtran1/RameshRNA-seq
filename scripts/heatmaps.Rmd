@@ -35,6 +35,10 @@ ordered.mapping.data <- mapping.data[order(mapping.data$Tissue, mapping.data$Tre
 
 ordered.rpkm.data <- rpkm.counts[,rownames(ordered.mapping.data)]
 
+rpkm.avg.data <- cbind(rowMeans(ordered.rpkm.data[,1:3]),rowMeans(ordered.rpkm.data[,4:6]),rowMeans(ordered.rpkm.data[,7:9]),
+                       rowMeans(ordered.rpkm.data[,10:12]),rowMeans(ordered.rpkm.data[,13:15]),rowMeans(ordered.rpkm.data[,16:18]))
+colnames(rpkm.avg.data) <- c("LNV", "LHV", "LHG", "WNV", "WHV", "WHG")
+
 ```
 
 
@@ -149,6 +153,93 @@ wat.map <- annHeatmap(wat.sig.diet, dendrogram=dnd, ann=list(Col=list(data=wat.m
 plot(wat.map)
 ```
 
+
+
+Analysis of All Genes Combined using Average Counts
+-------------------------------
+```{r Liver_WAT_heatmap_average, dev=c('png','pdf')}
+all.sig.df <- rpkm.avg.data[sig.genes,]
+normalized.sig.all <- sweep(all.sig.df, 1, rowMeans(all.sig.df), '/')
+all.sig.matrix <- as.matrix(normalized.sig.all[complete.cases(normalized.sig.all),])
+dnd = list(Row=list(status="hidden"), Col=list(status="no"))
+plot(regHeatmap(all.sig.matrix, dendrogram=dnd, legend=2, col=g2r.colors, breaks=-3:3))
+corrdist = function(x) as.dist(1-cor(t(x)))
+hclust.avl = function(x) hclust(x, method="average")
+map <- annHeatmap2(all.sig.matrix, dendrogram=dnd, col=g2r.colors,
+                   legend = 3,labels = list(Col = list(nrow = 12)))
+plot(map)
+
+heatmap.plus(all.sig.matrix, cexCol=0.5, cexRow=1, 
+          main="All Sig Genes in Liver or WAT in average",
+          col=heatmap.colors, 
+          Colv=F, Rowv=F, scale='row', trace='none', density.info="none")
+```
+
+Analysis of GTX in Liver Average
+---------------------------------------------------
+
+```{r Liver_GTXvsVehicle_avg, dev=c('png','pdf')}
+liver.mapping.sub <- data.frame(Tissue=rep("Liver",3), Diet=c("Normal", "High Fat", "High Fat"), Treatment=c("Vehicle", "Vehicle", "GTX"))
+sig.genes <- rownames(subset(liver_deseq_results, padj.GTXvsVehicle<0.05))
+liver.sig.df <- rpkm.avg.data[sig.genes,1:3]
+
+liver.normalized.sig.df <- sweep(liver.sig.df, 1, rowMeans(liver.sig.df), '/')
+sig.matrix <- as.matrix(liver.normalized.sig.df[complete.cases(liver.normalized.sig.df),])
+
+map <- annHeatmap(sig.matrix, dendrogram=dnd, ann=list(Col=list(data=liver.mapping.sub)), col=g2r.colors,
+                  legend = 3,labels = list(Col = list(nrow = 12)))
+plot(map)
+
+```
+
+Analysis of HF diet effect on Liver Average
+---------------------------------------------------
+
+```{r Liver_HFvsNormal_avg, dev=c('png','pdf')}
+diet.sig.genes <- rownames(subset(liver_deseq_results, padj.HighFatvsNormal<0.05))
+liver.sig.diet <- rpkm.avg.data[diet.sig.genes,1:3]
+
+liver.normalized.sig.diet <- sweep(liver.sig.diet, 1, rowMeans(liver.sig.diet), '/')
+diet.sig.matrix <- as.matrix(liver.normalized.sig.diet[complete.cases(liver.normalized.sig.diet),])
+
+diet.map <- annHeatmap(diet.sig.matrix, dendrogram=dnd, ann=list(Col=list(data=liver.mapping.sub)), col=g2r.colors,  legend = 3,labels = list(Col = list(nrow = 12)))
+plot(diet.map)
+```
+
+Analysis of GTX vs vehicle in WAT Average
+---------------------------------------------------
+
+```{r WAT_GTXvsVehicle_avg, dev=c('png','pdf')}
+wat_deseq_results <- read.csv(wat_results_file, row.names='Row.names')
+wat.sig.genes <- rownames(subset(wat_deseq_results, padj.GTXvsVehicle<0.05))
+wat.sig.df <- rpkm.avg.data[wat.sig.genes,4:6]
+
+wat.mapping.sub <- data.frame(Tissue=rep("WAT",3), Diet=c("Normal", "High Fat", "High Fat"), Treatment=c("Vehicle", "Vehicle", "GTX"))
+
+wat.normalized.sig.df <- sweep(wat.sig.df, 1, rowMeans(wat.sig.df), '/')
+wat.sig.matrix <- as.matrix(wat.normalized.sig.df[complete.cases(wat.normalized.sig.df),])
+
+wat.map <- annHeatmap(wat.sig.matrix, dendrogram=dnd, ann=list(Col=list(data=wat.mapping.sub)), 
+                      col = g2r.colors,
+                      legend = 3,labels = list(Col = list(nrow = 12)))
+plot(wat.map)
+```
+
+Analysis of HF diet in WAT Average
+---------------------------------------------------
+
+```{r WAT_HFvsNormal_avg, dev=c('png','pdf')}
+wat.sig.genes <- rownames(subset(wat_deseq_results, padj.HighFatvsNormal<0.05))
+wat.sig.diet <- rpkm.avg.data[wat.sig.genes,4:6]
+
+wat.normalized.sig.diet <- sweep(wat.sig.diet, 1, rowMeans(wat.sig.diet), '/')
+wat.sig.diet <- as.matrix(wat.normalized.sig.diet[complete.cases(wat.normalized.sig.diet),])
+
+wat.map <- annHeatmap(wat.sig.diet, dendrogram=dnd, ann=list(Col=list(data=wat.mapping.sub)), 
+                      col = g2r.colors,
+                      legend = 3,labels = list(Col = list(nrow = 12)))
+plot(wat.map)
+```
 
 
 
