@@ -1,0 +1,93 @@
+---
+title: "PeakAnnotation"
+author: "Quynh Tran"
+date: "April 7, 2015"
+output: html_document
+---
+
+```{r read bed file and annotated the peak ,echo=FALSE }
+library(ChIPpeakAnno)
+library(org.Hs.eg.db)
+library(biomaRt)
+library(stringi)
+
+cell_line <- c("ECC1", "T47D")
+sample_list <- c("SL1011", "SL1093", "SL1217", "SL1493")
+
+#sample_list <- c("Sample4_noInput", "Sample8_noInput")
+#condition_list <- c("Pool1")
+
+#get annotation
+#make sure this is the correct reference genome
+mart <- useMart(biomart="ensembl", dataset="hsapiens_gene_ensembl")
+hs_annotation_tss <- getAnnotation(mart, featureType="TSS")
+sample=""
+for (sample in sample_list){
+  print(sample)
+  cond=" "
+  for (cond in cell_line){
+    print(cond)
+          bed_file_orig <- NULL
+          bed_file <- NULL
+          file_name <- paste("../data/raw/",sample,"_",cond,"_BroadPeaks.bed",sep="")
+          #file_name <- paste("../data/raw/bdgdiff_out/",sample,"_androgen_vs_vehicle_c3.0_",cond,".bed",sep="")
+
+          if (cond =="ECC1") {
+            cond_out="ECC1"} else if (cond =="T47D") 
+              {cond_out="T47D"} else cond_out=cond #put else on the same line with the above statement to avoid error "unexpected else in else"
+                
+          out_file_name <- paste("../data/processed/",sample,"_",cond_out, ".csv", sep="")
+          print(file_name)
+            #an empty file will have just the head, which gives 89 in size, so only process the file that are not empty
+          if (file.info(file_name)$size>89){
+            print("Bed file is not empty")
+            #skip the first line that give the description of the bed file
+            bed_file_orig <- read.delim(file_name, header=FALSE, skip=1)
+            bed_file <- bed_file_orig[!(stri_sub(bed_file_orig$V1, 1, 2)%in%c("HG", "MT", "GL")),]
+            if (nrow(bed_file)>0){
+              print("Bed file is not empty after removing HG, MT, and GL peaks.")
+              peakList <- BED2RangedData(bed_file[1:5])
+              annotatedPeak = annotatePeakInBatch(peakList, AnnotationData=hs_annotation_tss)
+              
+              #add gene ids to the peak: using addGeneIDs gives error if the database does not contain the feature.  So use biomart
+              #annotatedPeak_tss <- addGeneIDs(annotatedPeak_tss,"org.Hs.eg.db",c("symbol", "genename")) : not work
+              feature_ids <- unique(annotatedPeak$feature)
+              feature_ids<-feature_ids[!is.na(feature_ids)]
+              feature_ids<-feature_ids[feature_ids!=""]
+              IDs2Add<-getBM(attributes=c("ensembl_gene_id","external_gene_name"),filters = "ensembl_gene_id", values = feature_ids, mart=mart)
+              duplicated_ids<-IDs2Add[duplicated(IDs2Add[,"ensembl_gene_id"]),"ensembl_gene_id"]
+              if(length(duplicated_ids)>0){
+                IDs2Add.duplicated<-IDs2Add[IDs2Add[,"ensembl_gene_id"] %in% duplicated_ids,]
+                IDs2Add.duplicated<-condenseMatrixByColnames(as.matrix(IDs2Add.duplicated),"ensembl_gene_id")
+                IDs2Add<-IDs2Add[!(IDs2Add[,"ensembl_gene_id"] %in% duplicated_ids),]
+                IDs2Add<-rbind(IDs2Add,IDs2Add.duplicated)
+                print("Duplicated ids")
+               } 
+              as.data.frame(annotatedPeak)
+              annotatedPeak_tss <- merge(annotatedPeak, IDs2Add, by.x="feature", by.y="ensembl_gene_id", all.x=T)
+               #split the string and get the first element of the parsed string.
+              #annotatedPeak_tss$peakList <- sapply(strsplit(annotatedPeak_tss$names, " "), "[", 1)
+              #as.data.frame(annotatedPeak_tss)
+              annotatedPeak_combined <- merge(annotatedPeak_tss, bed_file, by.x="peak", by.y="V4")
+              colnames(annotatedPeak_combined)[which(names(annotatedPeak_combined)=="V5")] <- "log10LHRatio" 
+              annotatedPeak_combined[, -which(names(annotatedPeak_combined)%in%c("V1", "V2", "V3"))]
+              write.csv(annotatedPeak_combined, file=out_file_name)
+              
+      
+               #pie(table(as.data.frame(annotatedPeak_tss)$insideFeature))
+               
+            }else print("Bed file after filtering is empty.")
+          } else 
+              print(paste(file_name," is empty."))
+        #summarizePatternInPeaks(patternFilePath=filepath, format="fasta", skip=0L, BSgenomeName=, peaks=peaks)
+       } 
+      }
+
+```
+
+
+```{r, echo=FALSE}
+sessionInfo()
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
