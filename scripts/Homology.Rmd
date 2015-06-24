@@ -42,14 +42,19 @@ You can also embed plots, for example:
 ```{r venn_diagram, dev=c('png','pdf'), fig.show='asis',echo=FALSE}
 overlap_genes_ecc1 <- intersect(wat_genes, homolog_ecc1_esr1$Associated.Gene.Name)
 overlap_genes_t47d <- intersect(wat_genes, homolog_t47d_esr1$Associated.Gene.Name)
+overlap_ecc1_t47d <- intersect(homolog_ecc1_esr1$Associated.Gene.Name, homolog_t47d_esr1$Associated.Gene.Name)
 
 overlap_of_overlap <- intersect(overlap_genes_ecc1, overlap_genes_t47d)
 
 write.csv(as.data.frame(overlap_genes_ecc1), file="../data/processed/Overlap_WAT_and_ESR1_in_ECC1.csv")
 write.csv(as.data.frame(overlap_genes_t47d), file="../data/processed/Overlap_WAT_and_ESR1_in_T47D.csv")
+write.csv(as.data.frame(overlap_of_overlap), file="../data/processed/Overlap_ERB_and_ESR1_in_T47D_and_ECC1.csv")
+write.csv(as.data.frame(overlap_ecc1_t47d), file="../data/processed/Overlap_ESR1_T47D_and_ECC1.csv")
 
 gene_list_ecc1 <- list(wat_genes,homolog_ecc1_esr1$Associated.Gene.Name)
 gene_list_t47d <- list(wat_genes,homolog_t47d_esr1$Associated.Gene.Name)
+gene_list_ecc1_t47d <- list(homolog_ecc1_esr1$Associated.Gene.Name, homolog_t47d_esr1$Associated.Gene.Name)
+gene_3way_overlap <- list(wat_genes,homolog_ecc1_esr1$Associated.Gene.Name,homolog_t47d_esr1$Associated.Gene.Name)
 
 library(Vennerable)
 pdf("figures/Venn_RNAseq-ChIPseq-ECC1.pdf")
@@ -61,6 +66,12 @@ pdf("figures/Venn_RNAseq-ChIPseq-T47D.pdf")
 v.t47d <- Venn(gene_list_t47d, SetNames=c("ER-beta-RNAseq", "ESR1-ChIPseq-T47D"))
 plot(v.t47d)
 dev.off()
+
+pdf("figures/Venn_ERbeta-ERalpha-ECC1-T47D.pdf")
+v.3way <- Venn(gene_3way_overlap, SetNames=c("ER-beta-RNAseq", "ESR1-ChIPseq-ECC1", "ESR1-ChIPseq-T47D"))
+plot(v.3way)
+dev.off()
+
 ```
 
 
