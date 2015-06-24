@@ -4,10 +4,8 @@ author: "Quynh Tran"
 date: "June 23, 2015"
 output: html_document
 ---
+This script is to get the homology genes from a human chIP-seq experiment then find the overlapping between the 878_regulated genes. This file was most recently processed on ```r date()```.
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
-
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 ```{r read_files, echo=FALSE}
 ecc1_esr1_file <- "../data/processed/SL1011_ECC1.csv"
 ecc1_esr1_genes <- read.csv(ecc1_esr1_file, header=TRUE)
@@ -31,30 +29,44 @@ wat_genes <- wat_genes$external_gene_name
 ```{r get_homology, echo=FALSE}
 
 library(biomaRt)
-
-if(interactive()){
 human = useMart("ensembl", dataset = "hsapiens_gene_ensembl")
 mouse = useMart("ensembl", dataset = "mmusculus_gene_ensembl") 
 homolog_ecc1_esr1<-getLDS(attributes = c("external_gene_name","chromosome_name", "start_position"), filters = "external_gene_name", values = ecc1_esr1_genes, mart = mouse, attributesL = c("hgnc_symbol", "chromosome_name","start_position"), martL = human)
 
-}
+homolog_t47d_esr1<-getLDS(attributes = c("external_gene_name","chromosome_name", "start_position"), filters = "external_gene_name", values = t47d_esr1_genes, mart = mouse, attributesL = c("hgnc_symbol", "chromosome_name","start_position"), martL = human)
+
 ```
 
 You can also embed plots, for example:
 
-```{r venn_diagram, echo=FALSE}
-library(VennDiagram)
+```{r venn_diagram, dev=c('png','pdf'), fig.show='asis',echo=FALSE}
+overlap_genes_ecc1 <- intersect(wat_genes, homolog_ecc1_esr1$Associated.Gene.Name)
+overlap_genes_t47d <- intersect(wat_genes, homolog_t47d_esr1$Associated.Gene.Name)
 
-overlap_genes <- intersect(wat_genes, homolog_ecc1_esr1$Associated.Gene.Name)
+overlap_of_overlap <- intersect(overlap_genes_ecc1, overlap_genes_t47d)
 
-library(gplots)
-gene_list <- list(wat_genes,homolog_ecc1_esr1$Associated.Gene.Name )
-venn(gene_list)
+write.csv(as.data.frame(overlap_genes_ecc1), file="../data/processed/Overlap_WAT_and_ESR1_in_ECC1.csv")
+write.csv(as.data.frame(overlap_genes_t47d), file="../data/processed/Overlap_WAT_and_ESR1_in_T47D.csv")
 
+gene_list_ecc1 <- list(wat_genes,homolog_ecc1_esr1$Associated.Gene.Name)
+gene_list_t47d <- list(wat_genes,homolog_t47d_esr1$Associated.Gene.Name)
 
 library(Vennerable)
-v.diseases2 <- Venn(gene_list)
-plot(v.diseases2)
+pdf("figures/RNAseq-ChIPseq-ECC1.pdf")
+v.ecc1 <- Venn(gene_list_ecc1, SetNames=c("ER-beta-RNAseq", "ESR1-ChIPseq-ECC1"))
+plot(v.ecc1)
+dev.off()
+
+pdf("figures/RNAseq-ChIPseq-T47D.pdf")
+v.t47d <- Venn(gene_list_t47d, SetNames=c("ER-beta-RNAseq", "ESR1-ChIPseq-T47D"))
+plot(v.t47d)
+dev.off()
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Session Information
+---------------------
+
+```{r session-information}
+sessionInfo()
+```
