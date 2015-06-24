@@ -11,9 +11,9 @@ library(org.Hs.eg.db)
 library(biomaRt)
 library(stringi)
 
-cell_line <- c("ECC1", "T47D")
-sample_list <- c("SL1011", "SL1093", "SL1217", "SL1493")
-
+cell_line <- c("T47D")
+sample_list <- c("SL1217", "SL1493")
+#"SL1011", "SL1093",
 #sample_list <- c("Sample4_noInput", "Sample8_noInput")
 #condition_list <- c("Pool1")
 
@@ -42,7 +42,7 @@ for (sample in sample_list){
           if (file.info(file_name)$size>89){
             print("Bed file is not empty")
             #skip the first line that give the description of the bed file
-            bed_file_orig <- read.delim(file_name, header=FALSE, skip=1)
+            bed_file_orig <- read.delim(file_name, header=FALSE)
             bed_file <- bed_file_orig[!(stri_sub(bed_file_orig$V1, 1, 2)%in%c("HG", "MT", "GL")),]
             if (nrow(bed_file)>0){
               print("Bed file is not empty after removing HG, MT, and GL peaks.")
