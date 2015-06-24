@@ -1,0 +1,60 @@
+---
+title: "Homolog"
+author: "Quynh Tran"
+date: "June 23, 2015"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+```{r read_files, echo=FALSE}
+ecc1_esr1_file <- "../data/processed/SL1011_ECC1.csv"
+ecc1_esr1_genes <- read.csv(ecc1_esr1_file, header=TRUE)
+ecc1_esr1_genes <- ecc1_esr1_genes$external_gene_name
+ecc1_esr1_genes <- unique(ecc1_esr1_genes)
+
+t47d_esr1_file <- "../data/processed/SL1217_T47D.csv"
+t47d_esr1_genes <- read.csv(t47d_esr1_file, header=TRUE)
+t47d_esr1_genes <- t47d_esr1_genes$external_gene_name
+t47d_esr1_genes <- unique(t47d_esr1_genes)
+
+require(xlsx)
+wat_file <- "../data/processed/WAT_878_Regulated_Genes.xlsx"
+wat_genes <- read.xlsx(wat_file, sheetName="878 direct targets")
+
+wat_genes <- wat_genes$external_gene_name
+
+```
+
+
+```{r get_homology, echo=FALSE}
+
+library(biomaRt)
+
+if(interactive()){
+human = useMart("ensembl", dataset = "hsapiens_gene_ensembl")
+mouse = useMart("ensembl", dataset = "mmusculus_gene_ensembl") 
+homolog_ecc1_esr1<-getLDS(attributes = c("external_gene_name","chromosome_name", "start_position"), filters = "external_gene_name", values = ecc1_esr1_genes, mart = mouse, attributesL = c("hgnc_symbol", "chromosome_name","start_position"), martL = human)
+
+}
+```
+
+You can also embed plots, for example:
+
+```{r venn_diagram, echo=FALSE}
+library(VennDiagram)
+
+overlap_genes <- intersect(wat_genes, homolog_ecc1_esr1$Associated.Gene.Name)
+
+library(gplots)
+gene_list <- list(wat_genes,homolog_ecc1_esr1$Associated.Gene.Name )
+venn(gene_list)
+
+
+library(Vennerable)
+v.diseases2 <- Venn(gene_list)
+plot(v.diseases2)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
