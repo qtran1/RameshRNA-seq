@@ -4,6 +4,9 @@ author: "Quynh Tran"
 date: "April 7, 2015"
 output: html_document
 ---
+The Peak data sets were downloaded from ENCODE database. We were looking for ChIPseq using ESR1 antibody. There were two experiments; one was done in ECC1 cells and the other was done in T47D cells. 
+
+The files can be obtained from http://genome.ucsc.edu/ENCODE/dataMatrix/encodeChipMatrixHuman.html 
 
 ```{r read bed file and annotated the peak ,echo=FALSE }
 library(ChIPpeakAnno)
