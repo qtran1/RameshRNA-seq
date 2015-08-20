@@ -1,0 +1,76 @@
+---
+title: "Metabolomic_analysis"
+author: "Quynh Tran"
+date: "August 20, 2015"
+output: html_document
+---
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r, read inputs, echo=FALSe}
+liver_file <- "../data/metabolomic/Metabolomic_Liver.csv"
+wat_file <- "../data/metabolomic/Metabolomic_WAT.csv"
+serum_file <- "../data/metabolomic/Metabolomic_Serum.csv"
+phenotype_file <- "../data/raw/pData.csv"
+
+header <- read.csv(liver_file, nrows = 1, header = FALSE)
+liver_data   <- read.csv(liver_file, skip = 2, header = FALSE, fill=TRUE)
+colnames(liver_data) <- unlist(header)
+
+wat_data <- read.csv(wat_file, skip = 2, header = FALSE, fill=TRUE)
+colnames(wat_data) <- unlist(header)
+
+serum_data <- read.csv(serum_file, skip = 2, header = FALSE, fill=TRUE)
+colnames(serum_data) <- unlist(header)
+
+pData <- read.csv(phenotype_file, header=TRUE)
+
+liver_data <- log(liver_data[2:560, 2:13])
+
+```
+
+
+
+```{r analysis, echo=FALSE}
+library(metabomxtr)
+
+#make phenotype data an annotated data frame
+phenoData <- new("AnnotatedDataFrame",data=liver_data)
+    
+#combine into example expression set
+testexpr<-ExpressionSet(assayData=liver_data,phenoData=phenoData)
+
+#Get the names of the response variables
+ynames<-rownames(exprs(testexpr))
+
+
+set.seed(123)
+    yvar<-rlnorm(200)
+    these<-sample(1:100,20)
+    yvar[these]<-NA
+    logyvar<-log(yvar)
+    y2var<-rlnorm(200)
+    those<-sample(1:200,25)
+    y2var[those]<-NA
+    logy2var<-log(y2var)
+    pred1<-sample(0:1,200,replace=TRUE)
+    pred2<-sample(1:10,200,replace=TRUE)
+    pred3<-sample(0:1,200,replace=TRUE)
+    pred3miss<-sample(1:200,50)
+    pred3[pred3miss]<-NA
+    testdata<-data.frame(cbind(yvar,y2var,logyvar,logy2var,pred1,pred2,pred3))
+    #Get the names of the response variables
+    ynames<-names(testdata)[3:4]
+
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+
+Session Information
+---------------------
+
+```{r session-information}
+sessionInfo()
+```
