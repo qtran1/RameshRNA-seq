@@ -1,0 +1,8 @@
+"","Total","Expected","Hits","Raw p","-log(p)","Holm adjust","FDR","Impact"
+"Glycerophospholipid metabolism",30,0.21171,2,0.017553,4.0425,1,1,0.08704
+"Taurine and hypotaurine metabolism",8,0.056457,1,0.055215,2.8965,1,1,0.28571
+"Pantothenate and CoA biosynthesis",15,0.10586,1,0.10126,2.2901,1,1,0.02041
+"Retinol metabolism",16,0.11291,1,0.10767,2.2287,1,1,0.24551
+"Lysine degradation",23,0.16231,1,0.1514,1.8878,1,1,0
+"Glycine, serine and threonine metabolism",31,0.21877,1,0.19902,1.6144,1,1,0
+"Purine metabolism",68,0.47989,1,0.38945,0.94302,1,1,0
