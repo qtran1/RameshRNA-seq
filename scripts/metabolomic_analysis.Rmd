@@ -15,9 +15,18 @@ wat_file <- "../data/metabolomic/Metabolomic_WAT.csv"
 serum_file <- "../data/metabolomic/Metabolomic_Serum.csv"
 phenotype_file <- "../data/raw/pData.csv"
 
-header <- read.csv(liver_file, nrows = 1, header = FALSE)
-liver_data   <- read.csv(liver_file, skip = 2, header = FALSE, fill=TRUE)
-colnames(liver_data) <- unlist(header)
+liver <- "../data/metabolomic/Liver_transformed.csv"
+wat <- "../data/metabolomic/WAT_transformed.csv"
+serum <- "../data/metabolomic/Serum_transformed.csv"
+
+
+
+#header <- read.csv(liver_file, nrows = 1, header = FALSE)
+#liver_data   <- read.csv(liver_file, skip = 2, header = FALSE, fill=TRUE)
+#colnames(liver_data) <- unlist(header)
+liver_data <- read.csv(liver, header=T)
+wat_data <- read.csv(wat, header=T)
+serum_data <- read.csv(serum, header=T)
 
 wat_data <- read.csv(wat_file, skip = 2, header = FALSE, fill=TRUE)
 colnames(wat_data) <- unlist(header)
@@ -31,10 +40,19 @@ liver_data <- log(liver_data[2:560, 2:13])
 
 ```
 
+Analysis using muma package
 
+```{r analysis_using_muma, echo=FALSE}
+#This manual for this package is not friendly.
+library(muma)
+data(MetaBc)
+liver_muma <- "../data/metabolomic/Liver_muma.csv"
+wat_muma <- "../data/metabolomic/WAT_muma.csv"
+serum_muma <- "../data/metabolomic/Serum_muma.csv"
 
-```{r analysis, echo=FALSE}
-library(metabomxtr)
+explore.data(liver_muma, 'oplsda', scal=T, normalize=T, imputation=T, imput="mean")
+box.plot()
+
 
 #make phenotype data an annotated data frame
 phenoData <- new("AnnotatedDataFrame",data=liver_data)
@@ -46,24 +64,84 @@ testexpr<-ExpressionSet(assayData=liver_data,phenoData=phenoData)
 ynames<-rownames(exprs(testexpr))
 
 
-set.seed(123)
-    yvar<-rlnorm(200)
-    these<-sample(1:100,20)
-    yvar[these]<-NA
-    logyvar<-log(yvar)
-    y2var<-rlnorm(200)
-    those<-sample(1:200,25)
-    y2var[those]<-NA
-    logy2var<-log(y2var)
-    pred1<-sample(0:1,200,replace=TRUE)
-    pred2<-sample(1:10,200,replace=TRUE)
-    pred3<-sample(0:1,200,replace=TRUE)
-    pred3miss<-sample(1:200,50)
-    pred3[pred3miss]<-NA
-    testdata<-data.frame(cbind(yvar,y2var,logyvar,logy2var,pred1,pred2,pred3))
-    #Get the names of the response variables
-    ynames<-names(testdata)[3:4]
+```
 
+Analysis using metabomxtr
+
+```{r analysis_using_metabomxtr, echo=FALSE}
+library(metabomxtr)
+#random imputation
+random.imp <- function (a){
+  missing <- is.na(a)
+  n.missing <- sum(missing)
+  a.obs <- a[!missing]
+  imputed <- a
+  imputed[missing] <- sample (a.obs, n.missing, replace=TRUE) 
+  return (imputed)
+}
+
+liver_log <- log(liver_data[1:12,4:563])
+liver_impute <- random.imp(liver_log)
+liver_impute$Sample <- liver_data$Sample
+liver_impute$Diet <- liver_data$Diet
+liver_impute$Treatment <- liver_data$Treatment
+
+liver_impute$Diet <- relevel(liver_impute$Diet, ref="ND")
+liver_impute$Treatment <- relevel(liver_impute$Treatment , ref="Veh")
+
+table(liver_impute$Treatment)
+yvars<-colnames(liver_data)[200:227]
+apply(liver_impute[,yvars],2,function(x){sum(is.na(x))})
+par(mfrow = c(2, 2))
+hist(liver_impute$cholate,main="Malonic Acid",xlab=NULL)
+hist(liver_impute$ribose,main="Ribose",xlab=NULL)
+hist(liver_impute$phenylalanine,main="Phenylalanine",xlab=NULL)
+
+par(mfrow = c(1, 1))
+
+fullModel<-~Treatment+Diet|Treatment+Diet+Treatment*Diet
+fullModelResults <- mxtrmod(ynames=colnames(liver_impute)[1:560], mxtrModel=fullModel, data=liver_impute)
+fullModelResults
+
+reducedModel1<-~Treatment+Diet|Treatment+Diet
+reducedModel2<-~1|Treatment
+reducedModel3<-~1|Diet
+
+reducedModelResults<-mxtrmod(ynames=colnames(liver_impute)[1:560],mxtrModel=reducedModel1,data=liver_impute,fullModel=fullModel) 
+reducedModelResults
+
+finalResult1<-mxtrmodLRT(fullmod=fullModelResults,redmod=reducedModelResults,adj="BH") 
+finalResult1
+Tx.Prop<-round(exp(fullModelResults$xInt+fullModelResults$x_TreatmentTx)/(1+exp(fullModelResults$xInt+fullModelResults$x_TreatmentTx)),digits=2)
+Veh.Prop<-round(exp(fullModelResults$xInt)/(1+exp(fullModelResults$xInt)),digits=2)
+
+Tx.Mean<-round(fullModelResults$zInt+fullModelResults$z_TreatmentTx,digits=2) 
+Veh.Mean<-round(fullModelResults$zInt,digits=2)
+MeanDiff<-round(fullModelResults$z_TreatmentTx,digits=2)
+
+finalResultTable1<-data.frame(Metabolite=fullModelResults$.id,Tx.Mean=Tx.Mean, Veh.Mean=Veh.Mean, Mean.Difference=MeanDiff, FDR.Adj.P=round(finalResult1$adjP,digits=4))
+library(xtable)
+library(gridExtra)
+
+print(xtable(finalResultTable1), floating=FALSE)
+
+
+reducedModelResults2<-mxtrmod(ynames=colnames(liver_impute)[1:560],mxtrModel=reducedModel2,data=liver_impute,fullModel=fullModel) 
+reducedModelResults2
+
+finalResult2<-mxtrmodLRT(fullmod=fullModelResults,redmod=reducedModelResults2,adj="BH") 
+finalResult2
+finalResultTable2<-data.frame(Metabolite=fullModelResults$.id,Tx.Mean=Tx.Mean, Veh.Mean=Veh.Mean, Mean.Difference=MeanDiff, FDR.Adj.P=round(finalResult2$adjP,digits=4))
+
+pdf("../data/processed/Metabolomic_Liver_Results_Treatment_Effect.pdf", height=11, width=8.5)
+grid.table(finalResultTable2)
+dev.off()
+
+reducedModelResults3<-mxtrmod(ynames=colnames(liver_impute)[1:560],mxtrModel=reducedModel3,data=liver_impute,fullModel=fullModel) 
+reducedModelResults3
+
+finalResult3<-mxtrmodLRT(fullmod=fullModelResults,redmod=reducedModelResults3,adj="BH") 
+finalResult3
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
