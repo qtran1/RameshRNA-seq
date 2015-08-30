@@ -1,0 +1,14 @@
+RESPONSE_TO_WOUNDING	http://www.broadinstitute.org/gsea/msigdb/cards/RESPONSE_TO_WOUNDING	F12	F10	F8	F9	F7	F5	F2	C2
+RESPONSE_TO_STRESS	http://www.broadinstitute.org/gsea/msigdb/cards/RESPONSE_TO_STRESS	F8	F9	F7	F5	F2	C2	F12	F10
+REGULATION_OF_BIOLOGICAL_QUALITY	http://www.broadinstitute.org/gsea/msigdb/cards/REGULATION_OF_BIOLOGICAL_QUALITY	F8	F9	F7	F5	F2	F12	F10
+RESPONSE_TO_EXTERNAL_STIMULUS	http://www.broadinstitute.org/gsea/msigdb/cards/RESPONSE_TO_EXTERNAL_STIMULUS	F12	F10	F8	F9	F7	F5	F2	C2
+REGULATION_OF_BODY_FLUID_LEVELS	http://www.broadinstitute.org/gsea/msigdb/cards/REGULATION_OF_BODY_FLUID_LEVELS	F12	F10	F8	F9	F7	F5	F2
+HEMOSTASIS	http://www.broadinstitute.org/gsea/msigdb/cards/HEMOSTASIS	F12	F10	F8	F9	F7	F5	F2
+BLOOD_COAGULATION	http://www.broadinstitute.org/gsea/msigdb/cards/BLOOD_COAGULATION	F12	F10	F8	F9	F7	F5	F2
+COAGULATION	http://www.broadinstitute.org/gsea/msigdb/cards/COAGULATION	F12	F10	F8	F9	F7	F5	F2
+WOUND_HEALING	http://www.broadinstitute.org/gsea/msigdb/cards/WOUND_HEALING	F12	F10	F8	F9	F7	F5	F2
+SERINE_TYPE_PEPTIDASE_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/SERINE_TYPE_PEPTIDASE_ACTIVITY	F11	F12	F10	F9	F7	F2
+SERINE_TYPE_ENDOPEPTIDASE_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/SERINE_TYPE_ENDOPEPTIDASE_ACTIVITY	F11	F12	F10	F9	F7	F2
+SERINE_HYDROLASE_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/SERINE_HYDROLASE_ACTIVITY	F11	F12	F10	F9	F7	F2
+ENDOPEPTIDASE_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/ENDOPEPTIDASE_ACTIVITY	F11	F12	F10	F9	F7	F2
+PEPTIDASE_ACTIVITY	http://www.broadinstitute.org/gsea/msigdb/cards/PEPTIDASE_ACTIVITY	F11	F12	F10	F9	F7	F2

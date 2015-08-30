@@ -1,0 +1,8 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F10	F10	coagulation factor X	3807	0.506613552570343	0.014235318	Yes	
+row_1	F8	F8	coagulation factor VIII, procoagulant component (hemophilia A)	5721	0.21930964291095734	0.0034273504	Yes	
+row_2	F7	F7	coagulation factor VII (serum prothrombin conversion accelerator)	6749	0.09726762771606445	-0.0128015075	Yes	
+row_3	F12	F12	coagulation factor XII (Hageman factor)	6818	0.08843125402927399	0.027887871	Yes	
+row_4	F9	F9	coagulation factor IX (plasma thromboplastic component, Christmas disease, hemophilia B)	8065	-0.042620062828063965	-0.030202825	Yes	
+row_5	F2	F2	coagulation factor II (thrombin)	10360	-0.260867178440094	-0.044243716	Yes	
+row_6	F5	F5	coagulation factor V (proaccelerin, labile factor)	13144	-0.7480908036231995	0.15857561	Yes	
