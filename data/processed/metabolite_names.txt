@@ -1,0 +1,439 @@
+V1
+1	1,2-dilinoleoyl-GPC
+2	1,2-dioleoyl-GPC
+3	1,2-dioleoyl-GPE
+4	1,2-dipalmitoyl-GPC
+5	1,2-distearoyl-GPC
+6	1,5-anhydroglucitol
+7	1-(1-enyl-oleoyl)-GPE
+8	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPC
+9	1-(1-enyl-palmitoyl)-2-arachidonoyl-GPE
+10	1-(1-enyl-palmitoyl)-2-linoleoyl-GPC
+11	1-(1-enyl-palmitoyl)-2-linoleoyl-GPE
+12	1-(1-enyl-palmitoyl)-2-oleoyl-GPC
+13	1-(1-enyl-palmitoyl)-2-oleoyl-GPE
+14	1-(1-enyl-palmitoyl)-2-palmitoleoyl-GPC
+15	1-(1-enyl-palmitoyl)-2-palmitoyl-GPC
+16	1-(1-enyl-palmitoyl)-GPC
+17	1-(1-enyl-palmitoyl)-GPE
+18	1-(1-enyl-stearoyl)-2-arachidonoyl-GPE
+19	1-(1-enyl-stearoyl)-2-linoleoyl-GPE
+20	1-(1-enyl-stearoyl)-2-oleoyl-GPE
+21	1-(1-enyl-stearoyl)-GPE
+22	1-(3-aminopropyl)-2-pyrrolidone
+23	1-arachidonoyl-GPC
+24	1-arachidonoyl-GPE
+25	1-arachidonoyl-GPI
+26	1-lignoceroyl-GPC
+27	1-linolenoyl-GPC
+28	1-linoleoyl-2-arachidonoyl-GPC
+29	1-linoleoyl-GPC
+30	1-linoleoyl-GPE
+31	1-linoleoyl-GPI
+32	1-linoleoylglycerol
+33	1-methylguanidine
+34	1-methylhistidine
+35	1-methylimidazoleacetate
+36	1-methylnicotinamide
+37	1-oleoyl-2-linoleoyl-glycerol
+38	1-oleoyl-2-linoleoyl-GPC
+39	1-oleoyl-2-linoleoyl-GPE
+40	1-oleoyl-3-linoleoyl-glycerol
+41	1-oleoyl-GPC
+42	1-oleoyl-GPE
+43	1-oleoyl-GPI
+44	1-oleoyl-GPS
+45	1-oleoylglycerol
+46	1-palmitoleoyl-2-linoleoyl-GPC
+47	1-palmitoleoyl-2-oleoyl-glycerol
+48	1-palmitoleoyl-3-oleoyl-glycerol
+49	1-palmitoleoyl-GPC
+50	1-palmitoleoylglycerol
+51	1-palmitoyl-2-arachidonoyl-GPC
+52	1-palmitoyl-2-arachidonoyl-GPE
+53	1-palmitoyl-2-linoleoyl-glycerol
+54	1-palmitoyl-2-linoleoyl-GPC
+55	1-palmitoyl-2-linoleoyl-GPE
+56	1-palmitoyl-2-oleoyl-GPC
+57	1-palmitoyl-2-oleoyl-GPE
+58	1-palmitoyl-2-oleoyl-GPG
+59	1-palmitoyl-2-palmitoleoyl-GPC
+60	1-palmitoyl-2-stearoyl-GPC
+61	1-palmitoyl-3-linoleoyl-glycerol
+62	1-palmitoyl-GPC
+63	1-palmitoyl-GPE
+64	1-palmitoyl-GPG
+65	1-palmitoyl-GPI
+66	1-stearoyl-2-arachidonoyl-GPC
+67	1-stearoyl-2-arachidonoyl-GPE
+68	1-stearoyl-2-arachidonoyl-GPI
+69	1-stearoyl-2-arachidonoyl-GPS
+70	1-stearoyl-2-linoleoyl-GPC
+71	1-stearoyl-2-linoleoyl-GPE
+72	1-stearoyl-2-oleoyl-GPC
+73	1-stearoyl-2-oleoyl-GPE
+74	1-stearoyl-2-oleoyl-GPS
+75	1-stearoyl-GPC
+76	1-stearoyl-GPE
+77	1-stearoyl-GPI
+78	1-stearoyl-GPS
+79	10-heptadecenoate
+80	10-nonadecenoate
+81	12,13-DiHOME
+82	12-HETE
+83	15-HETE
+84	15-methylpalmitate
+85	16-hydroxypalmitate
+86	17-methylstearate
+87	2'-deoxycytidine
+88	2'-deoxyguanosine
+89	2'-deoxyinosine
+90	2'-deoxyuridine
+91	2-aminoadipate
+92	2-aminoheptanoate
+93	2-aminooctanoate
+94	2-hydroxy-3-methylvalerate
+95	2-hydroxyadipate
+96	2-hydroxybutyrate/2-hydroxyisobutyrate
+97	2-hydroxyglutarate
+98	2-hydroxystearate
+99	2-linoleoylglycerol
+100	2-methylbutyrylcarnitine
+101	2-methylbutyrylglycine
+102	2-methylcitrate/homocitrate
+103	2-methylmalonyl carnitine
+104	2-oleoylglycerol
+105	2-palmitoleoyl-GPC
+106	2-palmitoyl-GPC
+107	2-stearoyl-GPE
+108	3-(4-hydroxyphenyl)lactate
+109	3-aminoisobutyrate
+110	3-hydroxy-3-methylglutarate
+111	3-hydroxybutyrate
+112	3-hydroxybutyrylcarnitine
+113	3-hydroxybutyrylcarnitine
+114	3-hydroxyisobutyrate
+115	3-indoxyl sulfate
+116	3-methylcytidine
+117	3-methylhistidine
+118	3-phosphoglycerate
+119	3-ureidopropionate
+120	4-cholesten-3-one
+121	4-ethylphenylsulfate
+122	4-guanidinobutanoate
+123	4-hydroxy-nonenal-glutathione
+124	4-hydroxybutyrate
+125	4-imidazoleacetate
+126	4-vinylphenol sulfate
+127	5-aminovalerate
+128	5-dodecenoate
+129	5-hydroxylysine
+130	5-methylthioadenosine
+131	5-oxoproline
+132	6-oxopiperidine-2-carboxylic acid
+133	6-phosphogluconate
+134	7-hydroxycholesterol
+135	7-methylguanine
+136	9,10-DiHOME
+137	acetylcarnitine
+138	acetylphosphate
+139	aconitate [cis or trans]
+140	adenine
+141	adenosine
+142	adenosine 2'-monophosphate
+143	adenosine 3',5'-diphosphate
+144	adenosine 3'-monophosphate
+145	adenosine 5'-diphosphoribose
+146	adenosine 5'-monophosphate
+147	adrenate
+148	alanine
+149	allantoin
+150	alpha-hydroxyisocaproate
+151	alpha-hydroxyisovalerate
+152	alpha-ketoglutarate
+153	alpha-tocopherol
+154	anserine
+155	arabitol/xylitol
+156	arabonate/xylonate
+157	arachidate
+158	arachidonate
+159	arachidonoyl ethanolamide
+160	arginine
+161	argininosuccinate
+162	ascorbate
+163	asparagine
+164	aspartate
+165	azelate
+166	behenoyl sphingomyelin
+167	beta-alanine
+168	beta-guanidinopropanoate
+169	beta-hydroxyisovaleroylcarnitine
+170	beta-muricholate
+171	betaine
+172	betaine aldehyde
+173	butyrylcarnitine
+174	C-glycosyltryptophan
+175	campesterol
+176	carboxyethyl-GABA
+177	carnitine
+178	carnosine
+179	catechol sulfate
+180	cholesterol
+181	choline
+182	choline phosphate
+183	citrate
+184	citrulline
+185	corticosterone
+186	creatine
+187	creatine phosphate
+188	creatinine
+189	cystathionine
+190	cysteine
+191	cysteine s-sulfate
+192	cysteine sulfinic acid
+193	cystine
+194	cytidine
+195	cytidine 3'-monophosphate
+196	cytidine 5'-diphosphocholine
+197	cytidine 5'-monophosphate
+198	cytidine 5'-monophospho-N-acetylneuraminic acid
+199	cytidine-5'-diphosphoethanolamine
+200	cytosine
+201	decanoylcarnitine
+202	dehydroascorbate
+203	deoxycarnitine
+204	dihomo-linoleate
+205	dihomo-linolenate
+206	dihydoxyphenylalanine
+207	dihydroxyacetone phosphate
+208	dimethyl sulfone
+209	dimethylarginine
+210	dimethylglycine
+211	docosadienoate
+212	docosahexaenoate
+213	docosapentaenoate
+214	docosapentaenoate
+215	dopamine sulfate
+216	eicosapentaenoate
+217	eicosenoate
+218	equol sulfate
+219	ergothioneine
+220	erucate
+221	erythronate*
+222	ethylmalonate
+223	flavin adenine dinucleotide
+224	fructose
+225	fumarate
+226	galactitol
+227	galactonate
+228	gamma-aminobutyrate
+229	gamma-carboxyglutamate
+230	gamma-glutamyl-epsilon-lysine
+231	gamma-glutamylalanine
+232	gamma-glutamylglutamate
+233	gamma-glutamylglutamine
+234	gamma-glutamylglycine
+235	gamma-glutamylhistidine
+236	gamma-glutamylisoleucine*
+237	gamma-glutamylleucine
+238	gamma-glutamylphenylalanine
+239	gamma-glutamylvaline
+240	gamma-tocopherol/beta-tocopherol
+241	gluconate
+242	glucose
+243	glucuronate
+244	glutamate
+245	glutamate, gamma-methyl ester
+246	glutamine
+247	glutarate
+248	glutarylcarnitine
+249	glutathione, oxidized
+250	glutathione, reduced
+251	glycerate
+252	glycerol
+253	glycerol 3-phosphate
+254	glycerophosphoethanolamine
+255	glycerophosphoglycerol
+256	glycerophosphoinositol*
+257	glycerophosphorylcholine
+258	glycine
+259	glycosyl-N-palmitoyl-sphingosine
+260	glycosyl-N-stearoyl-sphingosine
+261	glycylleucine
+262	glycylvaline
+263	guanidinoacetate
+264	guanidinosuccinate
+265	guanine
+266	guanosine
+267	guanosine 5'- monophosphate
+268	gulonic acid*
+269	heme
+270	hexadecanedioate
+271	hexanoylcarnitine
+272	hexanoylglycine
+273	hippurate
+274	histamine
+275	histidine
+276	homoarginine
+277	homocitrulline
+278	homostachydrine*
+279	hypotaurine
+280	hypoxanthine
+281	imidazole lactate
+282	imidazole propionate
+283	indolelactate
+284	inosine
+285	inosine 5'-monophosphate
+286	Isobar: fructose 1,6-diphosphate, glucose 1,6-diphosphate, myo-inositol 1,4 or 1,3-diphosphate
+287	isobutyrylcarnitine
+288	isocitrate
+289	isoleucine
+290	isoleucylglycine
+291	isovalerylcarnitine
+292	isovalerylglycine
+293	kynurenate
+294	kynurenine
+295	lactate
+296	laurylcarnitine
+297	leucine
+298	leucylglycine
+299	linoleate
+300	linolenate [alpha or gamma;
+301	linoleoylcarnitine*
+302	lysine
+303	malate
+304	malonylcarnitine
+305	maltose
+306	maltotriose
+307	mannitol/sorbitol
+308	mannose
+309	margarate
+310	mead acid
+311	methionine
+312	methionine sulfoxide
+313	methyl glucopyranoside
+314	methylmalonate
+315	methylphosphate
+316	methylsuccinate
+317	myo-inositol
+318	myristate
+319	myristoleate
+320	myristoylcarnitine
+321	N-acetyl-aspartyl-glutamate
+322	N-acetyl-beta-alanine
+323	N-acetyl-glucosamine 1-phosphate
+324	N-acetylalanine
+325	N-acetylarginine
+326	N-acetylasparagine
+327	N-acetylaspartate
+328	N-acetylglucosamine 6-phosphate
+329	N-acetylglutamate
+330	N-acetylglutamine
+331	N-acetylglycine
+332	N-acetylhistidine
+333	N-acetylleucine
+334	N-acetylmethionine
+335	N-acetylneuraminate
+336	N-acetylphenylalanine
+337	N-acetylputrescine
+338	N-acetylserine
+339	N-acetyltaurine
+340	N-acetylthreonine
+341	N-alpha-acetylornithine
+342	N-carbamoylaspartate
+343	N-delta-acetylornithine
+344	N-formylmethionine
+345	N-formylphenylalanine
+346	N-glycolylneuraminate
+347	N-methyl-4-aminobutyric acid
+348	N-monomethylarginine
+349	N-palmitoyl-sphinganine
+350	N-palmitoyl-sphingosine
+351	N-palmitoyltaurine
+352	N-stearoyltaurine
+353	N1-Methyl-2-pyridone-5-carboxamide
+354	N1-methyladenosine
+355	N2-acetyllysine/N6-acetyllysine
+356	N6,N6,N6-trimethyllysine
+357	N6-carboxymethyllysine
+358	N6-succinyladenosine
+359	nicotinamide
+360	nicotinamide adenine dinucleotide
+361	nicotinamide riboside
+362	nonadecanoate
+363	O-sulfo-L-tyrosine
+364	octanoylcarnitine
+365	oleamide
+366	oleate/vaccenate
+367	oleoyl ethanolamide
+368	oleoylcarnitine
+369	ornithine
+370	orotate
+371	orotidine
+372	oxalate
+373	p-cresol sulfate
+374	p-cresol-glucuronide*
+375	palmitate
+376	palmitoleate
+377	palmitoyl dihydrosphingomyelin
+378	palmitoyl ethanolamide
+379	palmitoyl sphingomyelin
+380	palmitoylcarnitine
+381	pantothenate
+382	phenol sulfate
+383	phenylacetylglycine
+384	phenylalanine
+385	phenylalanylglycine
+386	phenyllactate
+387	phosphate
+388	phosphoenolpyruvate
+389	phosphoethanolamine
+390	phosphopantetheine
+391	pipecolate
+392	pro-hydroxy-pro
+393	proline
+394	prolylglycine
+395	propionylcarnitine
+396	pseudouridine
+397	putrescine
+398	pyridoxal
+399	pyridoxamine
+400	pyridoxamine phosphate
+401	pyridoxate
+402	pyroglutamine*
+403	quinolinate
+404	retinol
+405	ribitol
+406	riboflavin
+407	ribonate
+408	ribose
+409	ribulose 5-phosphate
+410	S-adenosylhomocysteine
+411	S-adenosylmethionine
+412	saccharopine
+413	salicylate
+414	sarcosine
+415	sebacate
+416	sedoheptulose-7-phosphate
+417	serine
+418	spermidine
+419	sphinganine
+420	sphingomyelin
+421	sphingomyelin
+422	sphingomyelin
+423	sphingomyelin
+424	sphingomyelin
+425	sphingomyelin
+426	sphingomyelin
+427	sphingomyelin
+428	sphingomyelin
+429	sphingomyelin
+430	sphingomyelin
+431	sphingomyelin
+432	sphingomyelin
+433	sphingosine
+434	stachydrine
+435	stearate
+436	stearidonate
+437	stearoyl ethanolamide
+438	stearoyl sphingomyelin
