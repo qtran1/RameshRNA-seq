@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SIT1	SIT1	signaling threshold regulating transmembrane adaptor 1	14	6.513938903808594	0.19156435	Yes	
+row_1	IL4	IL4	interleukin 4	195	4.091798305511475	0.29648745	Yes	
+row_2	IL27	IL27	interleukin 27	202	4.014698028564453	0.41478977	Yes	
+row_3	LAT	LAT	linker for activation of T cells	207	3.879055976867676	0.5292569	Yes	
+row_4	EBI3	EBI3	Epstein-Barr virus induced gene 3	531	2.1359636783599854	0.56341237	Yes	
+row_5	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.6046617	Yes	
+row_6	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1094	1.1454366445541382	0.59869474	Yes	
+row_7	CD276	CD276	CD276 molecule	1254	1.0146254301071167	0.6144181	Yes	
+row_8	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	1383	0.9489143490791321	0.6309865	Yes	
+row_9	CD47	CD47	CD47 molecule	1913	0.7268272042274475	0.6048872	No	
+row_10	NCK1	NCK1	NCK adaptor protein 1	1929	0.7177436947822571	0.6247836	No	
+row_11	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	2412	0.5746639370918274	0.59841037	No	
+row_12	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	2593	0.5288906097412109	0.59786487	No	
+row_13	SPINK5	SPINK5	serine peptidase inhibitor, Kazal type 5	3244	0.38289886713027954	0.5506935	No	
+row_14	THY1	THY1	Thy-1 cell surface antigen	3352	0.3638065457344055	0.5518319	No	
+row_15	IL7	IL7	interleukin 7	3664	0.30003389716148376	0.5327206	No	
+row_16	SOCS5	SOCS5	suppressor of cytokine signaling 5	3919	0.25331825017929077	0.51735705	No	
+row_17	LAX1	LAX1	lymphocyte transmembrane adaptor 1	4008	0.23604059219360352	0.51642346	No	
+row_18	SFTPD	SFTPD	surfactant, pulmonary-associated protein D	5379	0.020177271217107773	0.3937084	No	
+row_19	NCK2	NCK2	NCK adaptor protein 2	5957	-0.06237439066171646	0.3436196	No	
+row_20	SART1	SART1	squamous cell carcinoma antigen recognised by T cells	7509	-0.26974380016326904	0.21200056	No	
+row_21	GLMN	GLMN	glomulin, FKBP associated protein	8671	-0.4973057210445404	0.122221276	No	
+row_22	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	0.019532017	No	

@@ -1,0 +1,74 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100A4	S100A4	S100 calcium binding protein A4	428	2.8344435691833496	0.009011977	Yes	
+row_1	TNFSF13B	TNFSF13B	tumor necrosis factor (ligand) superfamily, member 13b	456	2.5809404850006104	0.050013714	Yes	
+row_2	SPON1	SPON1	spondin 1, extracellular matrix protein	466	2.4819743633270264	0.09097712	Yes	
+row_3	CXCL14	CXCL14	chemokine (C-X-C motif) ligand 14	489	2.310102701187134	0.12787212	Yes	
+row_4	FCER1G	FCER1G	Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide	537	2.1122946739196777	0.1591772	Yes	
+row_5	PYCARD	PYCARD	PYD and CARD domain containing	582	1.9316627979278564	0.18771307	Yes	
+row_6	LTB	LTB	lymphotoxin beta (TNF superfamily, member 3)	584	1.9300447702407837	0.2201096	Yes	
+row_7	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	680	1.6801077127456665	0.23980004	Yes	
+row_8	AIF1	AIF1	allograft inflammatory factor 1	792	1.5127960443496704	0.2552276	Yes	
+row_9	IGSF10	IGSF10	immunoglobulin superfamily, member 10	828	1.4588127136230469	0.2766181	Yes	
+row_10	LAD1	LAD1	ladinin 1	836	1.4457858800888062	0.30032098	Yes	
+row_11	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	854	1.4249783754348755	0.32276946	Yes	
+row_12	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	873	1.3977699279785156	0.34466955	Yes	
+row_13	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	959	1.2873830795288086	0.35865372	Yes	
+row_14	TLR2	TLR2	toll-like receptor 2	1027	1.217453122138977	0.3730883	Yes	
+row_15	COL1A1	COL1A1	collagen, type I, alpha 1	1036	1.2028281688690186	0.39261124	Yes	
+row_16	CCL5	CCL5	chemokine (C-C motif) ligand 5	1114	1.1235460042953491	0.40456098	Yes	
+row_17	MFAP4	MFAP4	microfibrillar-associated protein 4	1143	1.0958281755447388	0.42047456	Yes	
+row_18	ISG15	ISG15	ISG15 ubiquitin-like modifier	1176	1.0694220066070557	0.435582	Yes	
+row_19	OSMR	OSMR	oncostatin M receptor	1283	1.0033446550369263	0.44288644	Yes	
+row_20	PSMB8	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	1343	0.9714871048927307	0.45390418	Yes	
+row_21	IFITM3	IFITM3	interferon induced transmembrane protein 3 (1-8U)	1393	0.9443705677986145	0.46536967	Yes	
+row_22	TSC22D1	TSC22D1	TSC22 domain family, member 1	1418	0.9300411343574524	0.47885436	Yes	
+row_23	SPARC	SPARC	secreted protein, acidic, cysteine-rich (osteonectin)	1442	0.919269859790802	0.49224815	Yes	
+row_24	LTBP2	LTBP2	latent transforming growth factor beta binding protein 2	1500	0.8882778882980347	0.5020461	Yes	
+row_25	PDGFRL	PDGFRL	platelet-derived growth factor receptor-like	1548	0.8664788007736206	0.5123813	Yes	
+row_26	S100A6	S100A6	S100 calcium binding protein A6	1554	0.8650683760643005	0.5264903	Yes	
+row_27	VCAM1	VCAM1	vascular cell adhesion molecule 1	1571	0.8553553223609924	0.53944117	Yes	
+row_28	SOCS3	SOCS3	suppressor of cytokine signaling 3	1584	0.8515413403511047	0.5526895	Yes	
+row_29	CMTM3	CMTM3	CKLF-like MARVEL transmembrane domain containing 3	1759	0.7813835144042969	0.55010957	Yes	
+row_30	LSP1	LSP1	lymphocyte-specific protein 1	1792	0.7675565481185913	0.56013596	Yes	
+row_31	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	1850	0.7485502362251282	0.567582	Yes	
+row_32	MGP	MGP	matrix Gla protein	1912	0.7275537848472595	0.574313	Yes	
+row_33	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1987	0.6977503299713135	0.57936686	Yes	
+row_34	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	2047	0.6792582273483276	0.5854658	Yes	
+row_35	LUM	LUM	lumican	2049	0.6776492595672607	0.5967817	Yes	
+row_36	CASP4	CASP4	caspase 4, apoptosis-related cysteine peptidase	2095	0.6651480197906494	0.6039089	Yes	
+row_37	EFEMP2	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2	2392	0.5796523690223694	0.5869026	No	
+row_38	VIM	VIM	vimentin	2404	0.5771478414535522	0.5956227	No	
+row_39	DPT	DPT	dermatopontin	2534	0.5440146327018738	0.59311604	No	
+row_40	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	3093	0.41492360830307007	0.54964805	No	
+row_41	IGFBP2	IGFBP2	insulin-like growth factor binding protein 2, 36kDa	3167	0.3979021906852722	0.54974526	No	
+row_42	COL4A1	COL4A1	collagen, type IV, alpha 1	3182	0.3960361182689667	0.5551456	No	
+row_43	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	3210	0.39075493812561035	0.55928165	No	
+row_44	BBC3	BBC3	BCL2 binding component 3	3246	0.3825453519821167	0.5625562	No	
+row_45	ADAMTS2	ADAMTS2	ADAM metallopeptidase with thrombospondin type 1 motif, 2	3502	0.3335190713405609	0.54511404	No	
+row_46	DCN	DCN	decorin	3571	0.319322407245636	0.54434067	No	
+row_47	NID1	NID1	nidogen 1	3598	0.31210342049598694	0.54724324	No	
+row_48	COL1A2	COL1A2	collagen, type I, alpha 2	3633	0.3060789108276367	0.54932106	No	
+row_49	CCL2	CCL2	chemokine (C-C motif) ligand 2	3956	0.24348056316375732	0.52430546	No	
+row_50	BOK	BOK	BCL2-related ovarian killer	4240	0.1940658837556839	0.5019843	No	
+row_51	SPARCL1	SPARCL1	SPARC-like 1 (mast9, hevin)	4588	0.13844448328018188	0.47294033	No	
+row_52	TGFBI	TGFBI	transforming growth factor, beta-induced, 68kDa	4921	0.0849972814321518	0.44435295	No	
+row_53	FBN1	FBN1	fibrillin 1	4953	0.08096857368946075	0.44291294	No	
+row_54	COL14A1	COL14A1	collagen, type XIV, alpha 1 (undulin)	4985	0.07675524055957794	0.441402	No	
+row_55	CCR2	CCR2	chemokine (C-C motif) receptor 2	5261	0.03786427155137062	0.41717497	No	
+row_56	IRF1	IRF1	interferon regulatory factor 1	5273	0.035993147641420364	0.41678622	No	
+row_57	ADAM8	ADAM8	ADAM metallopeptidase domain 8	5556	-0.006465451791882515	0.39139777	No	
+row_58	POSTN	POSTN	periostin, osteoblast specific factor	5681	-0.023796867579221725	0.38058674	No	
+row_59	MFAP2	MFAP2	microfibrillar-associated protein 2	5740	-0.03235176205635071	0.3758872	No	
+row_60	CDCA3	CDCA3	cell division cycle associated 3	6429	-0.10173118114471436	0.3153934	No	
+row_61	CIDEC	CIDEC	cell death-inducing DFFA-like effector c	6442	-0.10354927182197571	0.31605136	No	
+row_62	CFH	CFH	complement factor H	6484	-0.1089521273970604	0.31417823	No	
+row_63	COL18A1	COL18A1	collagen, type XVIII, alpha 1	6620	-0.128065288066864	0.3041277	No	
+row_64	PSMB9	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	6773	-0.15241487324237823	0.29294997	No	
+row_65	CTGF	CTGF	connective tissue growth factor	6949	-0.18146757781505585	0.28018168	No	
+row_66	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7062	-0.19535212218761444	0.27334332	No	
+row_67	COL15A1	COL15A1	collagen, type XV, alpha 1	8171	-0.3850533962249756	0.1796438	No	
+row_68	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	8328	-0.4137732684612274	0.17250364	No	
+row_69	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	8467	-0.4425870478153229	0.16747597	No	
+row_70	MATN2	MATN2	matrilin 2	8474	-0.4439390003681183	0.17440595	No	
+row_71	ANGPTL4	ANGPTL4	angiopoietin-like 4	9278	-0.653622031211853	0.112803884	No	
+row_72	SYCP1	SYCP1	synaptonemal complex protein 1	10773	-3.2519092559814453	0.03245938	No	

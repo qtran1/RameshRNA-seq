@@ -1,0 +1,11 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	4212	0.19857387244701385	-0.331351	No	
+row_1	NAT6	NAT6	N-acetyltransferase 6	4580	0.13941459357738495	-0.33112064	No	
+row_2	ALDH9A1	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	6948	-0.18070952594280243	-0.5008566	Yes	
+row_3	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	7717	-0.30250000953674316	-0.49781135	Yes	
+row_4	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	7739	-0.30582892894744873	-0.42681468	Yes	
+row_5	YOD1	YOD1	YOD1 OTU deubiquinating enzyme 1 homolog (S. cerevisiae)	7996	-0.3496673107147217	-0.36649787	Yes	
+row_6	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	8530	-0.4578568935394287	-0.3053009	Yes	
+row_7	ALDH7A1	ALDH7A1	aldehyde dehydrogenase 7 family, member A1	8902	-0.5511010885238647	-0.20731765	Yes	
+row_8	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9491	-0.7349196672439575	-0.085036196	Yes	
+row_9	ALDH2	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	9920	-0.9754948019981384	0.108963355	Yes	

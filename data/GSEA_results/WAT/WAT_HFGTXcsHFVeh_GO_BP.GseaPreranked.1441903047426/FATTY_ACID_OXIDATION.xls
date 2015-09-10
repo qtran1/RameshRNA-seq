@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADIPOR1	ADIPOR1	adiponectin receptor 1	3025	0.4281761646270752	-0.24967822	No	
+row_1	ADIPOR2	ADIPOR2	adiponectin receptor 2	4630	0.13256795704364777	-0.38702875	No	
+row_2	ALOX12	ALOX12	arachidonate 12-lipoxygenase	5711	-0.027444055303931236	-0.48275408	No	
+row_3	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	5826	-0.04688422754406929	-0.4905494	No	
+row_4	PPARD	PPARD	peroxisome proliferative activated receptor, delta	6591	-0.12464415282011032	-0.5527423	No	
+row_5	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	7026	-0.1917957067489624	-0.5817206	No	
+row_6	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	7293	-0.23371660709381104	-0.59338355	No	
+row_7	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	7622	-0.2892692983150482	-0.60770845	No	
+row_8	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	7717	-0.30250000953674316	-0.6002862	No	
+row_9	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	7900	-0.33385053277015686	-0.5991354	No	
+row_10	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	8618	-0.48257043957710266	-0.63831097	No	
+row_11	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	9547	-0.7615887522697449	-0.68182313	Yes	
+row_12	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	9588	-0.7811052203178406	-0.64441884	Yes	
+row_13	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	10054	-1.068026065826416	-0.63018966	Yes	
+row_14	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	10305	-1.3409550189971924	-0.5822902	Yes	
+row_15	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	10496	-1.8243869543075562	-0.5036155	Yes	
+row_16	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	11052	-4.88005256652832	-0.2973763	Yes	
+row_17	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11109	-5.800393104553223	0.0020691839	Yes	

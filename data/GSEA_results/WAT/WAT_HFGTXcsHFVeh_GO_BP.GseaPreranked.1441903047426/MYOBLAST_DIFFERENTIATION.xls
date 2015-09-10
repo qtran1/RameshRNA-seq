@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT19	KRT19	keratin 19	2526	0.5464856028556824	-0.18821067	No	
+row_1	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	4840	0.09841795265674591	-0.38923016	No	
+row_2	BMP4	BMP4	bone morphogenetic protein 4	4852	0.09653162956237793	-0.38333258	No	
+row_3	BOC	BOC	Boc homolog (mouse)	5062	0.06543214619159698	-0.39746276	No	
+row_4	MBNL1	MBNL1	muscleblind-like (Drosophila)	5574	-0.008722762577235699	-0.44280192	No	
+row_5	IFRD1	IFRD1	interferon-related developmental regulator 1	5627	-0.01692930795252323	-0.4462712	No	
+row_6	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	6196	-0.07875943183898926	-0.49174052	No	
+row_7	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6404	-0.09808462113142014	-0.5033612	No	
+row_8	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	8283	-0.4069240689277649	-0.6432449	Yes	
+row_9	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	8371	-0.42150092124938965	-0.6209985	Yes	
+row_10	MYEF2	MYEF2	myelin expression factor 2	8866	-0.5456399321556091	-0.6265029	Yes	
+row_11	MAPK12	MAPK12	mitogen-activated protein kinase 12	9218	-0.6361843347549438	-0.6126854	Yes	
+row_12	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.57998836	Yes	
+row_13	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	10764	-3.2519092559814453	-0.3646239	Yes	
+row_14	TTN	TTN	titin	11097	-5.5734686851501465	0.0031480023	Yes	

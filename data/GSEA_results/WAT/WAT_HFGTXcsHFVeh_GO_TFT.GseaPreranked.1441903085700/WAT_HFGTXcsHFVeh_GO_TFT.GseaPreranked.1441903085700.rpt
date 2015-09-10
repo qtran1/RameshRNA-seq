@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1441903085700
+param	collapse	true
+param	plot_top_x	20
+param	rnk	/Users/davebridges/Documents/Source/RameshRNA-seq/data/processed/GSEA_WAT_HFGTXvsHFVeh_preranked.rnk
+param	norm	meandiv
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	gseaftp.broadinstitute.org://pub/gsea/gene_sets/c3.tft.v5.0.symbols.gmt
+param	gui	false
+param	chip	gseaftp.broadinstitute.org://pub/gsea/annotations/GENE_SYMBOL.chip
+param	rpt_label	WAT_HFGTXcsHFVeh_GO_TFT
+param	help	false
+param	out	/Users/davebridges/gsea_home/output/sep10
+param	include_only_symbols	true
+param	set_min	5
+param	nperm	1000
+param	rnd_seed	timestamp
+param	zip_report	false
+param	set_max	500
+
+file	/Users/davebridges/gsea_home/output/sep10/WAT_HFGTXcsHFVeh_GO_TFT.GseaPreranked.1441903085700/index.html

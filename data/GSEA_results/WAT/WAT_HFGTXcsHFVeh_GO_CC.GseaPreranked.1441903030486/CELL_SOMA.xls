@@ -1,0 +1,10 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	1632	0.8331052660942078	-0.042521734	No	
+row_1	TGFB2	TGFB2	transforming growth factor, beta 2	2439	0.5657141804695129	-0.044229507	No	
+row_2	MAP1S	MAP1S	microtubule-associated protein 1S	3100	0.4135967493057251	-0.0518363	No	
+row_3	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	3889	0.2582208812236786	-0.09038105	No	
+row_4	CDK5	CDK5	cyclin-dependent kinase 5	5695	-0.025349527597427368	-0.24947262	No	
+row_5	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	5981	-0.06657350063323975	-0.2667672	No	
+row_6	CAMK2N1	CAMK2N1	calcium/calmodulin-dependent protein kinase II inhibitor 1	6822	-0.1597307175397873	-0.3223037	No	
+row_7	ATXN10	ATXN10	ataxin 10	8038	-0.35900259017944336	-0.38663018	Yes	
+row_8	EFHC1	EFHC1	EF-hand domain (C-terminal) containing 1	11082	-5.314872741699219	0.0044947625	Yes	

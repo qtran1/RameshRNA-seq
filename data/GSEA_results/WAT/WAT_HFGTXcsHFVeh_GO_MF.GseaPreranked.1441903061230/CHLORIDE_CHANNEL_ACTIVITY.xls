@@ -1,0 +1,8 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	59	5.430286884307861	0.3728602	Yes	
+row_1	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	133	4.4274396896362305	0.6746242	Yes	
+row_2	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	488	2.316559314727783	0.80413115	Yes	
+row_3	PKD2	PKD2	polycystic kidney disease 2 (autosomal dominant)	8239	-0.3982105851173401	0.13529576	No	
+row_4	FXYD1	FXYD1	FXYD domain containing ion transport regulator 1 (phospholemman)	8487	-0.44677653908729553	0.14420886	No	
+row_5	CLCN3	CLCN3	chloride channel 3	9029	-0.5833232402801514	0.13620643	No	
+row_6	CLCN2	CLCN2	chloride channel 2	9538	-0.757045567035675	0.14326797	No	

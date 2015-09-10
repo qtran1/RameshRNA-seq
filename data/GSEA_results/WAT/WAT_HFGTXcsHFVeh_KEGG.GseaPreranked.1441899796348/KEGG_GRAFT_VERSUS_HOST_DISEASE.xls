@@ -1,0 +1,13 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.29313484	Yes	
+row_1	IFNG	IFNG	interferon, gamma	142	4.4274396896362305	0.49274907	Yes	
+row_2	KLRC1	KLRC1	killer cell lectin-like receptor subfamily C, member 1	262	3.2831473350524902	0.6378731	Yes	
+row_3	CD80	CD80	CD80 molecule	429	2.825700521469116	0.75705963	Yes	
+row_4	CD86	CD86	CD86 molecule	1274	1.0078647136688232	0.72900236	No	
+row_5	PRF1	PRF1	perforin 1 (pore forming protein)	1567	0.8574672341346741	0.7434428	No	
+row_6	IL1B	IL1B	interleukin 1, beta	2134	0.6511487364768982	0.72345287	No	
+row_7	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	3522	0.32942110300064087	0.61436886	No	
+row_8	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	6375	-0.09441381692886353	0.36239815	No	
+row_9	IL1A	IL1A	interleukin 1, alpha	6945	-0.1805589348077774	0.31980336	No	
+row_10	FAS	FAS	Fas (TNF receptor superfamily, member 6)	7645	-0.293192595243454	0.27086478	No	
+row_11	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	9795	-0.8974812030792236	0.12022295	No	

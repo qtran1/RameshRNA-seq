@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLCXD3	PLCXD3	phosphatidylinositol-specific phospholipase C, X domain containing 3	345	3.1459782123565674	0.039789274	No	
+row_1	ICA1	ICA1	islet cell autoantigen 1, 69kDa	676	1.6849911212921143	0.047993023	No	
+row_2	POP5	POP5	processing of precursor 5, ribonuclease P/MRP subunit (S. cerevisiae)	1123	1.1209479570388794	0.033009592	No	
+row_3	SYDE1	SYDE1	synapse defective 1, Rho GTPase, homolog 1 (C. elegans)	1246	1.0192662477493286	0.044978157	No	
+row_4	JAZF1	JAZF1	JAZF zinc finger 1	1385	0.9482844471931458	0.053902194	No	
+row_5	SGIP1	SGIP1	SH3-domain GRB2-like (endophilin) interacting protein 1	1463	0.9090900421142578	0.06744847	No	
+row_6	PPA2	PPA2	pyrophosphatase (inorganic) 2	2933	0.44786423444747925	-0.055047173	No	
+row_7	PURB	PURB	purine-rich element binding protein B	3118	0.40893352031707764	-0.06243535	No	
+row_8	ETF1	ETF1	eukaryotic translation termination factor 1	3261	0.37853074073791504	-0.066718034	No	
+row_9	RNF139	RNF139	ring finger protein 139	3452	0.34220612049102783	-0.07615221	No	
+row_10	SNRK	SNRK	SNF related kinase	3655	0.301631897687912	-0.08758431	No	
+row_11	GDF6	GDF6	growth differentiation factor 6	3946	0.24566000699996948	-0.1082213	No	
+row_12	RAP2C	RAP2C	RAP2C, member of RAS oncogene family	4188	0.20217156410217285	-0.125416	No	
+row_13	MLLT11	MLLT11	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 11	4300	0.1838417649269104	-0.13129006	No	
+row_14	ELK1	ELK1	ELK1, member of ETS oncogene family	4873	0.0936439037322998	-0.18080796	No	
+row_15	EXTL3	EXTL3	exostoses (multiple)-like 3	4929	0.08443112671375275	-0.18386874	No	
+row_16	TRPC4AP	TRPC4AP	transient receptor potential cation channel, subfamily C, member 4 associated protein	5353	0.024997327476739883	-0.22148548	No	
+row_17	IGFBP5	IGFBP5	insulin-like growth factor binding protein 5	5835	-0.04846300929784775	-0.2638083	No	
+row_18	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	5988	-0.06779942661523819	-0.27599934	No	
+row_19	USP37	USP37	ubiquitin specific peptidase 37	6294	-0.08217231929302216	-0.30167624	No	
+row_20	TM9SF3	TM9SF3	transmembrane 9 superfamily member 3	6296	-0.08223486691713333	-0.29991245	No	
+row_21	MOSPD1	MOSPD1	motile sperm domain containing 1	6481	-0.1087721735239029	-0.31406805	No	
+row_22	USP25	USP25	ubiquitin specific peptidase 25	6501	-0.11141467094421387	-0.31327105	No	
+row_23	MTPN	MTPN	myotrophin	7000	-0.18815268576145172	-0.35397887	No	
+row_24	PSME4	PSME4	proteasome (prosome, macropain) activator subunit 4	7013	-0.18991504609584808	-0.35078016	No	
+row_25	TSC22D2	TSC22D2	TSC22 domain family, member 2	7193	-0.21666529774665833	-0.36205193	No	
+row_26	UBE2G1	UBE2G1	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)	7206	-0.21778731048107147	-0.3582248	No	
+row_27	PHF21A	PHF21A	PHD finger protein 21A	7266	-0.228006049990654	-0.35840958	No	
+row_28	MTMR4	MTMR4	myotubularin related protein 4	7302	-0.2356223613023758	-0.35625637	No	
+row_29	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	7759	-0.31025198101997375	-0.39042038	No	
+row_30	PTPRG	PTPRG	protein tyrosine phosphatase, receptor type, G	7815	-0.32102030515670776	-0.388147	No	
+row_31	NONO	NONO	non-POU domain containing, octamer-binding	8007	-0.3524615168571472	-0.39744022	No	
+row_32	SYTL4	SYTL4	synaptotagmin-like 4 (granuphilin-a)	8955	-0.5632869601249695	-0.47021738	Yes	
+row_33	KALRN	KALRN	kalirin, RhoGEF kinase	8957	-0.5637156963348389	-0.4575981	Yes	
+row_34	ANKRD11	ANKRD11	ankyrin repeat domain 11	8992	-0.5734284520149231	-0.44773844	Yes	
+row_35	NPR2	NPR2	natriuretic peptide receptor B/guanylate cyclase B (atrionatriuretic peptide receptor B)	9005	-0.5763441920280457	-0.43582729	Yes	
+row_36	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	9016	-0.5797749757766724	-0.42365828	Yes	
+row_37	FMR1	FMR1	fragile X mental retardation 1	9026	-0.5827425122261047	-0.4113321	Yes	
+row_38	FOXJ3	FOXJ3	forkhead box J3	9186	-0.6253255605697632	-0.411585	Yes	
+row_39	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	9286	-0.6564103960990906	-0.40572137	Yes	
+row_40	KCND1	KCND1	potassium voltage-gated channel, Shal-related subfamily, member 1	9399	-0.6948621273040771	-0.40016422	Yes	
+row_41	MINK1	MINK1	misshapen-like kinase 1 (zebrafish)	9525	-0.7498984336853027	-0.39453962	Yes	
+row_42	FAM120A	FAM120A	family with sequence similarity 120A	9583	-0.7798587083816528	-0.38210177	Yes	
+row_43	RGS4	RGS4	regulator of G-protein signalling 4	10040	-1.0604783296585083	-0.39935118	Yes	
+row_44	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	10054	-1.068026065826416	-0.37644482	Yes	
+row_45	ANKZF1	ANKZF1	ankyrin repeat and zinc finger domain containing 1	10191	-1.198736310005188	-0.3616936	Yes	
+row_46	CPEB2	CPEB2	cytoplasmic polyadenylation element binding protein 2	10421	-1.5896971225738525	-0.34652197	Yes	
+row_47	ARID5B	ARID5B	AT rich interactive domain 5B (MRF1-like)	10493	-1.8020391464233398	-0.3123017	Yes	
+row_48	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.27142376	Yes	
+row_49	ESRRG	ESRRG	estrogen-related receptor gamma	10625	-2.577725887298584	-0.22368631	Yes	
+row_50	GRID1	GRID1	glutamate receptor, ionotropic, delta 1	10637	-2.685508966445923	-0.16413166	Yes	
+row_51	SEPT3	SEPT3	septin 3	10643	-2.774646282196045	-0.102025755	Yes	
+row_52	MDM1	MDM1	Mdm4, transformed 3T3 cell double minute 1, p53 binding protein (mouse)	10658	-3.1237142086029053	-0.03286211	Yes	
+row_53	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	10889	-3.3511762619018555	0.021933557	Yes	

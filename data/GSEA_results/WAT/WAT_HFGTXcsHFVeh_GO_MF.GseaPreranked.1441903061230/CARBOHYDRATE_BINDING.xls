@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLEC10A	CLEC10A	C-type lectin domain family 10, member A	28	6.098861217498779	0.13996743	Yes	
+row_1	KLRG1	KLRG1	killer cell lectin-like receptor subfamily G, member 1	280	3.2706546783447266	0.19374533	Yes	
+row_2	CLEC4E	CLEC4E	C-type lectin domain family 4, member E	341	3.1459782123565674	0.26183614	Yes	
+row_3	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	432	2.805776357650757	0.3192729	Yes	
+row_4	CD207	CD207	CD207 molecule, langerin	503	2.226527690887451	0.36497995	Yes	
+row_5	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	771	1.5362588167190552	0.37679273	Yes	
+row_6	PODXL2	PODXL2	podocalyxin-like 2	813	1.4819748401641846	0.40771964	Yes	
+row_7	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	854	1.4249783754348755	0.43740508	Yes	
+row_8	LPL	LPL	lipoprotein lipase	947	1.302017331123352	0.4595279	Yes	
+row_9	MRC1	MRC1	mannose receptor, C type 1	1016	1.2286776304244995	0.48210177	Yes	
+row_10	UPK1A	UPK1A	uroplakin 1A	1469	0.9082469344139099	0.46255708	Yes	
+row_11	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	1632	0.8331052660942078	0.46741122	Yes	
+row_12	RPL29	RPL29	ribosomal protein L29	1642	0.8302397727966309	0.48599708	Yes	
+row_13	APOA5	APOA5	apolipoprotein A-V	1772	0.7766969203948975	0.4925095	Yes	
+row_14	HBEGF	HBEGF	heparin-binding EGF-like growth factor	2335	0.5927602648735046	0.45567322	No	
+row_15	STAB2	STAB2	stabilin 2	2631	0.5200739502906799	0.4412188	No	
+row_16	FSTL1	FSTL1	follistatin-like 1	2744	0.49186405539512634	0.4426096	No	
+row_17	COLEC10	COLEC10	collectin sub-family member 10 (C-type lectin)	3049	0.42430245876312256	0.4251059	No	
+row_18	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	3091	0.4150749444961548	0.43110594	No	
+row_19	THBS2	THBS2	thrombospondin 2	3134	0.40565383434295654	0.43679568	No	
+row_20	GALK1	GALK1	galactokinase 1	3199	0.3924253582954407	0.44019222	No	
+row_21	HDGF	HDGF	hepatoma-derived growth factor (high-mobility group protein 1-like)	3481	0.3370697498321533	0.42272475	No	
+row_22	HABP2	HABP2	hyaluronan binding protein 2	3876	0.26096662878990173	0.39328802	No	
+row_23	LGALS9	LGALS9	lectin, galactoside-binding, soluble, 9 (galectin 9)	4007	0.23609954118728638	0.38707983	No	
+row_24	CD34	CD34	CD34 molecule	4020	0.23268362879753113	0.39143395	No	
+row_25	EMCN	EMCN	endomucin	4067	0.22350385785102844	0.39250723	No	
+row_26	TNFAIP6	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	4776	0.10999749600887299	0.33122438	No	
+row_27	LMAN2L	LMAN2L	lectin, mannose-binding 2-like	4919	0.0854116752743721	0.3204133	No	
+row_28	LMAN1	LMAN1	lectin, mannose-binding, 1	5130	0.05520797520875931	0.30276376	No	
+row_29	AAMP	AAMP	angio-associated, migratory cell protein	5266	0.03731006011366844	0.29146013	No	
+row_30	SFTPD	SFTPD	surfactant, pulmonary-associated protein D	5379	0.020177271217107773	0.28183055	No	
+row_31	POSTN	POSTN	periostin, osteoblast specific factor	5681	-0.023796867579221725	0.25524005	No	
+row_32	LGALS8	LGALS8	lectin, galactoside-binding, soluble, 8 (galectin 8)	5813	-0.044383540749549866	0.24446246	No	
+row_33	FGFBP1	FGFBP1	fibroblast growth factor binding protein 1	6255	-0.07875968515872955	0.20652986	No	
+row_34	TGFBR3	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kDa)	6600	-0.12587052583694458	0.17844614	No	
+row_35	ACR	ACR	acrosin	6611	-0.1264386624097824	0.18049836	No	
+row_36	LAYN	LAYN	layilin	7246	-0.2241259217262268	0.12855586	No	
+row_37	GCK	GCK	glucokinase (hexokinase 4, maturity onset diabetes of the young 2)	7825	-0.3229319453239441	0.08397236	No	
+row_38	COL13A1	COL13A1	collagen, type XIII, alpha 1	8060	-0.36355701088905334	0.07136255	No	
+row_39	MDK	MDK	midkine (neurite growth-promoting factor 2)	9896	-0.9596167802810669	-0.07171137	No	
+row_40	IMPG2	IMPG2	interphotoreceptor matrix proteoglycan 2	10030	-1.0540494918823242	-0.059079703	No	
+row_41	TNXB	TNXB	tenascin XB	10236	-1.2508267164230347	-0.04834407	No	
+row_42	POLA1	POLA1	polymerase (DNA directed), alpha 1	10290	-1.325558066368103	-0.022153914	No	
+row_43	LGALS4	LGALS4	lectin, galactoside-binding, soluble, 4 (galectin 4)	10508	-1.8572331666946411	0.0016674369	No	
+row_44	COL25A1	COL25A1	collagen, type XXV, alpha 1	10601	-2.333498001098633	0.0478896	No	

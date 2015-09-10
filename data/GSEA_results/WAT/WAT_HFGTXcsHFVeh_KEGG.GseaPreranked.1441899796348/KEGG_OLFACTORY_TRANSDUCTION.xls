@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	488	2.316559314727783	0.04768718	No	
+row_1	GUCA1A	GUCA1A	guanylate cyclase activator 1A (retina)	637	1.7723866701126099	0.10445553	No	
+row_2	PRKX	PRKX	protein kinase, X-linked	1409	0.9351658821105957	0.072045684	No	
+row_3	ADRBK2	ADRBK2	adrenergic, beta, receptor kinase 2	1556	0.8647681474685669	0.093102545	No	
+row_4	CAMK2B	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	1579	0.8526473641395569	0.1248402	No	
+row_5	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.15845604	No	
+row_6	ADCY3	ADCY3	adenylate cyclase 3	2100	0.6621763110160828	0.13802113	No	
+row_7	GNAL	GNAL	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide, olfactory type	2774	0.4849434792995453	0.09662747	No	
+row_8	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	0.0014400089	No	
+row_9	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	4165	0.207004576921463	-0.01044426	No	
+row_10	CAMK2G	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	4260	0.1908029168844223	-0.011359103	No	
+row_11	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	-0.075772725	No	
+row_12	ARRB2	ARRB2	arrestin, beta 2	5184	0.04931855946779251	-0.0894826	No	
+row_13	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	-0.19160077	No	
+row_14	PDE1C	PDE1C	phosphodiesterase 1C, calmodulin-dependent 70kDa	7091	-0.20014280080795288	-0.24938685	No	
+row_15	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	7267	-0.22816644608974457	-0.2561142	No	
+row_16	GUCA1B	GUCA1B	guanylate cyclase activator 1B (retina)	9662	-0.8153437972068787	-0.4393339	No	
+row_17	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	10428	-1.59954833984375	-0.4449309	Yes	
+row_18	CNGA4	CNGA4	cyclic nucleotide gated channel alpha 4	10591	-2.2933409214019775	-0.3688216	Yes	
+row_19	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	10626	-2.579364061355591	-0.2698815	Yes	
+row_20	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	10730	-3.184537410736084	-0.15322001	Yes	
+row_21	PRKG2	PRKG2	protein kinase, cGMP-dependent, type II	11031	-4.78725004196167	0.009090036	Yes	

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HS3ST4	HS3ST4	heparan sulfate (glucosamine) 3-O-sulfotransferase 4	298	3.1459782123565674	0.13214394	Yes	
+row_1	NDST3	NDST3	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 3	307	3.1459782123565674	0.29039285	Yes	
+row_2	GPC5	GPC5	glypican 5	415	2.8841207027435303	0.42649817	Yes	
+row_3	HS3ST3A1	HS3ST3A1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1	658	1.7390549182891846	0.49259	Yes	
+row_4	SDC3	SDC3	syndecan 3 (N-syndecan)	711	1.6202691793441772	0.56978273	Yes	
+row_5	GPC3	GPC3	glypican 3	805	1.4952900409698486	0.6369695	Yes	
+row_6	SDC1	SDC1	syndecan 1	1885	0.7370295524597168	0.57708377	No	
+row_7	HS3ST6	HS3ST6	heparan sulfate (glucosamine) 3-O-sulfotransferase 6	2038	0.6835005283355713	0.5979391	No	
+row_8	GPC1	GPC1	glypican 1	2693	0.5059764385223389	0.56463534	No	
+row_9	HSPG2	HSPG2	heparan sulfate proteoglycan 2 (perlecan)	2846	0.4670306146144867	0.5745522	No	
+row_10	HS3ST1	HS3ST1	heparan sulfate (glucosamine) 3-O-sulfotransferase 1	3472	0.33820268511772156	0.5353812	No	
+row_11	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	3939	0.24708779156208038	0.5059188	No	
+row_12	GLCE	GLCE	UDP-glucuronic acid epimerase	4539	0.14730417728424072	0.45944196	No	
+row_13	HS6ST1	HS6ST1	heparan sulfate 6-O-sulfotransferase 1	4810	0.10464920103549957	0.44042534	No	
+row_14	EXT1	EXT1	exostoses (multiple) 1	5200	0.04666843265295029	0.40776688	No	
+row_15	NDST2	NDST2	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2	5528	-0.002717164810746908	0.3784686	No	
+row_16	EXT2	EXT2	exostoses (multiple) 2	5787	-0.03946315869688988	0.3572383	No	
+row_17	GPC2	GPC2	glypican 2 (cerebroglycan)	6214	-0.07875943183898926	0.3228708	No	
+row_18	SDC2	SDC2	syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan)	6703	-0.14059507846832275	0.28604683	No	
+row_19	GPC4	GPC4	glypican 4	7192	-0.2166581004858017	0.25306642	No	
+row_20	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	7504	-0.2694503366947174	0.23868667	No	
+row_21	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	8276	-0.4055206775665283	0.1897748	No	
+row_22	HS2ST1	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	9072	-0.5949674844741821	0.14827543	No	
+row_23	GPC6	GPC6	glypican 6	9490	-0.7336058020591736	0.14780805	No	

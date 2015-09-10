@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC25A28	SLC25A28	solute carrier family 25, member 28	2269	0.6097898483276367	-0.17326696	No	
+row_1	ANKRD39	ANKRD39	ankyrin repeat domain 39	2558	0.5379835367202759	-0.17181668	No	
+row_2	ID1	ID1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	2944	0.44455501437187195	-0.18385571	No	
+row_3	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	3943	0.24641317129135132	-0.26117513	No	
+row_4	DAAM2	DAAM2	dishevelled associated activator of morphogenesis 2	4596	0.13658800721168518	-0.3129301	No	
+row_5	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	5103	0.059056323021650314	-0.3554852	No	
+row_6	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	5114	0.05724189430475235	-0.35347214	No	
+row_7	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	5192	0.048355285078287125	-0.35794413	No	
+row_8	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	6071	-0.07875943183898926	-0.43299183	No	
+row_9	LRRK1	LRRK1	leucine-rich repeat kinase 1	6282	-0.08049250394105911	-0.44780362	No	
+row_10	BCL2L2	BCL2L2	BCL2-like 2	6884	-0.17134074866771698	-0.49319762	No	
+row_11	KCNN1	KCNN1	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 1	7202	-0.21746429800987244	-0.5106723	No	
+row_12	FGF12	FGF12	fibroblast growth factor 12	7421	-0.25556984543800354	-0.51729333	Yes	
+row_13	TNPO2	TNPO2	transportin 2 (importin 3, karyopherin beta 2b)	7496	-0.2682400643825531	-0.51030356	Yes	
+row_14	DAZAP1	DAZAP1	DAZ associated protein 1	7642	-0.29253488779067993	-0.5084702	Yes	
+row_15	ARID4B	ARID4B	AT rich interactive domain 4B (RBP1- like)	7753	-0.30861896276474	-0.50266665	Yes	
+row_16	ACIN1	ACIN1	apoptotic chromatin condensation inducer 1	7868	-0.32922568917274475	-0.4961745	Yes	
+row_17	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	8082	-0.3671605587005615	-0.49666563	Yes	
+row_18	PHF12	PHF12	PHD finger protein 12	8183	-0.38722220063209534	-0.485961	Yes	
+row_19	PBX1	PBX1	pre-B-cell leukemia transcription factor 1	8209	-0.3926721513271332	-0.46822584	Yes	
+row_20	TRRAP	TRRAP	transformation/transcription domain-associated protein	8392	-0.4247586131095886	-0.46299407	Yes	
+row_21	R3HDM1	R3HDM1	R3H domain containing 1	8800	-0.5289576053619385	-0.47271812	Yes	
+row_22	GGPS1	GGPS1	geranylgeranyl diphosphate synthase 1	8887	-0.5487260818481445	-0.45253268	Yes	
+row_23	EP300	EP300	E1A binding protein p300	9520	-0.7487161159515381	-0.4713308	Yes	
+row_24	JUNB	JUNB	jun B proto-oncogene	10526	-1.933779239654541	-0.46339715	Yes	
+row_25	OMG	OMG	oligodendrocyte myelin glycoprotein	10849	-3.351161479949951	-0.32182348	Yes	
+row_26	PTPRT	PTPRT	protein tyrosine phosphatase, receptor type, T	11128	-6.821798801422119	3.6009375E-4	Yes	

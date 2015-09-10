@@ -1,0 +1,12 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	1720	0.794768750667572	-0.064779535	No	
+row_1	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	3263	0.37813398241996765	-0.16066596	No	
+row_2	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	3331	0.3667592704296112	-0.12521854	No	
+row_3	POLA2	POLA2	polymerase (DNA directed), alpha 2 (70kD subunit)	3467	0.338842511177063	-0.09904184	No	
+row_4	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	6011	-0.07156875729560852	-0.3195951	No	
+row_5	RFC3	RFC3	replication factor C (activator 1) 3, 38kDa	7258	-0.22669300436973572	-0.40599188	No	
+row_6	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	9864	-0.940776526927948	-0.5338335	Yes	
+row_7	PCNA	PCNA	proliferating cell nuclear antigen	10082	-1.0903327465057373	-0.4300544	Yes	
+row_8	POLA1	POLA1	polymerase (DNA directed), alpha 1	10290	-1.325558066368103	-0.29877794	Yes	
+row_9	PRIM1	PRIM1	primase, polypeptide 1, 49kDa	10299	-1.3316813707351685	-0.14891663	Yes	
+row_10	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	10540	-1.978529930114746	0.053227898	Yes	

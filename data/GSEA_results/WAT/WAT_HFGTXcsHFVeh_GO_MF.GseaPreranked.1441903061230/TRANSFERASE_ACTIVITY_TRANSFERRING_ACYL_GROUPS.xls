@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TGM2	TGM2	transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)	980	1.2634307146072388	-0.044786964	No	
+row_1	DGAT1	DGAT1	diacylglycerol O-acyltransferase homolog 1 (mouse)	1455	0.9124941229820251	-0.05604678	No	
+row_2	AGPAT2	AGPAT2	1-acylglycerol-3-phosphate O-acyltransferase 2 (lysophosphatidic acid acyltransferase, beta)	2110	0.6592668294906616	-0.092281476	No	
+row_3	SMARCE1	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	2181	0.6346883773803711	-0.076690145	No	
+row_4	HAT1	HAT1	histone acetyltransferase 1	2872	0.461861252784729	-0.12298495	No	
+row_5	TGM1	TGM1	transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)	3162	0.3995738625526428	-0.135261	No	
+row_6	ACSL3	ACSL3	acyl-CoA synthetase long-chain family member 3	3198	0.3925117552280426	-0.124871075	No	
+row_7	SOAT1	SOAT1	sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1	3375	0.35946574807167053	-0.12833926	No	
+row_8	EDF1	EDF1	endothelial differentiation-related factor 1	3736	0.2866792678833008	-0.15091555	No	
+row_9	SPTLC1	SPTLC1	serine palmitoyltransferase, long chain base subunit 1	3775	0.2798363268375397	-0.14468499	No	
+row_10	F13A1	F13A1	coagulation factor XIII, A1 polypeptide	3810	0.27284660935401917	-0.13833487	No	
+row_11	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	3966	0.24137292802333832	-0.14398469	No	
+row_12	YKT6	YKT6	YKT6 v-SNARE homolog (S. cerevisiae)	4033	0.23066003620624542	-0.14197682	No	
+row_13	SAT1	SAT1	spermidine/spermine N1-acetyltransferase 1	4650	0.1299959123134613	-0.19305083	No	
+row_14	MCAT	MCAT	malonyl CoA:ACP acyltransferase (mitochondrial)	4750	0.1142774298787117	-0.19803615	No	
+row_15	SOAT2	SOAT2	sterol O-acyltransferase 2	5343	0.02590767666697502	-0.25053787	No	
+row_16	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	5399	0.017102820798754692	-0.25490835	No	
+row_17	GTF3C4	GTF3C4	general transcription factor IIIC, polypeptide 4, 90kDa	5561	-0.007276338990777731	-0.26917875	No	
+row_18	LRAT	LRAT	lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)	5661	-0.021593499928712845	-0.27736285	No	
+row_19	DGAT2	DGAT2	diacylglycerol O-acyltransferase homolog 2 (mouse)	5737	-0.032269712537527084	-0.28301382	No	
+row_20	CS	CS	citrate synthase	5949	-0.06132753938436508	-0.29992852	No	
+row_21	SRCAP	SRCAP	-	6373	-0.09431740641593933	-0.3348261	No	
+row_22	NCOA3	NCOA3	nuclear receptor coactivator 3	6669	-0.1355072557926178	-0.3567571	No	
+row_23	GLYAT	GLYAT	glycine-N-acyltransferase	6820	-0.15932466089725494	-0.36478767	No	
+row_24	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	7293	-0.23371660709381104	-0.39929378	No	
+row_25	ELP4	ELP4	elongation protein 4 homolog (S. cerevisiae)	7425	-0.2559468150138855	-0.40227592	No	
+row_26	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	7615	-0.2884731590747833	-0.40936682	No	
+row_27	BRCA2	BRCA2	breast cancer 2, early onset	7662	-0.2953092157840729	-0.4033238	No	
+row_28	ACAT1	ACAT1	acetyl-Coenzyme A acetyltransferase 1 (acetoacetyl Coenzyme A thiolase)	7663	-0.2954065203666687	-0.39312842	No	
+row_29	SPTLC2	SPTLC2	serine palmitoyltransferase, long chain base subunit 2	7725	-0.30348798632621765	-0.38815606	No	
+row_30	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	7739	-0.30582892894744873	-0.3787735	No	
+row_31	NAT2	NAT2	N-acetyltransferase 2 (arylamine N-acetyltransferase)	8342	-0.41658177971839905	-0.41869384	No	
+row_32	ALAS2	ALAS2	aminolevulinate, delta-, synthase 2 (sideroblastic/hypochromic anemia)	8741	-0.5152214765548706	-0.43680987	Yes	
+row_33	CROT	CROT	carnitine O-octanoyltransferase	8790	-0.5269020795822144	-0.42295426	Yes	
+row_34	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	8848	-0.5408662557601929	-0.40942848	Yes	
+row_35	OXSM	OXSM	3-oxoacyl-ACP synthase, mitochondrial	8906	-0.5522717237472534	-0.39550903	Yes	
+row_36	ATE1	ATE1	arginyltransferase 1	8929	-0.5578851103782654	-0.37823904	Yes	
+row_37	ZDHHC17	ZDHHC17	zinc finger, DHHC-type containing 17	8939	-0.5607450604438782	-0.35969776	Yes	
+row_38	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	9136	-0.611989438533783	-0.35625452	Yes	
+row_39	EP300	EP300	E1A binding protein p300	9520	-0.7487161159515381	-0.364959	Yes	
+row_40	ACLY	ACLY	ATP citrate lyase	9678	-0.8288166522979736	-0.35051474	Yes	
+row_41	PNPLA3	PNPLA3	patatin-like phospholipase domain containing 3	10345	-1.417379379272461	-0.361667	Yes	
+row_42	NAT1	NAT1	N-acetyltransferase 1 (arylamine N-acetyltransferase)	10474	-1.726517677307129	-0.31362465	Yes	
+row_43	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	10496	-1.8243869543075562	-0.2525536	Yes	
+row_44	AANAT	AANAT	arylalkylamine N-acetyltransferase	10718	-3.174114465713501	-0.16293849	Yes	
+row_45	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11109	-5.800393104553223	0.0020744419	Yes	

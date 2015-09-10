@@ -1,0 +1,11 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	USP12	USP12	ubiquitin specific peptidase 12	2764	0.48720285296440125	-0.19064867	No	
+row_1	SENP2	SENP2	SUMO1/sentrin/SMT3 specific peptidase 2	4553	0.14502958953380585	-0.33417735	No	
+row_2	UFD1L	UFD1L	ubiquitin fusion degradation 1 like (yeast)	4969	0.07919743657112122	-0.36208436	No	
+row_3	USP21	USP21	ubiquitin specific peptidase 21	8466	-0.4423220157623291	-0.62387127	Yes	
+row_4	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	8707	-0.5065635442733765	-0.5853041	Yes	
+row_5	USP5	USP5	ubiquitin specific peptidase 5 (isopeptidase T)	8861	-0.5447849035263062	-0.5343772	Yes	
+row_6	UCHL3	UCHL3	ubiquitin carboxyl-terminal esterase L3 (ubiquitin thiolesterase)	8891	-0.5493310689926147	-0.47176248	Yes	
+row_7	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	9080	-0.5963128209114075	-0.41786435	Yes	
+row_8	USP53	USP53	ubiquitin specific peptidase 53	9671	-0.8208231925964355	-0.3734515	Yes	
+row_9	USP29	USP29	ubiquitin specific peptidase 29	10964	-4.250924587249756	0.015103803	Yes	

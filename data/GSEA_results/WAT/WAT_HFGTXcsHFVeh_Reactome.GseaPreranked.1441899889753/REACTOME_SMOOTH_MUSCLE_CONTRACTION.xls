@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1436	0.9212344884872437	-0.0837334	No	
+row_1	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	-0.054588545	No	
+row_2	TPM4	TPM4	tropomyosin 4	1631	0.833195149898529	-0.017839732	No	
+row_3	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	-0.21346773	No	
+row_4	ITGB5	ITGB5	integrin, beta 5	4725	0.11767137795686722	-0.2781256	No	
+row_5	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	-0.2999644	No	
+row_6	TLN1	TLN1	talin 1	5715	-0.02793869748711586	-0.3620349	No	
+row_7	CALD1	CALD1	caldesmon 1	7469	-0.2630423605442047	-0.5068125	No	
+row_8	MYL9	MYL9	myosin, light chain 9, regulatory	7912	-0.3364001512527466	-0.5299751	No	
+row_9	TPM1	TPM1	tropomyosin 1 (alpha)	8450	-0.43886756896972656	-0.5566261	No	
+row_10	SORBS3	SORBS3	sorbin and SH3 domain containing 3	8697	-0.5040609240531921	-0.55386627	No	
+row_11	TPM3	TPM3	tropomyosin 3	8717	-0.5086304545402527	-0.5304506	No	
+row_12	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.55999714	Yes	
+row_13	ITGA1	ITGA1	integrin, alpha 1	9469	-0.7243530750274658	-0.527095	Yes	
+row_14	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	9685	-0.8354088068008423	-0.50517696	Yes	
+row_15	ACTG2	ACTG2	actin, gamma 2, smooth muscle, enteric	10209	-1.2155005931854248	-0.49220315	Yes	
+row_16	VCL	VCL	vinculin	10259	-1.2776516675949097	-0.4334987	Yes	
+row_17	TPM2	TPM2	tropomyosin 2 (beta)	10400	-1.5474249124526978	-0.36965787	Yes	
+row_18	LMOD1	LMOD1	leiomodin 1 (smooth muscle)	10536	-1.9680300951004028	-0.28458962	Yes	
+row_19	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.18312398	Yes	
+row_20	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.077109076	Yes	
+row_21	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	10622	-2.5684735774993896	0.04590044	Yes	

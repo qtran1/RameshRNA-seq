@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.27181777	Yes	
+row_1	IFNG	IFNG	interferon, gamma	142	4.4274396896362305	0.45625758	Yes	
+row_2	IL4	IL4	interleukin 4	195	4.091798305511475	0.63176507	Yes	
+row_3	CD247	CD247	CD247 molecule	475	2.409532308578491	0.7127697	Yes	
+row_4	TGFB3	TGFB3	transforming growth factor, beta 3	2130	0.6526597142219543	0.5927022	No	
+row_5	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	2412	0.5746639370918274	0.5927269	No	
+row_6	TGFB2	TGFB2	transforming growth factor, beta 2	2439	0.5657141804695129	0.61529946	No	
+row_7	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	2799	0.47843223810195923	0.60406893	No	
+row_8	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	2828	0.4717022180557251	0.6223216	No	
+row_9	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	3208	0.3908016085624695	0.6054328	No	
+row_10	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	3943	0.24641317129135132	0.55024695	No	
+row_11	IL2RA	IL2RA	interleukin 2 receptor, alpha	4589	0.1383255571126938	0.49830857	No	
+row_12	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	5313	0.030349355190992355	0.4345978	No	
+row_13	TGFBR3	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kDa)	6600	-0.12587052583694458	0.3244411	No	
+row_14	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	6747	-0.14808790385723114	0.31782687	No	
+row_15	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7062	-0.19535212218761444	0.29817927	No	
+row_16	TOB1	TOB1	transducer of ERBB2, 1	9242	-0.6429600715637207	0.13045117	No	
+row_17	TOB2	TOB2	transducer of ERBB2, 2	9792	-0.8969798684120178	0.12055775	No	

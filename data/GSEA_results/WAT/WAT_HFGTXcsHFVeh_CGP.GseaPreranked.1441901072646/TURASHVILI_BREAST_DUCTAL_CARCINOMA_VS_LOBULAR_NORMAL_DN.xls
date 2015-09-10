@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AK5	AK5	adenylate kinase 5	442	2.7254345417022705	0.0074665262	No	
+row_1	ID4	ID4	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	1111	1.1272295713424683	-0.033199556	No	
+row_2	CRYAB	CRYAB	crystallin, alpha B	1163	1.0788296461105347	-0.019065358	No	
+row_3	ATF3	ATF3	activating transcription factor 3	1503	0.8867642283439636	-0.034237962	No	
+row_4	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	1850	0.7485502362251282	-0.052441843	No	
+row_5	MGP	MGP	matrix Gla protein	1912	0.7275537848472595	-0.045309175	No	
+row_6	ELF3	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	2484	0.5568755269050598	-0.08713177	No	
+row_7	PROM1	PROM1	prominin 1	2582	0.5307194590568542	-0.08666349	No	
+row_8	NFIB	NFIB	nuclear factor I/B	2952	0.4430088400840759	-0.11224708	No	
+row_9	HIVEP3	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	3065	0.4195641875267029	-0.11506165	No	
+row_10	MAOA	MAOA	monoamine oxidase A	3282	0.37427282333374023	-0.12804134	No	
+row_11	SENP6	SENP6	SUMO1/sentrin specific peptidase 6	3437	0.345348596572876	-0.13593218	No	
+row_12	FAM126A	FAM126A	family with sequence similarity 126, member A	4492	0.1556684821844101	-0.2282782	No	
+row_13	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	4783	0.10897421091794968	-0.25253797	No	
+row_14	NTRK2	NTRK2	neurotrophic tyrosine kinase, receptor, type 2	5641	-0.01910008117556572	-0.3294901	No	
+row_15	FOSB	FOSB	FBJ murine osteosarcoma viral oncogene homolog B	5987	-0.06779447197914124	-0.3594248	No	
+row_16	TAGLN	TAGLN	transgelin	6336	-0.08935697376728058	-0.3892556	No	
+row_17	GPM6B	GPM6B	glycoprotein M6B	7969	-0.3464692533016205	-0.5304122	No	
+row_18	GABRP	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi	8188	-0.38831627368927	-0.5433284	No	
+row_19	MAMDC2	MAMDC2	MAM domain containing 2	8344	-0.41673049330711365	-0.55006987	No	
+row_20	PDZK1	PDZK1	PDZ domain containing 1	8413	-0.42957085371017456	-0.54874283	No	
+row_21	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	8496	-0.44884276390075684	-0.5483436	No	
+row_22	OXR1	OXR1	oxidation resistance 1	8599	-0.47649556398391724	-0.54926777	No	
+row_23	GHR	GHR	growth hormone receptor	8853	-0.5421459078788757	-0.5626691	No	
+row_24	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	8930	-0.5582490563392639	-0.559829	No	
+row_25	SFRP1	SFRP1	secreted frizzled-related protein 1	9413	-0.7018337845802307	-0.5911085	No	
+row_26	PIGR	PIGR	polymeric immunoglobulin receptor	9418	-0.7039856910705566	-0.57924485	No	
+row_27	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.5684488	No	
+row_28	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	9764	-0.880168080329895	-0.58265376	No	
+row_29	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	10100	-1.10260808467865	-0.59371763	Yes	
+row_30	ACTG2	ACTG2	actin, gamma 2, smooth muscle, enteric	10209	-1.2155005931854248	-0.58235043	Yes	
+row_31	ANXA1	ANXA1	annexin A1	10317	-1.3628318309783936	-0.5683347	Yes	
+row_32	ZBTB16	ZBTB16	zinc finger and BTB domain containing 16	10329	-1.3812434673309326	-0.5453421	Yes	
+row_33	SYNPO2	SYNPO2	synaptopodin 2	10376	-1.4968138933181763	-0.5234989	Yes	
+row_34	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.5037828	Yes	
+row_35	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.46733642	Yes	
+row_36	CFD	CFD	complement factor D (adipsin)	10611	-2.4382073879241943	-0.42788386	Yes	
+row_37	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	10622	-2.5684735774993896	-0.38418537	Yes	
+row_38	MMP7	MMP7	matrix metallopeptidase 7 (matrilysin, uterine)	10841	-3.351161003112793	-0.3456532	Yes	
+row_39	CNN1	CNN1	calponin 1, basic, smooth muscle	10919	-3.432582378387451	-0.2929919	Yes	
+row_40	CYB5R2	CYB5R2	cytochrome b5 reductase 2	11012	-4.357929706573486	-0.2256151	Yes	
+row_41	KRT14	KRT14	keratin 14 (epidermolysis bullosa simplex, Dowling-Meara, Koebner)	11020	-4.363002300262451	-0.15048493	Yes	
+row_42	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	11022	-4.363002300262451	-0.0748137	Yes	
+row_43	ELF5	ELF5	E74-like factor 5 (ets domain transcription factor)	11051	-4.8745012283325195	0.0073046163	Yes	

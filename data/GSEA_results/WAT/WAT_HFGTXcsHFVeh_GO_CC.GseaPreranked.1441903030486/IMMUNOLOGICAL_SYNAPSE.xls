@@ -1,0 +1,12 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LAT	LAT	linker for activation of T cells	207	3.879055976867676	0.26275766	Yes	
+row_1	TRAT1	TRAT1	T cell receptor associated transmembrane adaptor 1	271	3.2831473350524902	0.49523807	Yes	
+row_2	CD247	CD247	CD247 molecule	475	2.409532308578491	0.65176266	Yes	
+row_3	CARD11	CARD11	caspase recruitment domain family, member 11	860	1.41614830493927	0.7199576	Yes	
+row_4	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	1383	0.9489143490791321	0.7418536	Yes	
+row_5	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.74887085	Yes	
+row_6	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	2443	0.5653510093688965	0.7408769	No	
+row_7	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	3522	0.32942110300064087	0.6678466	No	
+row_8	BCL10	BCL10	B-cell CLL/lymphoma 10	4799	0.10606974363327026	0.5608129	No	
+row_9	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.55695397	No	
+row_10	MYH9	MYH9	myosin, heavy chain 9, non-muscle	5722	-0.02920292504131794	0.48642343	No	

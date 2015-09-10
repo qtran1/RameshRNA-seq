@@ -1,0 +1,9 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNJ14	KCNJ14	potassium inwardly-rectifying channel, subfamily J, member 14	205	4.00852108001709	0.29136664	Yes	
+row_1	KCNJ6	KCNJ6	potassium inwardly-rectifying channel, subfamily J, member 6	295	3.1459782123565674	0.5264996	Yes	
+row_2	KCNJ10	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10	608	1.860825777053833	0.64226633	Yes	
+row_3	KCNK6	KCNK6	potassium channel, subfamily K, member 6	883	1.3811978101730347	0.72438127	Yes	
+row_4	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	1023	1.221352458000183	0.8062776	Yes	
+row_5	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	2463	0.5601628422737122	0.7202208	No	
+row_6	KCNK1	KCNK1	potassium channel, subfamily K, member 1	2724	0.4967276155948639	0.73523897	No	
+row_7	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3855	0.2645631432533264	0.6541124	No	

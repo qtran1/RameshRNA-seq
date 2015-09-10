@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAN1C1	MAN1C1	mannosidase, alpha, class 1C, member 1	1786	0.7703666090965271	-0.12903652	No	
+row_1	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	1962	0.7049321532249451	-0.115715474	No	
+row_2	AHCYL1	AHCYL1	S-adenosylhomocysteine hydrolase-like 1	3700	0.2926689386367798	-0.2600449	No	
+row_3	HR	HR	hairless homolog (mouse)	3967	0.24136607348918915	-0.2740396	No	
+row_4	RERG	RERG	RAS-like, estrogen-regulated, growth inhibitor	4220	0.19732563197612762	-0.2885904	No	
+row_5	OSBPL7	OSBPL7	oxysterol binding protein-like 7	4952	0.08107275515794754	-0.35106644	No	
+row_6	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	5369	0.02160271629691124	-0.38763258	No	
+row_7	CCDC24	CCDC24	coiled-coil domain containing 24	5378	0.02032605931162834	-0.38751447	No	
+row_8	ACADSB	ACADSB	acyl-Coenzyme A dehydrogenase, short/branched chain	6051	-0.07641590386629105	-0.44487014	No	
+row_9	SMC4	SMC4	structural maintenance of chromosomes 4	6412	-0.0995590016245842	-0.47317827	No	
+row_10	PUM2	PUM2	pumilio homolog 2 (Drosophila)	7479	-0.2641860544681549	-0.5582648	No	
+row_11	IFT80	IFT80	intraflagellar transport 80 homolog (Chlamydomonas)	7705	-0.30097585916519165	-0.56610894	No	
+row_12	CAMK1D	CAMK1D	calcium/calmodulin-dependent protein kinase ID	7762	-0.3104557394981384	-0.558345	No	
+row_13	MAB21L2	MAB21L2	mab-21-like 2 (C. elegans)	8309	-0.4109896123409271	-0.5905544	Yes	
+row_14	UBE2N	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	8393	-0.42489731311798096	-0.58050096	Yes	
+row_15	JMJD1C	JMJD1C	jumonji domain containing 1C	8559	-0.46555620431900024	-0.5761537	Yes	
+row_16	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.58287275	Yes	
+row_17	OLFM2	OLFM2	olfactomedin 2	8993	-0.5734357833862305	-0.568763	Yes	
+row_18	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	9136	-0.611989438533783	-0.55630445	Yes	
+row_19	TRIB1	TRIB1	tribbles homolog 1 (Drosophila)	9183	-0.6244703531265259	-0.5346871	Yes	
+row_20	ACTN1	ACTN1	actinin, alpha 1	9245	-0.6439093947410583	-0.5136185	Yes	
+row_21	IKZF5	IKZF5	IKAROS family zinc finger 5 (Pegasus)	9834	-0.9200952649116516	-0.52860916	Yes	
+row_22	PCDH7	PCDH7	BH-protocadherin (brain-heart)	10589	-2.2910854816436768	-0.50199366	Yes	
+row_23	IKZF2	IKZF2	IKAROS family zinc finger 2 (Helios)	10609	-2.384826421737671	-0.40533087	Yes	
+row_24	GGN	GGN	gametogenetin	10751	-3.251894235610962	-0.28388682	Yes	
+row_25	LMO3	LMO3	LIM domain only 3 (rhombotin-like 2)	10911	-3.3511762619018555	-0.15996815	Yes	
+row_26	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	11014	-4.358260631561279	0.010624891	Yes	

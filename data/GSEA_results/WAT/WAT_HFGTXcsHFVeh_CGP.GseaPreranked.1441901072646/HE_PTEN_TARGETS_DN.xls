@@ -1,0 +1,6 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	5899	-0.05564315989613533	-0.5233773	No	
+row_1	TGFA	TGFA	transforming growth factor, alpha	7254	-0.22541852295398712	-0.61780053	No	
+row_2	CCNG2	CCNG2	cyclin G2	10464	-1.693834662437439	-0.701397	Yes	
+row_3	JUNB	JUNB	jun B proto-oncogene	10526	-1.933779239654541	-0.47309548	Yes	
+row_4	PTN	PTN	pleiotrophin (heparin binding growth factor 8, neurite growth-promoting factor 1)	11022	-4.363002300262451	0.009884929	Yes	

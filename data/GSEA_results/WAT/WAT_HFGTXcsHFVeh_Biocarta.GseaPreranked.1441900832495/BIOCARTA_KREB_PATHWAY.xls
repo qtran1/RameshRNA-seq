@@ -1,0 +1,8 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CS	CS	citrate synthase	5949	-0.06132753938436508	-0.5149142	No	
+row_1	OGDH	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	6845	-0.1645284742116928	-0.54229283	No	
+row_2	ACO2	ACO2	aconitase 2, mitochondrial	8657	-0.49453824758529663	-0.5455666	Yes	
+row_3	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	8789	-0.5267519950866699	-0.38745323	Yes	
+row_4	SUCLA2	SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	8802	-0.5294581055641174	-0.21777138	Yes	
+row_5	SDHA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	9007	-0.5772290229797363	-0.049939383	Yes	
+row_6	MDH1	MDH1	malate dehydrogenase 1, NAD (soluble)	9515	-0.7467572093009949	0.14533521	Yes	

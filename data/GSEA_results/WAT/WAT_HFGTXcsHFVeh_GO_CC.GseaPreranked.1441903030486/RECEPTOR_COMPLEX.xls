@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	15	6.460714340209961	0.14031021	Yes	
+row_1	TRAT1	TRAT1	T cell receptor associated transmembrane adaptor 1	271	3.2831473350524902	0.18930542	Yes	
+row_2	CD247	CD247	CD247 molecule	475	2.409532308578491	0.22383396	Yes	
+row_3	ITGA2	ITGA2	integrin, alpha 2 (CD49B, alpha 2 subunit of VLA-2 receptor)	483	2.359128952026367	0.2749309	Yes	
+row_4	ITGB7	ITGB7	integrin, beta 7	528	2.1424448490142822	0.31794032	Yes	
+row_5	ITGAE	ITGAE	integrin, alpha E (antigen CD103, human mucosal lymphocyte antigen 1; alpha polypeptide)	590	1.919551968574524	0.3545295	Yes	
+row_6	CARD11	CARD11	caspase recruitment domain family, member 11	860	1.41614830493927	0.361325	Yes	
+row_7	ITGA5	ITGA5	integrin, alpha 5 (fibronectin receptor, alpha polypeptide)	1188	1.0578794479370117	0.3550349	Yes	
+row_8	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	1215	1.038881778717041	0.37546977	Yes	
+row_9	ITGAM	ITGAM	integrin, alpha M (complement component 3 receptor 3 subunit)	1242	1.0211951732635498	0.39551687	Yes	
+row_10	OSMR	OSMR	oncostatin M receptor	1283	1.0033446550369263	0.41391015	Yes	
+row_11	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	1285	1.002261757850647	0.43579638	Yes	
+row_12	CSF2RB	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	1356	0.9661463499069214	0.45066887	Yes	
+row_13	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	1383	0.9489143490791321	0.46913108	Yes	
+row_14	TRIP6	TRIP6	thyroid hormone receptor interactor 6	1532	0.8724150657653809	0.47491497	Yes	
+row_15	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1889	0.7352495193481445	0.45893565	Yes	
+row_16	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.47436878	Yes	
+row_17	ITGB4	ITGB4	integrin, beta 4	2031	0.6848709583282471	0.47739303	Yes	
+row_18	SRP9	SRP9	signal recognition particle 9kDa	2434	0.5670145750045776	0.45357695	No	
+row_19	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	2828	0.4717022180557251	0.42848256	No	
+row_20	ITGA9	ITGA9	integrin, alpha 9	3094	0.4148392379283905	0.41368324	No	
+row_21	IL13RA1	IL13RA1	interleukin 13 receptor, alpha 1	3524	0.3290732204914093	0.38221526	No	
+row_22	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	3943	0.24641317129135132	0.3499267	No	
+row_23	SDCBP	SDCBP	syndecan binding protein (syntenin)	4247	0.19245655834674835	0.32682475	No	
+row_24	ACVR1	ACVR1	activin A receptor, type I	4612	0.13440200686454773	0.2969494	No	
+row_25	BCL10	BCL10	B-cell CLL/lymphoma 10	4799	0.10606974363327026	0.2825033	No	
+row_26	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.2742187	No	
+row_27	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	4927	0.08462249487638474	0.274902	No	
+row_28	MYH9	MYH9	myosin, heavy chain 9, non-muscle	5722	-0.02920292504131794	0.20394628	No	
+row_29	ACVR1C	ACVR1C	activin A receptor, type IC	6103	-0.07875943183898926	0.1714081	No	
+row_30	ITGA8	ITGA8	integrin, alpha 8	6406	-0.09860134869813919	0.14633837	No	
+row_31	ITGA3	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	7056	-0.1947779357433319	0.09208804	No	
+row_32	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7062	-0.19535212218761444	0.09592064	No	
+row_33	SRPR	SRPR	signal recognition particle receptor ('docking protein')	7278	-0.23183757066726685	0.08161725	No	
+row_34	ADRB3	ADRB3	adrenergic, beta-3-, receptor	7646	-0.2931952178478241	0.054953206	No	
+row_35	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7755	-0.30950653553009033	0.052001193	No	
+row_36	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	8226	-0.39548343420028687	0.018292353	No	
+row_37	ITGB8	ITGB8	integrin, beta 8	9240	-0.6421508193016052	-0.058970895	No	
+row_38	ITGA1	ITGA1	integrin, alpha 1	9469	-0.7243530750274658	-0.06364721	No	
+row_39	ITGA10	ITGA10	integrin, alpha 10	10005	-1.0289839506149292	-0.08932655	No	
+row_40	ITGA11	ITGA11	integrin, alpha 11	10188	-1.193345308303833	-0.07957149	No	
+row_41	ITGAD	ITGAD	integrin, alpha D	10742	-3.2518932819366455	-0.058132634	No	
+row_42	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	10960	-4.250924587249756	0.015509352	No	

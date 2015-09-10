@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREX2	TREX2	three prime repair exonuclease 2	1	8.638671875	0.395002	Yes	
+row_1	EXO1	EXO1	exonuclease 1	75	5.194368362426758	0.6259984	Yes	
+row_2	DNASE1L3	DNASE1L3	deoxyribonuclease I-like 3	1233	1.0249093770980835	0.5687513	No	
+row_3	NME1	NME1	non-metastatic cells 1, protein (NM23A) expressed in	2146	0.6467515230178833	0.51625717	No	
+row_4	ISG20	ISG20	interferon stimulated exonuclease gene 20kDa	2369	0.5849795937538147	0.52303296	No	
+row_5	MAP1S	MAP1S	microtubule-associated protein 1S	3100	0.4135967493057251	0.4762542	No	
+row_6	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	3578	0.31792008876800537	0.44786778	No	
+row_7	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	4024	0.23205018043518066	0.41843387	No	
+row_8	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	4263	0.1898070126771927	0.40569645	No	
+row_9	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	4481	0.158071368932724	0.39339745	No	
+row_10	APTX	APTX	aprataxin	4527	0.15017348527908325	0.396216	No	
+row_11	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	4898	0.08878524601459503	0.3669793	No	
+row_12	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	6311	-0.0856616273522377	0.24382722	No	
+row_13	TREX1	TREX1	three prime repair exonuclease 1	6420	-0.10037955641746521	0.23869888	No	
+row_14	ERCC5	ERCC5	me))	7057	-0.19480085372924805	0.19037274	No	
+row_15	DNASE1L1	DNASE1L1	deoxyribonuclease I-like 1	7527	-0.27234578132629395	0.16062193	No	
+row_16	FEN1	FEN1	flap structure-specific endonuclease 1	8883	-0.5481868982315063	0.06375316	No	
+row_17	MBD4	MBD4	methyl-CpG binding domain protein 4	9222	-0.6377309560775757	0.06250239	No	
+row_18	OGG1	OGG1	8-oxoguanine DNA glycosylase	9527	-0.7509731650352478	0.069490544	No	
+row_19	DNASE1L2	DNASE1L2	deoxyribonuclease I-like 2	9664	-0.8170433640480042	0.09461922	No	
+row_20	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	9665	-0.8177518248558044	0.13201933	No	

@@ -1,0 +1,120 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SEMA4F	SEMA4F	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4F	21	6.268995761871338	0.05824808	No	
+row_1	EFNB3	EFNB3	ephrin-B3	121	4.735405445098877	0.094698556	No	
+row_2	EFNA4	EFNA4	ephrin-A4	491	2.299194097518921	0.08325788	No	
+row_3	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	604	1.873409390449524	0.091065474	No	
+row_4	SEMA3E	SEMA3E	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3E	670	1.6915414333343506	0.10139524	No	
+row_5	EPHB3	EPHB3	EPH receptor B3	777	1.5317281484603882	0.10646897	No	
+row_6	RHOD	RHOD	ras homolog gene family, member D	785	1.5252747535705566	0.12046933	No	
+row_7	SEMA3A	SEMA3A	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3A	798	1.50582754611969	0.13382912	No	
+row_8	ROBO3	ROBO3	roundabout, axon guidance receptor, homolog 3 (Drosophila)	905	1.3540633916854858	0.13719805	No	
+row_9	SLIT1	SLIT1	slit homolog 1 (Drosophila)	914	1.341788411140442	0.14934696	No	
+row_10	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	926	1.3299559354782104	0.16110995	No	
+row_11	SRGAP1	SRGAP1	SLIT-ROBO Rho GTPase activating protein 1	1039	1.1992584466934204	0.16244867	No	
+row_12	EPHA7	EPHA7	EPH receptor A7	1314	0.9860367178916931	0.14703286	No	
+row_13	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.1447002	No	
+row_14	DPYSL2	DPYSL2	dihydropyrimidinase-like 2	1477	0.9044517278671265	0.1499288	No	
+row_15	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	1570	0.8554084897041321	0.14978394	No	
+row_16	SEMA3G	SEMA3G	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3G	1894	0.7327083945274353	0.1274884	No	
+row_17	RGS3	RGS3	regulator of G-protein signalling 3	1910	0.7283798456192017	0.13311574	No	
+row_18	NCK1	NCK1	NCK adaptor protein 1	1929	0.7177436947822571	0.13836862	No	
+row_19	NTN4	NTN4	netrin 4	1943	0.7126093506813049	0.14402622	No	
+row_20	SRGAP3	SRGAP3	SLIT-ROBO Rho GTPase activating protein 3	1953	0.7085603475570679	0.15000814	No	
+row_21	SEMA4D	SEMA4D	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4D	1961	0.7054377198219299	0.15614168	No	
+row_22	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	2047	0.6792582273483276	0.15494211	No	
+row_23	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	2059	0.6750165224075317	0.16042057	No	
+row_24	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	2087	0.6674931049346924	0.16437414	No	
+row_25	SEMA6D	SEMA6D	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6D	2187	0.6328126192092896	0.16145779	No	
+row_26	PLXNA3	PLXNA3	plexin A3	2206	0.627270519733429	0.16584255	No	
+row_27	SEMA6A	SEMA6A	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6A	2669	0.5110877156257629	0.12880012	No	
+row_28	LRRC4C	LRRC4C	leucine rich repeat containing 4C	2743	0.49190670251846313	0.12689233	No	
+row_29	EFNB1	EFNB1	ephrin-B1	2984	0.436589777469635	0.10929122	No	
+row_30	SEMA4A	SEMA4A	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4A	3020	0.42920613288879395	0.11023193	No	
+row_31	PLXNC1	PLXNC1	plexin C1	3040	0.42601481080055237	0.112594716	No	
+row_32	EPHB6	EPHB6	EPH receptor B6	3291	0.3721548914909363	0.093467385	No	
+row_33	SEMA3B	SEMA3B	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3B	3320	0.367837518453598	0.09445478	No	
+row_34	SEMA4C	SEMA4C	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4C	3343	0.36528560519218445	0.09596246	No	
+row_35	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3568	0.32027488946914673	0.078697935	No	
+row_36	EPHB4	EPHB4	EPH receptor B4	3693	0.29416316747665405	0.07026221	No	
+row_37	PLXNB1	PLXNB1	plexin B1	3887	0.2585349678993225	0.055219848	No	
+row_38	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.056406844	No	
+row_39	PPP3R1	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	4043	0.2290821671485901	0.04589393	No	
+row_40	LIMK2	LIMK2	LIM domain kinase 2	4082	0.2215595245361328	0.04456977	No	
+row_41	UNC5A	UNC5A	unc-5 homolog A (C. elegans)	4313	0.1820579320192337	0.02543421	No	
+row_42	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4395	0.16917265951633453	0.019703247	No	
+row_43	PLXNA1	PLXNA1	plexin A1	4446	0.16196881234645844	0.016717756	No	
+row_44	ABLIM3	ABLIM3	actin binding LIM protein family, member 3	4493	0.15531225502490997	0.014031568	No	
+row_45	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	4611	0.13444137573242188	0.0046987683	No	
+row_46	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4666	0.1279822289943695	0.0010239829	No	
+row_47	CFL2	CFL2	cofilin 2 (muscle)	4675	0.12693394720554352	0.0015156413	No	
+row_48	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	4696	0.12222306430339813	8.725735E-4	No	
+row_49	EPHA3	EPHA3	EPH receptor A3	4970	0.07908602058887482	-0.023155184	No	
+row_50	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	-0.02856828	No	
+row_51	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	-0.033167955	No	
+row_52	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.033608466	No	
+row_53	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	5183	0.049471739679574966	-0.039852478	No	
+row_54	PAK4	PAK4	p21(CDKN1A)-activated kinase 4	5224	0.04288158193230629	-0.043072745	No	
+row_55	SEMA3D	SEMA3D	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3D	5400	0.016816668212413788	-0.05880025	No	
+row_56	ABLIM1	ABLIM1	actin binding LIM protein 1	5514	-3.9797055069357157E-4	-0.0690561	No	
+row_57	CDK5	CDK5	cyclin-dependent kinase 5	5695	-0.025349527597427368	-0.085155696	No	
+row_58	NTN1	NTN1	netrin 1	5708	-0.027327829971909523	-0.08598299	No	
+row_59	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	5921	-0.05777043476700783	-0.10467688	No	
+row_60	NCK2	NCK2	NCK adaptor protein 2	5957	-0.06237439066171646	-0.10725613	No	
+row_61	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	6049	-0.07631111145019531	-0.114786096	No	
+row_62	EPHB1	EPHB1	EPH receptor B1	6098	-0.07875943183898926	-0.118388444	No	
+row_63	RHOA	RHOA	ras homolog gene family, member A	6342	-0.0900280550122261	-0.1395874	No	
+row_64	LIMK1	LIMK1	LIM domain kinase 1	6410	-0.0991540476679802	-0.14471912	No	
+row_65	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	6476	-0.10829923301935196	-0.1495815	No	
+row_66	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6504	-0.11190237104892731	-0.15095916	No	
+row_67	RND1	RND1	Rho family GTPase 1	6507	-0.11258149147033691	-0.15006046	No	
+row_68	EFNA1	EFNA1	ephrin-A1	6539	-0.1163116991519928	-0.15175898	No	
+row_69	SEMA3F	SEMA3F	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	6563	-0.1195441335439682	-0.15270014	No	
+row_70	PLXNB2	PLXNB2	plexin B2	6937	-0.1795087456703186	-0.18484363	No	
+row_71	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	-0.1917109	No	
+row_72	SEMA6B	SEMA6B	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6B	7082	-0.1983044296503067	-0.19407535	No	
+row_73	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	7274	-0.23086398839950562	-0.20920163	No	
+row_74	FYN	FYN	FYN oncogene related to SRC, FGR, YES	7355	-0.2441510409116745	-0.21412234	No	
+row_75	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	7381	-0.24847066402435303	-0.21400796	No	
+row_76	FES	FES	feline sarcoma oncogene	7386	-0.2493261694908142	-0.2119787	No	
+row_77	EFNB2	EFNB2	ephrin-B2	7563	-0.2791989743709564	-0.22527929	No	
+row_78	EPHA4	EPHA4	EPH receptor A4	7606	-0.287105917930603	-0.22633766	No	
+row_79	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	7683	-0.298370361328125	-0.23037493	No	
+row_80	EFNA5	EFNA5	ephrin-A5	7761	-0.3103538453578949	-0.234388	No	
+row_81	NGEF	NGEF	neuronal guanine nucleotide exchange factor	7798	-0.31849029660224915	-0.23460045	No	
+row_82	PLXNA2	PLXNA2	plexin A2	7860	-0.32747596502304077	-0.23699655	No	
+row_83	CFL1	CFL1	cofilin 1 (non-muscle)	7901	-0.3338962197303772	-0.23742434	No	
+row_84	EPHA1	EPHA1	EPH receptor A1	7940	-0.34109750390052795	-0.23760147	No	
+row_85	NRP1	NRP1	neuropilin 1	7947	-0.34233444929122925	-0.23486133	No	
+row_86	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	8095	-0.36932775378227234	-0.24466406	No	
+row_87	SEMA3C	SEMA3C	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	8107	-0.37221279740333557	-0.24209118	No	
+row_88	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	8165	-0.3835850954055786	-0.24358569	No	
+row_89	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8198	-0.39090675115585327	-0.2427401	No	
+row_90	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	8383	-0.42335906624794006	-0.25538373	No	
+row_91	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	8434	-0.4351596236228943	-0.2557478	No	
+row_92	SEMA4G	SEMA4G	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4G	8482	-0.44553661346435547	-0.2557399	No	
+row_93	L1CAM	L1CAM	L1 cell adhesion molecule	8596	-0.47620752453804016	-0.26143008	No	
+row_94	EPHA2	EPHA2	EPH receptor A2	8635	-0.48599308729171753	-0.26021683	No	
+row_95	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	8691	-0.5034489035606384	-0.26037958	No	
+row_96	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	8779	-0.5241983532905579	-0.26324862	No	
+row_97	SEMA5A	SEMA5A	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5A	8923	-0.5562650561332703	-0.2708944	No	
+row_98	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	9096	-0.6016815900802612	-0.2807374	No	
+row_99	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	9342	-0.6782974004745483	-0.29647315	No	
+row_100	SEMA6C	SEMA6C	sema domain, transmembrane domain (TM), and cytoplasmic domain, (semaphorin) 6C	9607	-0.7904435396194458	-0.31285787	No	
+row_101	SEMA4B	SEMA4B	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4B	9749	-0.8755983710289001	-0.31725788	No	
+row_102	UNC5B	UNC5B	unc-5 homolog B (C. elegans)	9804	-0.9031229615211487	-0.3134947	No	
+row_103	EFNA3	EFNA3	ephrin-A3	9966	-1.0031793117523193	-0.3184864	No	
+row_104	ABLIM2	ABLIM2	actin binding LIM protein family, member 2	10007	-1.0346249341964722	-0.3121903	No	
+row_105	RAC3	RAC3	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	10292	-1.326201319694519	-0.32524997	Yes	
+row_106	ROBO1	ROBO1	roundabout, axon guidance receptor, homolog 1 (Drosophila)	10401	-1.548237919807434	-0.3201994	Yes	
+row_107	PLXNB3	PLXNB3	plexin B3	10423	-1.5931077003479004	-0.30681923	Yes	
+row_108	ROBO2	ROBO2	roundabout, axon guidance receptor, homolog 2 (Drosophila)	10482	-1.7576793432235718	-0.2952193	Yes	
+row_109	EFNA2	EFNA2	ephrin-A2	10595	-2.319460868835449	-0.28313157	Yes	
+row_110	SEMA5B	SEMA5B	sema domain, seven thrombospondin repeats (type 1 and type 1-like), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 5B	10598	-2.3273699283599854	-0.26098064	Yes	
+row_111	DPYSL5	DPYSL5	dihydropyrimidinase-like 5	10666	-3.1740989685058594	-0.23660645	Yes	
+row_112	SEMA7A	SEMA7A	semaphorin 7A, GPI membrane anchor (John Milton Hagen blood group)	10799	-3.2523157596588135	-0.2173833	Yes	
+row_113	EPHA5	EPHA5	EPH receptor A5	10846	-3.351161479949951	-0.1894034	Yes	
+row_114	UNC5D	UNC5D	unc-5 homolog D (C. elegans)	10855	-3.3511762619018555	-0.15797321	Yes	
+row_115	PAK3	PAK3	p21 (CDKN1A)-activated kinase 3	10891	-3.3511762619018555	-0.12899446	Yes	
+row_116	SLIT2	SLIT2	slit homolog 2 (Drosophila)	11007	-4.353426456451416	-0.097662	Yes	
+row_117	SLIT3	SLIT3	slit homolog 3 (Drosophila)	11089	-5.528238296508789	-0.051969543	Yes	
+row_118	EPHB2	EPHB2	EPH receptor B2	11111	-5.813397407531738	0.0019068005	Yes	

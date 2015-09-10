@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLQ	POLQ	polymerase (DNA directed), theta	713	1.6191567182540894	0.05223935	No	
+row_1	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	3578	0.31792008876800537	-0.18260005	No	
+row_2	XPA	XPA	xeroderma pigmentosum, complementation group A	3705	0.29238206148147583	-0.1729193	No	
+row_3	ALKBH3	ALKBH3	alkB, alkylation repair homolog 3 (E. coli)	3899	0.2565147280693054	-0.17184529	No	
+row_4	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	4481	0.158071368932724	-0.21275878	No	
+row_5	APTX	APTX	aprataxin	4527	0.15017348527908325	-0.20601253	No	
+row_6	XPC	XPC	xeroderma pigmentosum, complementation group C	5432	0.0118208397179842	-0.28650165	No	
+row_7	DDB1	DDB1	damage-specific DNA binding protein 1, 127kDa	7008	-0.18955421447753906	-0.41458875	No	
+row_8	FEN1	FEN1	flap structure-specific endonuclease 1	8883	-0.5481868982315063	-0.5437986	Yes	
+row_9	ALKBH2	ALKBH2	alkB, alkylation repair homolog 2 (E. coli)	9259	-0.6489421129226685	-0.5308908	Yes	
+row_10	MPG	MPG	N-methylpurine-DNA glycosylase	9308	-0.6658888459205627	-0.48734245	Yes	
+row_11	MSH3	MSH3	mutS homolog 3 (E. coli)	9386	-0.6913610696792603	-0.44457233	Yes	
+row_12	MSH6	MSH6	mutS homolog 6 (E. coli)	9488	-0.733295738697052	-0.40094718	Yes	
+row_13	POLH	POLH	polymerase (DNA directed), eta	9489	-0.7333811521530151	-0.34822828	Yes	
+row_14	OGG1	OGG1	8-oxoguanine DNA glycosylase	9527	-0.7509731650352478	-0.2975739	Yes	
+row_15	MSH2	MSH2	mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)	9567	-0.7714903354644775	-0.2456246	Yes	
+row_16	FANCG	FANCG	Fanconi anemia, complementation group G	10068	-1.0814472436904907	-0.21287334	Yes	
+row_17	TDG	TDG	thymine-DNA glycosylase	10560	-2.0833053588867188	-0.10729397	Yes	
+row_18	DDB2	DDB2	damage-specific DNA binding protein 2, 48kDa	10583	-2.2072908878326416	0.04939709	Yes	

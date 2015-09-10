@@ -1,0 +1,9 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DDC	DDC	dopa decarboxylase (aromatic L-amino acid decarboxylase)	5531	-0.0030150229576975107	-0.4969299	No	
+row_1	IYD	IYD	iodotyrosine deiodinase	5839	-0.0493929423391819	-0.5206164	No	
+row_2	DIO1	DIO1	deiodinase, iodothyronine, type I	5861	-0.05155060812830925	-0.5184243	No	
+row_3	PNMT	PNMT	phenylethanolamine N-methyltransferase	6105	-0.07875943183898926	-0.5340339	No	
+row_4	TPO	TPO	thyroid peroxidase	6245	-0.07875960320234299	-0.5402951	No	
+row_5	TSHB	TSHB	thyroid stimulating hormone, beta	10713	-3.174114465713501	-0.6906203	Yes	
+row_6	AANAT	AANAT	arylalkylamine N-acetyltransferase	10718	-3.174114465713501	-0.43977693	Yes	
+row_7	DIO3	DIO3	deiodinase, iodothyronine, type III	11119	-6.025954246520996	0.0011686424	Yes	

@@ -1,0 +1,41 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	10	6.592044353485107	0.1602137	Yes	
+row_1	CALCR	CALCR	calcitonin receptor	237	3.355055332183838	0.2218409	Yes	
+row_2	CCR3	CCR3	chemokine (C-C motif) receptor 3	265	3.2831473350524902	0.29964983	Yes	
+row_3	GIPR	GIPR	gastric inhibitory polypeptide receptor	316	3.1459782123565674	0.37203288	Yes	
+row_4	ADRB1	ADRB1	adrenergic, beta-1-, receptor	455	2.602407455444336	0.42319763	Yes	
+row_5	FPR1	FPR1	formyl peptide receptor 1	468	2.4810070991516113	0.4827538	Yes	
+row_6	RGS1	RGS1	regulator of G-protein signalling 1	492	2.299175262451172	0.53687423	Yes	
+row_7	PTGER4	PTGER4	prostaglandin E receptor 4 (subtype EP4)	725	1.5932990312576294	0.5549017	Yes	
+row_8	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	1215	1.038881778717041	0.536211	No	
+row_9	GRK5	GRK5	G protein-coupled receptor kinase 5	1440	0.9199417233467102	0.5385023	No	
+row_10	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	2087	0.6674931049346924	0.49658144	No	
+row_11	LTB4R2	LTB4R2	leukotriene B4 receptor 2	2253	0.6130576133728027	0.49669084	No	
+row_12	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	2829	0.4716951847076416	0.456385	No	
+row_13	PTHLH	PTHLH	parathyroid hormone-like hormone	2873	0.4618370831012726	0.46379635	No	
+row_14	GRM8	GRM8	glutamate receptor, metabotropic 8	3997	0.23751725256443024	0.36836645	No	
+row_15	ADCY7	ADCY7	adenylate cyclase 7	4061	0.2246609628200531	0.3681781	No	
+row_16	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4395	0.16917265951633453	0.3422939	No	
+row_17	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	0.3004536	No	
+row_18	WASF2	WASF2	WAS protein family, member 2	4950	0.0814201757311821	0.2966742	No	
+row_19	CCR2	CCR2	chemokine (C-C motif) receptor 2	5261	0.03786427155137062	0.26965407	No	
+row_20	CAP1	CAP1	CAP, adenylate cyclase-associated protein 1 (yeast)	5724	-0.029286397621035576	0.22872196	No	
+row_21	GCGR	GCGR	glucagon receptor	5996	-0.06882280111312866	0.20597424	No	
+row_22	GRM7	GRM7	glutamate receptor, metabotropic 7	6079	-0.07875943183898926	0.20050713	No	
+row_23	ADORA3	ADORA3	adenosine A3 receptor	6115	-0.07875943183898926	0.19927694	No	
+row_24	ADORA2B	ADORA2B	adenosine A2b receptor	6187	-0.07875943183898926	0.19480145	No	
+row_25	CRHR2	CRHR2	corticotropin releasing hormone receptor 2	6270	-0.0787598043680191	0.18933436	No	
+row_26	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.18355662	No	
+row_27	GABBR2	GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	6413	-0.09965115040540695	0.18130453	No	
+row_28	GLP1R	GLP1R	glucagon-like peptide 1 receptor	6570	-0.12082087993621826	0.17019457	No	
+row_29	ACR	ACR	acrosin	6611	-0.1264386624097824	0.16967897	No	
+row_30	ADRB3	ADRB3	adrenergic, beta-3-, receptor	7646	-0.2931952178478241	0.08363297	No	
+row_31	EDNRA	EDNRA	endothelin receptor type A	8227	-0.3957594335079193	0.04102044	No	
+row_32	ADRA1B	ADRA1B	adrenergic, alpha-1B-, receptor	8531	-0.4580456018447876	0.024900941	No	
+row_33	GALR2	GALR2	galanin receptor 2	8803	-0.5295000076293945	0.013412552	No	
+row_34	EDNRB	EDNRB	endothelin receptor type B	9097	-0.6017963290214539	0.0017079123	No	
+row_35	GLP2R	GLP2R	glucagon-like peptide 2 receptor	9149	-0.6168540120124817	0.012186854	No	
+row_36	GABBR1	GABBR1	gamma-aminobutyric acid (GABA) B receptor, 1	9295	-0.6609962582588196	0.015270858	No	
+row_37	MCHR1	MCHR1	melanin-concentrating hormone receptor 1	9696	-0.8410541415214539	-2.3184007E-4	No	
+row_38	NPY1R	NPY1R	neuropeptide Y receptor Y1	10124	-1.135716438293457	-0.010966708	No	
+row_39	CAP2	CAP2	CAP, adenylate cyclase-associated protein, 2 (yeast)	10939	-4.162895202636719	0.01739838	No	

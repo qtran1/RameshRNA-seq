@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MALL	MALL	mal, T-cell differentiation protein-like	67	5.3037214279174805	0.18602826	Yes	
+row_1	LAT	LAT	linker for activation of T cells	207	3.879055976867676	0.31398502	Yes	
+row_2	BTK	BTK	Bruton agammaglobulinemia tyrosine kinase	472	2.4286115169525146	0.37816584	Yes	
+row_3	CD48	CD48	CD48 molecule	539	2.109825849533081	0.44862616	Yes	
+row_4	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.50217783	Yes	
+row_5	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	678	1.682716727256775	0.56068224	Yes	
+row_6	CARD11	CARD11	caspase recruitment domain family, member 11	860	1.41614830493927	0.595671	Yes	
+row_7	FLOT1	FLOT1	flotillin 1	1658	0.8214282393455505	0.5536731	No	
+row_8	MAL	MAL	mal, T-cell differentiation protein	2211	0.6253210306167603	0.5266279	No	
+row_9	PPT1	PPT1	palmitoyl-protein thioesterase 1 (ceroid-lipofuscinosis, neuronal 1, infantile)	3706	0.2923576831817627	0.40272924	No	
+row_10	LAX1	LAX1	lymphocyte transmembrane adaptor 1	4008	0.23604059219360352	0.38418165	No	
+row_11	LAT2	LAT2	linker for activation of T cells family, member 2	4621	0.13341708481311798	0.3339225	No	
+row_12	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	0.3224937	No	
+row_13	PAG1	PAG1	phosphoprotein associated with glycosphingolipid microdomains 1	4864	0.09439870715141296	0.31952086	No	
+row_14	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.3183458	No	
+row_15	STOM	STOM	stomatin	5196	0.04735853150486946	0.29467592	No	
+row_16	CAV2	CAV2	caveolin 2	6337	-0.08969242870807648	0.1953044	No	
+row_17	STX12	STX12	syntaxin 12	7388	-0.24966156482696533	0.10982723	No	
+row_18	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	7986	-0.3486081659793854	0.068710886	No	
+row_19	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	8496	-0.44884276390075684	0.039145764	No	
+row_20	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	8667	-0.4963756501674652	0.04181771	No	
+row_21	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	9409	-0.6989395022392273	4.2517367E-4	No	
+row_22	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.027268961	No	
+row_23	SHH	SHH	sonic hedgehog homolog (Drosophila)	10577	-2.1649792194366455	0.04995947	No	

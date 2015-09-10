@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	25	6.186200141906738	0.18227448	Yes	
+row_1	CAMP	CAMP	cathelicidin antimicrobial peptide	166	4.22904109954834	0.29581594	Yes	
+row_2	ATP6V1E2	ATP6V1E2	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E2	217	3.854637622833252	0.40629247	Yes	
+row_3	ATP6V0A4	ATP6V0A4	ATPase, H+ transporting, lysosomal V0 subunit a4	285	3.2536957263946533	0.49731323	Yes	
+row_4	NCF4	NCF4	neutrophil cytosolic factor 4, 40kDa	496	2.267529010772705	0.54604334	Yes	
+row_5	CYBA	CYBA	cytochrome b-245, alpha polypeptide	697	1.6498150825500488	0.5772482	Yes	
+row_6	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	1034	1.211793065071106	0.58314306	Yes	
+row_7	ATP6V0B	ATP6V0B	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	1072	1.1684454679489136	0.61466485	Yes	
+row_8	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	1257	1.014119029045105	0.6283484	Yes	
+row_9	ATP6V1G1	ATP6V1G1	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1	1447	0.9165776968002319	0.6386723	Yes	
+row_10	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	1516	0.8798685669898987	0.65879524	Yes	
+row_11	ATP6V1F	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F	1721	0.7946920990943909	0.66413295	Yes	
+row_12	ATP6V1E1	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	2348	0.5899011492729187	0.62536794	No	
+row_13	NOS3	NOS3	nitric oxide synthase 3 (endothelial cell)	3364	0.3611946105957031	0.5447581	No	
+row_14	ATP6V0D1	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	3675	0.2981836497783661	0.5257421	No	
+row_15	ATP6V1C1	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	4100	0.21846245229244232	0.49408442	No	
+row_16	ATP6V1B2	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	4428	0.1643102616071701	0.46954465	No	
+row_17	ATP6V1C2	ATP6V1C2	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C2	6116	-0.07875943183898926	0.32000774	No	
+row_18	ATP6V1D	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	6613	-0.12655484676361084	0.27912617	No	
+row_19	ATP6V0A2	ATP6V0A2	ATPase, H+ transporting, lysosomal V0 subunit a2	7736	-0.3052513003349304	0.18721399	No	
+row_20	ATP6V1A	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	8056	-0.3630381226539612	0.16932225	No	
+row_21	TCIRG1	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	8744	-0.5155587792396545	0.122847736	No	
+row_22	ATP6V0D2	ATP6V0D2	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d2	9154	-0.6174741387367249	0.10444246	No	
+row_23	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	9428	-0.7068187594413757	0.10094674	No	
+row_24	ATP6V1G2	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2	9690	-0.8386948704719543	0.102465086	No	
+row_25	ATP6V1H	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	9827	-0.9143219590187073	0.11749344	No	

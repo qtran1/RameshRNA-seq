@@ -1,0 +1,6 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C1QA	C1QA	complement component 1, q subcomponent, A chain	507	2.2016701698303223	0.2956903	Yes	
+row_1	C1QB	C1QB	complement component 1, q subcomponent, B chain	596	1.9034610986709595	0.582812	Yes	
+row_2	C1QC	C1QC	complement component 1, q subcomponent, C chain	660	1.7340872287750244	0.845928	Yes	
+row_3	C8A	C8A	complement component 8, alpha polypeptide	5581	-0.010309222154319286	0.40539792	No	
+row_4	C4B	C4B	complement component 4B (Childo blood group)	9098	-0.602233350276947	0.18278219	No	

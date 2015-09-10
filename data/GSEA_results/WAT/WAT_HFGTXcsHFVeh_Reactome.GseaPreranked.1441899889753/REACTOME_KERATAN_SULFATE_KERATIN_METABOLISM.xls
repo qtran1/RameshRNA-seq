@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B3GNT7	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	36	5.842865943908691	0.23822123	Yes	
+row_1	B3GNT4	B3GNT4	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4	362	3.14337420463562	0.33886606	Yes	
+row_2	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	832	1.4493149518966675	0.3565386	Yes	
+row_3	CHST2	CHST2	carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2	888	1.376737117767334	0.4084822	Yes	
+row_4	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1026	1.2179373502731323	0.4464812	Yes	
+row_5	B3GNT3	B3GNT3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	1640	0.8304455280303955	0.4256147	Yes	
+row_6	FMOD	FMOD	fibromodulin	1680	0.811825692653656	0.45565322	Yes	
+row_7	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	1877	0.739269495010376	0.46855932	Yes	
+row_8	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	1887	0.735858678817749	0.49815917	Yes	
+row_9	ST3GAL3	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3	1927	0.7182711958885193	0.52433145	Yes	
+row_10	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1987	0.6977503299713135	0.5478552	Yes	
+row_11	LUM	LUM	lumican	2049	0.6776492595672607	0.5703682	Yes	
+row_12	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	2124	0.6541812419891357	0.590741	Yes	
+row_13	GLB1	GLB1	galactosidase, beta 1	3052	0.42366132140159607	0.52479583	No	
+row_14	HEXA	HEXA	hexosaminidase A (alpha polypeptide)	3212	0.3904498517513275	0.5266175	No	
+row_15	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	3882	0.2594458758831024	0.47711253	No	
+row_16	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	3884	0.25915199518203735	0.4877322	No	
+row_17	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	3973	0.2409636676311493	0.48976806	No	
+row_18	GNS	GNS	glucosamine (N-acetyl)-6-sulfatase (Sanfilippo disease IIID)	4476	0.1586974710226059	0.45113373	No	
+row_19	OMD	OMD	osteomodulin	4603	0.13533170521259308	0.44538328	No	
+row_20	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	5692	-0.025207702070474625	0.34847757	No	
+row_21	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	0.22004192	No	
+row_22	HEXB	HEXB	hexosaminidase B (beta polypeptide)	7823	-0.3225598633289337	0.17926687	No	
+row_23	B3GNT2	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	9670	-0.8207188248634338	0.046997342	No	
+row_24	CHST1	CHST1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1	10557	-2.04543137550354	0.051764462	No	

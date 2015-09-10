@@ -1,0 +1,15 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SIT1	SIT1	signaling threshold regulating transmembrane adaptor 1	14	6.513938903808594	0.55531263	Yes	
+row_1	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.6479227	Yes	
+row_2	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2232	0.6186304092407227	0.5585914	No	
+row_3	NUP62	NUP62	nucleoporin 62kDa	3883	0.2592840790748596	0.43235084	No	
+row_4	LAX1	LAX1	lymphocyte transmembrane adaptor 1	4008	0.23604059219360352	0.44136682	No	
+row_5	SQSTM1	SQSTM1	sequestosome 1	4063	0.22443787753582	0.45568696	No	
+row_6	LAT2	LAT2	linker for activation of T cells family, member 2	4621	0.13341708481311798	0.4169921	No	
+row_7	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	4677	0.12667864561080933	0.42286944	No	
+row_8	PAG1	PAG1	phosphoprotein associated with glycosphingolipid microdomains 1	4864	0.09439870715141296	0.41420704	No	
+row_9	IRS1	IRS1	insulin receptor substrate 1	4925	0.08470755070447922	0.41604856	No	
+row_10	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	0.4119423	No	
+row_11	INSR	INSR	insulin receptor	7567	-0.2801320552825928	0.2085191	No	
+row_12	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	0.13303894	No	
+row_13	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	9523	-0.7491650581359863	0.14470716	No	

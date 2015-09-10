@@ -1,0 +1,154 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.015785396	Yes	
+row_1	CXCL13	CXCL13	chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant)	173	4.152225494384766	0.046811305	Yes	
+row_2	VAV3	VAV3	vav 3 oncogene	228	3.6737732887268066	0.06942471	Yes	
+row_3	SHC2	SHC2	SHC (Src homology 2 domain containing) transforming protein 2	235	3.431955575942993	0.0945975	Yes	
+row_4	CCR3	CCR3	chemokine (C-C motif) receptor 3	265	3.2831473350524902	0.11656041	Yes	
+row_5	CCL7	CCL7	chemokine (C-C motif) ligand 7	337	3.1459782123565674	0.13367023	Yes	
+row_6	CCL17	CCL17	chemokine (C-C motif) ligand 17	340	3.1459782123565674	0.15706418	Yes	
+row_7	GNG13	GNG13	guanine nucleotide binding protein (G protein), gamma 13	353	3.145962953567505	0.1795473	Yes	
+row_8	CCR4	CCR4	chemokine (C-C motif) receptor 4	427	2.884084939956665	0.19451231	Yes	
+row_9	CXCL14	CXCL14	chemokine (C-X-C motif) ligand 14	489	2.310102701187134	0.20626879	Yes	
+row_10	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	502	2.232661008834839	0.22190756	Yes	
+row_11	CCR5	CCR5	chemokine (C-C motif) receptor 5	521	2.1612420082092285	0.23646466	Yes	
+row_12	XCL1	XCL1	chemokine (C motif) ligand 1	553	2.060279369354248	0.2490812	Yes	
+row_13	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	566	1.9867322444915771	0.26287696	Yes	
+row_14	CXCL16	CXCL16	chemokine (C-X-C motif) ligand 16	578	1.9467368125915527	0.27646407	Yes	
+row_15	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	604	1.873409390449524	0.28822663	Yes	
+row_16	CCL22	CCL22	chemokine (C-C motif) ligand 22	718	1.6081900596618652	0.28998706	Yes	
+row_17	CCR7	CCR7	chemokine (C-C motif) receptor 7	780	1.5284128189086914	0.2958855	Yes	
+row_18	CXCR6	CXCR6	chemokine (C-X-C motif) receptor 6	852	1.4293062686920166	0.3001305	Yes	
+row_19	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	854	1.4249783754348755	0.31071827	Yes	
+row_20	SHC4	SHC4	SHC (Src homology 2 domain containing) family, member 4	877	1.3937469720840454	0.31915945	Yes	
+row_21	NCF1	NCF1	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)	900	1.3606562614440918	0.3273526	Yes	
+row_22	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.33702442	Yes	
+row_23	CXCL9	CXCL9	chemokine (C-X-C motif) ligand 9	920	1.338314414024353	0.34586984	Yes	
+row_24	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	926	1.3299559354782104	0.35538122	Yes	
+row_25	CX3CR1	CX3CR1	chemokine (C-X3-C motif) receptor 1	964	1.2832250595092773	0.361628	Yes	
+row_26	HCK	HCK	hemopoietic cell kinase	1031	1.213817834854126	0.3647135	Yes	
+row_27	CCL5	CCL5	chemokine (C-C motif) ligand 5	1114	1.1235460042953491	0.3656653	Yes	
+row_28	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	1152	1.0881930589675903	0.3704505	Yes	
+row_29	FGR	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	1217	1.0380326509475708	0.37240076	Yes	
+row_30	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1231	1.025727391242981	0.37890366	Yes	
+row_31	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1236	1.0232479572296143	0.38620764	Yes	
+row_32	GRK4	GRK4	G protein-coupled receptor kinase 4	1378	0.9505834579467773	0.38048983	Yes	
+row_33	PRKX	PRKX	protein kinase, X-linked	1409	0.9351658821105957	0.38476574	Yes	
+row_34	RAP1A	RAP1A	RAP1A, member of RAS oncogene family	1420	0.9287262558937073	0.39081493	Yes	
+row_35	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.39616665	Yes	
+row_36	GRK5	GRK5	G protein-coupled receptor kinase 5	1440	0.9199417233467102	0.40296966	Yes	
+row_37	CCL25	CCL25	chemokine (C-C motif) ligand 25	1453	0.9132227301597595	0.4087205	Yes	
+row_38	ELMO1	ELMO1	engulfment and cell motility 1	1527	0.8736131191253662	0.40861896	Yes	
+row_39	ADRBK2	ADRBK2	adrenergic, beta, receptor kinase 2	1556	0.8647681474685669	0.41254947	Yes	
+row_40	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.41854715	Yes	
+row_41	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	1746	0.7862164378166199	0.40777242	No	
+row_42	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	1850	0.7485502362251282	0.4040014	No	
+row_43	GNG11	GNG11	guanine nucleotide binding protein (G protein), gamma 11	1965	0.704420804977417	0.39889786	No	
+row_44	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	2047	0.6792582273483276	0.3966112	No	
+row_45	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	2087	0.6674931049346924	0.3980615	No	
+row_46	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.40297022	No	
+row_47	ADCY3	ADCY3	adenylate cyclase 3	2100	0.6621763110160828	0.40702188	No	
+row_48	ADCY1	ADCY1	adenylate cyclase 1 (brain)	2123	0.6545860171318054	0.40992373	No	
+row_49	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2155	0.6441619396209717	0.4119278	No	
+row_50	NFKBIB	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	2234	0.6183295249938965	0.40945777	No	
+row_51	VAV1	VAV1	vav 1 oncogene	2385	0.5819265246391296	0.40015754	No	
+row_52	DOCK2	DOCK2	dedicator of cytokinesis 2	2395	0.5791007876396179	0.40367767	No	
+row_53	PLCB2	PLCB2	phospholipase C, beta 2	2437	0.5664045810699463	0.40418828	No	
+row_54	PPBP	PPBP	pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	2521	0.5475327372550964	0.40073234	No	
+row_55	TIAM2	TIAM2	T-cell lymphoma invasion and metastasis 2	2529	0.545849084854126	0.4041854	No	
+row_56	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2770	0.48576876521110535	0.38596788	No	
+row_57	CCL24	CCL24	chemokine (C-C motif) ligand 24	2817	0.47395649552345276	0.3853303	No	
+row_58	CCL3	CCL3	chemokine (C-C motif) ligand 3	2842	0.46917492151260376	0.38666052	No	
+row_59	ARRB1	ARRB1	arrestin, beta 1	2928	0.44861459732055664	0.38228112	No	
+row_60	RAP1B	RAP1B	RAP1B, member of RAS oncogene family	2987	0.4353146553039551	0.38026106	No	
+row_61	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	3210	0.39075493812561035	0.3629708	No	
+row_62	ADCY4	ADCY4	adenylate cyclase 4	3392	0.3545568287372589	0.34914336	No	
+row_63	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3568	0.32027488946914673	0.33560544	No	
+row_64	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.3269762	No	
+row_65	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.30949706	No	
+row_66	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.3096533	No	
+row_67	CCL2	CCL2	chemokine (C-C motif) ligand 2	3956	0.24348056316375732	0.30847248	No	
+row_68	ADCY7	ADCY7	adenylate cyclase 7	4061	0.2246609628200531	0.30068436	No	
+row_69	PXN	PXN	paxillin	4144	0.21145153045654297	0.29480085	No	
+row_70	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4233	0.19453644752502441	0.28824416	No	
+row_71	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	4387	0.1706378161907196	0.27558848	No	
+row_72	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4395	0.16917265951633453	0.27621877	No	
+row_73	ADCY2	ADCY2	adenylate cyclase 2 (brain)	4416	0.16590680181980133	0.27564058	No	
+row_74	CSK	CSK	c-src tyrosine kinase	4417	0.16523046791553497	0.27687883	No	
+row_75	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	4611	0.13444137573242188	0.26030892	No	
+row_76	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4666	0.1279822289943695	0.25634998	No	
+row_77	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	4677	0.12667864561080933	0.25638857	No	
+row_78	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	0.2468078	No	
+row_79	PRKCD	PRKCD	protein kinase C, delta	4819	0.10316959023475647	0.24521302	No	
+row_80	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	0.2446858	No	
+row_81	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	4957	0.08053963631391525	0.23417825	No	
+row_82	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	0.23422779	No	
+row_83	VAV2	VAV2	vav 2 oncogene	4997	0.07503347843885422	0.23187572	No	
+row_84	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	0.22875604	No	
+row_85	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.22290784	No	
+row_86	ARRB2	ARRB2	arrestin, beta 2	5184	0.04931855946779251	0.21644685	No	
+row_87	CCR2	CCR2	chemokine (C-C motif) receptor 2	5261	0.03786427155137062	0.20980893	No	
+row_88	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	5361	0.022640947252511978	0.2009622	No	
+row_89	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	5417	0.014250447042286396	0.19605988	No	
+row_90	XCR1	XCR1	chemokine (C motif) receptor 1	5509	2.5554632884450257E-4	0.187774	No	
+row_91	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	5536	-0.0037344959564507008	0.18543406	No	
+row_92	PRKCZ	PRKCZ	protein kinase C, zeta	5616	-0.015496592037379742	0.17835529	No	
+row_93	RASGRP2	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	5693	-0.025287872180342674	0.17162311	No	
+row_94	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	5703	-0.026947231963276863	0.17100538	No	
+row_95	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.17120758	No	
+row_96	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.16062899	No	
+row_97	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.15638225	No	
+row_98	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	5921	-0.05777043476700783	0.15289897	No	
+row_99	STAT2	STAT2	signal transducer and activator of transcription 2, 113kDa	6050	-0.07640448957681656	0.141814	No	
+row_100	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	0.12901624	No	
+row_101	CCL8	CCL8	chemokine (C-C motif) ligand 8	6207	-0.07875943183898926	0.12887786	No	
+row_102	CCL11	CCL11	chemokine (C-C motif) ligand 11	6218	-0.07875943183898926	0.12855734	No	
+row_103	RHOA	RHOA	ras homolog gene family, member A	6342	-0.0900280550122261	0.11802983	No	
+row_104	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.11717003	No	
+row_105	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	6433	-0.1023421660065651	0.11137961	No	
+row_106	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6504	-0.11190237104892731	0.105842985	No	
+row_107	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	0.10073946	No	
+row_108	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	0.08761576	No	
+row_109	GSK3A	GSK3A	glycogen synthase kinase 3 alpha	6873	-0.170189768075943	0.07577642	No	
+row_110	ADRBK1	ADRBK1	adrenergic, beta, receptor kinase 1	6885	-0.17141221463680267	0.07605917	No	
+row_111	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6939	-0.17999128997325897	0.072581075	No	
+row_112	PREX1	PREX1	-	6947	-0.18062914907932281	0.073297195	No	
+row_113	ADCY5	ADCY5	adenylate cyclase 5	7016	-0.19010767340660095	0.068528794	No	
+row_114	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	0.06842451	No	
+row_115	WASL	WASL	Wiskott-Aldrich syndrome-like	7054	-0.19451108574867249	0.068151765	No	
+row_116	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.06807618	No	
+row_117	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	7267	-0.22816644608974457	0.05211758	No	
+row_118	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	7274	-0.23086398839950562	0.053301238	No	
+row_119	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	0.042821057	No	
+row_120	STAT3	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	7559	-0.2788213789463043	0.03152258	No	
+row_121	BRAF	BRAF	v-raf murine sarcoma viral oncogene homolog B1	7617	-0.2886531352996826	0.028494501	No	
+row_122	GRK6	GRK6	G protein-coupled receptor kinase 6	7836	-0.32468751072883606	0.011073446	No	
+row_123	PLCB4	PLCB4	phospholipase C, beta 4	7863	-0.32860055565834045	0.011168052	No	
+row_124	ITK	ITK	IL2-inducible T-cell kinase	8059	-0.3634185492992401	-0.0038680339	No	
+row_125	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	-0.01512663	No	
+row_126	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	8250	-0.40056726336479187	-0.015130224	No	
+row_127	PIK3CB	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	8314	-0.41230708360671997	-0.017778078	No	
+row_128	PLCB3	PLCB3	phospholipase C, beta 3 (phosphatidylinositol-specific)	8324	-0.413176029920578	-0.015501389	No	
+row_129	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	8325	-0.41318976879119873	-0.012404925	No	
+row_130	STAT5B	STAT5B	signal transducer and activator of transcription 5B	8412	-0.42906373739242554	-0.017021922	No	
+row_131	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	8434	-0.4351596236228943	-0.015673384	No	
+row_132	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	8454	-0.4397171139717102	-0.0141085405	No	
+row_133	PLCB1	PLCB1	phospholipase C, beta 1 (phosphoinositide-specific)	8658	-0.4947636127471924	-0.028888918	No	
+row_134	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	8691	-0.5034489035606384	-0.028030438	No	
+row_135	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	-0.046414673	No	
+row_136	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	9431	-0.7078027725219727	-0.08573696	No	
+row_137	TIAM1	TIAM1	T-cell lymphoma invasion and metastasis 1	9517	-0.7478562593460083	-0.08787384	No	
+row_138	ADCY6	ADCY6	adenylate cyclase 6	9528	-0.7510226368904114	-0.083156385	No	
+row_139	CCR1	CCR1	chemokine (C-C motif) receptor 1	9577	-0.776138424873352	-0.081711546	No	
+row_140	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	9714	-0.8516136407852173	-0.08771567	No	
+row_141	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	9990	-1.0178461074829102	-0.105133414	No	
+row_142	ADCY9	ADCY9	adenylate cyclase 9	10152	-1.1545588970184326	-0.11114412	No	
+row_143	CCR10	CCR10	chemokine (C-C motif) receptor 10	10233	-1.2494183778762817	-0.109066896	No	
+row_144	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.12007502	No	
+row_145	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.108887754	No	
+row_146	CCR9	CCR9	chemokine (C-C motif) receptor 9	10566	-2.1126296520233154	-0.09396635	No	
+row_147	CCL28	CCL28	chemokine (C-C motif) ligand 28	10576	-2.1606228351593018	-0.07859421	No	
+row_148	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	10581	-2.188220262527466	-0.06255988	No	
+row_149	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.047206637	No	
+row_150	CCL4	CCL4	chemokine (C-C motif) ligand 4	10794	-3.2519092559814453	-0.036771096	No	
+row_151	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.015118168	No	
+row_152	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	11104	-5.638915538787842	0.002549979	No	

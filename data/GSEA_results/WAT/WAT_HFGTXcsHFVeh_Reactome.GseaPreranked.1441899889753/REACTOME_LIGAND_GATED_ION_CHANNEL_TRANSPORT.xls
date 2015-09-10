@@ -1,0 +1,6 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	8869	-0.546384334564209	-0.73994064	Yes	
+row_1	ARHGEF9	ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	9957	-0.9969584941864014	-0.73351157	Yes	
+row_2	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	10319	-1.3636507987976074	-0.6235486	Yes	
+row_3	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	10814	-3.325230121612549	-0.32069334	Yes	
+row_4	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	10828	-3.343733072280884	0.027318511	Yes	
