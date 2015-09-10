@@ -1,0 +1,71 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACSL6	ACSL6	acyl-CoA synthetase long-chain family member 6	558	2.045849084854126	0.0104714045	No	
+row_1	MVK	MVK	mevalonate kinase (mevalonic aciduria)	1830	0.7546277046203613	-0.081948996	No	
+row_2	PEX11B	PEX11B	peroxisomal biogenesis factor 11B	1925	0.7185282111167908	-0.069053486	No	
+row_3	PMVK	PMVK	phosphomevalonate kinase	2312	0.5982193946838379	-0.08613415	No	
+row_4	MLYCD	MLYCD	malonyl-CoA decarboxylase	2847	0.46679842472076416	-0.12050545	No	
+row_5	ACSL3	ACSL3	acyl-CoA synthetase long-chain family member 3	3198	0.3925117552280426	-0.14045644	No	
+row_6	PRDX1	PRDX1	peroxiredoxin 1	3202	0.3917841911315918	-0.12906325	No	
+row_7	PRDX5	PRDX5	peroxiredoxin 5	3281	0.3742951452732086	-0.12497012	No	
+row_8	PEX14	PEX14	peroxisomal biogenesis factor 14	3893	0.25736963748931885	-0.17253676	No	
+row_9	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	3966	0.24137292802333832	-0.1718587	No	
+row_10	PXMP2	PXMP2	peroxisomal membrane protein 2, 22kDa	3977	0.24067160487174988	-0.16559725	No	
+row_11	CRAT	CRAT	carnitine acetyltransferase	4045	0.22842705249786377	-0.16485265	No	
+row_12	PEX19	PEX19	peroxisomal biogenesis factor 19	4086	0.2210303694009781	-0.1618877	No	
+row_13	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	4212	0.19857387244701385	-0.16727461	No	
+row_14	PEX5	PEX5	peroxisomal biogenesis factor 5	4415	0.16627079248428345	-0.18058339	No	
+row_15	ABCD4	ABCD4	ATP-binding cassette, sub-family D (ALD), member 4	4420	0.16506019234657288	-0.17603073	No	
+row_16	AGPS	AGPS	alkylglycerone phosphate synthase	4430	0.1641027182340622	-0.17195852	No	
+row_17	HMGCL	HMGCL	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)	4457	0.16066358983516693	-0.16952536	No	
+row_18	PEX11G	PEX11G	peroxisomal biogenesis factor 11 gamma	4460	0.16020280122756958	-0.16493651	No	
+row_19	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	4843	0.09816150367259979	-0.19654353	No	
+row_20	SOD2	SOD2	superoxide dismutase 2, mitochondrial	4896	0.08927525579929352	-0.19858594	No	
+row_21	AMACR	AMACR	alpha-methylacyl-CoA racemase	5057	0.06607134640216827	-0.21108146	No	
+row_22	NUDT19	NUDT19	nudix (nucleoside diphosphate linked moiety X)-type motif 19	5580	-0.01020761951804161	-0.25796187	No	
+row_23	PXMP4	PXMP4	peroxisomal membrane protein 4, 24kDa	5819	-0.045639652758836746	-0.27811623	No	
+row_24	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	5826	-0.04688422754406929	-0.27726272	No	
+row_25	ABCD1	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	5895	-0.05547398328781128	-0.28175774	No	
+row_26	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	5981	-0.06657350063323975	-0.28745896	No	
+row_27	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	6386	-0.09544256329536438	-0.32113552	No	
+row_28	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	6468	-0.10695069283246994	-0.32527304	No	
+row_29	DHRS4	DHRS4	dehydrogenase/reductase (SDR family) member 4	6534	-0.11579403281211853	-0.32770103	No	
+row_30	ABCD2	ABCD2	ATP-binding cassette, sub-family D (ALD), member 2	6635	-0.13020728528499603	-0.3328636	No	
+row_31	PEX10	PEX10	peroxisome biogenesis factor 10	6718	-0.14358378946781158	-0.33600086	No	
+row_32	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	6735	-0.14549711346626282	-0.3331153	No	
+row_33	PEX6	PEX6	peroxisomal biogenesis factor 6	6753	-0.1486985683441162	-0.33022487	No	
+row_34	PEX13	PEX13	peroxisome biogenesis factor 13	6814	-0.1585555374622345	-0.33092776	No	
+row_35	ACOT8	ACOT8	acyl-CoA thioesterase 8	7017	-0.19072268903255463	-0.34350857	No	
+row_36	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	7026	-0.1917957067489624	-0.33852148	No	
+row_37	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	7196	-0.21693462133407593	-0.34733894	No	
+row_38	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	7485	-0.26528438925743103	-0.36547354	No	
+row_39	XDH	XDH	xanthine dehydrogenase	7585	-0.2837051451206207	-0.3659757	No	
+row_40	PEX7	PEX7	peroxisomal biogenesis factor 7	7614	-0.2883826494216919	-0.35992083	No	
+row_41	PEX12	PEX12	peroxisomal biogenesis factor 12	7633	-0.29132404923439026	-0.35287446	No	
+row_42	PEX16	PEX16	peroxisomal biogenesis factor 16	7747	-0.30725526809692383	-0.35394096	No	
+row_43	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	7835	-0.3244546353816986	-0.35214522	No	
+row_44	MPV17L	MPV17L	MPV17 mitochondrial membrane protein-like	7838	-0.3247469663619995	-0.3426575	No	
+row_45	BAAT	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	7874	-0.33017098903656006	-0.33599123	No	
+row_46	SLC25A17	SLC25A17	solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	8109	-0.37303146719932556	-0.3460368	No	
+row_47	PECR	PECR	peroxisomal trans-2-enoyl-CoA reductase	8503	-0.45161014795303345	-0.3681151	Yes	
+row_48	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	8529	-0.45781514048576355	-0.35674462	Yes	
+row_49	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	8618	-0.48257043957710266	-0.3503318	Yes	
+row_50	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	8789	-0.5267519950866699	-0.35001567	Yes	
+row_51	CROT	CROT	carnitine O-octanoyltransferase	8790	-0.5269020795822144	-0.33432853	Yes	
+row_52	DDO	DDO	D-aspartate oxidase	8863	-0.545323371887207	-0.32460114	Yes	
+row_53	GSTK1	GSTK1	glutathione S-transferase kappa 1	8928	-0.5578595995903015	-0.3137774	Yes	
+row_54	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	9023	-0.581641435623169	-0.30495733	Yes	
+row_55	DECR2	DECR2	2,4-dienoyl CoA reductase 2, peroxisomal	9077	-0.5960706472396851	-0.29200163	Yes	
+row_56	PEX26	PEX26	peroxisome biogenesis factor 26	9144	-0.6151030659675598	-0.27965438	Yes	
+row_57	PEX3	PEX3	peroxisomal biogenesis factor 3	9195	-0.6274382472038269	-0.2654936	Yes	
+row_58	EPHX2	EPHX2	epoxide hydrolase 2, cytoplasmic	9303	-0.6647312641143799	-0.25537485	Yes	
+row_59	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9334	-0.6737542748451233	-0.23802732	Yes	
+row_60	PIPOX	PIPOX	pipecolic acid oxidase	9346	-0.6795918941497803	-0.21878856	Yes	
+row_61	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	9516	-0.7477717995643616	-0.21180175	Yes	
+row_62	NUDT12	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	9591	-0.7832154631614685	-0.19517253	Yes	
+row_63	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	9766	-0.8837180733680725	-0.18459024	Yes	
+row_64	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	9797	-0.8979437947273254	-0.16056804	Yes	
+row_65	PEX1	PEX1	peroxisome biogenesis factor 1	10024	-1.0476365089416504	-0.14980587	Yes	
+row_66	PAOX	PAOX	polyamine oxidase (exo-N4-amino)	10160	-1.1623239517211914	-0.12740356	Yes	
+row_67	CAT	CAT	catalase	10164	-1.1631207466125488	-0.093045846	Yes	
+row_68	SCP2	SCP2	sterol carrier protein 2	10174	-1.1780383586883545	-0.058786355	Yes	
+row_69	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	11052	-4.88005256652832	0.0072311955	Yes	

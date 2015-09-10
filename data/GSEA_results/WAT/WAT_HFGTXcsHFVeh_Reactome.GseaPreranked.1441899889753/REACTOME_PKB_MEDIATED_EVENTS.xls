@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKAB1	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	1933	0.7169719338417053	-0.12286454	No	
+row_1	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	2375	0.5841255187988281	-0.12090811	No	
+row_2	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	2878	0.4607425928115845	-0.13323991	No	
+row_3	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4168	0.20622436702251434	-0.23455691	No	
+row_4	STK11	STK11	serine/threonine kinase 11	4326	0.179295614361763	-0.23590386	No	
+row_5	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	4375	0.17235976457595825	-0.22793438	No	
+row_6	PRKAB2	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	5657	-0.020816173404455185	-0.34175164	No	
+row_7	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	5703	-0.026947231963276863	-0.3438806	No	
+row_8	TSC2	TSC2	tuberous sclerosis 2	5828	-0.04699774459004402	-0.3516906	No	
+row_9	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	5838	-0.049264371395111084	-0.34898794	No	
+row_10	CAB39L	CAB39L	calcium binding protein 39-like	5888	-0.05488952621817589	-0.34948453	No	
+row_11	CAB39	CAB39	calcium binding protein 39	6493	-0.11028867959976196	-0.39598596	No	
+row_12	RHEB	RHEB	Ras homolog enriched in brain	7019	-0.19102679193019867	-0.42961976	No	
+row_13	EIF4B	EIF4B	eukaryotic translation initiation factor 4B	7033	-0.19251583516597748	-0.41706276	No	
+row_14	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	7046	-0.1937606930732727	-0.40432698	No	
+row_15	EEF2K	EEF2K	eukaryotic elongation factor-2 kinase	7918	-0.33713701367378235	-0.45868564	No	
+row_16	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	8532	-0.45834028720855713	-0.48117974	No	
+row_17	TSC1	TSC1	tuberous sclerosis 1	9234	-0.6406446695327759	-0.49859563	Yes	
+row_18	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9273	-0.6528541445732117	-0.45546493	Yes	
+row_19	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	9369	-0.6874133348464966	-0.4150006	Yes	
+row_20	RPS6	RPS6	ribosomal protein S6	9384	-0.6907506585121155	-0.36700752	Yes	
+row_21	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	9603	-0.788467288017273	-0.33040872	Yes	
+row_22	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	11127	-6.562653064727783	4.5001326E-4	Yes	

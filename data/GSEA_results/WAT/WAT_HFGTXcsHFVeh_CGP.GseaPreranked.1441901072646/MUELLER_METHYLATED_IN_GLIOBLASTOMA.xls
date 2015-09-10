@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT4	KRT4	keratin 4	34	5.872435569763184	0.1622203	Yes	
+row_1	MMP13	MMP13	matrix metallopeptidase 13 (collagenase 3)	420	2.884085178375244	0.20872493	Yes	
+row_2	S100A4	S100A4	S100 calcium binding protein A4	428	2.8344435691833496	0.2878711	Yes	
+row_3	GZMM	GZMM	granzyme M (lymphocyte met-ase 1)	440	2.735257625579834	0.36386544	Yes	
+row_4	COX7A1	COX7A1	cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)	482	2.371163845062256	0.42691073	Yes	
+row_5	CDA	CDA	cytidine deaminase	529	2.142268657684326	0.48306343	Yes	
+row_6	SFN	SFN	stratifin	543	2.0924429893493652	0.5407854	Yes	
+row_7	IER3	IER3	immediate early response 3	690	1.6591435670852661	0.5743354	Yes	
+row_8	LAPTM5	LAPTM5	lysosomal associated multispanning membrane protein 5	732	1.5825368165969849	0.6151845	Yes	
+row_9	TES	TES	testis derived transcript (3 LIM domains)	1002	1.238988995552063	0.625833	Yes	
+row_10	TLR2	TLR2	toll-like receptor 2	1027	1.217453122138977	0.65793747	Yes	
+row_11	LXN	LXN	latexin	1069	1.1719874143600464	0.6872315	Yes	
+row_12	LSR	LSR	lipolysis stimulated lipoprotein receptor	1181	1.06581711769104	0.70723385	Yes	
+row_13	SPINT1	SPINT1	serine peptidase inhibitor, Kunitz type 1	2013	0.6907265186309814	0.6518434	No	
+row_14	F11R	F11R	F11 receptor	2306	0.5992926955223083	0.6424163	No	
+row_15	KRT19	KRT19	keratin 19	2526	0.5464856028556824	0.6380765	No	
+row_16	LCN2	LCN2	lipocalin 2 (oncogene 24p3)	3777	0.27977490425109863	0.533389	No	
+row_17	SERPINF1	SERPINF1	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 1	4638	0.13140620291233063	0.45964485	No	
+row_18	STAG3	STAG3	stromal antigen 3	5172	0.05062325298786163	0.41307327	No	
+row_19	NPTX2	NPTX2	neuronal pentraxin II	6094	-0.07875943183898926	0.33235437	No	
+row_20	DAZL	DAZL	deleted in azoospermia-like	6163	-0.07875943183898926	0.32844773	No	
+row_21	SERPIND1	SERPIND1	serpin peptidase inhibitor, clade D (heparin cofactor), member 1	6356	-0.09155864268541336	0.31373516	No	
+row_22	MAST3	MAST3	microtubule associated serine/threonine kinase 3	6737	-0.14589758217334747	0.28362268	No	
+row_23	FBXO2	FBXO2	F-box protein 2	6967	-0.18375428020954132	0.2681732	No	
+row_24	HSD17B6	HSD17B6	hydroxysteroid (17-beta) dehydrogenase 6	8293	-0.4084641635417938	0.16035393	No	
+row_25	CLDN4	CLDN4	claudin 4	8718	-0.5089932084083557	0.13649875	No	
+row_26	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	9714	-0.8516136407852173	0.070868455	No	
+row_27	RUNX3	RUNX3	runt-related transcription factor 3	10551	-2.015662431716919	0.05231865	No	

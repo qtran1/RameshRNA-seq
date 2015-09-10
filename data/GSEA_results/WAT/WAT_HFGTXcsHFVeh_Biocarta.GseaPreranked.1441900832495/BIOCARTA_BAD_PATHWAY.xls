@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGF1R	IGF1R	insulin-like growth factor 1 receptor	779	1.5304582118988037	0.0700465	Yes	
+row_1	BAD	BAD	BCL2-antagonist of cell death	1025	1.219999074935913	0.15972513	Yes	
+row_2	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1236	1.0232479572296143	0.23453505	Yes	
+row_3	CSF2RB	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	1356	0.9661463499069214	0.31230628	Yes	
+row_4	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	1363	0.9604483842849731	0.3997267	Yes	
+row_5	KIT	KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	1558	0.8633239269256592	0.4613305	Yes	
+row_6	ADCY1	ADCY1	adenylate cyclase 1 (brain)	2123	0.6545860171318054	0.47051418	Yes	
+row_7	BAX	BAX	BCL2-associated X protein	2129	0.6527271866798401	0.5298427	Yes	
+row_8	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	2606	0.5270605683326721	0.535268	Yes	
+row_9	BCL2	BCL2	B-cell CLL/lymphoma 2	3059	0.42147478461265564	0.53318375	Yes	
+row_10	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	3090	0.4151090979576111	0.5685003	Yes	
+row_11	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.51896375	No	
+row_12	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.5403102	No	
+row_13	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	0.49332315	No	
+row_14	BCL2L1	BCL2L1	BCL2-like 1	4907	0.08732886612415314	0.4725181	No	
+row_15	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.459844	No	
+row_16	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5136	0.054048292338848114	0.46236366	No	
+row_17	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	0.4343814	No	
+row_18	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.4056299	No	
+row_19	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	0.39437902	No	
+row_20	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.37281954	No	
+row_21	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.32682043	No	
+row_22	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	0.24878484	No	

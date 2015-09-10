@@ -1,0 +1,83 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B3GNT7	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	36	5.842865943908691	0.0825304	Yes	
+row_1	HS3ST4	HS3ST4	heparan sulfate (glucosamine) 3-O-sulfotransferase 4	298	3.1459782123565674	0.10510353	Yes	
+row_2	NDST3	NDST3	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 3	307	3.1459782123565674	0.15057051	Yes	
+row_3	B3GNT4	B3GNT4	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4	362	3.14337420463562	0.19183676	Yes	
+row_4	HMMR	HMMR	hyaluronan-mediated motility receptor (RHAMM)	385	2.921027660369873	0.23273404	Yes	
+row_5	GPC5	GPC5	glypican 5	415	2.8841207027435303	0.27245602	Yes	
+row_6	HS3ST3A1	HS3ST3A1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3A1	658	1.7390549182891846	0.27609128	Yes	
+row_7	CHST3	CHST3	carbohydrate (chondroitin 6) sulfotransferase 3	688	1.6598336696624756	0.29783762	Yes	
+row_8	SDC3	SDC3	syndecan 3 (N-syndecan)	711	1.6202691793441772	0.3196365	Yes	
+row_9	GPC3	GPC3	glypican 3	805	1.4952900409698486	0.3331756	Yes	
+row_10	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	832	1.4493149518966675	0.35210246	Yes	
+row_11	CHST2	CHST2	carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2	888	1.376737117767334	0.36733952	Yes	
+row_12	CHST11	CHST11	carbohydrate (chondroitin 4) sulfotransferase 11	985	1.255965232849121	0.37709326	Yes	
+row_13	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1026	1.2179373502731323	0.39135608	Yes	
+row_14	CD44	CD44	CD44 molecule (Indian blood group)	1193	1.0550998449325562	0.39182633	Yes	
+row_15	CHPF	CHPF	-	1474	0.9064666032791138	0.37979847	Yes	
+row_16	UST	UST	uronyl-2-sulfotransferase	1580	0.8524317145347595	0.38281295	Yes	
+row_17	CHST7	CHST7	carbohydrate (N-acetylglucosamine 6-O) sulfotransferase 7	1599	0.8450409173965454	0.39359146	Yes	
+row_18	B3GNT3	B3GNT3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	1640	0.8304455280303955	0.4021649	Yes	
+row_19	FMOD	FMOD	fibromodulin	1680	0.811825692653656	0.41055548	Yes	
+row_20	B3GAT3	B3GAT3	beta-1,3-glucuronyltransferase 3 (glucuronosyltransferase I)	1694	0.8050786852836609	0.42119968	Yes	
+row_21	HPSE	HPSE	heparanase	1752	0.7844290137290955	0.4275592	Yes	
+row_22	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	1877	0.739269495010376	0.42719284	Yes	
+row_23	SDC1	SDC1	syndecan 1	1885	0.7370295524597168	0.43738085	Yes	
+row_24	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	1887	0.735858678817749	0.44809464	Yes	
+row_25	ST3GAL3	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3	1927	0.7182711958885193	0.45511156	Yes	
+row_26	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1987	0.6977503299713135	0.4600174	Yes	
+row_27	HS3ST6	HS3ST6	heparan sulfate (glucosamine) 3-O-sulfotransferase 6	2038	0.6835005283355713	0.46552846	Yes	
+row_28	LUM	LUM	lumican	2049	0.6776492595672607	0.47457317	Yes	
+row_29	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	2124	0.6541812419891357	0.47748196	Yes	
+row_30	CHST13	CHST13	carbohydrate (chondroitin 4) sulfotransferase 13	2469	0.5592427849769592	0.45456466	No	
+row_31	STAB2	STAB2	stabilin 2	2631	0.5200739502906799	0.44763184	No	
+row_32	GPC1	GPC1	glypican 1	2693	0.5059764385223389	0.449541	No	
+row_33	HSPG2	HSPG2	heparan sulfate proteoglycan 2 (perlecan)	2846	0.4670306146144867	0.44264376	No	
+row_34	BGN	BGN	biglycan	2858	0.46390828490257263	0.4484597	No	
+row_35	GLB1	GLB1	galactosidase, beta 1	3052	0.42366132140159607	0.43721566	No	
+row_36	CHSY1	CHSY1	carbohydrate (chondroitin) synthase 1	3064	0.41967400908470154	0.44238216	No	
+row_37	HEXA	HEXA	hexosaminidase A (alpha polypeptide)	3212	0.3904498517513275	0.43481296	No	
+row_38	HAS3	HAS3	hyaluronan synthase 3	3239	0.3835934102535248	0.43809238	No	
+row_39	NAGLU	NAGLU	N-acetylglucosaminidase, alpha- (Sanfilippo disease IIIB)	3249	0.3814530372619629	0.44287866	No	
+row_40	CHST12	CHST12	carbohydrate (chondroitin 4) sulfotransferase 12	3435	0.3460528552532196	0.431219	No	
+row_41	HS3ST1	HS3ST1	heparan sulfate (glucosamine) 3-O-sulfotransferase 1	3472	0.33820268511772156	0.43292707	No	
+row_42	DCN	DCN	decorin	3571	0.319322407245636	0.42874753	No	
+row_43	HYAL2	HYAL2	hyaluronoglucosaminidase 2	3618	0.30805522203445435	0.42910805	No	
+row_44	SGSH	SGSH	N-sulfoglucosamine sulfohydrolase (sulfamidase)	3660	0.3007020950317383	0.42981306	No	
+row_45	B3GAT2	B3GAT2	beta-1,3-glucuronyltransferase 2 (glucuronosyltransferase S)	3866	0.2633073031902313	0.4151287	No	
+row_46	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	3882	0.2594458758831024	0.4175807	No	
+row_47	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	3884	0.25915199518203735	0.4212952	No	
+row_48	B3GALT6	B3GALT6	UDP-Gal:betaGal beta 1,3-galactosyltransferase polypeptide 6	3903	0.2557900846004486	0.42342204	No	
+row_49	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	3939	0.24708779156208038	0.42388278	No	
+row_50	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	3973	0.2409636676311493	0.42443457	No	
+row_51	GNS	GNS	glucosamine (N-acetyl)-6-sulfatase (Sanfilippo disease IIID)	4476	0.1586974710226059	0.3813389	No	
+row_52	GUSB	GUSB	glucuronidase, beta	4505	0.15389645099639893	0.38106477	No	
+row_53	GLCE	GLCE	UDP-glucuronic acid epimerase	4539	0.14730417728424072	0.38024142	No	
+row_54	OMD	OMD	osteomodulin	4603	0.13533170521259308	0.37652758	No	
+row_55	HS6ST1	HS6ST1	heparan sulfate 6-O-sulfotransferase 1	4810	0.10464920103549957	0.35942325	No	
+row_56	EXT1	EXT1	exostoses (multiple) 1	5200	0.04666843265295029	0.32490805	No	
+row_57	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	5208	0.04539663717150688	0.32494116	No	
+row_58	B4GALT7	B4GALT7	xylosylprotein beta 1,4-galactosyltransferase, polypeptide 7 (galactosyltransferase I)	5295	0.032810650765895844	0.31764078	No	
+row_59	IDUA	IDUA	iduronidase, alpha-L-	5329	0.028088703751564026	0.31506705	No	
+row_60	NDST2	NDST2	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 2	5528	-0.002717164810746908	0.29719	No	
+row_61	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	5692	-0.025207702070474625	0.28281033	No	
+row_62	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	5698	-0.026000801473855972	0.28273964	No	
+row_63	EXT2	EXT2	exostoses (multiple) 2	5787	-0.03946315869688988	0.27535596	No	
+row_64	HAS1	HAS1	hyaluronan synthase 1	6055	-0.07689378410577774	0.25232425	No	
+row_65	GPC2	GPC2	glypican 2 (cerebroglycan)	6214	-0.07875943183898926	0.23918329	No	
+row_66	IDS	IDS	iduronate 2-sulfatase (Hunter syndrome)	6394	-0.09723485261201859	0.22441332	No	
+row_67	SDC2	SDC2	syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan)	6703	-0.14059507846832275	0.19860683	No	
+row_68	GPC4	GPC4	glypican 4	7192	-0.2166581004858017	0.15762901	No	
+row_69	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	0.15833652	No	
+row_70	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	7504	-0.2694503366947174	0.13677469	No	
+row_71	CSPG4	CSPG4	chondroitin sulfate proteoglycan 4 (melanoma-associated)	7529	-0.27296212315559387	0.1386107	No	
+row_72	HEXB	HEXB	hexosaminidase B (beta polypeptide)	7823	-0.3225598633289337	0.11683326	No	
+row_73	ARSB	ARSB	arylsulfatase B	8042	-0.36038994789123535	0.10239798	No	
+row_74	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	8276	-0.4055206775665283	0.08726798	No	
+row_75	HS2ST1	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	9072	-0.5949674844741821	0.02406441	No	
+row_76	HYAL1	HYAL1	hyaluronoglucosaminidase 1	9450	-0.7178910970687866	4.9030414E-4	No	
+row_77	GPC6	GPC6	glypican 6	9490	-0.7336058020591736	0.007732397	No	
+row_78	B3GNT2	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	9670	-0.8207188248634338	0.003584992	No	
+row_79	CHST1	CHST1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1	10557	-2.04543137550354	-0.04655665	No	
+row_80	CHST9	CHST9	carbohydrate (N-acetylgalactosamine 4-0) sulfotransferase 9	10839	-3.351161003112793	-0.022780713	No	
+row_81	B3GAT1	B3GAT1	beta-1,3-glucuronyltransferase 1 (glucuronosyltransferase P)	10918	-3.3511762619018555	0.01936483	No	

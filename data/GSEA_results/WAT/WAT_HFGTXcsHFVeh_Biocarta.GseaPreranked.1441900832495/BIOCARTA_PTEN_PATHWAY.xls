@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.32105762	No	
+row_1	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	-0.2933461	No	
+row_2	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4233	0.19453644752502441	-0.29849756	No	
+row_3	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	-0.36265868	No	
+row_4	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	-0.36077645	No	
+row_5	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.35496765	No	
+row_6	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	5159	0.05186564475297928	-0.35340416	No	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	-0.39918524	No	
+row_8	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	-0.4045159	No	
+row_9	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	-0.40289617	No	
+row_10	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	-0.4873344	No	
+row_11	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	7086	-0.19889120757579803	-0.46526113	No	
+row_12	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	8022	-0.3556237518787384	-0.50780797	Yes	
+row_13	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	-0.4791816	Yes	
+row_14	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	8489	-0.4472157061100006	-0.45138648	Yes	
+row_15	ILK	ILK	integrin-linked kinase	11116	-5.896233558654785	0.0014393094	Yes	

@@ -1,0 +1,178 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WFDC12	WFDC12	WAP four-disulfide core domain 12	3	7.407626152038574	0.0363683	Yes	
+row_1	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	15	6.460714340209961	0.06732247	Yes	
+row_2	PGLYRP1	PGLYRP1	peptidoglycan recognition protein 1	41	5.761847019195557	0.09354182	Yes	
+row_3	FAIM3	FAIM3	Fas apoptotic inhibitory molecule 3	51	5.559654712677002	0.12022141	Yes	
+row_4	HRH1	HRH1	histamine receptor H1	90	4.97520112991333	0.14136302	Yes	
+row_5	MNDA	MNDA	myeloid cell nuclear differentiation antigen	111	4.7813544273376465	0.16318871	Yes	
+row_6	CAMP	CAMP	cathelicidin antimicrobial peptide	166	4.22904109954834	0.17917903	Yes	
+row_7	IL4	IL4	interleukin 4	195	4.091798305511475	0.1968636	Yes	
+row_8	TFF3	TFF3	trefoil factor 3 (intestinal)	199	4.064402103424072	0.2166945	Yes	
+row_9	NCR1	NCR1	natural cytotoxicity triggering receptor 1	211	3.859074592590332	0.23477957	Yes	
+row_10	CCR3	CCR3	chemokine (C-C motif) receptor 3	265	3.2831473350524902	0.24618225	Yes	
+row_11	TRAT1	TRAT1	T cell receptor associated transmembrane adaptor 1	271	3.2831473350524902	0.2619661	Yes	
+row_12	SELE	SELE	selectin E (endothelial adhesion molecule 1)	273	3.283132314682007	0.27811497	Yes	
+row_13	KLRG1	KLRG1	killer cell lectin-like receptor subfamily G, member 1	280	3.2706546783447266	0.29374576	Yes	
+row_14	TPSAB1	TPSAB1	tryptase alpha/beta 1	325	3.1459782123565674	0.3052914	Yes	
+row_15	CCR4	CCR4	chemokine (C-C motif) receptor 4	427	2.884084939956665	0.31033894	Yes	
+row_16	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	502	2.232661008834839	0.3146286	Yes	
+row_17	CD5L	CD5L	CD5 molecule-like	514	2.1868529319763184	0.32444194	Yes	
+row_18	CCR5	CCR5	chemokine (C-C motif) receptor 5	521	2.1612420082092285	0.33458498	Yes	
+row_19	CD48	CD48	CD48 molecule	539	2.109825849533081	0.34346965	Yes	
+row_20	AGER	AGER	advanced glycosylation end product-specific receptor	580	1.9441791772842407	0.34943566	Yes	
+row_21	FOSL1	FOSL1	FOS-like antigen 1	610	1.8497238159179688	0.35593843	Yes	
+row_22	TLR7	TLR7	toll-like receptor 7	645	1.7593270540237427	0.3615377	Yes	
+row_23	TYROBP	TYROBP	TYRO protein tyrosine kinase binding protein	684	1.6733462810516357	0.36634654	Yes	
+row_24	CCL22	CCL22	chemokine (C-C motif) ligand 22	718	1.6081900596618652	0.3712895	Yes	
+row_25	AOAH	AOAH	acyloxyacyl hydrolase (neutrophil)	729	1.5868358612060547	0.37822607	Yes	
+row_26	CCR7	CCR7	chemokine (C-C motif) receptor 7	780	1.5284128189086914	0.38122272	Yes	
+row_27	AIF1	AIF1	allograft inflammatory factor 1	792	1.5127960443496704	0.3877018	Yes	
+row_28	SP140	SP140	SP140 nuclear body protein	808	1.4935591220855713	0.39372066	Yes	
+row_29	CD84	CD84	CD84 molecule	827	1.4596019983291626	0.3992977	Yes	
+row_30	ALOX5AP	ALOX5AP	arachidonate 5-lipoxygenase-activating protein	840	1.4406341314315796	0.40532857	Yes	
+row_31	CFP	CFP	complement factor properdin	875	1.3976051807403564	0.40913856	Yes	
+row_32	CHST2	CHST2	carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2	888	1.376737117767334	0.41485336	Yes	
+row_33	NCF1	NCF1	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)	900	1.3606562614440918	0.42057988	Yes	
+row_34	CXCL9	CXCL9	chemokine (C-X-C motif) ligand 9	920	1.338314414024353	0.4254657	Yes	
+row_35	S100A8	S100A8	S100 calcium binding protein A8	922	1.3348782062530518	0.43197745	Yes	
+row_36	HDAC9	HDAC9	histone deacetylase 9	933	1.311380386352539	0.4375515	Yes	
+row_37	C3AR1	C3AR1	complement component 3a receptor 1	956	1.2920454740524292	0.44193465	Yes	
+row_38	CX3CR1	CX3CR1	chemokine (C-X3-C motif) receptor 1	964	1.2832250595092773	0.44764325	Yes	
+row_39	RNASE6	RNASE6	ribonuclease, RNase A family, k6	973	1.2671324014663696	0.45318097	Yes	
+row_40	CYBB	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	1034	1.211793065071106	0.4536987	Yes	
+row_41	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1094	1.1454366445541382	0.45397946	Yes	
+row_42	CCL5	CCL5	chemokine (C-C motif) ligand 5	1114	1.1235460042953491	0.45780292	Yes	
+row_43	S100A9	S100A9	S100 calcium binding protein A9	1137	1.0985612869262695	0.46122897	Yes	
+row_44	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	1147	1.0924731492996216	0.46581146	Yes	
+row_45	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	1166	1.0769565105438232	0.46949574	Yes	
+row_46	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	1175	1.06949782371521	0.47405586	Yes	
+row_47	C5AR1	C5AR1	complement component 5a receptor 1	1182	1.0652525424957275	0.47877753	Yes	
+row_48	CD160	CD160	CD160 molecule	1271	1.0081130266189575	0.4757321	Yes	
+row_49	APCS	APCS	amyloid P component, serum	1292	0.9984861016273499	0.47884566	Yes	
+row_50	CD19	CD19	CD19 molecule	1451	0.913950502872467	0.4689452	Yes	
+row_51	TLR6	TLR6	toll-like receptor 6	1507	0.8840712308883667	0.46829823	Yes	
+row_52	NCF2	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	1516	0.8798685669898987	0.47192034	Yes	
+row_53	ANKRD1	ANKRD1	ankyrin repeat domain 1 (cardiac muscle)	1535	0.8714052438735962	0.47458786	Yes	
+row_54	PRF1	PRF1	perforin 1 (pore forming protein)	1567	0.8574672341346741	0.47599983	Yes	
+row_55	CSF3R	CSF3R	colony stimulating factor 3 receptor (granulocyte)	1628	0.8340946435928345	0.47464928	Yes	
+row_56	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	1670	0.814215362071991	0.47493458	Yes	
+row_57	DEFB1	DEFB1	defensin, beta 1	1723	0.793743908405304	0.4741146	Yes	
+row_58	MBL2	MBL2	mannose-binding lectin (protein C) 2, soluble (opsonic defect)	1748	0.785270631313324	0.4758084	Yes	
+row_59	APOA4	APOA4	apolipoprotein A-IV	1784	0.7711252570152283	0.4764282	Yes	
+row_60	LSP1	LSP1	lymphocyte-specific protein 1	1792	0.7675565481185913	0.47958604	Yes	
+row_61	IL10RB	IL10RB	interleukin 10 receptor, beta	1817	0.7597116827964783	0.4811534	Yes	
+row_62	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	1850	0.7485502362251282	0.48193535	Yes	
+row_63	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.46351227	No	
+row_64	GHRL	GHRL	ghrelin/obestatin preprohormone	2170	0.6384366750717163	0.4593684	No	
+row_65	SPN	SPN	sialophorin (leukosialin, CD43)	2249	0.6137539744377136	0.45528498	No	
+row_66	F11R	F11R	F11 receptor	2306	0.5992926955223083	0.45313805	No	
+row_67	BNIP3	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	2332	0.5935447216033936	0.45379218	No	
+row_68	ADORA2A	ADORA2A	adenosine A2a receptor	2411	0.5746789574623108	0.44951546	No	
+row_69	MGLL	MGLL	monoglyceride lipase	2427	0.5693181753158569	0.4509625	No	
+row_70	ELF3	ELF3	E74-like factor 3 (ets domain transcription factor, epithelial-specific )	2484	0.5568755269050598	0.44860578	No	
+row_71	STAB2	STAB2	stabilin 2	2631	0.5200739502906799	0.4378523	No	
+row_72	TLR8	TLR8	toll-like receptor 8	2726	0.4965214133262634	0.4317286	No	
+row_73	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	2799	0.47843223810195923	0.42752343	No	
+row_74	CLEC1A	CLEC1A	C-type lectin domain family 1, member A	2802	0.4779152572154999	0.4297049	No	
+row_75	CCL24	CCL24	chemokine (C-C motif) ligand 24	2817	0.47395649552345276	0.43077153	No	
+row_76	CCL3	CCL3	chemokine (C-C motif) ligand 3	2842	0.46917492151260376	0.43090174	No	
+row_77	TNIP1	TNIP1	TNFAIP3 interacting protein 1	2946	0.44427239894866943	0.4236981	No	
+row_78	BNIP3L	BNIP3L	BCL2/adenovirus E1B 19kDa interacting protein 3-like	2976	0.43776369094848633	0.42321655	No	
+row_79	CLEC1B	CLEC1B	C-type lectin domain family 1, member B	3001	0.4325825572013855	0.42316577	No	
+row_80	BCL2	BCL2	B-cell CLL/lymphoma 2	3059	0.42147478461265564	0.420048	No	
+row_81	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	3210	0.39075493812561035	0.40828973	No	
+row_82	PRDX5	PRDX5	peroxiredoxin 5	3281	0.3742951452732086	0.403752	No	
+row_83	HP	HP	haptoglobin	3407	0.35174649953842163	0.39408267	No	
+row_84	PGLYRP2	PGLYRP2	peptidoglycan recognition protein 2	3611	0.31058672070503235	0.37709033	No	
+row_85	TPST1	TPST1	tyrosylprotein sulfotransferase 1	3634	0.3060350716114044	0.37659612	No	
+row_86	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3776	0.2798222303390503	0.3651106	No	
+row_87	CYSLTR1	CYSLTR1	cysteinyl leukotriene receptor 1	3844	0.26660779118537903	0.36031404	No	
+row_88	AHSG	AHSG	alpha-2-HS-glycoprotein	3861	0.263834685087204	0.3601587	No	
+row_89	SIGIRR	SIGIRR	single immunoglobulin and toll-interleukin 1 receptor (TIR) domain	3904	0.2556101679801941	0.35758957	No	
+row_90	LGALS3BP	LGALS3BP	lectin, galactoside-binding, soluble, 3 binding protein	3920	0.2531352639198303	0.3574726	No	
+row_91	ABCF1	ABCF1	ATP-binding cassette, sub-family F (GCN20), member 1	4081	0.22159947454929352	0.3439649	No	
+row_92	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	4155	0.20973838865756989	0.33833936	No	
+row_93	TLR3	TLR3	toll-like receptor 3	4296	0.1843736618757248	0.32647297	No	
+row_94	CRP	CRP	C-reactive protein, pentraxin-related	4358	0.1748657375574112	0.32177022	No	
+row_95	CD81	CD81	CD81 molecule	4515	0.1528470516204834	0.30828753	No	
+row_96	TNFAIP6	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	4776	0.10999749600887299	0.28510034	No	
+row_97	BCL10	BCL10	B-cell CLL/lymphoma 10	4799	0.10606974363327026	0.283617	No	
+row_98	IL17RB	IL17RB	interleukin 17 receptor B	4800	0.1059245616197586	0.28414094	No	
+row_99	RSAD2	RSAD2	radical S-adenosyl methionine domain containing 2	4829	0.10060690343379974	0.28208292	No	
+row_100	CDO1	CDO1	cysteine dioxygenase, type I	4986	0.07662029564380646	0.26822317	No	
+row_101	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	0.25857097	No	
+row_102	CCR2	CCR2	chemokine (C-C motif) receptor 2	5261	0.03786427155137062	0.2437893	No	
+row_103	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	5279	0.03537854179739952	0.24241264	No	
+row_104	SFTPD	SFTPD	surfactant, pulmonary-associated protein D	5379	0.020177271217107773	0.23347631	No	
+row_105	XCR1	XCR1	chemokine (C motif) receptor 1	5509	2.5554632884450257E-4	0.2217032	No	
+row_106	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	5536	-0.0037344959564507008	0.21934855	No	
+row_107	MLF2	MLF2	myeloid leukemia factor 2	5554	-0.00642794743180275	0.21782868	No	
+row_108	LY75	LY75	lymphocyte antigen 75	5597	-0.012809429317712784	0.21405853	No	
+row_109	IRAK2	IRAK2	interleukin-1 receptor-associated kinase 2	5613	-0.014874627813696861	0.212763	No	
+row_110	KCNN4	KCNN4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	5653	-0.02033550664782524	0.20930389	No	
+row_111	LY96	LY96	lymphocyte antigen 96	5860	-0.05142022296786308	0.19075575	No	
+row_112	ORM1	ORM1	orosomucoid 1	6015	-0.07174447923898697	0.17705442	No	
+row_113	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	6049	-0.07631111145019531	0.17441985	No	
+row_114	UMOD	UMOD	uromodulin (uromucoid, Tamm-Horsfall glycoprotein)	6112	-0.07875943183898926	0.16915044	No	
+row_115	ADORA3	ADORA3	adenosine A3 receptor	6115	-0.07875943183898926	0.16935748	No	
+row_116	PTX3	PTX3	pentraxin-related gene, rapidly induced by IL-1 beta	6157	-0.07875943183898926	0.16600482	No	
+row_117	ADORA2B	ADORA2B	adenosine A2b receptor	6187	-0.07875943183898926	0.16374746	No	
+row_118	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	6194	-0.07875943183898926	0.1635894	No	
+row_119	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	6210	-0.07875943183898926	0.16260988	No	
+row_120	CCL11	CCL11	chemokine (C-C motif) ligand 11	6218	-0.07875943183898926	0.16236053	No	
+row_121	SCG2	SCG2	secretogranin II (chromogranin C)	6224	-0.07875943183898926	0.16229375	No	
+row_122	IFNK	IFNK	interferon, kappa	6227	-0.07875943183898926	0.1625008	No	
+row_123	IL17C	IL17C	interleukin 17C	6242	-0.07875951379537582	0.16161254	No	
+row_124	KLRC2	KLRC2	killer cell lectin-like receptor subfamily C, member 2	6247	-0.07875960320234299	0.16163704	No	
+row_125	STAB1	STAB1	stabilin 1	6388	-0.09555840492248535	0.14933133	No	
+row_126	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	6476	-0.10829923301935196	0.14192618	No	
+row_127	TIAL1	TIAL1	TIA1 cytotoxic granule-associated RNA binding protein-like 1	6729	-0.14469943940639496	0.11964085	No	
+row_128	LYST	LYST	lysosomal trafficking regulator	6743	-0.14736029505729675	0.119183205	No	
+row_129	IL1A	IL1A	interleukin 1, alpha	6945	-0.1805589348077774	0.101730235	No	
+row_130	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	0.09465123	No	
+row_131	MEFV	MEFV	Mediterranean fever	7063	-0.19549500942230225	0.09306257	No	
+row_132	ADORA1	ADORA1	adenosine A1 receptor	7069	-0.19616758823394775	0.09357655	No	
+row_133	PTAFR	PTAFR	platelet-activating factor receptor	7111	-0.20511500537395477	0.09084892	No	
+row_134	LBP	LBP	lipopolysaccharide binding protein	7148	-0.20986095070838928	0.088601135	No	
+row_135	NFE2L1	NFE2L1	nuclear factor (erythroid-derived 2)-like 1	7253	-0.22531044483184814	0.08022313	No	
+row_136	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	7274	-0.23086398839950562	0.07953962	No	
+row_137	HDAC4	HDAC4	histone deacetylase 4	7465	-0.26223957538604736	0.063494705	No	
+row_138	NMI	NMI	N-myc (and STAT) interactor	7486	-0.26571035385131836	0.062983565	No	
+row_139	EREG	EREG	epiregulin	7499	-0.26858144998550415	0.06321683	No	
+row_140	COLEC12	COLEC12	collectin sub-family member 12	7824	-0.32281747460365295	0.035240818	No	
+row_141	ITK	ITK	IL2-inducible T-cell kinase	8059	-0.3634185492992401	0.015680324	No	
+row_142	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	8229	-0.39670419692993164	0.0022172993	No	
+row_143	BLNK	BLNK	B-cell linker	8286	-0.40737849473953247	-8.789409E-4	No	
+row_144	NFX1	NFX1	nuclear transcription factor, X-box binding 1	8512	-0.4536329209804535	-0.01917172	No	
+row_145	KNG1	KNG1	kininogen 1	8703	-0.5053521394729614	-0.034014072	No	
+row_146	TCIRG1	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	8744	-0.5155587792396545	-0.035114806	No	
+row_147	BECN1	BECN1	beclin 1 (coiled-coil, myosin-like BCL2 interacting protein)	8856	-0.5431616306304932	-0.04255947	No	
+row_148	SOCS6	SOCS6	suppressor of cytokine signaling 6	8915	-0.554400622844696	-0.045111008	No	
+row_149	CFHR1	CFHR1	complement factor H-related 1	9197	-0.6281607151031494	-0.06765183	No	
+row_150	NFRKB	NFRKB	nuclear factor related to kappaB binding protein	9225	-0.6385511755943298	-0.066957615	No	
+row_151	NOX4	NOX4	NADPH oxidase 4	9280	-0.6546178460121155	-0.06864833	No	
+row_152	CCR1	CCR1	chemokine (C-C motif) receptor 1	9577	-0.776138424873352	-0.09182629	No	
+row_153	HDAC5	HDAC5	histone deacetylase 5	9632	-0.8011376261711121	-0.092792235	No	
+row_154	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	9714	-0.8516136407852173	-0.0959729	No	
+row_155	PARP4	PARP4	poly (ADP-ribose) polymerase family, member 4	9809	-0.9070916771888733	-0.10006571	No	
+row_156	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	9836	-0.9220289587974548	-0.09787799	No	
+row_157	MX1	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	9992	-1.0188395977020264	-0.106985755	No	
+row_158	TARBP2	TARBP2	Tar (HIV-1) RNA binding protein 2	10023	-1.0473817586898804	-0.10454306	No	
+row_159	CD83	CD83	CD83 molecule	10067	-1.0804651975631714	-0.103123285	No	
+row_160	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	10100	-1.10260808467865	-0.10058997	No	
+row_161	INHBB	INHBB	inhibin, beta B (activin AB beta polypeptide)	10173	-1.1774559020996094	-0.10133737	No	
+row_162	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	10195	-1.2047593593597412	-0.09729474	No	
+row_163	MST1R	MST1R	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)	10204	-1.2127435207366943	-0.09202605	No	
+row_164	GPR68	GPR68	G protein-coupled receptor 68	10212	-1.2205194234848022	-0.08662762	No	
+row_165	ANXA1	ANXA1	annexin A1	10317	-1.3628318309783936	-0.089378834	No	
+row_166	IL1RL2	IL1RL2	interleukin 1 receptor-like 2	10363	-1.4551427364349365	-0.08628825	No	
+row_167	ORM2	ORM2	orosomucoid 2	10403	-1.5505266189575195	-0.0821782	No	
+row_168	AOX1	AOX1	aldehyde oxidase 1	10438	-1.6138020753860474	-0.07729878	No	
+row_169	CCR9	CCR9	chemokine (C-C motif) receptor 9	10566	-2.1126296520233154	-0.0784404	No	
+row_170	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	10581	-2.188220262527466	-0.06889411	No	
+row_171	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	10780	-3.2519092559814453	-0.0708807	No	
+row_172	LALBA	LALBA	lactalbumin, alpha-	10789	-3.2519092559814453	-0.055525195	No	
+row_173	CCL4	CCL4	chemokine (C-C motif) ligand 4	10794	-3.2519092559814453	-0.03980459	No	
+row_174	GATA3	GATA3	GATA binding protein 3	10808	-3.2545166015625	-0.024892557	No	
+row_175	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	-0.01799089	No	
+row_176	DMBT1	DMBT1	deleted in malignant brain tumors 1	11131	-7.6227312088012695	9.1309674E-5	No	

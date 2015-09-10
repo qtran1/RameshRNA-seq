@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRPS1	TRPS1	trichorhinophalangeal syndrome I	1064	1.1764723062515259	-0.048081636	No	
+row_1	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	1178	1.0669928789138794	-0.014850273	No	
+row_2	PTHLH	PTHLH	parathyroid hormone-like hormone	2873	0.4618370831012726	-0.14883304	No	
+row_3	WDR44	WDR44	WD repeat domain 44	3211	0.39059561491012573	-0.1633305	No	
+row_4	NFASC	NFASC	neurofascin homolog (chicken)	3247	0.38178104162216187	-0.15095001	No	
+row_5	ARF4	ARF4	ADP-ribosylation factor 4	3520	0.3298594057559967	-0.16205701	No	
+row_6	ARPC5	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	3619	0.3079919219017029	-0.1583613	No	
+row_7	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3855	0.2645631432533264	-0.16878867	No	
+row_8	TBC1D14	TBC1D14	TBC1 domain family, member 14	3957	0.243462935090065	-0.1679896	No	
+row_9	CLOCK	CLOCK	clock homolog (mouse)	4502	0.15446986258029938	-0.2107653	No	
+row_10	MYO5A	MYO5A	myosin VA (heavy chain 12, myoxin)	4861	0.09456630796194077	-0.23920397	No	
+row_11	ACTR3	ACTR3	ARP3 actin-related protein 3 homolog (yeast)	4946	0.08197851479053497	-0.24344352	No	
+row_12	DAG1	DAG1	dystroglycan 1 (dystrophin-associated glycoprotein 1)	5975	-0.06509784609079361	-0.33350712	No	
+row_13	NAV3	NAV3	neuron navigator 3	6197	-0.07875943183898926	-0.35023338	No	
+row_14	CHD7	CHD7	chromodomain helicase DNA binding protein 7	6346	-0.0904497355222702	-0.35990018	No	
+row_15	SMC6	SMC6	structural maintenance of chromosomes 6	6495	-0.11062909662723541	-0.36874574	No	
+row_16	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	6605	-0.126242533326149	-0.3734386	No	
+row_17	TCF4	TCF4	transcription factor 4	7408	-0.2539084553718567	-0.43543595	No	
+row_18	OTUD4	OTUD4	OTU domain containing 4	7712	-0.30187487602233887	-0.45047763	Yes	
+row_19	RPS6KA3	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	7803	-0.319113552570343	-0.44560778	Yes	
+row_20	YTHDF3	YTHDF3	YTH domain family, member 3	7952	-0.34294393658638	-0.44499904	Yes	
+row_21	WDFY3	WDFY3	WD repeat and FYVE domain containing 3	7985	-0.34845855832099915	-0.4337041	Yes	
+row_22	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	8022	-0.3556237518787384	-0.42247832	Yes	
+row_23	TSHZ1	TSHZ1	teashirt family zinc finger 1	8032	-0.35833752155303955	-0.40870702	Yes	
+row_24	GPHN	GPHN	gephyrin	8287	-0.40743228793144226	-0.41503373	Yes	
+row_25	HIATL1	HIATL1	hippocampus abundant transcript-like 1	8522	-0.4561386704444885	-0.4175745	Yes	
+row_26	STK24	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	8666	-0.49633345007896423	-0.41027245	Yes	
+row_27	SYNJ1	SYNJ1	synaptojanin 1	8704	-0.5054468512535095	-0.3930396	Yes	
+row_28	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.38703287	Yes	
+row_29	HECA	HECA	headcase homolog (Drosophila)	8953	-0.562908411026001	-0.370077	Yes	
+row_30	TRIM36	TRIM36	tripartite motif-containing 36	8961	-0.5640795826911926	-0.34775242	Yes	
+row_31	PHF20L1	PHF20L1	PHD finger protein 20-like 1	9015	-0.5797373652458191	-0.32893926	Yes	
+row_32	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	9349	-0.6808347105979919	-0.33126432	Yes	
+row_33	HERC4	HERC4	hect domain and RLD 4	9467	-0.7236496806144714	-0.3123665	Yes	
+row_34	EPC2	EPC2	enhancer of polycomb homolog 2 (Drosophila)	9484	-0.7313230633735657	-0.2840474	Yes	
+row_35	HGF	HGF	hepatocyte growth factor (hepapoietin A; scatter factor)	9539	-0.7571125030517578	-0.25810593	Yes	
+row_36	STK35	STK35	serine/threonine kinase 35	9598	-0.7863749861717224	-0.23133433	Yes	
+row_37	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	9764	-0.880168080329895	-0.21039578	Yes	
+row_38	PAPOLG	PAPOLG	poly(A) polymerase gamma	9814	-0.9088956117630005	-0.17782637	Yes	
+row_39	FOXP2	FOXP2	forkhead box P2	9829	-0.9150224328041077	-0.14185105	Yes	
+row_40	PAX6	PAX6	paired box gene 6 (aniridia, keratitis)	9872	-0.9454447031021118	-0.10716292	Yes	
+row_41	RBAK	RBAK	RB-associated KRAB zinc finger	10150	-1.1533122062683105	-0.08520945	Yes	
+row_42	WSB1	WSB1	WD repeat and SOCS box-containing 1	10183	-1.1905896663665771	-0.039642975	Yes	
+row_43	PCDH9	PCDH9	protocadherin 9	10256	-1.2770024538040161	0.005832676	Yes	
+row_44	STC1	STC1	stanniocalcin 1	10489	-1.7957834005355835	0.057990722	Yes	

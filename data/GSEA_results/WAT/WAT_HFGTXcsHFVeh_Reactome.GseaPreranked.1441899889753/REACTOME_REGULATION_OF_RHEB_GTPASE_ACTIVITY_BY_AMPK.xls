@@ -1,0 +1,11 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKAB1	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	1933	0.7169719338417053	-0.100058295	No	
+row_1	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4168	0.20622436702251434	-0.27969748	No	
+row_2	PRKAB2	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	5657	-0.020816173404455185	-0.41133383	No	
+row_3	TSC2	TSC2	tuberous sclerosis 2	5828	-0.04699774459004402	-0.42178473	No	
+row_4	RHEB	RHEB	Ras homolog enriched in brain	7019	-0.19102679193019867	-0.5091271	No	
+row_5	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	7046	-0.1937606930732727	-0.4915403	No	
+row_6	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	8532	-0.45834028720855713	-0.5779166	Yes	
+row_7	TSC1	TSC1	tuberous sclerosis 1	9234	-0.6406446695327759	-0.5750621	Yes	
+row_8	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	9369	-0.6874133348464966	-0.516423	Yes	
+row_9	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	11127	-6.562653064727783	4.4941163E-4	Yes	

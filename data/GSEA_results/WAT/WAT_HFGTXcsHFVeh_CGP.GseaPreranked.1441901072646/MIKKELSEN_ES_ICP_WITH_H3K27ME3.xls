@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SFTPC	SFTPC	surfactant, pulmonary-associated protein C	329	3.1459782123565674	0.031363294	No	
+row_1	PARVG	PARVG	parvin, gamma	485	2.3533196449279785	0.063025355	No	
+row_2	OPTC	OPTC	opticin	789	1.519129991531372	0.06519567	No	
+row_3	NKX2-6	NKX2-6	NK2 transcription factor related, locus 6 (Drosophila)	1408	0.9352346658706665	0.027692886	No	
+row_4	TLR9	TLR9	toll-like receptor 9	1935	0.7160693407058716	-0.005776441	No	
+row_5	CALCB	CALCB	calcitonin-related polypeptide, beta	6144	-0.07875943183898926	-0.3830418	No	
+row_6	DUSP8	DUSP8	dual specificity phosphatase 8	6758	-0.1489894986152649	-0.43533438	No	
+row_7	CYP8B1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	8463	-0.44177544116973877	-0.58016056	No	
+row_8	POU6F1	POU6F1	POU domain, class 6, transcription factor 1	8505	-0.4522651135921478	-0.5750849	No	
+row_9	ADCY6	ADCY6	adenylate cyclase 6	9528	-0.7510226368904114	-0.65252525	No	
+row_10	COL24A1	COL24A1	collagen, type XXIV, alpha 1	9736	-0.8653042316436768	-0.65438646	Yes	
+row_11	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	9795	-0.8974812030792236	-0.64221144	Yes	
+row_12	LRRTM3	LRRTM3	leucine rich repeat transmembrane neuronal 3	9943	-0.9919670224189758	-0.6362165	Yes	
+row_13	KCNJ9	KCNJ9	potassium inwardly-rectifying channel, subfamily J, member 9	10458	-1.6703126430511475	-0.6501094	Yes	
+row_14	CHST1	CHST1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1	10557	-2.04543137550354	-0.6192842	Yes	
+row_15	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.578992	Yes	
+row_16	PLEKHG4	PLEKHG4	pleckstrin homology domain containing, family G (with RhoGef domain) member 4	10594	-2.3169212341308594	-0.53543305	Yes	
+row_17	LEP	LEP	leptin (obesity homolog, mouse)	10847	-3.351161479949951	-0.49316135	Yes	
+row_18	PDE6B	PDE6B	phosphodiesterase 6B, cGMP-specific, rod, beta (congenital stationary night blindness 3, autosomal dominant)	10872	-3.3511762619018555	-0.43036547	Yes	
+row_19	PCDHB6	PCDHB6	protocadherin beta 6	10880	-3.3511762619018555	-0.36603928	Yes	
+row_20	CNN1	CNN1	calponin 1, basic, smooth muscle	10919	-3.432582378387451	-0.30292574	Yes	
+row_21	RTBDN	RTBDN	retbindin	11072	-5.258058547973633	-0.21469067	Yes	
+row_22	HPCA	HPCA	hippocalcin	11080	-5.30571985244751	-0.112479314	Yes	
+row_23	FXYD7	FXYD7	FXYD domain containing ion transport regulator 7	11120	-6.039796352386475	0.0010802051	Yes	

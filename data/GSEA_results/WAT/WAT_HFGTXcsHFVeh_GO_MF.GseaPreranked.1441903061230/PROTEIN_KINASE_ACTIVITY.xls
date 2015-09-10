@@ -1,0 +1,259 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EFNB3	EFNB3	ephrin-B3	121	4.735405445098877	0.013316774	No	
+row_1	ROR2	ROR2	receptor tyrosine kinase-like orphan receptor 2	127	4.548941135406494	0.036337722	No	
+row_2	TSSK2	TSSK2	testis-specific serine kinase 2	190	4.1493611335754395	0.05205474	No	
+row_3	EFNA4	EFNA4	ephrin-A4	491	2.299194097518921	0.03633651	No	
+row_4	CIT	CIT	citron (rho-interacting, serine/threonine kinase 21)	700	1.6419051885604858	0.025685258	No	
+row_5	TXK	TXK	TXK tyrosine kinase	709	1.6211144924163818	0.03331749	No	
+row_6	IGF1R	IGF1R	insulin-like growth factor 1 receptor	779	1.5304582118988037	0.034872584	No	
+row_7	RPS6KA2	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2	837	1.4450606107711792	0.037090316	No	
+row_8	CSF1R	CSF1R	colony stimulating factor 1 receptor, formerly McDonough feline sarcoma viral (v-fms) oncogene homolog	844	1.4367109537124634	0.043954603	No	
+row_9	AXL	AXL	AXL receptor tyrosine kinase	871	1.3999637365341187	0.04879013	No	
+row_10	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	926	1.3299559354782104	0.050689578	No	
+row_11	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6	1135	1.1001324653625488	0.037241805	No	
+row_12	STK10	STK10	serine/threonine kinase 10	1155	1.085654854774475	0.04109861	No	
+row_13	NRP2	NRP2	neuropilin 2	1216	1.0387669801712036	0.040943272	No	
+row_14	IRAK3	IRAK3	interleukin-1 receptor-associated kinase 3	1304	0.9936927556991577	0.038072515	No	
+row_15	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	1363	0.9604483842849731	0.037696823	No	
+row_16	PRKX	PRKX	protein kinase, X-linked	1409	0.9351658821105957	0.038386032	No	
+row_17	KDR	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)	1428	0.9263536930084229	0.04151251	No	
+row_18	PDGFRL	PDGFRL	platelet-derived growth factor receptor-like	1548	0.8664788007736206	0.03504257	No	
+row_19	KIT	KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	1558	0.8633239269256592	0.03867129	No	
+row_20	MAST1	MAST1	microtubule associated serine/threonine kinase 1	1649	0.8271504044532776	0.03466501	No	
+row_21	PDGFRB	PDGFRB	platelet-derived growth factor receptor, beta polypeptide	1702	0.8015446066856384	0.03402081	No	
+row_22	TYRO3	TYRO3	TYRO3 protein tyrosine kinase	1732	0.7910200953483582	0.035437234	No	
+row_23	DMPK	DMPK	dystrophia myotonica-protein kinase	1734	0.7905554175376892	0.03942597	No	
+row_24	PDK3	PDK3	pyruvate dehydrogenase kinase, isozyme 3	1800	0.7649831771850586	0.037397645	No	
+row_25	MARK1	MARK1	MAP/microtubule affinity-regulating kinase 1	1818	0.7596416473388672	0.039755546	No	
+row_26	TRIM27	TRIM27	tripartite motif-containing 27	1981	0.6997268199920654	0.028470842	No	
+row_27	WNK4	WNK4	WNK lysine deficient protein kinase 4	1996	0.6943444013595581	0.03076755	No	
+row_28	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	2139	0.6489163041114807	0.021059655	No	
+row_29	MAPKAPK3	MAPKAPK3	mitogen-activated protein kinase-activated protein kinase 3	2149	0.644672691822052	0.02355974	No	
+row_30	ACVRL1	ACVRL1	activin A receptor type II-like 1	2168	0.638751208782196	0.025201673	No	
+row_31	DDR2	DDR2	discoidin domain receptor family, member 2	2220	0.6227940320968628	0.023726754	No	
+row_32	MAPK7	MAPK7	mitogen-activated protein kinase 7	2287	0.6048154234886169	0.020779725	No	
+row_33	CDK10	CDK10	cyclin-dependent kinase (CDC2-like) 10	2362	0.5877180695533752	0.01700881	No	
+row_34	HUNK	HUNK	hormonally upregulated Neu-associated kinase	2544	0.5419653058052063	0.0031626464	No	
+row_35	MAP4K1	MAP4K1	mitogen-activated protein kinase kinase kinase kinase 1	2626	0.5208764672279358	-0.0015969701	No	
+row_36	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	2828	0.4717022180557251	-0.017644897	No	
+row_37	TEK	TEK	TEK tyrosine kinase, endothelial (venous malformations, multiple cutaneous and mucosal)	2893	0.45493918657302856	-0.02118165	No	
+row_38	TAOK3	TAOK3	TAO kinase 3	2905	0.45211565494537354	-0.019859415	No	
+row_39	BCKDK	BCKDK	branched chain ketoacid dehydrogenase kinase	3009	0.4315142333507538	-0.02710329	No	
+row_40	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	3068	0.41908133029937744	-0.03027341	No	
+row_41	PTK7	PTK7	PTK7 protein tyrosine kinase 7	3129	0.40610936284065247	-0.033694398	No	
+row_42	TNIK	TNIK	TRAF2 and NCK interacting kinase	3152	0.40088120102882385	-0.03364812	No	
+row_43	FLT1	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	3170	0.3976309895515442	-0.033158842	No	
+row_44	STK3	STK3	serine/threonine kinase 3 (STE20 homolog, yeast)	3225	0.38769909739494324	-0.036123138	No	
+row_45	EPHB6	EPHB6	EPH receptor B6	3291	0.3721548914909363	-0.04017916	No	
+row_46	MAP3K8	MAP3K8	mitogen-activated protein kinase kinase kinase 8	3310	0.3693329989910126	-0.039927907	No	
+row_47	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	3329	0.36694809794425964	-0.03968897	No	
+row_48	IKBKE	IKBKE	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	3349	0.3645884394645691	-0.039554164	No	
+row_49	PTK6	PTK6	PTK6 protein tyrosine kinase 6	3355	0.3628033995628357	-0.038141217	No	
+row_50	RPS6KC1	RPS6KC1	ribosomal protein S6 kinase, 52kDa, polypeptide 1	3363	0.36124885082244873	-0.0369202	No	
+row_51	MAP3K10	MAP3K10	mitogen-activated protein kinase kinase kinase 10	3427	0.34719526767730713	-0.04092115	No	
+row_52	CSNK1E	CSNK1E	casein kinase 1, epsilon	3451	0.3423520028591156	-0.04126894	No	
+row_53	TIE1	TIE1	tyrosine kinase with immunoglobulin-like and EGF-like domains 1	3537	0.3264714181423187	-0.047399852	No	
+row_54	FLT4	FLT4	fms-related tyrosine kinase 4	3654	0.30176788568496704	-0.056508854	No	
+row_55	SNRK	SNRK	SNF related kinase	3655	0.301631897687912	-0.05495189	No	
+row_56	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1	3666	0.2999592423439026	-0.054323103	No	
+row_57	STK38L	STK38L	serine/threonine kinase 38 like	3718	0.28996241092681885	-0.05751603	No	
+row_58	PINK1	PINK1	PTEN induced putative kinase 1	3745	0.2841901481151581	-0.058439903	No	
+row_59	PIM2	PIM2	pim-2 oncogene	3748	0.28363582491874695	-0.05715974	No	
+row_60	CAMKK2	CAMKK2	calcium/calmodulin-dependent protein kinase kinase 2, beta	3788	0.27720803022384644	-0.059315056	No	
+row_61	CSNK1G2	CSNK1G2	casein kinase 1, gamma 2	3797	0.2745407223701477	-0.058633562	No	
+row_62	STK16	STK16	serine/threonine kinase 16	3862	0.26379022002220154	-0.06315699	No	
+row_63	MAP3K12	MAP3K12	mitogen-activated protein kinase kinase kinase 12	3880	0.26059168577194214	-0.063375086	No	
+row_64	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	3889	0.2582208812236786	-0.06277783	No	
+row_65	MAPKAPK2	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2	3916	0.2539771795272827	-0.06385766	No	
+row_66	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	-0.06301791	No	
+row_67	CCL2	CCL2	chemokine (C-C motif) ligand 2	3956	0.24348056316375732	-0.0647956	No	
+row_68	RYK	RYK	RYK receptor-like tyrosine kinase	3990	0.23900365829467773	-0.06659639	No	
+row_69	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	4012	0.23401828110218048	-0.06731947	No	
+row_70	LIMK2	LIMK2	LIM domain kinase 2	4082	0.2215595245361328	-0.07252065	No	
+row_71	STK38	STK38	serine/threonine kinase 38	4157	0.2091614007949829	-0.0782456	No	
+row_72	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4168	0.20622436702251434	-0.07810065	No	
+row_73	XRCC6BP1	XRCC6BP1	XRCC6 binding protein 1	4181	0.20412668585777283	-0.07815044	No	
+row_74	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	4250	0.1920335292816162	-0.08341207	No	
+row_75	TRIB2	TRIB2	tribbles homolog 2 (Drosophila)	4264	0.18977069854736328	-0.08362792	No	
+row_76	STK11	STK11	serine/threonine kinase 11	4326	0.179295614361763	-0.08831163	No	
+row_77	TLK2	TLK2	tousled-like kinase 2	4382	0.17133143544197083	-0.09248472	No	
+row_78	SGK2	SGK2	serum/glucocorticoid regulated kinase 2	4385	0.17079582810401917	-0.09178701	No	
+row_79	PTK2B	PTK2B	PTK2B protein tyrosine kinase 2 beta	4387	0.1706378161907196	-0.090998165	No	
+row_80	CDK2	CDK2	cyclin-dependent kinase 2	4491	0.15615975856781006	-0.09966337	No	
+row_81	DAPK2	DAPK2	death-associated protein kinase 2	4552	0.14569152891635895	-0.10442858	No	
+row_82	DDR1	DDR1	discoidin domain receptor family, member 1	4585	0.13867579400539398	-0.10665529	No	
+row_83	ACVR1	ACVR1	activin A receptor, type I	4612	0.13440200686454773	-0.10835234	No	
+row_84	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	4633	0.13202670216560364	-0.10950992	No	
+row_85	TNK2	TNK2	tyrosine kinase, non-receptor, 2	4699	0.12193672358989716	-0.114857525	No	
+row_86	FGFR4	FGFR4	fibroblast growth factor receptor 4	4730	0.116568922996521	-0.11701444	No	
+row_87	MERTK	MERTK	c-mer proto-oncogene tyrosine kinase	4732	0.11623610556125641	-0.116506405	No	
+row_88	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	4783	0.10897421091794968	-0.1205416	No	
+row_89	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	-0.12072501	No	
+row_90	CDK7	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	4795	0.10676722228527069	-0.12035781	No	
+row_91	STK17B	STK17B	serine/threonine kinase 17b (apoptosis-inducing)	4830	0.10057060420513153	-0.12296512	No	
+row_92	EIF2AK2	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	4838	0.09860587120056152	-0.12309981	No	
+row_93	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	-0.12992322	No	
+row_94	CSNK1D	CSNK1D	casein kinase 1, delta	4992	0.07593372464179993	-0.13624392	No	
+row_95	ACVR1B	ACVR1B	activin A receptor, type IB	5061	0.06553377211093903	-0.14215852	No	
+row_96	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.14608812	No	
+row_97	CSNK2B	CSNK2B	casein kinase 2, beta polypeptide	5126	0.05570928007364273	-0.14736378	No	
+row_98	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	5159	0.05186564475297928	-0.15003859	No	
+row_99	EIF2AK1	EIF2AK1	eukaryotic translation initiation factor 2-alpha kinase 1	5283	0.03445301949977875	-0.1611711	No	
+row_100	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3	5290	0.03326675668358803	-0.1615511	No	
+row_101	BCR	BCR	breakpoint cluster region	5359	0.022885898128151894	-0.16768585	No	
+row_102	LMTK2	LMTK2	lemur tyrosine kinase 2	5385	0.019657034426927567	-0.16988324	No	
+row_103	PRKCI	PRKCI	protein kinase C, iota	5405	0.01534981094300747	-0.17155112	No	
+row_104	OXSR1	OXSR1	oxidative-stress responsive 1	5407	0.01507658138871193	-0.17156526	No	
+row_105	COL4A3BP	COL4A3BP	collagen, type IV, alpha 3 (Goodpasture antigen) binding protein	5519	-0.00130508653819561	-0.18176542	No	
+row_106	SGK3	SGK3	serum/glucocorticoid regulated kinase family, member 3	5520	-0.0016506551764905453	-0.1817569	No	
+row_107	MARK2	MARK2	MAP/microtubule affinity-regulating kinase 2	5535	-0.0037282269913703203	-0.183025	No	
+row_108	GAK	GAK	cyclin G associated kinase	5612	-0.014564073644578457	-0.18993834	No	
+row_109	IRAK2	IRAK2	interleukin-1 receptor-associated kinase 2	5613	-0.014874627813696861	-0.18986157	No	
+row_110	PRKCZ	PRKCZ	protein kinase C, zeta	5616	-0.015496592037379742	-0.18996547	No	
+row_111	CDK5	CDK5	cyclin-dependent kinase 5	5695	-0.025349527597427368	-0.19700705	No	
+row_112	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	5703	-0.026947231963276863	-0.19751163	No	
+row_113	MAP3K3	MAP3K3	mitogen-activated protein kinase kinase kinase 3	5761	-0.03602523356676102	-0.20256704	No	
+row_114	PDK1	PDK1	pyruvate dehydrogenase kinase, isozyme 1	5815	-0.044471096247434616	-0.20721106	No	
+row_115	WNK1	WNK1	WNK lysine deficient protein kinase 1	5947	-0.06086825579404831	-0.21894285	No	
+row_116	DAPK3	DAPK3	death-associated protein kinase 3	5972	-0.06477772444486618	-0.22081538	No	
+row_117	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	5988	-0.06779942661523819	-0.22184472	No	
+row_118	CSNK2A2	CSNK2A2	casein kinase 2, alpha prime polypeptide	6022	-0.07289224863052368	-0.22450295	No	
+row_119	PRKD1	PRKD1	protein kinase D1	6059	-0.07712823897600174	-0.22741517	No	
+row_120	PLK4	PLK4	polo-like kinase 4 (Drosophila)	6081	-0.07875943183898926	-0.22893967	No	
+row_121	ACVR1C	ACVR1C	activin A receptor, type IC	6103	-0.07875943183898926	-0.23046416	No	
+row_122	NEK11	NEK11	NIMA (never in mitosis gene a)- related kinase 11	6249	-0.07875961065292358	-0.24339095	No	
+row_123	SRPK1	SRPK1	SFRS protein kinase 1	6303	-0.08454007655382156	-0.24782814	No	
+row_124	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	-0.25250337	No	
+row_125	MAP3K13	MAP3K13	mitogen-activated protein kinase kinase kinase 13	6368	-0.09286551177501678	-0.2526677	No	
+row_126	NUAK2	NUAK2	NUAK family, SNF1-like kinase, 2	6400	-0.09786569327116013	-0.2550131	No	
+row_127	LIMK1	LIMK1	LIM domain kinase 1	6410	-0.0991540476679802	-0.25532886	No	
+row_128	TAOK2	TAOK2	TAO kinase 2	6418	-0.09996667504310608	-0.25545654	No	
+row_129	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6504	-0.11190237104892731	-0.262695	No	
+row_130	PXK	PXK	PX domain containing serine/threonine kinase	6564	-0.11989143490791321	-0.26750144	No	
+row_131	GTF2H1	GTF2H1	general transcription factor IIH, polypeptide 1, 62kDa	6565	-0.12018229812383652	-0.26688108	No	
+row_132	TYK2	TYK2	tyrosine kinase 2	6598	-0.1258280873298645	-0.26917413	No	
+row_133	MAP3K4	MAP3K4	mitogen-activated protein kinase kinase kinase 4	6651	-0.13255172967910767	-0.27327153	No	
+row_134	CDC42BPA	CDC42BPA	CDC42 binding protein kinase alpha (DMPK-like)	6674	-0.1363932341337204	-0.27459046	No	
+row_135	STK4	STK4	serine/threonine kinase 4	6702	-0.1405854970216751	-0.27634755	No	
+row_136	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	-0.28172484	No	
+row_137	PDK4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	6811	-0.15830674767494202	-0.28458586	No	
+row_138	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	6988	-0.1868259608745575	-0.2998054	No	
+row_139	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	7062	-0.19535212218761444	-0.3055097	No	
+row_140	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	7086	-0.19889120757579803	-0.30659798	No	
+row_141	DYRK2	DYRK2	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 2	7169	-0.21257233619689941	-0.31304097	No	
+row_142	PRKCE	PRKCE	protein kinase C, epsilon	7220	-0.22050529718399048	-0.31650046	No	
+row_143	TGFA	TGFA	transforming growth factor, alpha	7254	-0.22541852295398712	-0.3183714	No	
+row_144	TESK1	TESK1	testis-specific kinase 1	7287	-0.2325909584760666	-0.32011333	No	
+row_145	PRKD3	PRKD3	protein kinase D3	7313	-0.23773720860481262	-0.32118502	No	
+row_146	MAPK9	MAPK9	mitogen-activated protein kinase 9	7317	-0.23827174305915833	-0.32023096	No	
+row_147	BRD2	BRD2	bromodomain containing 2	7340	-0.24243773519992828	-0.32100254	No	
+row_148	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	7381	-0.24847066402435303	-0.32339814	No	
+row_149	PRKCH	PRKCH	protein kinase C, eta	7392	-0.2500534951686859	-0.32302696	No	
+row_150	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	-0.32336932	No	
+row_151	ERN1	ERN1	endoplasmic reticulum to nucleus signalling 1	7414	-0.25466543436050415	-0.3222387	No	
+row_152	ULK1	ULK1	unc-51-like kinase 1 (C. elegans)	7417	-0.2551886737346649	-0.3211054	No	
+row_153	MKNK1	MKNK1	MAP kinase interacting serine/threonine kinase 1	7448	-0.26010456681251526	-0.3225214	No	
+row_154	CPNE3	CPNE3	copine III	7514	-0.27059435844421387	-0.32710165	No	
+row_155	INSR	INSR	insulin receptor	7567	-0.2801320552825928	-0.33043727	No	
+row_156	UHMK1	UHMK1	U2AF homology motif (UHM) kinase 1	7576	-0.28154709935188293	-0.32971963	No	
+row_157	PHKA2	PHKA2	phosphorylase kinase, alpha 2 (liver)	7593	-0.28469786047935486	-0.32972133	No	
+row_158	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	7615	-0.2884731590747833	-0.33016333	No	
+row_159	MAP4K5	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5	7733	-0.30434322357177734	-0.339351	No	
+row_160	FRK	FRK	fyn-related kinase	7770	-0.3128300905227661	-0.34104657	No	
+row_161	RPS6KA3	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	7803	-0.319113552570343	-0.3423419	No	
+row_162	EIF2AK3	EIF2AK3	eukaryotic translation initiation factor 2-alpha kinase 3	7861	-0.32788965106010437	-0.34589076	No	
+row_163	PHKA1	PHKA1	phosphorylase kinase, alpha 1 (muscle)	7889	-0.33227407932281494	-0.3466584	No	
+row_164	ZAK	ZAK	-	7902	-0.3339918553829193	-0.34603783	No	
+row_165	NRP1	NRP1	neuropilin 1	7947	-0.34233444929122925	-0.34831676	No	
+row_166	TSSK6	TSSK6	testis-specific serine kinase 6	7987	-0.3486510217189789	-0.35010332	No	
+row_167	RIPK4	RIPK4	receptor-interacting serine-threonine kinase 4	8031	-0.3579787313938141	-0.3522095	No	
+row_168	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	8049	-0.36131390929222107	-0.3519077	No	
+row_169	ITK	ITK	IL2-inducible T-cell kinase	8059	-0.3634185492992401	-0.3508594	No	
+row_170	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7	8071	-0.36539995670318604	-0.34998477	No	
+row_171	MAPK11	MAPK11	mitogen-activated protein kinase 11	8072	-0.36543917655944824	-0.34809846	No	
+row_172	MAP4K3	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3	8103	-0.37180209159851074	-0.3489379	No	
+row_173	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8198	-0.39090675115585327	-0.3555638	No	
+row_174	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	8229	-0.39670419692993164	-0.3562747	No	
+row_175	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	8248	-0.4003917872905731	-0.35586315	No	
+row_176	MKNK2	MKNK2	MAP kinase interacting serine/threonine kinase 2	8329	-0.4146149754524231	-0.3610793	No	
+row_177	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	8434	-0.4351596236228943	-0.3683963	No	
+row_178	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	8454	-0.4397171139717102	-0.3678737	No	
+row_179	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	8467	-0.4425870478153229	-0.3666926	No	
+row_180	STK19	STK19	serine/threonine kinase 19	8470	-0.44357818365097046	-0.36458686	No	
+row_181	MAP4K4	MAP4K4	mitogen-activated protein kinase kinase kinase kinase 4	8497	-0.4492674469947815	-0.36465862	No	
+row_182	TLK1	TLK1	tousled-like kinase 1	8601	-0.4767809808254242	-0.37166885	No	
+row_183	ACVR2B	ACVR2B	activin A receptor, type IIB	8662	-0.49525919556617737	-0.37462968	Yes	
+row_184	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	8683	-0.5010383129119873	-0.37388247	Yes	
+row_185	CDC42BPB	CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	8689	-0.5021884441375732	-0.37175006	Yes	
+row_186	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	8691	-0.5034489035606384	-0.36924332	Yes	
+row_187	MAP3K2	MAP3K2	mitogen-activated protein kinase kinase kinase 2	8713	-0.5076369047164917	-0.36855403	Yes	
+row_188	LATS2	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	8725	-0.5111660957336426	-0.366927	Yes	
+row_189	ACVR2A	ACVR2A	activin A receptor, type IIA	8757	-0.5177862048149109	-0.36710486	Yes	
+row_190	MAPK6	MAPK6	mitogen-activated protein kinase 6	8765	-0.520235002040863	-0.3650632	Yes	
+row_191	HIPK3	HIPK3	homeodomain interacting protein kinase 3	8810	-0.5305609107017517	-0.3663705	Yes	
+row_192	SRPK2	SRPK2	SFRS protein kinase 2	8821	-0.5323644280433655	-0.3645421	Yes	
+row_193	SMG1	SMG1	-	8838	-0.5373111963272095	-0.36323985	Yes	
+row_194	CDC42BPG	CDC42BPG	CDC42 binding protein kinase gamma (DMPK-like)	8839	-0.5384939908981323	-0.36046028	Yes	
+row_195	MAP3K9	MAP3K9	mitogen-activated protein kinase kinase kinase 9	8916	-0.554527997970581	-0.3645864	Yes	
+row_196	IGF2R	IGF2R	insulin-like growth factor 2 receptor	8952	-0.5628359913825989	-0.36489955	Yes	
+row_197	KALRN	KALRN	kalirin, RhoGEF kinase	8957	-0.5637156963348389	-0.3623576	Yes	
+row_198	PLK1	PLK1	polo-like kinase 1 (Drosophila)	8973	-0.5672106742858887	-0.36080906	Yes	
+row_199	TRIO	TRIO	triple functional domain (PTPRF interacting)	9042	-0.5866256952285767	-0.3640339	Yes	
+row_200	FLT3	FLT3	fms-related tyrosine kinase 3	9108	-0.6041225790977478	-0.36689255	Yes	
+row_201	TRIB1	TRIB1	tribbles homolog 1 (Drosophila)	9183	-0.6244703531265259	-0.37047377	Yes	
+row_202	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	9191	-0.62653648853302	-0.36788338	Yes	
+row_203	TESK2	TESK2	testis-specific kinase 2	9213	-0.6335130333900452	-0.36654434	Yes	
+row_204	CRIM1	CRIM1	cysteine rich transmembrane BMP regulator 1 (chordin-like)	9216	-0.6351560354232788	-0.36344972	Yes	
+row_205	MAPK12	MAPK12	mitogen-activated protein kinase 12	9218	-0.6361843347549438	-0.3602578	Yes	
+row_206	RIPK3	RIPK3	receptor-interacting serine-threonine kinase 3	9237	-0.641845703125	-0.3585999	Yes	
+row_207	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	9305	-0.6651787757873535	-0.3613273	Yes	
+row_208	EXOSC10	EXOSC10	exosome component 10	9314	-0.6668545007705688	-0.35862076	Yes	
+row_209	VRK1	VRK1	vaccinia related kinase 1	9347	-0.68028724193573	-0.35805178	Yes	
+row_210	VRK2	VRK2	vaccinia related kinase 2	9370	-0.6874628663063049	-0.35652623	Yes	
+row_211	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	9425	-0.7058374881744385	-0.35784835	Yes	
+row_212	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.35510293	Yes	
+row_213	NLK	NLK	nemo-like kinase	9440	-0.7121113538742065	-0.35170302	Yes	
+row_214	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	9462	-0.7223104238510132	-0.34990564	Yes	
+row_215	MINK1	MINK1	misshapen-like kinase 1 (zebrafish)	9525	-0.7498984336853027	-0.35173595	Yes	
+row_216	STK36	STK36	serine/threonine kinase 36 (fused homolog, Drosophila)	9601	-0.787912905216217	-0.35456547	Yes	
+row_217	MARK4	MARK4	MAP/microtubule affinity-regulating kinase 4	9669	-0.8206785321235657	-0.3564902	Yes	
+row_218	MAP4K2	MAP4K2	mitogen-activated protein kinase kinase kinase kinase 2	9785	-0.8940789699554443	-0.36244985	Yes	
+row_219	MAPKAPK5	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5	9860	-0.9376109838485718	-0.3644147	Yes	
+row_220	BRSK2	BRSK2	BR serine/threonine kinase 2	9913	-0.967863142490387	-0.36420038	Yes	
+row_221	ERBB3	ERBB3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	9939	-0.9886053204536438	-0.36139625	Yes	
+row_222	EIF2AK4	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	9964	-1.0011937618255615	-0.35843518	Yes	
+row_223	EFNA3	EFNA3	ephrin-A3	9966	-1.0031793117523193	-0.35334894	Yes	
+row_224	CLK2	CLK2	CDC-like kinase 2	9970	-1.0077612400054932	-0.34842294	Yes	
+row_225	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	9990	-1.0178461074829102	-0.34491614	Yes	
+row_226	MAP3K6	MAP3K6	mitogen-activated protein kinase kinase kinase 6	10077	-1.087965488433838	-0.34720835	Yes	
+row_227	PIM1	PIM1	pim-1 oncogene	10093	-1.09687340259552	-0.34292582	Yes	
+row_228	MAP3K5	MAP3K5	mitogen-activated protein kinase kinase kinase 5	10114	-1.125190258026123	-0.3389569	Yes	
+row_229	MAPK13	MAPK13	mitogen-activated protein kinase 13	10120	-1.1347190141677856	-0.33355945	Yes	
+row_230	CLK3	CLK3	CDC-like kinase 3	10134	-1.1415269374847412	-0.32886252	Yes	
+row_231	MST1R	MST1R	macrophage stimulating 1 receptor (c-met-related tyrosine kinase)	10204	-1.2127435207366943	-0.32894742	Yes	
+row_232	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	10322	-1.3691534996032715	-0.33263874	Yes	
+row_233	RPS6KA5	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5	10338	-1.4046822786331177	-0.32676736	Yes	
+row_234	NEK4	NEK4	NIMA (never in mitosis gene a)-related kinase 4	10342	-1.4130361080169678	-0.31974941	Yes	
+row_235	CLK1	CLK1	CDC-like kinase 1	10354	-1.4316518306732178	-0.313371	Yes	
+row_236	CDKL1	CDKL1	cyclin-dependent kinase-like 1 (CDC2-related kinase)	10362	-1.4461995363235474	-0.3065497	Yes	
+row_237	PHKG2	PHKG2	phosphorylase kinase, gamma 2 (testis)	10365	-1.459108591079712	-0.299202	Yes	
+row_238	MAPK4	MAPK4	mitogen-activated protein kinase 4	10404	-1.5508923530578613	-0.29469085	Yes	
+row_239	SKAP1	SKAP1	src kinase associated phosphoprotein 1	10426	-1.596708059310913	-0.28838	Yes	
+row_240	ROR1	ROR1	receptor tyrosine kinase-like orphan receptor 1	10488	-1.7820950746536255	-0.28479037	Yes	
+row_241	WNK2	WNK2	WNK lysine deficient protein kinase 2	10495	-1.8208987712860107	-0.27594298	Yes	
+row_242	BRDT	BRDT	bromodomain, testis-specific	10506	-1.854384422302246	-0.26729056	Yes	
+row_243	PLK3	PLK3	polo-like kinase 3 (Drosophila)	10525	-1.9254324436187744	-0.25900704	Yes	
+row_244	MAPK15	MAPK15	mitogen-activated protein kinase 15	10531	-1.9509578943252563	-0.24939635	Yes	
+row_245	ERBB4	ERBB4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	10638	-2.6968138217926025	-0.24522308	Yes	
+row_246	PBK	PBK	PDZ binding kinase	10743	-3.2518932819366455	-0.23800068	Yes	
+row_247	CCL4	CCL4	chemokine (C-C motif) ligand 4	10794	-3.2519092559814453	-0.22581267	Yes	
+row_248	EPHA5	EPHA5	EPH receptor A5	10846	-3.351161479949951	-0.21320431	Yes	
+row_249	ERN2	ERN2	endoplasmic reticulum to nucleus signalling 2	10892	-3.3511762619018555	-0.20004414	Yes	
+row_250	TSSK4	TSSK4	testis-specific serine kinase 4	10947	-4.178103923797607	-0.18344313	Yes	
+row_251	BRSK1	BRSK1	BR serine/threonine kinase 1	10957	-4.250924587249756	-0.16232829	Yes	
+row_252	TSSK3	TSSK3	testis-specific serine kinase 3	11043	-4.836026191711426	-0.14518179	Yes	
+row_253	TTN	TTN	titin	11097	-5.5734686851501465	-0.12128623	Yes	
+row_254	LTK	LTK	leukocyte tyrosine kinase	11107	-5.776814937591553	-0.09229506	Yes	
+row_255	EPHB2	EPHB2	EPH receptor B2	11111	-5.813397407531738	-0.06256333	Yes	
+row_256	ILK	ILK	integrin-linked kinase	11116	-5.896233558654785	-0.03249598	Yes	
+row_257	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	11127	-6.562653064727783	4.595787E-4	Yes	

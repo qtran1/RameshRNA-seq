@@ -1,0 +1,14 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HRH1	HRH1	histamine receptor H1	90	4.97520112991333	0.22846147	Yes	
+row_1	HTR2B	HTR2B	5-hydroxytryptamine (serotonin) receptor 2B	153	4.295779705047607	0.4271366	Yes	
+row_2	ADRB1	ADRB1	adrenergic, beta-1-, receptor	455	2.602407455444336	0.5238044	Yes	
+row_3	ADRA2C	ADRA2C	adrenergic, alpha-2C-, receptor	924	1.332883358001709	0.54509246	Yes	
+row_4	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	1215	1.038881778717041	0.56840885	Yes	
+row_5	ADRA2B	ADRA2B	adrenergic, alpha-2B-, receptor	1265	1.0098265409469604	0.61201644	Yes	
+row_6	HRH2	HRH2	histamine receptor H2	4279	0.18779227137565613	0.34999213	No	
+row_7	ADRB3	ADRB3	adrenergic, beta-3-, receptor	7646	-0.2931952178478241	0.06123479	No	
+row_8	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	8152	-0.3807934820652008	0.03392664	No	
+row_9	ADRA1B	ADRA1B	adrenergic, alpha-1B-, receptor	8531	-0.4580456018447876	0.021712447	No	
+row_10	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	8926	-0.5567909479141235	0.012754433	No	
+row_11	ADRA1A	ADRA1A	adrenergic, alpha-1A-, receptor	9258	-0.6483942866325378	0.013817333	No	
+row_12	HTR7	HTR7	5-hydroxytryptamine (serotonin) receptor 7 (adenylate cyclase-coupled)	10754	-3.2519092559814453	0.033992838	No	

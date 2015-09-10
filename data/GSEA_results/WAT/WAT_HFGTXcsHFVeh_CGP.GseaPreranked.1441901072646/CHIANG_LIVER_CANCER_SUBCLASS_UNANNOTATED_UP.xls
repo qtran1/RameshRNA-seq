@@ -1,0 +1,61 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KIFC3	KIFC3	kinesin family member C3	2493	0.5543639659881592	-0.20902887	No	
+row_1	PITPNB	PITPNB	phosphatidylinositol transfer protein, beta	3499	0.3338365852832794	-0.29008675	No	
+row_2	UBE2B	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	3738	0.28656744956970215	-0.303251	No	
+row_3	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	3761	0.2821197509765625	-0.2970376	No	
+row_4	MARVELD2	MARVELD2	MARVEL domain containing 2	3768	0.28043001890182495	-0.28942838	No	
+row_5	CP	CP	ceruloplasmin (ferroxidase)	3980	0.2402472198009491	-0.30150062	No	
+row_6	TNFSF14	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14	4044	0.22856399416923523	-0.30054662	No	
+row_7	SORL1	SORL1	sortilin-related receptor, L(DLR class) A repeats-containing	4102	0.21818165481090546	-0.2993525	No	
+row_8	RORA	RORA	RAR-related orphan receptor A	4511	0.1534331738948822	-0.33173913	No	
+row_9	TPCN2	TPCN2	two pore segment channel 2	4529	0.14979279041290283	-0.32892048	No	
+row_10	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	5103	0.059056323021650314	-0.3789514	No	
+row_11	SERPINB9	SERPINB9	serpin peptidase inhibitor, clade B (ovalbumin), member 9	5414	0.014436870813369751	-0.40652782	No	
+row_12	ARMC8	ARMC8	armadillo repeat containing 8	5455	0.009237503632903099	-0.4098717	No	
+row_13	B2M	B2M	beta-2-microglobulin	5800	-0.04242503270506859	-0.4397051	No	
+row_14	PCSK6	PCSK6	proprotein convertase subtilisin/kexin type 6	5801	-0.042456675320863724	-0.43847105	No	
+row_15	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	-0.43918923	No	
+row_16	ARHGEF10L	ARHGEF10L	Rho guanine nucleotide exchange factor (GEF) 10-like	5936	-0.05931022763252258	-0.44739938	No	
+row_17	LEPR	LEPR	leptin receptor	5966	-0.06397009640932083	-0.44815898	No	
+row_18	FOSB	FOSB	FBJ murine osteosarcoma viral oncogene homolog B	5987	-0.06779447197914124	-0.44799462	No	
+row_19	MAP3K13	MAP3K13	mitogen-activated protein kinase kinase kinase 13	6368	-0.09286551177501678	-0.47961307	No	
+row_20	HGFAC	HGFAC	HGF activator	6723	-0.14388015866279602	-0.50740063	No	
+row_21	WWC1	WWC1	WW, C2 and coiled-coil domain containing 1	7195	-0.21692140400409698	-0.54363143	No	
+row_22	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	-0.53947264	No	
+row_23	SMURF1	SMURF1	SMAD specific E3 ubiquitin protein ligase 1	7235	-0.2223159670829773	-0.53418475	No	
+row_24	ARHGEF1	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	7475	-0.26384586095809937	-0.54809976	No	
+row_25	GLS2	GLS2	glutaminase 2 (liver, mitochondrial)	7537	-0.27514922618865967	-0.5456111	No	
+row_26	THBS1	THBS1	thrombospondin 1	7685	-0.2987736761569977	-0.5502023	Yes	
+row_27	SORBS2	SORBS2	sorbin and SH3 domain containing 2	7744	-0.30700090527534485	-0.5465169	Yes	
+row_28	PROZ	PROZ	protein Z, vitamin K-dependent plasma glycoprotein	7837	-0.3247446119785309	-0.5453862	Yes	
+row_29	CYP1A2	CYP1A2	cytochrome P450, family 1, subfamily A, polypeptide 2	7908	-0.33568254113197327	-0.5419508	Yes	
+row_30	FTCD	FTCD	formiminotransferase cyclodeaminase	8106	-0.3719375431537628	-0.54893094	Yes	
+row_31	HSDL2	HSDL2	hydroxysteroid dehydrogenase like 2	8164	-0.3832811117172241	-0.542938	Yes	
+row_32	DUSP16	DUSP16	dual specificity phosphatase 16	8254	-0.40147367119789124	-0.5393062	Yes	
+row_33	LRRFIP2	LRRFIP2	leucine rich repeat (in FLII) interacting protein 2	8281	-0.40679511427879333	-0.5298302	Yes	
+row_34	PLG	PLG	plasminogen	8345	-0.41675254702568054	-0.5234062	Yes	
+row_35	SLC22A3	SLC22A3	solute carrier family 22 (extraneuronal monoamine transporter), member 3	8568	-0.46678656339645386	-0.5298872	Yes	
+row_36	SLC39A14	SLC39A14	solute carrier family 39 (zinc transporter), member 14	8852	-0.5420737862586975	-0.5396887	Yes	
+row_37	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	8868	-0.5463324189186096	-0.5251635	Yes	
+row_38	ID2	ID2	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	8954	-0.5629258751869202	-0.5164775	Yes	
+row_39	ARNT	ARNT	aryl hydrocarbon receptor nuclear translocator	9204	-0.6301540732383728	-0.52064836	Yes	
+row_40	NCOA2	NCOA2	nuclear receptor coactivator 2	9207	-0.6313163638114929	-0.5024789	Yes	
+row_41	ELL2	ELL2	elongation factor, RNA polymerase II, 2	9318	-0.6679230332374573	-0.49299887	Yes	
+row_42	DOCK5	DOCK5	dedicator of cytokinesis 5	9335	-0.6739546656608582	-0.4748544	Yes	
+row_43	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	9349	-0.6808347105979919	-0.456239	Yes	
+row_44	LRP6	LRP6	low density lipoprotein receptor-related protein 6	9500	-0.7399199604988098	-0.44827867	Yes	
+row_45	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	9516	-0.7477717995643616	-0.4278983	Yes	
+row_46	ABCA9	ABCA9	ATP-binding cassette, sub-family A (ABC1), member 9	9580	-0.7773549556732178	-0.4109929	Yes	
+row_47	MBNL2	MBNL2	muscleblind-like 2 (Drosophila)	9592	-0.7838817238807678	-0.3892017	Yes	
+row_48	BHMT	BHMT	betaine-homocysteine methyltransferase	9593	-0.784344494342804	-0.36640364	Yes	
+row_49	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	9754	-0.877423882484436	-0.35534966	Yes	
+row_50	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	9764	-0.880168080329895	-0.33057913	Yes	
+row_51	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	9870	-0.9451735019683838	-0.31258887	Yes	
+row_52	LMO7	LMO7	LIM domain 7	9880	-0.949456512928009	-0.2858044	Yes	
+row_53	DPYS	DPYS	dihydropyrimidinase	9974	-1.0102289915084839	-0.26483947	Yes	
+row_54	RAPGEF2	RAPGEF2	Rap guanine nucleotide exchange factor (GEF) 2	10171	-1.1719582080841064	-0.2484756	Yes	
+row_55	NSUN6	NSUN6	NOL1/NOP2/Sun domain family, member 6	10201	-1.2103397846221924	-0.21591437	Yes	
+row_56	RNF125	RNF125	ring finger protein 125	10324	-1.3708888292312622	-0.18708538	Yes	
+row_57	SLC25A18	SLC25A18	solute carrier family 25 (mitochondrial carrier), member 18	10407	-1.5541449785232544	-0.14931738	Yes	
+row_58	EGR1	EGR1	early growth response 1	10618	-2.5176005363464355	-0.09510487	Yes	
+row_59	TMEM178	TMEM178	transmembrane protein 178	11048	-4.865884780883789	0.0075859567	Yes	

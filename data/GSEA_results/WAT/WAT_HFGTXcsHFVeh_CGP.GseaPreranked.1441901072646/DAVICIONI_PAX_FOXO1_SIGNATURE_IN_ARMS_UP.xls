@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PAX5	PAX5	paired box gene 5 (B-cell lineage specific activator)	1160	1.079777479171753	-0.08084638	No	
+row_1	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	1168	1.0749679803848267	-0.057812337	No	
+row_2	PPP1R14B	PPP1R14B	protein phosphatase 1, regulatory (inhibitor) subunit 14B	1354	0.9665544629096985	-0.05321841	No	
+row_3	MORC4	MORC4	MORC family CW-type zinc finger 4	1486	0.8981561660766602	-0.045260135	No	
+row_4	ARL4C	ARL4C	ADP-ribosylation factor-like 4C	1686	0.8091136813163757	-0.04539488	No	
+row_5	TBC1D9	TBC1D9	TBC1 domain family, member 9 (with GRAM domain)	1920	0.722523033618927	-0.05050229	No	
+row_6	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	1962	0.7049321532249451	-0.038680945	No	
+row_7	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	2132	0.6520606279373169	-0.03956758	No	
+row_8	SULF1	SULF1	sulfatase 1	2167	0.6389672756195068	-0.028567132	No	
+row_9	ARRB1	ARRB1	arrestin, beta 1	2928	0.44861459732055664	-0.08723348	No	
+row_10	MAP1LC3B	MAP1LC3B	microtubule-associated protein 1 light chain 3 beta	2968	0.4391929805278778	-0.081081994	No	
+row_11	WSB2	WSB2	WD repeat and SOCS box-containing 2	3003	0.4323820471763611	-0.07462951	No	
+row_12	PON2	PON2	paraoxonase 2	4023	0.23232273757457733	-0.16141608	No	
+row_13	ADAM10	ADAM10	ADAM metallopeptidase domain 10	4184	0.20303355157375336	-0.17137633	No	
+row_14	GADD45A	GADD45A	growth arrest and DNA-damage-inducible, alpha	4368	0.1739812195301056	-0.18405049	No	
+row_15	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	4482	0.15800298750400543	-0.19076325	No	
+row_16	INPP1	INPP1	inositol polyphosphate-1-phosphatase	4546	0.14633934199810028	-0.19322342	No	
+row_17	FGFR4	FGFR4	fibroblast growth factor receptor 4	4730	0.116568922996521	-0.20716149	No	
+row_18	MCAM	MCAM	melanoma cell adhesion molecule	5591	-0.011762337759137154	-0.28446388	No	
+row_19	TNS3	TNS3	tensin 3	5822	-0.0461273118853569	-0.30419153	No	
+row_20	TMEM47	TMEM47	transmembrane protein 47	5930	-0.058742325752973557	-0.3125484	No	
+row_21	MARCH3	MARCH3	membrane-associated ring finger (C3HC4) 3	5932	-0.0590820387005806	-0.3113379	No	
+row_22	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	6348	-0.09060192108154297	-0.34677115	No	
+row_23	BMP5	BMP5	bone morphogenetic protein 5	6472	-0.10760749876499176	-0.35549524	No	
+row_24	COL18A1	COL18A1	collagen, type XVIII, alpha 1	6620	-0.128065288066864	-0.36593348	No	
+row_25	MN1	MN1	meningioma (disrupted in balanced translocation) 1	6711	-0.14240095019340515	-0.3709154	No	
+row_26	TRAM2	TRAM2	translocation associated membrane protein 2	7137	-0.2088145911693573	-0.4046481	No	
+row_27	GPM6B	GPM6B	glycoprotein M6B	7969	-0.3464692533016205	-0.47196648	No	
+row_28	CD9	CD9	CD9 molecule	8070	-0.3653624355792999	-0.47294182	No	
+row_29	MET	MET	met proto-oncogene (hepatocyte growth factor receptor)	8198	-0.39090675115585327	-0.47578984	No	
+row_30	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	-0.48177055	No	
+row_31	ASS1	ASS1	argininosuccinate synthetase 1	8792	-0.5275370478630066	-0.5083062	No	
+row_32	FMR1	FMR1	fragile X mental retardation 1	9026	-0.5827425122261047	-0.5164909	No	
+row_33	ABAT	ABAT	4-aminobutyrate aminotransferase	9443	-0.7138597965240479	-0.5382933	No	
+row_34	HDAC5	HDAC5	histone deacetylase 5	9632	-0.8011376261711121	-0.5376116	No	
+row_35	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.5298065	No	
+row_36	KCNS3	KCNS3	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3	10148	-1.152243971824646	-0.5392523	Yes	
+row_37	IRS2	IRS2	insulin receptor substrate 2	10472	-1.7224453687667847	-0.5304634	Yes	
+row_38	ANK2	ANK2	ankyrin 2, neuronal	10524	-1.9249314069747925	-0.4926857	Yes	
+row_39	NEBL	NEBL	nebulette	10603	-2.3360626697540283	-0.44829208	Yes	
+row_40	PBK	PBK	PDZ binding kinase	10743	-3.2518932819366455	-0.3892379	Yes	
+row_41	TMEFF1	TMEFF1	transmembrane protein with EGF-like and two follistatin-like domains 1	10927	-4.162895202636719	-0.3140964	Yes	
+row_42	DCX	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	11005	-4.349355220794678	-0.22529006	Yes	
+row_43	POU4F1	POU4F1	POU domain, class 4, transcription factor 1	11075	-5.264997959136963	-0.115604416	Yes	
+row_44	KCNN3	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	11085	-5.480600833892822	0.0042389603	Yes	

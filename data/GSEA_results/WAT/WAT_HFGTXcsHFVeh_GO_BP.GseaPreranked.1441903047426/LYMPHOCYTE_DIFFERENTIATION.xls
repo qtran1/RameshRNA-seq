@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.19650482	Yes	
+row_1	IL4	IL4	interleukin 4	195	4.091798305511475	0.31185764	Yes	
+row_2	IL27	IL27	interleukin 27	202	4.014698028564453	0.4395114	Yes	
+row_3	NFAM1	NFAM1	NFAT activating protein with ITAM motif 1	611	1.84148371219635	0.46158507	Yes	
+row_4	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.5141164	Yes	
+row_5	HDAC9	HDAC9	histone deacetylase 9	933	1.311380386352539	0.53060544	Yes	
+row_6	NHEJ1	NHEJ1	nonhomologous end-joining factor 1	1074	1.168097972869873	0.5553017	Yes	
+row_7	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1094	1.1454366445541382	0.59016645	Yes	
+row_8	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	1147	1.0924731492996216	0.6203695	Yes	
+row_9	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	1383	0.9489143490791321	0.62951535	Yes	
+row_10	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	3208	0.3908016085624695	0.4778029	No	
+row_11	SPINK5	SPINK5	serine peptidase inhibitor, Kazal type 5	3244	0.38289886713027954	0.48687872	No	
+row_12	TPD52	TPD52	tumor protein D52	3534	0.3271530866622925	0.47131014	No	
+row_13	IL7	IL7	interleukin 7	3664	0.30003389716148376	0.46927837	No	
+row_14	SOCS5	SOCS5	suppressor of cytokine signaling 5	3919	0.25331825017929077	0.45450276	No	
+row_15	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	4155	0.20973838865756989	0.44004592	No	
+row_16	CD4	CD4	CD4 molecule	4654	0.1292193979024887	0.39934352	No	
+row_17	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.37889296	No	
+row_18	JAG2	JAG2	jagged 2	5587	-0.011283354833722115	0.31867173	No	
+row_19	HDAC4	HDAC4	histone deacetylase 4	7465	-0.26223957538604736	0.15808325	No	
+row_20	SART1	SART1	squamous cell carcinoma antigen recognised by T cells	7509	-0.26974380016326904	0.16282573	No	
+row_21	HDAC5	HDAC5	histone deacetylase 5	9632	-0.8011376261711121	-0.0026093218	No	
+row_22	INHA	INHA	inhibin, alpha	9886	-0.9535545110702515	0.0050644237	No	
+row_23	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	0.019533684	No	

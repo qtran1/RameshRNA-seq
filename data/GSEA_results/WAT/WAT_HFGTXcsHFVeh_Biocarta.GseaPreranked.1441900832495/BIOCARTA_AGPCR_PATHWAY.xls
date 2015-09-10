@@ -1,0 +1,12 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRK4	GRK4	G protein-coupled receptor kinase 4	1378	0.9505834579467773	0.020142552	No	
+row_1	ARRB1	ARRB1	arrestin, beta 1	2928	0.44861459732055664	-0.051152762	No	
+row_2	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	-0.17914218	No	
+row_3	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	-0.19203857	No	
+row_4	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	-0.24202047	No	
+row_5	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	-0.28192058	No	
+row_6	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	-0.29794055	No	
+row_7	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.30902067	No	
+row_8	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	-0.39264256	Yes	
+row_9	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.38461936	Yes	
+row_10	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	0.026883682	Yes	

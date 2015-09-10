@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TUBB3	TUBB3	tubulin, beta 3	12	6.539420127868652	0.18315278	Yes	
+row_1	FEZ1	FEZ1	fasciculation and elongation protein zeta 1 (zygin I)	68	5.282008171081543	0.3270098	Yes	
+row_2	MEOX2	MEOX2	mesenchyme homeobox 2	318	3.1459782123565674	0.3932242	Yes	
+row_3	TRAM1L1	TRAM1L1	translocation associated membrane protein 1-like 1	406	2.8841207027435303	0.46664548	Yes	
+row_4	TCF15	TCF15	transcription factor 15 (basic helix-loop-helix)	416	2.8841207027435303	0.5470887	Yes	
+row_5	MSLN	MSLN	mesothelin	458	2.5589630603790283	0.61549056	Yes	
+row_6	TUBB2A	TUBB2A	tubulin, beta 2A	626	1.7934300899505615	0.6509821	Yes	
+row_7	TMSB4X	TMSB4X	thymosin, beta 4, X-linked	876	1.3970108032226562	0.6679234	Yes	
+row_8	EN2	EN2	engrailed homolog 2	1067	1.1728582382202148	0.68386114	Yes	
+row_9	MFAP4	MFAP4	microfibrillar-associated protein 4	1143	1.0958281755447388	0.7079817	Yes	
+row_10	RGS2	RGS2	regulator of G-protein signalling 2, 24kDa	1566	0.8578487038612366	0.694159	Yes	
+row_11	VCAM1	VCAM1	vascular cell adhesion molecule 1	1571	0.8553553223609924	0.7178965	Yes	
+row_12	DMRT2	DMRT2	doublesex and mab-3 related transcription factor 2	1814	0.760487973690033	0.71753544	Yes	
+row_13	WFDC1	WFDC1	WAP four-disulfide core domain 1	1851	0.7481989860534668	0.7353733	Yes	
+row_14	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	2048	0.6778820753097534	0.7368261	Yes	
+row_15	CCDC94	CCDC94	coiled-coil domain containing 94	2318	0.5975291728973389	0.7294434	No	
+row_16	VTN	VTN	vitronectin	2681	0.5085992813110352	0.71118283	No	
+row_17	CLEC1B	CLEC1B	C-type lectin domain family 1, member B	3001	0.4325825572013855	0.69465184	No	
+row_18	CP	CP	ceruloplasmin (ferroxidase)	3980	0.2402472198009491	0.6133756	No	
+row_19	TGFBI	TGFBI	transforming growth factor, beta-induced, 68kDa	4921	0.0849972814321518	0.5311465	No	
+row_20	SPSB4	SPSB4	splA/ryanodine receptor domain and SOCS box containing 4	4991	0.07599950581789017	0.5270759	No	
+row_21	HDDC3	HDDC3	HD domain containing 3	5598	-0.012864396907389164	0.47288302	No	
+row_22	MFAP2	MFAP2	microfibrillar-associated protein 2	5740	-0.03235176205635071	0.4611009	No	
+row_23	NNAT	NNAT	neuronatin	7450	-0.2603648602962494	0.314583	No	
+row_24	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	9080	-0.5963128209114075	0.18473169	No	

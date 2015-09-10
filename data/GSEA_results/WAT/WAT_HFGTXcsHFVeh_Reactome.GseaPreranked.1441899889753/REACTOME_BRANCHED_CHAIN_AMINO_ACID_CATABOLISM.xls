@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCAT2	BCAT2	branched chain aminotransferase 2, mitochondrial	4748	0.11461479216814041	-0.40771514	No	
+row_1	AUH	AUH	AU RNA binding protein/enoyl-Coenzyme A hydratase	4937	0.08354488015174866	-0.41052735	No	
+row_2	BCKDHA	BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide	5218	0.04444126784801483	-0.4282127	No	
+row_3	HIBADH	HIBADH	3-hydroxyisobutyrate dehydrogenase	5769	-0.03703729063272476	-0.4714324	No	
+row_4	ACADSB	ACADSB	acyl-Coenzyme A dehydrogenase, short/branched chain	6051	-0.07641590386629105	-0.48381233	No	
+row_5	DLD	DLD	dihydrolipoamide dehydrogenase	6791	-0.1553942710161209	-0.52405995	No	
+row_6	DBT	DBT	dihydrolipoamide branched chain transacylase E2	7639	-0.2922786772251129	-0.5509237	Yes	
+row_7	ACAT1	ACAT1	acetyl-Coenzyme A acetyltransferase 1 (acetoacetyl Coenzyme A thiolase)	7663	-0.2954065203666687	-0.50314564	Yes	
+row_8	IVD	IVD	isovaleryl Coenzyme A dehydrogenase	7756	-0.30970004200935364	-0.45916185	Yes	
+row_9	ACAD8	ACAD8	acyl-Coenzyme A dehydrogenase family, member 8	8414	-0.42962291836738586	-0.4457608	Yes	
+row_10	MCCC2	MCCC2	methylcrotonoyl-Coenzyme A carboxylase 2 (beta)	9243	-0.6433542370796204	-0.41167524	Yes	
+row_11	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	9400	-0.6961272358894348	-0.3082423	Yes	
+row_12	ALDH6A1	ALDH6A1	aldehyde dehydrogenase 6 family, member A1	9744	-0.8730385303497314	-0.19177698	Yes	
+row_13	MCCC1	MCCC1	methylcrotonoyl-Coenzyme A carboxylase 1 (alpha)	9842	-0.9282870888710022	-0.04386274	Yes	
+row_14	BCKDHB	BCKDHB	branched chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease)	9877	-0.9470261335372925	0.11288	Yes	

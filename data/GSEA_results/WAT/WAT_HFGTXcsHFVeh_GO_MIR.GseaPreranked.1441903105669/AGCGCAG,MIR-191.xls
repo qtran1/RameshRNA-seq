@@ -1,0 +1,11 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ETF1	ETF1	eukaryotic translation termination factor 1	3261	0.37853074073791504	-0.26463404	No	
+row_1	HMGB1	HMGB1	high-mobility group box 1	5156	0.05221101641654968	-0.430975	No	
+row_2	UBAP2	UBAP2	ubiquitin associated protein 2	5298	0.03222480043768883	-0.4412216	No	
+row_3	MAGI1	MAGI1	membrane associated guanylate kinase, WW and PDZ domain containing 1	7930	-0.33992865681648254	-0.65212697	No	
+row_4	SPEN	SPEN	spen homolog, transcriptional regulator (Drosophila)	8898	-0.5504056215286255	-0.6975618	Yes	
+row_5	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	9173	-0.6223748922348022	-0.6752666	Yes	
+row_6	CHRD	CHRD	chordin	9826	-0.9135725498199463	-0.66499805	Yes	
+row_7	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10172	-1.1727948188781738	-0.60758287	Yes	
+row_8	EGR3	EGR3	early growth response 3	10716	-3.174114465713501	-0.41706356	Yes	
+row_9	DIO3	DIO3	deiodinase, iodothyronine, type III	11119	-6.025954246520996	0.0011688006	Yes	

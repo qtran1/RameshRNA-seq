@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLDN22	CLDN22	claudin 22	125	4.644957542419434	0.085917644	No	
+row_1	CLDN6	CLDN6	claudin 6	494	2.2746548652648926	0.100315996	No	
+row_2	CLDN5	CLDN5	claudin 5 (transmembrane protein deleted in velocardiofacial syndrome)	842	1.439631462097168	0.099136226	No	
+row_3	CLDN3	CLDN3	claudin 3	1144	1.094320297241211	0.09488069	No	
+row_4	CDH1	CDH1	cadherin 1, type 1, E-cadherin (epithelial)	1648	0.8274844288825989	0.066818886	No	
+row_5	CLDN14	CLDN14	claudin 14	1833	0.7545542120933533	0.066008665	No	
+row_6	CNN2	CNN2	calponin 2	1903	0.7291582226753235	0.07504142	No	
+row_7	CLDN15	CLDN15	claudin 15	1963	0.7048674821853638	0.08446802	No	
+row_8	WNK4	WNK4	WNK lysine deficient protein kinase 4	1996	0.6943444013595581	0.09611016	No	
+row_9	GJB1	GJB1	gap junction protein, beta 1, 32kDa (connexin 32, Charcot-Marie-Tooth neuropathy, X-linked)	2391	0.5797779560089111	0.07269829	No	
+row_10	AMOTL1	AMOTL1	angiomotin like 1	2586	0.5300076007843018	0.06628738	No	
+row_11	CLDN2	CLDN2	claudin 2	2839	0.46981027722358704	0.05338458	No	
+row_12	CLDN7	CLDN7	claudin 7	2884	0.45847776532173157	0.05900874	No	
+row_13	CLDN1	CLDN1	claudin 1	3197	0.3927764594554901	0.03908131	No	
+row_14	PARD6B	PARD6B	par-6 partitioning defective 6 homolog beta (C. elegans)	3749	0.28361186385154724	-0.004691022	No	
+row_15	CLDN12	CLDN12	claudin 12	3894	0.25705277919769287	-0.012302809	No	
+row_16	ZYX	ZYX	zyxin	4126	0.21503327786922455	-0.028642284	No	
+row_17	PCDH1	PCDH1	protocadherin 1 (cadherin-like 1)	5500	0.0022599573712795973	-0.15245607	No	
+row_18	PKP4	PKP4	plakophilin 4	5730	-0.030312560498714447	-0.17248034	No	
+row_19	PARD6A	PARD6A	par-6 partitioning defective 6 homolog alpha (C.elegans)	5991	-0.06809677183628082	-0.19451056	No	
+row_20	PGM5	PGM5	phosphoglucomutase 5	6292	-0.08174102753400803	-0.21986376	No	
+row_21	GJA1	GJA1	gap junction protein, alpha 1, 43kDa (connexin 43)	6349	-0.09068502485752106	-0.22301808	No	
+row_22	GJB2	GJB2	gap junction protein, beta 2, 26kDa (connexin 26)	6640	-0.13056296110153198	-0.24644756	No	
+row_23	CDC42BPA	CDC42BPA	CDC42 binding protein kinase alpha (DMPK-like)	6674	-0.1363932341337204	-0.24657059	No	
+row_24	SHROOM2	SHROOM2	shroom family member 2	6879	-0.17118705809116364	-0.2613918	No	
+row_25	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	-0.28753492	No	
+row_26	VAPA	VAPA	VAMP (vesicle-associated membrane protein)-associated protein A, 33kDa	7692	-0.2996315658092499	-0.32366487	No	
+row_27	RAB13	RAB13	RAB13, member RAS oncogene family	7925	-0.3385455012321472	-0.3375101	No	
+row_28	PARD3	PARD3	par-3 partitioning defective 3 homolog (C. elegans)	8250	-0.40056726336479187	-0.35835704	No	
+row_29	DLG1	DLG1	discs, large homolog 1 (Drosophila)	8306	-0.4107823669910431	-0.35472324	No	
+row_30	CLDN8	CLDN8	claudin 8	8449	-0.4388280510902405	-0.35835102	No	
+row_31	MLLT4	MLLT4	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 4	8465	-0.44186097383499146	-0.3504584	No	
+row_32	PNN	PNN	pinin, desmosome associated protein	8519	-0.45544639229774475	-0.34570956	No	
+row_33	CDC42BPB	CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	8689	-0.5021884441375732	-0.3504473	No	
+row_34	CLDN4	CLDN4	claudin 4	8718	-0.5089932084083557	-0.3423227	No	
+row_35	ASH1L	ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)	8945	-0.5614346265792847	-0.3509628	No	
+row_36	CNKSR1	CNKSR1	connector enhancer of kinase suppressor of Ras 1	9680	-0.830177366733551	-0.3998072	No	
+row_37	CDH24	CDH24	cadherin-like 24	10228	-1.240984559059143	-0.423186	Yes	
+row_38	VCL	VCL	vinculin	10259	-1.2776516675949097	-0.39915794	Yes	
+row_39	PDZD2	PDZD2	PDZ domain containing 2	10293	-1.3268224000930786	-0.37437165	Yes	
+row_40	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	10297	-1.3304173946380615	-0.34680375	Yes	
+row_41	NRAP	NRAP	nebulin-related anchoring protein	10411	-1.565721035003662	-0.32423553	Yes	
+row_42	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.2938869	Yes	
+row_43	CLDN20	CLDN20	claudin 20	10586	-2.249006509780884	-0.24881187	Yes	
+row_44	CLDN10	CLDN10	claudin 10	10850	-3.351161479949951	-0.20241572	Yes	
+row_45	GJA8	GJA8	gap junction protein, alpha 8, 50kDa (connexin 50)	10903	-3.3511762619018555	-0.13698453	Yes	
+row_46	CLDN23	CLDN23	claudin 23	10910	-3.3511762619018555	-0.067403585	Yes	
+row_47	STEAP1	STEAP1	six transmembrane epithelial antigen of the prostate 1	10944	-4.174040794372559	0.016959786	Yes	

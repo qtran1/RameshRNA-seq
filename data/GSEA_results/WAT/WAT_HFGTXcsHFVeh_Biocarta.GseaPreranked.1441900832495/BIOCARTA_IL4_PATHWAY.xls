@@ -1,0 +1,11 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL4	IL4	interleukin 4	195	4.091798305511475	0.5028052	Yes	
+row_1	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	661	1.7324550151824951	0.68130875	Yes	
+row_2	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	3620	0.3079800307750702	0.45453775	No	
+row_3	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.45949155	No	
+row_4	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	4375	0.17235976457595825	0.44077328	No	
+row_5	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	4865	0.09439565241336823	0.40881422	No	
+row_6	IRS1	IRS1	insulin receptor substrate 1	4925	0.08470755070447922	0.4142818	No	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.34776762	No	
+row_8	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.17206135	No	
+row_9	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	9431	-0.7078027725219727	0.15292637	No	

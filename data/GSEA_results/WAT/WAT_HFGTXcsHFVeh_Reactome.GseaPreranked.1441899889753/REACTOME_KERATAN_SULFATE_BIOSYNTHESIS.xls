@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B3GNT7	B3GNT7	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 7	36	5.842865943908691	0.25187954	Yes	
+row_1	B3GNT4	B3GNT4	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 4	362	3.14337420463562	0.35988224	Yes	
+row_2	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	832	1.4493149518966675	0.38095763	Yes	
+row_3	CHST2	CHST2	carbohydrate (N-acetylglucosamine-6-O) sulfotransferase 2	888	1.376737117767334	0.43612102	Yes	
+row_4	ST3GAL6	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	1026	1.2179373502731323	0.47697127	Yes	
+row_5	B3GNT3	B3GNT3	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 3	1640	0.8304455280303955	0.45806575	Yes	
+row_6	FMOD	FMOD	fibromodulin	1680	0.811825692653656	0.49000308	Yes	
+row_7	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	1877	0.739269495010376	0.5046435	Yes	
+row_8	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	1887	0.735858678817749	0.53596365	Yes	
+row_9	ST3GAL3	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3	1927	0.7182711958885193	0.5638161	Yes	
+row_10	OGN	OGN	osteoglycin (osteoinductive factor, mimecan)	1987	0.6977503299713135	0.5889726	Yes	
+row_11	LUM	LUM	lumican	2049	0.6776492595672607	0.61307156	Yes	
+row_12	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	2124	0.6541812419891357	0.63497585	Yes	
+row_13	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	3882	0.2594458758831024	0.48818678	No	
+row_14	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	3884	0.25915199518203735	0.49941224	No	
+row_15	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	3973	0.2409636676311493	0.50201416	No	
+row_16	OMD	OMD	osteomodulin	4603	0.13533170521259308	0.45131773	No	
+row_17	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	5692	-0.025207702070474625	0.35450622	No	
+row_18	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	0.22663607	No	
+row_19	B3GNT2	B3GNT2	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 2	9670	-0.8207188248634338	0.042169057	No	
+row_20	CHST1	CHST1	carbohydrate (keratan sulfate Gal-6) sulfotransferase 1	10557	-2.04543137550354	0.0517459	No	

@@ -1,0 +1,14 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MCEE	MCEE	methylmalonyl CoA epimerase	5483	0.005277175921946764	-0.49229726	No	
+row_1	HADH	HADH	hydroxyacyl-Coenzyme A dehydrogenase	6366	-0.09250149130821228	-0.55797195	No	
+row_2	PCCA	PCCA	propionyl Coenzyme A carboxylase, alpha polypeptide	7579	-0.28176379203796387	-0.6254109	Yes	
+row_3	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	7622	-0.2892692983150482	-0.5865272	Yes	
+row_4	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	7717	-0.30250000953674316	-0.55036855	Yes	
+row_5	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	7739	-0.30582892894744873	-0.50715417	Yes	
+row_6	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	7900	-0.33385053277015686	-0.4723072	Yes	
+row_7	PCCB	PCCB	propionyl Coenzyme A carboxylase, beta polypeptide	7961	-0.34411942958831787	-0.42695305	Yes	
+row_8	ACADL	ACADL	acyl-Coenzyme A dehydrogenase, long chain	8602	-0.47689881920814514	-0.41417518	Yes	
+row_9	DECR1	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	8665	-0.49616631865501404	-0.34657738	Yes	
+row_10	MUT	MUT	methylmalonyl Coenzyme A mutase	9366	-0.6871800422668457	-0.30818346	Yes	
+row_11	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	10305	-1.3409550189971924	-0.19477534	Yes	
+row_12	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	10496	-1.8243869543075562	0.05719426	Yes	

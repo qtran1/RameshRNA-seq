@@ -1,0 +1,13 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	S100B	S100B	S100 calcium binding protein B	155	4.295779705047607	0.43047187	Yes	
+row_1	AGER	AGER	advanced glycosylation end product-specific receptor	580	1.9441791772842407	0.5934761	Yes	
+row_2	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	771	1.5362588167190552	0.7353212	Yes	
+row_3	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.4803732	No	
+row_4	CAPZA2	CAPZA2	capping protein (actin filament) muscle Z-line, alpha 2	4290	0.18648827075958252	0.46486688	No	
+row_5	DDOST	DDOST	dolichyl-diphosphooligosaccharide-protein glycosyltransferase	4857	0.09550268948078156	0.42385215	No	
+row_6	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.40739042	No	
+row_7	HMGB1	HMGB1	high-mobility group box 1	5156	0.05221101641654968	0.40856555	No	
+row_8	APP	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	5251	0.03857658430933952	0.4041039	No	
+row_9	PRKCSH	PRKCSH	protein kinase C substrate 80K-H	5419	0.013834137469530106	0.39051846	No	
+row_10	CAPZA1	CAPZA1	capping protein (actin filament) muscle Z-line, alpha 1	8335	-0.41558903455734253	0.17139548	No	
+row_11	SAA1	SAA1	serum amyloid A1	9570	-0.7735009789466858	0.1404549	No	

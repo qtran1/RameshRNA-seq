@@ -1,0 +1,15 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	H1FNT	H1FNT	H1 histone family, member N, testis-specific	413	2.8841207027435303	0.1449186	No	
+row_1	H2AFY2	H2AFY2	H2A histone family, member Y2	1834	0.7544361352920532	0.06483361	No	
+row_2	RCC1	RCC1	regulator of chromosome condensation 1	3431	0.3466641306877136	-0.05682105	No	
+row_3	KLHDC3	KLHDC3	kelch domain containing 3	3653	0.3019023537635803	-0.05763913	No	
+row_4	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	5572	-0.008584694005548954	-0.22959475	No	
+row_5	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	6065	-0.07852212339639664	-0.26888657	No	
+row_6	CBX1	CBX1	chromobox homolog 1 (HP1 beta homolog Drosophila )	6384	-0.09484367817640305	-0.2914992	No	
+row_7	H2AFY	H2AFY	H2A histone family, member Y	6677	-0.13679049909114838	-0.30912554	No	
+row_8	NUFIP1	NUFIP1	nuclear fragile X mental retardation protein interacting protein 1	7359	-0.2445550411939621	-0.35493433	No	
+row_9	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	8268	-0.4036073386669159	-0.41111836	No	
+row_10	TIMELESS	TIMELESS	timeless homolog (Drosophila)	9453	-0.7188339829444885	-0.47222582	Yes	
+row_11	TIPIN	TIPIN	TIMELESS interacting protein	9454	-0.7192670702934265	-0.42682156	Yes	
+row_12	FOXC1	FOXC1	forkhead box C1	11002	-4.332485198974609	-0.29246148	Yes	
+row_13	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	11038	-4.816787242889404	0.0084539745	Yes	

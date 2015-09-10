@@ -1,0 +1,64 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ZG16	ZG16	-	2	7.860379219055176	0.14026432	Yes	
+row_1	EFNB3	EFNB3	ephrin-B3	121	4.735405445098877	0.21421452	Yes	
+row_2	PKIB	PKIB	protein kinase (cAMP-dependent, catalytic) inhibitor beta	227	3.6854424476623535	0.2705789	Yes	
+row_3	CD2	CD2	CD2 molecule	493	2.2841906547546387	0.287453	Yes	
+row_4	PRM1	PRM1	protamine 1	598	1.8921841382980347	0.31186676	Yes	
+row_5	TBXA2R	TBXA2R	thromboxane A2 receptor	644	1.759509801864624	0.3392397	Yes	
+row_6	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	678	1.682716727256775	0.3663245	Yes	
+row_7	IER3	IER3	immediate early response 3	690	1.6591435670852661	0.3949755	Yes	
+row_8	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	771	1.5362588167190552	0.4151978	Yes	
+row_9	IGSF10	IGSF10	immunoglobulin superfamily, member 10	828	1.4588127136230469	0.43620434	Yes	
+row_10	GDPD5	GDPD5	glycerophosphodiester phosphodiesterase domain containing 5	849	1.4323546886444092	0.4599902	Yes	
+row_11	TMEM159	TMEM159	transmembrane protein 159	866	1.4068609476089478	0.4836819	Yes	
+row_12	EVL	EVL	Enah/Vasp-like	893	1.3686927556991577	0.50578827	Yes	
+row_13	HCK	HCK	hemopoietic cell kinase	1031	1.213817834854126	0.5151003	Yes	
+row_14	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	1091	1.1486341953277588	0.53029376	Yes	
+row_15	CAPG	CAPG	capping protein (actin filament), gelsolin-like	1159	1.081491470336914	0.54356486	Yes	
+row_16	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	1168	1.0749679803848267	0.56204915	Yes	
+row_17	GJA4	GJA4	gap junction protein, alpha 4, 37kDa (connexin 37)	1210	1.043931245803833	0.5769978	Yes	
+row_18	SCN1B	SCN1B	sodium channel, voltage-gated, type I, beta	1641	0.8303014636039734	0.5529895	No	
+row_19	GPR137B	GPR137B	G protein-coupled receptor 137B	1781	0.7721834778785706	0.55423	No	
+row_20	LSP1	LSP1	lymphocyte-specific protein 1	1792	0.7675565481185913	0.5670409	No	
+row_21	CD151	CD151	CD151 molecule (Raph blood group)	2196	0.6297631859779358	0.5418885	No	
+row_22	WT1	WT1	Wilms tumor 1	2478	0.5579301714897156	0.52647334	No	
+row_23	GOT1	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	2515	0.5494438409805298	0.5330385	No	
+row_24	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	3172	0.39747145771980286	0.480881	No	
+row_25	PRRG2	PRRG2	proline rich Gla (G-carboxyglutamic acid) 2	3327	0.36719638109207153	0.4735304	No	
+row_26	GALT	GALT	galactose-1-phosphate uridylyltransferase	3401	0.35280749201774597	0.47323978	No	
+row_27	SPIN1	SPIN1	-	3494	0.3347223401069641	0.47090966	No	
+row_28	BCL3	BCL3	B-cell CLL/lymphoma 3	3526	0.3285064697265625	0.47397888	No	
+row_29	PSAT1	PSAT1	phosphoserine aminotransferase 1	3687	0.29472818970680237	0.46479145	No	
+row_30	PIM2	PIM2	pim-2 oncogene	3748	0.28363582491874695	0.46443924	No	
+row_31	DBNDD2	DBNDD2	dysbindin (dystrobrevin binding protein 1) domain containing 2	3809	0.2730669677257538	0.4638982	No	
+row_32	CAPN1	CAPN1	calpain 1, (mu/I) large subunit	3971	0.2410678118467331	0.45366165	No	
+row_33	RBP4	RBP4	retinol binding protein 4, plasma	4272	0.18869741261005402	0.42993292	No	
+row_34	RAB4B	RAB4B	RAB4B, member RAS oncogene family	4324	0.17934775352478027	0.42853037	No	
+row_35	SAMHD1	SAMHD1	SAM domain and HD domain 1	4755	0.11345752328634262	0.39171386	No	
+row_36	HSPB8	HSPB8	heat shock 22kDa protein 8	4910	0.08702592551708221	0.3793573	No	
+row_37	MDN1	MDN1	MDN1, midasin homolog (yeast)	5060	0.06570850312709808	0.36707154	No	
+row_38	IDUA	IDUA	iduronidase, alpha-L-	5329	0.028088703751564026	0.34336385	No	
+row_39	RELN	RELN	reelin	5360	0.02280966192483902	0.34106135	No	
+row_40	AATK	AATK	apoptosis-associated tyrosine kinase	5540	-0.004489201121032238	0.32497174	No	
+row_41	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	5763	-0.03621222823858261	0.30556458	No	
+row_42	SEPP1	SEPP1	selenoprotein P, plasma, 1	5971	-0.06457595527172089	0.28801918	No	
+row_43	BMI1	BMI1	B lymphoma Mo-MLV insertion region (mouse)	5998	-0.06912077963352203	0.28690553	No	
+row_44	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	6053	-0.07662887126207352	0.28339663	No	
+row_45	HSD11B2	HSD11B2	hydroxysteroid (11-beta) dehydrogenase 2	6131	-0.07875943183898926	0.27784812	No	
+row_46	ANKS3	ANKS3	ankyrin repeat and sterile alpha motif domain containing 3	6320	-0.08749667555093765	0.26242864	No	
+row_47	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6355	-0.09123609960079193	0.26098743	No	
+row_48	FHL1	FHL1	four and a half LIM domains 1	6396	-0.097429558634758	0.25911486	No	
+row_49	LIPC	LIPC	lipase, hepatic	6436	-0.10256803035736084	0.25742447	No	
+row_50	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	6794	-0.155741885304451	0.22795786	No	
+row_51	WDSUB1	WDSUB1	WD repeat, sterile alpha motif and U-box domain containing 1	6933	-0.17928802967071533	0.21869515	No	
+row_52	RABEP1	RABEP1	rabaptin, RAB GTPase binding effector protein 1	7083	-0.19854989647865295	0.20878293	No	
+row_53	EEF2	EEF2	eukaryotic translation elongation factor 2	7102	-0.20283055305480957	0.21078098	No	
+row_54	PTPRS	PTPRS	protein tyrosine phosphatase, receptor type, S	7740	-0.30607351660728455	0.15870683	No	
+row_55	SBF2	SBF2	SET binding factor 2	8417	-0.4313434064388275	0.10534789	No	
+row_56	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	8667	-0.4963756501674652	0.091723636	No	
+row_57	ANK3	ANK3	ankyrin 3, node of Ranvier (ankyrin G)	8715	-0.5084536671638489	0.0965627	No	
+row_58	JUN	JUN	jun oncogene	8842	-0.5396010875701904	0.094821885	No	
+row_59	CLCN2	CLCN2	chloride channel 2	9538	-0.757045567035675	0.045566067	No	
+row_60	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	9870	-0.9451735019683838	0.032553278	No	
+row_61	NFKBIZ	NFKBIZ	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta	10326	-1.3742635250091553	0.016005792	No	
+row_62	FBP2	FBP2	fructose-1,6-bisphosphatase 2	10672	-3.1740994453430176	0.04155356	No	

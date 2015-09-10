@@ -1,0 +1,15 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PHF21B	PHF21B	PHD finger protein 21B	457	2.57564377784729	0.18519798	Yes	
+row_1	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	568	1.9767751693725586	0.34898657	Yes	
+row_2	MAP1A	MAP1A	microtubule-associated protein 1A	1013	1.2310444116592407	0.4172158	Yes	
+row_3	AP1S1	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	1575	0.8539239764213562	0.4417883	Yes	
+row_4	YARS	YARS	tyrosyl-tRNA synthetase	1827	0.755974531173706	0.48563504	Yes	
+row_5	STXBP1	STXBP1	syntaxin binding protein 1	2011	0.691064178943634	0.52989435	Yes	
+row_6	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	3274	0.3757040798664093	0.4494047	No	
+row_7	CRY1	CRY1	cryptochrome 1 (photolyase-like)	3762	0.28200265765190125	0.43038285	No	
+row_8	CLPTM1	CLPTM1	cleft lip and palate associated transmembrane protein 1	4572	0.14107555150985718	0.37001956	No	
+row_9	RTF1	RTF1	Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	6513	-0.11339590698480606	0.2055065	No	
+row_10	NOTCH2	NOTCH2	Notch homolog 2 (Drosophila)	6685	-0.13744086027145386	0.20220312	No	
+row_11	FBXO11	FBXO11	F-box protein 11	7123	-0.20656363666057587	0.18104993	No	
+row_12	KCNE4	KCNE4	potassium voltage-gated channel, Isk-related family, member 4	9944	-0.9921824336051941	0.014604189	No	
+row_13	PLCXD2	PLCXD2	phosphatidylinositol-specific phospholipase C, X domain containing 2	10025	-1.0488144159317017	0.09955925	No	

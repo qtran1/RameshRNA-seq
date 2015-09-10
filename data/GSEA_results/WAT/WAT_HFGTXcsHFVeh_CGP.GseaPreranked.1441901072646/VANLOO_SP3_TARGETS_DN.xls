@@ -1,0 +1,72 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT20	KRT20	keratin 20	61	5.423783302307129	0.086385086	Yes	
+row_1	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.14743355	Yes	
+row_2	MARCO	MARCO	macrophage receptor with collagenous structure	230	3.600856304168701	0.20320255	Yes	
+row_3	PDZK1IP1	PDZK1IP1	PDZK1 interacting protein 1	435	2.768688917160034	0.23167312	Yes	
+row_4	CD5L	CD5L	CD5 molecule-like	514	2.1868529319763184	0.26167554	Yes	
+row_5	C1QB	C1QB	complement component 1, q subcomponent, B chain	596	1.9034610986709595	0.28660503	Yes	
+row_6	SLC39A5	SLC39A5	solute carrier family 39 (metal ion transporter), member 5	633	1.777845025062561	0.3134741	Yes	
+row_7	NUPR1	NUPR1	-	634	1.774857759475708	0.3435469	Yes	
+row_8	LGALS2	LGALS2	lectin, galactoside-binding, soluble, 2 (galectin 2)	746	1.563658595085144	0.36000687	Yes	
+row_9	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	771	1.5362588167190552	0.38386732	Yes	
+row_10	ITGA6	ITGA6	integrin, alpha 6	823	1.4649635553359985	0.404079	Yes	
+row_11	ADA	ADA	adenosine deaminase	863	1.4105561971664429	0.4244536	Yes	
+row_12	CFP	CFP	complement factor properdin	875	1.3976051807403564	0.44713992	Yes	
+row_13	EVI2A	EVI2A	ecotropic viral integration site 2A	989	1.2513631582260132	0.4581276	Yes	
+row_14	PQLC3	PQLC3	PQ loop repeat containing 3	1051	1.1926246881484985	0.47282082	Yes	
+row_15	IFI30	IFI30	interferon, gamma-inducible protein 30	1083	1.1589274406433105	0.48965505	Yes	
+row_16	IL18RAP	IL18RAP	interleukin 18 receptor accessory protein	1166	1.0769565105438232	0.50049	Yes	
+row_17	ACBD4	ACBD4	acyl-Coenzyme A binding domain containing 4	1260	1.0118837356567383	0.509228	Yes	
+row_18	NME4	NME4	non-metastatic cells 4, protein expressed in	1331	0.976446270942688	0.51944476	Yes	
+row_19	KLK8	KLK8	kallikrein 8 (neuropsin/ovasin)	1338	0.9741380214691162	0.53540796	Yes	
+row_20	SPEG	SPEG	SPEG complex locus	1389	0.9472535252571106	0.546938	Yes	
+row_21	PRKCDBP	PRKCDBP	protein kinase C, delta binding protein	1574	0.8540955781936646	0.54477614	Yes	
+row_22	AQP1	AQP1	aquaporin 1 (Colton blood group)	1598	0.8451393842697144	0.5570168	Yes	
+row_23	GLRX	GLRX	glutaredoxin (thioltransferase)	1607	0.8415849804878235	0.57055324	Yes	
+row_24	QPRT	QPRT	quinolinate phosphoribosyltransferase (nicotinate-nucleotide pyrophosphorylase (carboxylating))	2111	0.6583669781684875	0.5362375	Yes	
+row_25	KHK	KHK	ketohexokinase (fructokinase)	2120	0.6560161113739014	0.5466297	Yes	
+row_26	MTHFS	MTHFS	5,10-methenyltetrahydrofolate synthetase (5-formyltetrahydrofolate cyclo-ligase)	2182	0.6344757080078125	0.55186576	Yes	
+row_27	TSPO	TSPO	translocator protein (18kDa)	2204	0.6279037594795227	0.5606064	Yes	
+row_28	TCF19	TCF19	transcription factor 19 (SC1)	2313	0.5980503559112549	0.5609765	Yes	
+row_29	TM2D2	TM2D2	TM2 domain containing 2	2387	0.5818595290184021	0.5642363	Yes	
+row_30	GPX7	GPX7	glutathione peroxidase 7	2389	0.5812903046607971	0.5739951	Yes	
+row_31	LGMN	LGMN	legumain	2572	0.5352188944816589	0.56661105	No	
+row_32	FABP2	FABP2	fatty acid binding protein 2, intestinal	2728	0.49504783749580383	0.5609871	No	
+row_33	CTSH	CTSH	cathepsin H	2785	0.48112720251083374	0.56407684	No	
+row_34	CRTAP	CRTAP	cartilage associated protein	3018	0.4296413064002991	0.55038387	No	
+row_35	GCAT	GCAT	glycine C-acetyltransferase (2-amino-3-ketobutyrate coenzyme A ligase)	3108	0.4122218191623688	0.54932296	No	
+row_36	MAOA	MAOA	monoamine oxidase A	3282	0.37427282333374023	0.5400254	No	
+row_37	AP1S3	AP1S3	adaptor-related protein complex 1, sigma 3 subunit	3421	0.3480773866176605	0.53344804	No	
+row_38	ZDHHC2	ZDHHC2	zinc finger, DHHC-type containing 2	3485	0.3361104130744934	0.53344786	No	
+row_39	LEFTY1	LEFTY1	left-right determination factor 1	3545	0.3247416615486145	0.5336166	No	
+row_40	RABEPK	RABEPK	Rab9 effector protein with kelch motifs	3719	0.28995534777641296	0.52289045	No	
+row_41	RPS6KA4	RPS6KA4	ribosomal protein S6 kinase, 90kDa, polypeptide 4	4064	0.22413696348667145	0.49559072	No	
+row_42	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	4212	0.19857387244701385	0.48566657	No	
+row_43	TXNRD3	TXNRD3	thioredoxin reductase 3	4241	0.1935141533613205	0.48641425	No	
+row_44	ALDOB	ALDOB	aldolase B, fructose-bisphosphate	4462	0.15995174646377563	0.46923652	No	
+row_45	MYD88	MYD88	myeloid differentiation primary response gene (88)	4545	0.1466180682182312	0.46430802	No	
+row_46	DAPK2	DAPK2	death-associated protein kinase 2	4552	0.14569152891635895	0.4662342	No	
+row_47	CD82	CD82	CD82 molecule	4571	0.14124581217765808	0.46700025	No	
+row_48	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	4702	0.12133079767227173	0.45730412	No	
+row_49	RPP40	RPP40	ribonuclease P 40kDa subunit	4791	0.10746236145496368	0.45116976	No	
+row_50	CDO1	CDO1	cysteine dioxygenase, type I	4986	0.07662029564380646	0.4349305	No	
+row_51	TPMT	TPMT	thiopurine S-methyltransferase	5073	0.06353393942117691	0.42823264	No	
+row_52	CD302	CD302	CD302 molecule	5205	0.04574466496706009	0.41716537	No	
+row_53	PDK1	PDK1	pyruvate dehydrogenase kinase, isozyme 1	5815	-0.044471096247434616	0.36286554	No	
+row_54	EVC	EVC	Ellis van Creveld syndrome	5973	-0.06498491764068604	0.3497739	No	
+row_55	CAMK1	CAMK1	calcium/calmodulin-dependent protein kinase I	6030	-0.07471989095211029	0.34597757	No	
+row_56	ANXA4	ANXA4	annexin A4	6283	-0.08051027357578278	0.32456103	No	
+row_57	DHRS4	DHRS4	dehydrogenase/reductase (SDR family) member 4	6534	-0.11579403281211853	0.30392313	No	
+row_58	UPB1	UPB1	ureidopropionase, beta	6696	-0.13919444382190704	0.29172727	No	
+row_59	GPR155	GPR155	G protein-coupled receptor 155	6999	-0.18810886144638062	0.2676139	No	
+row_60	DNASE1L1	DNASE1L1	deoxyribonuclease I-like 1	7527	-0.27234578132629395	0.22458789	No	
+row_61	LIPH	LIPH	lipase, member H	7714	-0.30197885632514954	0.21289024	No	
+row_62	KRT8	KRT8	keratin 8	7943	-0.3415640592575073	0.19806652	No	
+row_63	TOP1MT	TOP1MT	topoisomerase (DNA) I, mitochondrial	7970	-0.34661367535591125	0.20158908	No	
+row_64	RNH1	RNH1	ribonuclease/angiogenin inhibitor 1	8372	-0.4216102659702301	0.17248254	No	
+row_65	HIPK3	HIPK3	homeodomain interacting protein kinase 3	8810	-0.5305609107017517	0.14196764	No	
+row_66	DHRS7	DHRS7	dehydrogenase/reductase (SDR family) member 7	8819	-0.531463623046875	0.15024945	No	
+row_67	SP3	SP3	Sp3 transcription factor	9412	-0.7012271881103516	0.108614355	No	
+row_68	TOM1L1	TOM1L1	target of myb1-like 1 (chicken)	9427	-0.7064099907875061	0.11931802	No	
+row_69	FAH	FAH	fumarylacetoacetate hydrolase (fumarylacetoacetase)	9855	-0.9332406520843506	0.09653005	No	
+row_70	AKAP7	AKAP7	A kinase (PRKA) anchor protein 7	10105	-1.1107215881347656	0.092840396	No	

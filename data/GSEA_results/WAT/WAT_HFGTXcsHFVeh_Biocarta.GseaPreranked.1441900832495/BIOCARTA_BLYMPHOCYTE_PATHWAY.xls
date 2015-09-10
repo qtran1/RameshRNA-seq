@@ -1,0 +1,9 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD80	CD80	CD80 molecule	429	2.825700521469116	0.28609475	Yes	
+row_1	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	959	1.2873830795288086	0.38645703	Yes	
+row_2	ITGAL	ITGAL	integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alpha polypeptide)	975	1.2661516666412354	0.5305822	Yes	
+row_3	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1094	1.1454366445541382	0.65157944	Yes	
+row_4	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1501	0.8873239159584045	0.7170334	Yes	
+row_5	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	1670	0.814215362071991	0.7954809	Yes	
+row_6	FCGR2B	FCGR2B	Fc fragment of IgG, low affinity IIb, receptor (CD32)	3166	0.39869052171707153	0.7069061	No	
+row_7	CR2	CR2	complement component (3d/Epstein Barr virus) receptor 2	6266	-0.07875978201627731	0.43739334	No	

@@ -1,0 +1,54 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	696	1.6510533094406128	-0.026829544	No	
+row_1	SPATA5	SPATA5	spermatogenesis associated 5	2491	0.5547240376472473	-0.17665215	No	
+row_2	NFIA	NFIA	nuclear factor I/A	2767	0.48637276887893677	-0.19087067	No	
+row_3	CDC42SE1	CDC42SE1	CDC42 small effector 1	3140	0.4042620062828064	-0.21563338	No	
+row_4	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	3263	0.37813398241996765	-0.21840242	No	
+row_5	TBC1D2	TBC1D2	TBC1 domain family, member 2	3414	0.34998077154159546	-0.22431214	No	
+row_6	HSF2	HSF2	heat shock transcription factor 2	3624	0.3075062334537506	-0.23647255	No	
+row_7	PSMA2	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	3833	0.26824498176574707	-0.24939846	No	
+row_8	GMNN	GMNN	geminin, DNA replication inhibitor	3911	0.2543882131576538	-0.25080326	No	
+row_9	TOMM70A	TOMM70A	translocase of outer mitochondrial membrane 70 homolog A (S. cerevisiae)	4025	0.23196040093898773	-0.255946	No	
+row_10	GTF2H2	GTF2H2	general transcription factor IIH, polypeptide 2, 44kDa	4116	0.21600762009620667	-0.25936067	No	
+row_11	RREB1	RREB1	ras responsive element binding protein 1	4132	0.21337880194187164	-0.25606364	No	
+row_12	NUDT9	NUDT9	nudix (nucleoside diphosphate linked moiety X)-type motif 9	4310	0.18215738236904144	-0.26806808	No	
+row_13	CLOCK	CLOCK	clock homolog (mouse)	4502	0.15446986258029938	-0.28193954	No	
+row_14	FBXO36	FBXO36	F-box protein 36	4678	0.12657488882541656	-0.29497492	No	
+row_15	BCL10	BCL10	B-cell CLL/lymphoma 10	4799	0.10606974363327026	-0.30349335	No	
+row_16	CWF19L1	CWF19L1	CWF19-like 1, cell cycle control (S. pombe)	6035	-0.0755043625831604	-0.41330975	No	
+row_17	PROX1	PROX1	prospero-related homeobox 1	6387	-0.09553654491901398	-0.44290614	No	
+row_18	AZIN1	AZIN1	antizyme inhibitor 1	6546	-0.11697115749120712	-0.45461658	No	
+row_19	SMEK2	SMEK2	-	6549	-0.11740241944789886	-0.45223817	No	
+row_20	LAPTM4A	LAPTM4A	lysosomal-associated protein transmembrane 4 alpha	6745	-0.14756406843662262	-0.46662116	No	
+row_21	STX17	STX17	syntaxin 17	6865	-0.16839708387851715	-0.47369084	No	
+row_22	RBBP5	RBBP5	retinoblastoma binding protein 5	6960	-0.18316833674907684	-0.47818226	No	
+row_23	NASP	NASP	nuclear autoantigenic sperm protein (histone-binding)	7009	-0.18957176804542542	-0.4783825	No	
+row_24	ZMPSTE24	ZMPSTE24	zinc metallopeptidase (STE24 homolog, yeast)	7038	-0.19290712475776672	-0.47670496	No	
+row_25	KLHL9	KLHL9	kelch-like 9 (Drosophila)	7520	-0.2711907923221588	-0.51420563	No	
+row_26	H3F3A	H3F3A	H3 histone, family 3A	7575	-0.2815220355987549	-0.51294327	No	
+row_27	EFNA5	EFNA5	ephrin-A5	7761	-0.3103538453578949	-0.52287555	No	
+row_28	GTPBP2	GTPBP2	GTP binding protein 2	7809	-0.32013756036758423	-0.5201397	No	
+row_29	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	8496	-0.44884276390075684	-0.5722701	Yes	
+row_30	IFT74	IFT74	intraflagellar transport 74 homolog (Chlamydomonas)	8498	-0.44942909479141235	-0.56256455	Yes	
+row_31	HSPA4L	HSPA4L	heat shock 70kDa protein 4-like	8614	-0.4808858036994934	-0.5624623	Yes	
+row_32	NDUFA4	NDUFA4	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa	8771	-0.5214055180549622	-0.56517714	Yes	
+row_33	SFXN5	SFXN5	sideroflexin 5	8880	-0.5475432276725769	-0.5629902	Yes	
+row_34	SNRPC	SNRPC	small nuclear ribonucleoprotein polypeptide C	9079	-0.5961946845054626	-0.56786555	Yes	
+row_35	COX5B	COX5B	cytochrome c oxidase subunit Vb	9094	-0.6013387441635132	-0.55602235	Yes	
+row_36	STAM	STAM	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	9119	-0.6085762977600098	-0.54492384	Yes	
+row_37	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	9445	-0.7146981358528137	-0.55867845	Yes	
+row_38	KLHL21	KLHL21	kelch-like 21 (Drosophila)	9537	-0.7563323378562927	-0.55040646	Yes	
+row_39	NOV	NOV	nephroblastoma overexpressed gene	9694	-0.8405719995498657	-0.54616475	Yes	
+row_40	COL24A1	COL24A1	collagen, type XXIV, alpha 1	9736	-0.8653042316436768	-0.53100497	Yes	
+row_41	KHDRBS3	KHDRBS3	KH domain containing, RNA binding, signal transduction associated 3	9903	-0.964085042476654	-0.5249737	Yes	
+row_42	ZCCHC11	ZCCHC11	zinc finger, CCHC domain containing 11	9981	-1.013627290725708	-0.5098302	Yes	
+row_43	RPS14	RPS14	ribosomal protein S14	10200	-1.2098082304000854	-0.5031363	Yes	
+row_44	MAML3	MAML3	mastermind-like 3 (Drosophila)	10246	-1.264349341392517	-0.47963992	Yes	
+row_45	PCDHGA12	PCDHGA12	protocadherin gamma subfamily A, 12	10270	-1.2925390005111694	-0.45354357	Yes	
+row_46	ARID5B	ARID5B	AT rich interactive domain 5B (MRF1-like)	10493	-1.8020391464233398	-0.43430245	Yes	
+row_47	SMC2	SMC2	structural maintenance of chromosomes 2	10516	-1.8986989259719849	-0.394904	Yes	
+row_48	NAP1L5	NAP1L5	nucleosome assembly protein 1-like 5	10777	-3.2519092559814453	-0.3474911	Yes	
+row_49	KCNK2	KCNK2	potassium channel, subfamily K, member 2	10844	-3.351161479949951	-0.2804059	Yes	
+row_50	FEV	FEV	FEV (ETS oncogene family)	10933	-4.162895202636719	-0.19761373	Yes	
+row_51	SUSD5	SUSD5	sushi domain containing 5	11008	-4.35402250289917	-0.109392196	Yes	
+row_52	SLIT3	SLIT3	slit homolog 3 (Drosophila)	11089	-5.528238296508789	0.0038810063	Yes	

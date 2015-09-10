@@ -1,0 +1,15 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKAB1	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	1933	0.7169719338417053	-0.10298966	No	
+row_1	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4168	0.20622436702251434	-0.28352627	No	
+row_2	STK11	STK11	serine/threonine kinase 11	4326	0.179295614361763	-0.2799268	No	
+row_3	PRKAB2	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	5657	-0.020816173404455185	-0.39748466	No	
+row_4	TSC2	TSC2	tuberous sclerosis 2	5828	-0.04699774459004402	-0.40812913	No	
+row_5	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	5838	-0.049264371395111084	-0.40406984	No	
+row_6	CAB39L	CAB39L	calcium binding protein 39-like	5888	-0.05488952621817589	-0.4030521	No	
+row_7	CAB39	CAB39	calcium binding protein 39	6493	-0.11028867959976196	-0.44647393	No	
+row_8	RHEB	RHEB	Ras homolog enriched in brain	7019	-0.19102679193019867	-0.47481158	No	
+row_9	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	7046	-0.1937606930732727	-0.45800096	No	
+row_10	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	8532	-0.45834028720855713	-0.5462593	Yes	
+row_11	TSC1	TSC1	tuberous sclerosis 1	9234	-0.6406446695327759	-0.5459909	Yes	
+row_12	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	9369	-0.6874133348464966	-0.4901066	Yes	
+row_13	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	11127	-6.562653064727783	4.4956824E-4	Yes	

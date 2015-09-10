@@ -1,0 +1,7 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GJB1	GJB1	gap junction protein, beta 1, 32kDa (connexin 32, Charcot-Marie-Tooth neuropathy, X-linked)	2391	0.5797779560089111	-0.11725525	No	
+row_1	GJA1	GJA1	gap junction protein, alpha 1, 43kDa (connexin 43)	6349	-0.09068502485752106	-0.45760646	No	
+row_2	GJB2	GJB2	gap junction protein, beta 2, 26kDa (connexin 26)	6640	-0.13056296110153198	-0.46168402	No	
+row_3	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	7221	-0.2207532525062561	-0.47663733	No	
+row_4	NRAP	NRAP	nebulin-related anchoring protein	10411	-1.565721035003662	-0.49958932	Yes	
+row_5	GJA8	GJA8	gap junction protein, alpha 8, 50kDa (connexin 50)	10903	-3.3511762619018555	0.02058068	Yes	

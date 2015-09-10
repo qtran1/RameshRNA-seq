@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TAGLN	TAGLN	transgelin	6336	-0.08935697376728058	-0.5662187	No	
+row_1	RAB23	RAB23	RAB23, member RAS oncogene family	7122	-0.20635999739170074	-0.62824214	No	
+row_2	LAMA3	LAMA3	laminin, alpha 3	7186	-0.2156481146812439	-0.6249334	No	
+row_3	MYL9	MYL9	myosin, light chain 9, regulatory	7912	-0.3364001512527466	-0.67614716	No	
+row_4	TFPI2	TFPI2	tissue factor pathway inhibitor 2	8136	-0.3776192367076874	-0.68048924	No	
+row_5	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	8530	-0.4578568935394287	-0.69678354	No	
+row_6	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.748638	Yes	
+row_7	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	9604	-0.7888804078102112	-0.7308251	Yes	
+row_8	SVIL	SVIL	supervillin	10083	-1.0904662609100342	-0.72843486	Yes	
+row_9	LMOD1	LMOD1	leiomodin 1 (smooth muscle)	10536	-1.9680300951004028	-0.6871798	Yes	
+row_10	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.6020547	Yes	
+row_11	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.5129272	Yes	
+row_12	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	10622	-2.5684735774993896	-0.4098899	Yes	
+row_13	RIMS2	RIMS2	regulating synaptic membrane exocytosis 2	10702	-3.174114465713501	-0.28488287	Yes	
+row_14	CNN1	CNN1	calponin 1, basic, smooth muscle	10919	-3.432582378387451	-0.16144133	Yes	
+row_15	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	11003	-4.336911201477051	0.0116039235	Yes	
