@@ -73,7 +73,7 @@ wat.HFGTXvsHFVeh.noNA <- wat_interxn[!(is.na(wat_interxn$pvalue.HFGTX_vs_HFVeh|w
 wat.HFGTXvsHFVeh.order <- wat.HFGTXvsHFVeh.noNA[order(-wat.HFGTXvsHFVeh.noNA$log2FoldChange.HFGTX_vs_HFVeh),c(20,15)]
 #get rid of duplicate gene
 wat.HFGTXvsHFVeh.noDup <- wat.HFGTXvsHFVeh.order[!duplicated(wat.HFGTXvsHFVeh.order$external_gene_name),]
-write.table(liver.HFGTXvsHFVeh.noDup, file="../data/processed/GSEA_WAT_HFGTXvsHFVeh_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
+write.table(wat.HFGTXvsHFVeh.noDup, file="../data/processed/GSEA_WAT_HFGTXvsHFVeh_preranked.rnk", sep="\t", row.names=FALSE, quote=FALSE)
 
 ```
 
