@@ -1,0 +1,532 @@
+"","Total Cmpd","Hits","Statistic Q","Expected Q","Raw p","Holm p","FDR"
+"ATP diphosphohydrolase",7,2,61.057,14.286,0.0043058,1,0.062622
+"5'-nucleotidase (AMP), extracellular",5,2,61.057,14.286,0.0043058,1,0.062622
+"pyruvate carboxylase",9,7,53.009,14.286,0.0047079,1,0.062622
+"aspartate 1-decarboxylase",1,1,75.755,14.286,0.0049295,1,0.062622
+"B-alanine secretion via secretory vesicle (ATP driven)",1,1,75.755,14.286,0.0049295,1,0.062622
+"beta-Alanine exchange",1,1,75.755,14.286,0.0049295,1,0.062622
+"Pyridoxal 5-phosphate phosphatase",2,1,75.519,14.286,0.0050807,1,0.062622
+"Pyridoxal exchange",1,1,75.519,14.286,0.0050807,1,0.062622
+"L-Lysine exchange",2,1,75.248,14.286,0.0052578,1,0.062622
+"Biotin exchange",3,1,75.248,14.286,0.0052578,1,0.062622
+"biotinidase (biotin), extracellular",3,1,75.248,14.286,0.0052578,1,0.062622
+"2-aminoadipate transaminase, irreversible",1,1,75.248,14.286,0.0052578,1,0.062622
+"2-oxoadipate shuttle (cytosol/mitochondria)",1,1,75.248,14.286,0.0052578,1,0.062622
+"2-Oxoadipate:lipoamde 2-oxidoreductase(decarboxylating and acceptor-succinylating) (mitochondria)",1,1,75.248,14.286,0.0052578,1,0.062622
+"AAPSAS",1,1,75.248,14.286,0.0052578,1,0.062622
+"delta1-piperideine-2-carboxylate reductase, perixosomal",1,1,75.248,14.286,0.0052578,1,0.062622
+"glutaryl-CoA dehydrogenase (mitochondria)",1,1,75.248,14.286,0.0052578,1,0.062622
+"L-aminoadipate-semialdehyde dehydrogenase (NADH)",1,1,75.248,14.286,0.0052578,1,0.062622
+"L-aminoadipate-semialdehyde dehydrogenase (NADH), mitochondrial",1,1,75.248,14.286,0.0052578,1,0.062622
+"L-lysine oxidase, peroxisomal",1,1,75.248,14.286,0.0052578,1,0.062622
+"L-lysine transport, peroxisomal (irreversible)",1,1,75.248,14.286,0.0052578,1,0.062622
+"L-pipecolate oxidase, peroxisomal",1,1,75.248,14.286,0.0052578,1,0.062622
+"Lysine mitochondrial transport via ornithine carrier",1,1,75.248,14.286,0.0052578,1,0.062622
+"PPD2CSPp",1,1,75.248,14.286,0.0052578,1,0.062622
+"saccharopine dehydrogenase (NAD, L-glutamate forming), mitochondrial",1,1,75.248,14.286,0.0052578,1,0.062622
+"saccharopine dehydrogenase (NADP, L-lysine forming), mitochondrial",1,1,75.248,14.286,0.0052578,1,0.062622
+"Uridine exchange",1,1,73.744,14.286,0.006321,1,0.062622
+"Guanine exchange",1,1,73.401,14.286,0.0065825,1,0.062622
+"Guanine transport",1,1,73.401,14.286,0.0065825,1,0.062622
+"5'-nucleotidase (CMP)",1,1,72.51,14.286,0.0072982,1,0.062622
+"Cytidine exchange",1,1,72.51,14.286,0.0072982,1,0.062622
+"uridine kinase (ATP:Uridine)",1,1,72.51,14.286,0.0072982,1,0.062622
+"nucleoside-diphosphatase (UTP), extracellular",7,3,47.32,14.286,0.0080441,1,0.062622
+"R group coenzyme a ligase",11,2,51.176,14.286,0.0092066,1,0.062622
+"5'-nucleotidase (UMP), extracellular",12,7,48.284,14.286,0.0094351,1,0.062622
+"deoxyuridine phosphorylase",3,3,55.355,14.286,0.0098528,1,0.062622
+"L-threonine deaminase",3,1,69.697,14.286,0.0099122,1,0.062622
+"citrate synthase",7,5,47.42,14.286,0.010324,1,0.062622
+"nucleoside-diphosphatase (UDP), extracellular",12,8,44.585,14.286,0.010422,1,0.062622
+"alpha-N-Phenylacetyl-L-glutamine exchange",3,2,61.372,14.286,0.011417,1,0.062622
+"L-Phenylalanine carboxy-lyase",3,2,61.372,14.286,0.011417,1,0.062622
+"L-Tyrosine exchange",3,2,61.372,14.286,0.011417,1,0.062622
+"PHEACGLN extracellular transport via diffusion",3,2,61.372,14.286,0.011417,1,0.062622
+"Phenethylamine oxidase",3,2,61.372,14.286,0.011417,1,0.062622
+"phenylacetate-CoA ligase",3,2,61.372,14.286,0.011417,1,0.062622
+"Phenylacetyl-CoA:L-glutamine alpha-N-phenylacetyltransferase",3,2,61.372,14.286,0.011417,1,0.062622
+"L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)",11,2,61.372,14.286,0.011417,1,0.062622
+"aldehyde dehydrogenase (phenylacetaldehyde, NAD)",2,2,61.372,14.286,0.011417,1,0.062622
+"aldehyde dehydrogenase (phenylacetaldehyde, NADP)",2,2,61.372,14.286,0.011417,1,0.062622
+"Hypoxanthine exchange",1,1,68.104,14.286,0.011653,1,0.062622
+"Hypoxanthine transport",1,1,68.104,14.286,0.011653,1,0.062622
+"ADPribose diphosphatase",8,3,53.015,14.286,0.012984,1,0.062622
+"L-phenylalanine transport via diffusion (extracellular to cytosol)",1,1,66.368,14.286,0.013785,1,0.062622
+"AMP exchange",1,1,66.001,14.286,0.014268,1,0.062622
+"ADPribose transport",6,2,44.73,14.286,0.014744,1,0.062622
+"aspartate carbamoyltransferase (reversible)",7,5,43.13,14.286,0.015871,1,0.062622
+"carbamoyl-phosphate synthase (glutamine-hydrolysing)",7,5,43.13,14.286,0.015871,1,0.062622
+"dihydoorotic acid dehydrogenase (quinone10)",7,5,43.13,14.286,0.015871,1,0.062622
+"orotidine-5'-phosphate decarboxylase",7,5,43.13,14.286,0.015871,1,0.062622
+"ubiquinol-6 cytochrome c reductase, Complex III",7,5,43.13,14.286,0.015871,1,0.062622
+"O2 transport (diffusion)",6,5,43.13,14.286,0.015871,1,0.062622
+"pyridoxamine 5'-phosphate oxidase",4,2,46.832,14.286,0.015963,1,0.062622
+"pyridoxamine kinase",4,2,46.832,14.286,0.015963,1,0.062622
+"pyridoxamine transport via diffusion",4,2,46.832,14.286,0.015963,1,0.062622
+"pyridoxine 5'-phosphate oxidase",4,2,46.832,14.286,0.015963,1,0.062622
+"pyridoxine kinase",4,2,46.832,14.286,0.015963,1,0.062622
+"pyridoxine transport via diffusion",4,2,46.832,14.286,0.015963,1,0.062622
+"R total 2 position exchange",7,1,63.981,14.286,0.017148,1,0.062622
+"beta-Carotene dioxygenase",6,1,63.981,14.286,0.017148,1,0.062622
+"beta-carotene transport via diffusion",6,1,63.981,14.286,0.017148,1,0.062622
+"Retinol transport via faciliated diffusion",5,1,63.981,14.286,0.017148,1,0.062622
+"retinyl ester hydrolase, extracellular",5,1,63.981,14.286,0.017148,1,0.062622
+"fatty acid retinol efflux",1,1,63.981,14.286,0.017148,1,0.062622
+"L-Phenylalanine exchange",73,11,45.021,14.286,0.018171,1,0.062622
+"glyceraldehyde-3-phosphate dehydrogenase",19,11,50.314,14.286,0.018317,1,0.062622
+"asparagine synthase (glutamine-hydrolysing)",1,1,62.734,14.286,0.019122,1,0.062622
+"L-asparaginase (mitochondrial)",1,1,62.734,14.286,0.019122,1,0.062622
+"L-Asparagine exchange",1,1,62.734,14.286,0.019122,1,0.062622
+"L-asparagine transport, mitochondrial",1,1,62.734,14.286,0.019122,1,0.062622
+"L-Glutamine exchange",1,1,62.621,14.286,0.019308,1,0.062622
+"cytochrome c oxidase, mitochondrial Complex IV",12,6,43.955,14.286,0.019406,1,0.062622
+"carboxylic acid dissociation",22,8,45.339,14.286,0.020637,1,0.062622
+"R total flux",2,1,61.748,14.286,0.020791,1,0.062622
+"fatty acyl-CoA synthase (n-C8:0CoA), lumped reaction",4,1,61.748,14.286,0.020791,1,0.062622
+"fatty acyl-CoA synthase (n-C10:0CoA)",5,1,61.748,14.286,0.020791,1,0.062622
+"fatty-acyl-CoA synthase (n-C12:0CoA)",5,1,61.748,14.286,0.020791,1,0.062622
+"fatty-acyl-CoA synthase (n-C14:0CoA)",5,1,61.748,14.286,0.020791,1,0.062622
+"dephospho-CoA kinase",1,1,61.748,14.286,0.020791,1,0.062622
+"pantetheine-phosphate adenylyltransferase",1,1,61.748,14.286,0.020791,1,0.062622
+"pantothenate kinase",1,1,61.748,14.286,0.020791,1,0.062622
+"Pantothenate sodium symporter II",1,1,61.748,14.286,0.020791,1,0.062622
+"phosphopantothenate-cysteine ligase",1,1,61.748,14.286,0.020791,1,0.062622
+"phosphopantothenoylcysteine decarboxylase",1,1,61.748,14.286,0.020791,1,0.062622
+"UMP exchange",2,2,45.521,14.286,0.021221,1,0.062622
+"phosphoribosylpyrophosphate synthetase",23,16,43.912,14.286,0.021275,1,0.062622
+"Trehalose exchange",100,27,42.16,14.286,0.021346,1,0.062622
+"Arginine/Lysine exchanger (Arg in)",1,1,61.053,14.286,0.02203,1,0.062622
+"L-arginine transport in via sodium symport",1,1,61.053,14.286,0.02203,1,0.062622
+"L-arginine transport via diffusion (extracellular to cytosol)",1,1,61.053,14.286,0.02203,1,0.062622
+"lipid, flip-flop intracellular transport",98,19,41.951,14.286,0.022031,1,0.062622
+"NAD nucleosidase",2,1,60.967,14.286,0.022189,1,0.062622
+"NAD synthase (glutamine-hydrolysing)",2,1,60.967,14.286,0.022189,1,0.062622
+"Nicotinic acid uptake",2,1,60.967,14.286,0.022189,1,0.062622
+"NICRNS",2,1,60.967,14.286,0.022189,1,0.062622
+"nucleotide phosphatase",2,1,60.967,14.286,0.022189,1,0.062622
+"Glutamate transport via Na, H symport and K antiport",21,14,45.983,14.286,0.022597,1,0.062622
+"methenyltetrahydrofolate cyclohydrolase",4,3,59.03,14.286,0.022817,1,0.062622
+"glycine hydroxymethyltransferase, reversible",18,10,48.157,14.286,0.022876,1,0.062622
+"succinate transport, mitochondrial",1,1,60.264,14.286,0.023501,1,0.062622
+"protoporphyrinogen oxidase, mitochondrial",53,14,37.794,14.286,0.023897,1,0.062622
+"alpha-methylacyl-CoA racemase",44,14,37.794,14.286,0.023897,1,0.062622
+"alpha-methylacyl-CoA racemase (reductase)",44,14,37.794,14.286,0.023897,1,0.062622
+"Chenodeoxyglycocholate exchange",44,14,37.794,14.286,0.023897,1,0.062622
+"FADH2 transporter, peroxisomal",44,14,37.794,14.286,0.023897,1,0.062622
+"glycocholate exchange",44,14,37.794,14.286,0.023897,1,0.062622
+"Taurocholic acid exchange",44,14,37.794,14.286,0.023897,1,0.062622
+"acyl-Coenzyme A oxidase 2, branched chain",44,14,37.794,14.286,0.023897,1,0.062622
+"hydroxysteroid (17-beta) dehydrogenase 4",44,14,37.794,14.286,0.023897,1,0.062622
+"5-beta-cholestane-3-alpha,7-alpha,12-alpha-triol 27-hydroxylase",44,14,37.794,14.286,0.023897,1,0.062622
+"C-14 sterol reductase",49,14,37.794,14.286,0.023897,1,0.062622
+"C-3 sterol keto reductase (zymosterol)",49,14,37.794,14.286,0.023897,1,0.062622
+"C-4 sterol methyl oxidase (4,4-dimethylzymosterol)",49,14,37.794,14.286,0.023897,1,0.062622
+"cholesterol precursor intracellular transport",49,14,37.794,14.286,0.023897,1,0.062622
+"cytochrome P450 lanosterol 14-alpha-demethylase",49,14,37.794,14.286,0.023897,1,0.062622
+"FAD transporter, endoplasmic reticulum",49,14,37.794,14.286,0.023897,1,0.062622
+"FADH2 transporter, endoplasmic reticulum",49,14,37.794,14.286,0.023897,1,0.062622
+"lanosterol synthase",49,14,37.794,14.286,0.023897,1,0.062622
+"Previtamin D3 formation",49,14,37.794,14.286,0.023897,1,0.062622
+"Squalene epoxidase, endoplasmic reticular (NADP)",49,14,37.794,14.286,0.023897,1,0.062622
+"Squalene synthase",49,14,37.794,14.286,0.023897,1,0.062622
+"Vitamin D3 exchange",49,14,37.794,14.286,0.023897,1,0.062622
+"Vitamin D3 formation",49,14,37.794,14.286,0.023897,1,0.062622
+"dimethylallyltranstransferase",39,14,37.794,14.286,0.023897,1,0.062622
+"geranyltranstransferase",39,14,37.794,14.286,0.023897,1,0.062622
+"isopentenyl-diphosphate D-isomerase",39,14,37.794,14.286,0.023897,1,0.062622
+"glycochenodeoxycholate exchange",41,14,37.794,14.286,0.023897,1,0.062622
+"7-dehydrocholesterol reductase",50,14,37.794,14.286,0.023897,1,0.062622
+"Beta oxidation of long chain fatty acid",52,14,37.794,14.286,0.023897,1,0.062622
+"phosphoglycerate dehydrogenase",23,11,47.351,14.286,0.024149,1,0.062622
+"phosphoserine phosphatase (L-serine)",23,11,47.351,14.286,0.024149,1,0.062622
+"phosphoserine transaminase",23,11,47.351,14.286,0.024149,1,0.062622
+"FAD transporter, peroxisomal",70,6,44.332,14.286,0.024968,1,0.062622
+"sterol 12-alpha-hydroxylase",42,13,38.743,14.286,0.02518,1,0.062622
+"sterol 12-alpha-hydroxylase (nadh)",42,13,38.743,14.286,0.02518,1,0.062622
+"CO2 exchange",8,3,55.504,14.286,0.025248,1,0.062622
+"Inosine exchange",1,1,59.273,14.286,0.025446,1,0.062622
+"purine-nucleoside phosphorylase (Inosine)",1,1,59.273,14.286,0.025446,1,0.062622
+"glutamine synthetase",34,24,42.989,14.286,0.025703,1,0.062622
+"dehydroascorbate transport (uniport)",27,8,35.88,14.286,0.025744,1,0.062622
+"peroxisomal thiolase 2",45,15,38.621,14.286,0.026072,1,0.062622
+"bile acid intracellular transport",45,15,38.621,14.286,0.026072,1,0.062622
+"carnitine O-aceyltransferase, mitochondrial",42,15,38.621,14.286,0.026072,1,0.062622
+"carnitine O-aceyltransferase, peroxisomal",42,15,38.621,14.286,0.026072,1,0.062622
+"carnitine-propcarnitine carrier, peroxisomal",42,15,38.621,14.286,0.026072,1,0.062622
+"cytochrome P450, family 7, subfamily A, polypeptide 1",42,15,38.621,14.286,0.026072,1,0.062622
+"taurine transport (sodium symport) (cytosol to peroxisome)",42,15,38.621,14.286,0.026072,1,0.062622
+"taurochenodeoxycholate exchange",42,15,38.621,14.286,0.026072,1,0.062622
+"transport into the mitochondria from cytosol (carnitine)",42,15,38.621,14.286,0.026072,1,0.062622
+"Cytochrome P450 27",42,15,38.621,14.286,0.026072,1,0.062622
+"aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)",45,15,38.621,14.286,0.026072,1,0.062622
+"aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)",45,15,38.621,14.286,0.026072,1,0.062622
+"Very-long-chain-fatty-acid-CoA ligase",45,15,38.621,14.286,0.026072,1,0.062622
+"5-beta-cytochrome P450, family 27, subfamily A, polypeptide 1",42,15,38.621,14.286,0.026072,1,0.062622
+"bile acid Coenzyme A: amino acid N-acyltransferase",45,15,38.621,14.286,0.026072,1,0.062622
+"3-beta-hydroxysteroid-delta(8),delta(7)-isomerase",44,13,36.647,14.286,0.026845,1,0.062622
+"C-3 sterol dehydrogenase (4-methylzymosterol)",44,13,36.647,14.286,0.026845,1,0.062622
+"C-4 methyl sterol oxidase",44,13,36.647,14.286,0.026845,1,0.062622
+"Carbon monoxide exchange",39,13,36.647,14.286,0.026845,1,0.062622
+"CO transporter via diffusion",39,13,36.647,14.286,0.026845,1,0.062622
+"coproporphyrinogen oxidase (O2 required)",39,13,36.647,14.286,0.026845,1,0.062622
+"Ferrochelatase, mitochondrial",39,13,36.647,14.286,0.026845,1,0.062622
+"Heme oxygenase 1",39,13,36.647,14.286,0.026845,1,0.062622
+"Heme transport to cytosol",39,13,36.647,14.286,0.026845,1,0.062622
+"hydroxymethylbilane synthase",39,13,36.647,14.286,0.026845,1,0.062622
+"iron (II) transport",39,13,36.647,14.286,0.026845,1,0.062622
+"Nad(p)h biliverdin reductase",39,13,36.647,14.286,0.026845,1,0.062622
+"protoporphyrinogen IX mitochondrial transport",39,13,36.647,14.286,0.026845,1,0.062622
+"uroporphyrinogen decarboxylase (uroporphyrinogen III)",39,13,36.647,14.286,0.026845,1,0.062622
+"uroporphyrinogen-III synthase",39,13,36.647,14.286,0.026845,1,0.062622
+"24-dehydrocholesterol reductase [Precursor]",46,13,36.647,14.286,0.026845,1,0.062622
+"Lathosterol oxidase",46,13,36.647,14.286,0.026845,1,0.062622
+"hydrogen peroxide transport via diffusion",35,13,36.647,14.286,0.026845,1,0.062622
+"o2 transport (diffusion)",35,13,36.647,14.286,0.026845,1,0.062622
+"fatty acid intracellular transport",42,13,36.647,14.286,0.026845,1,0.062622
+"Vitamin D-25-hydroxylase (D3)",7,1,58.475,14.286,0.027096,1,0.062622
+"sterol O-acyltransferase (acyl-Coenzyme A: cholesterol acyltransferase) 1",5,1,58.475,14.286,0.027096,1,0.062622
+"25-Hydroxyvitamin D3 exchange",6,1,58.475,14.286,0.027096,1,0.062622
+"cholesterol efflux (ATP depedent)",6,1,58.475,14.286,0.027096,1,0.062622
+"cholesterol ester exchange",6,1,58.475,14.286,0.027096,1,0.062622
+"Cholesterol exchange",6,1,58.475,14.286,0.027096,1,0.062622
+"cholesterol intracellular transport",6,1,58.475,14.286,0.027096,1,0.062622
+"diphosphomevalonate decarboxylase",6,1,58.475,14.286,0.027096,1,0.062622
+"Hydroxymethylglutaryl CoA reductase (ir)",6,1,58.475,14.286,0.027096,1,0.062622
+"Hydroxymethylglutaryl-CoA reversible peroxisomal transport",6,1,58.475,14.286,0.027096,1,0.062622
+"mevalonate kinase (atp)",6,1,58.475,14.286,0.027096,1,0.062622
+"phosphomevalonate kinase",6,1,58.475,14.286,0.027096,1,0.062622
+"7-alpha,24(S)-Dihydroxycholesterol exchange",8,1,58.475,14.286,0.027096,1,0.062622
+"7-alpha,25-Dihydroxycholesterol exchange",8,1,58.475,14.286,0.027096,1,0.062622
+"7-alpha,27-Dihydroxycholesterol exchange",8,1,58.475,14.286,0.027096,1,0.062622
+"cholesterol 25-hydroxylase",8,1,58.475,14.286,0.027096,1,0.062622
+"cytochrome P450, family 46, subfamily A, polypeptide 1",8,1,58.475,14.286,0.027096,1,0.062622
+"oxysterol 7-alpha-hydroxylase",8,1,58.475,14.286,0.027096,1,0.062622
+"24 trihydroxy cholesterol transport",8,1,58.475,14.286,0.027096,1,0.062622
+"25 trihydroxy cholesterol transport",8,1,58.475,14.286,0.027096,1,0.062622
+"27 trihydroxy cholesterol transport",8,1,58.475,14.286,0.027096,1,0.062622
+"oxysterol 7alpha-hydroxylase",8,1,58.475,14.286,0.027096,1,0.062622
+"cholesterol ester (from FULLR2) exchange",2,1,58.475,14.286,0.027096,1,0.062622
+"Lecithin-cholesterol acyltransferase",2,1,58.475,14.286,0.027096,1,0.062622
+"lysophosphatidylcholine (homo sapiens) exchange",2,1,58.475,14.286,0.027096,1,0.062622
+"hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7",37,14,39.527,14.286,0.027138,1,0.062622
+"taurine transport (sodium symport) (2:1)",40,14,39.527,14.286,0.027138,1,0.062622
+"GMP reductase",6,4,50.518,14.286,0.027725,1,0.062622
+"guanine phosphoribosyltransferase",6,4,50.518,14.286,0.027725,1,0.062622
+"adenosine kinase",3,2,55.209,14.286,0.027884,1,0.062622
+"Phosphatidylserine synthase homo sapiens",3,2,55.209,14.286,0.027884,1,0.062622
+"Phosphatidylserine decarboxylase",5,2,55.209,14.286,0.027884,1,0.062622
+"phosphatidylserine flippase",6,2,55.209,14.286,0.027884,1,0.062622
+"glycine passive transport to mitochondria",4,2,55.209,14.286,0.027884,1,0.062622
+"triose-phosphate isomerase",6,2,55.209,14.286,0.027884,1,0.062622
+"Fatty acid omega-hydroxylase",2,1,58.088,14.286,0.027922,1,0.062622
+"fatty-acid--CoA ligase (tetradecanoate)",2,1,58.088,14.286,0.027922,1,0.062622
+"omega hydroxy tetradecanoate (n-C14:0) exchange",2,1,58.088,14.286,0.027922,1,0.062622
+"Tetradecanoate (n-C14:0) transport in via uniport",2,1,58.088,14.286,0.027922,1,0.062622
+"GMP synthase",4,2,49.01,14.286,0.028246,1,0.062622
+"purine-nucleoside phosphorylase (Guanosine)",3,2,49.01,14.286,0.028246,1,0.062622
+"Proline dehydrogenase",34,12,37.588,14.286,0.02825,1,0.062622
+"dihydroceramide desaturase",38,12,37.588,14.286,0.02825,1,0.062622
+"Vitamin D3 uptake",12,2,39.605,14.286,0.028408,1,0.062622
+"NADP transporter, peroxisome",9,2,39.605,14.286,0.028408,1,0.062622
+"NADPH transporter, peroxisome",9,2,39.605,14.286,0.028408,1,0.062622
+"Betaine transport (sodium symport) (2:1)",1,1,57.743,14.286,0.028674,1,0.062622
+"betaine-aldehyde dehydrogenase, mitochondrial",1,1,57.743,14.286,0.028674,1,0.062622
+"betaine-homocysteine S-methyltransferase",1,1,57.743,14.286,0.028674,1,0.062622
+"choline dehydrogenase (FAD acceptor), mitochondrial",1,1,57.743,14.286,0.028674,1,0.062622
+"choline transport via diffusion (cytosol to mitochondria)",1,1,57.743,14.286,0.028674,1,0.062622
+"dimethylglycine dehydrogenase, mitochondrial",1,1,57.743,14.286,0.028674,1,0.062622
+"dimethylglycine transport via diffusion (cytosol to mitochondria)",1,1,57.743,14.286,0.028674,1,0.062622
+"formaldehyde transport via diffusion (mitochondrial)",1,1,57.743,14.286,0.028674,1,0.062622
+"Glycine betaine exchange",1,1,57.743,14.286,0.028674,1,0.062622
+"Glycine betaine transport via diffusion (mitochondria to cytosol)",1,1,57.743,14.286,0.028674,1,0.062622
+"phosphatidylethanolamine N-methyltransferase",1,1,57.743,14.286,0.028674,1,0.062622
+"S-Adenosyl-L-methionine intracellular diffusion",1,1,57.743,14.286,0.028674,1,0.062622
+"phosphatidylethanolamine scramblase",2,1,57.743,14.286,0.028674,1,0.062622
+"ADPribose 2'-phosphate exchange",4,2,56.968,14.286,0.029247,1,0.062622
+"Nicotinamide acid uptake",2,2,56.968,14.286,0.029247,1,0.062622
+"1-Methylnicotinamide exchange",3,2,56.968,14.286,0.029247,1,0.062622
+"N1-Methylnicotinamide transport",3,2,56.968,14.286,0.029247,1,0.062622
+"Nicotinamide N-methyltransferase",3,2,56.968,14.286,0.029247,1,0.062622
+"Histidine transport (Na, H coupled)",1,1,57.306,14.286,0.029649,1,0.063227
+"adenosylhomocysteinase",16,3,45.32,14.286,0.031181,1,0.064581
+"methionine adenosyltransferase",16,3,45.32,14.286,0.031181,1,0.064581
+"Succinate exchange",3,3,45.423,14.286,0.031724,1,0.064581
+"4-Aminobutanoate exchange",1,1,56.27,14.286,0.032056,1,0.064581
+"4-aminobutanoate mitochondrial transport via diffusion",1,1,56.27,14.286,0.032056,1,0.064581
+"4-aminobutyrate transaminase, reversible (mitochondrial)",1,1,56.27,14.286,0.032056,1,0.064581
+"Glutamate Decarboxylase",1,1,56.27,14.286,0.032056,1,0.064581
+"succinate-semialdehyde dehydrogenase (NAD) reversible (mitochondrial)",1,1,56.27,14.286,0.032056,1,0.064581
+"fatty-acid--CoA ligase (octanoate)",1,1,56.248,14.286,0.032109,1,0.064581
+"Octanoate transport via diffusion",1,1,56.248,14.286,0.032109,1,0.064581
+"glutamine phosphoribosyldiphosphate amidotransferase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylaminoimidazole carboxylase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylaminoimidazole synthase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylaminoimidazolecarboxamide formyltransferase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylaminoimidazolesuccinocarboxamide synthase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylformylglycinamidine synthase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylglycinamide formyltransferase",14,9,40.769,14.286,0.032595,1,0.064581
+"phosphoribosylglycinamide synthase",14,9,40.769,14.286,0.032595,1,0.064581
+"adenylosuccinate lyase",14,9,40.769,14.286,0.032595,1,0.064581
+"ATP transporter, peroxisomal",12,3,43.413,14.286,0.033618,1,0.066115
+"O2 transport, endoplasmic reticulum",13,3,43.413,14.286,0.033618,1,0.066115
+"ATP synthase (four protons for one ATP)",22,13,40.684,14.286,0.034465,1,0.067214
+"L-Ascorbate exchange",18,5,31.237,14.286,0.035544,1,0.067214
+"R group artificial flux",14,3,48.757,14.286,0.037163,1,0.067214
+"IMP dehydrogenase",5,3,43.306,14.286,0.03731,1,0.067214
+"thiamin pyrophosphatase",1,1,54.069,14.286,0.037643,1,0.067214
+"Thiamin exchange",2,1,54.069,14.286,0.037643,1,0.067214
+"Thiamin monophosphate exchange",2,1,54.069,14.286,0.037643,1,0.067214
+"thiamin phosphatase",3,1,54.069,14.286,0.037643,1,0.067214
+"Thiamin triphosphate exchange",3,1,54.069,14.286,0.037643,1,0.067214
+"thiamine diphosphokinase",3,1,54.069,14.286,0.037643,1,0.067214
+"Thiamine monophosphate transport in via anion antiport",3,1,54.069,14.286,0.037643,1,0.067214
+"Thiamine transport in via proton antiport",3,1,54.069,14.286,0.037643,1,0.067214
+"Thiamine triphosphate transport in via anion antiport",3,1,54.069,14.286,0.037643,1,0.067214
+"NAD nucleosidase,extracellular",4,4,42.001,14.286,0.03983,1,0.067214
+"glutamate 5-kinase (m)",1,1,53.256,14.286,0.039875,1,0.067214
+"glutamate-5-semialdehyde dehydrogenase (m)",1,1,53.256,14.286,0.039875,1,0.067214
+"L-glutamate 5-semialdehyde dehydratase, reversible, mitochondrial",1,1,53.256,14.286,0.039875,1,0.067214
+"L-Proline exchange",1,1,53.256,14.286,0.039875,1,0.067214
+"L-proline transport, mitochondrial",1,1,53.256,14.286,0.039875,1,0.067214
+"methionine synthase",7,3,43.113,14.286,0.039933,1,0.067214
+"5,10-methylenetetrahydrofolatereductase (NADPH)",9,3,43.113,14.286,0.039933,1,0.067214
+"3,4-Dihydroxy-L-phenylalanine exchange",2,1,53.144,14.286,0.040193,1,0.067214
+"Tetrahydrobiopterin-4a-carbinolamine dehydratase",11,1,53.144,14.286,0.040193,1,0.067214
+"Iodide:hydrogen-peroxide oxidoreductase 3",10,1,53.144,14.286,0.040193,1,0.067214
+"Triiodothyronine exchange",10,1,53.144,14.286,0.040193,1,0.067214
+"4-Hydroxyphenylpyruvate:oxygen oxidoreductase",1,1,53.144,14.286,0.040193,1,0.067214
+"fumarylacetoacetase",1,1,53.144,14.286,0.040193,1,0.067214
+"Homogentisate:oxygen 1,2-oxidoreductase (decyclizing)",1,1,53.144,14.286,0.040193,1,0.067214
+"L-tyrosine transport",1,1,53.144,14.286,0.040193,1,0.067214
+"maleylacetoacetate isomerase",1,1,53.144,14.286,0.040193,1,0.067214
+"tyrosine 3-monooxygenase",1,1,53.144,14.286,0.040193,1,0.067214
+"tyrosine transaminase",1,1,53.144,14.286,0.040193,1,0.067214
+"Tyramine O-sulfate exchange",2,1,53.144,14.286,0.040193,1,0.067214
+"Tyramine O-sulfate transport (diffusion)",2,1,53.144,14.286,0.040193,1,0.067214
+"Tyramine Sulfotransferase",2,1,53.144,14.286,0.040193,1,0.067214
+"Iodide:hydrogen-peroxide oxidoreductase",5,1,53.144,14.286,0.040193,1,0.067214
+"Iodide:hydrogen-peroxide oxidoreductase 2",5,1,53.144,14.286,0.040193,1,0.067214
+"4-Hydroxyphenylacetaldehyde:NADP+ oxidoreductase",2,1,53.144,14.286,0.040193,1,0.067214
+"4-Hydroxyphenylacetate exchange",2,1,53.144,14.286,0.040193,1,0.067214
+"hydroxyphenylacetate transport via diffusion",2,1,53.144,14.286,0.040193,1,0.067214
+"Tyramine:oxygen oxidoreductase(deaminating)(flavin-containing) (cytosol)",2,1,53.144,14.286,0.040193,1,0.067214
+"L-Tyrosine carboxy-lyase",3,1,53.144,14.286,0.040193,1,0.067214
+"Tyrosine:dopa oxidase",3,1,53.144,14.286,0.040193,1,0.067214
+"R group artificial flux (C18:3, n-3)",1,1,52.776,14.286,0.04124,1,0.067214
+"stearidonic acid exchange",1,1,52.776,14.286,0.04124,1,0.067214
+"nucleoside-triphosphatase (GTP)",7,1,52.732,14.286,0.041368,1,0.067214
+"5'-nucleotidase (GMP), extracellular",5,1,52.732,14.286,0.041368,1,0.067214
+"nucleoside-diphosphatase (GDP), extracellular",7,1,52.732,14.286,0.041368,1,0.067214
+"formimidoyltransferase cyclodeaminase",2,2,36.578,14.286,0.041575,1,0.067214
+"Glutamate formimidoyltransferase",2,2,36.578,14.286,0.041575,1,0.067214
+"Histamine exchange",2,2,36.578,14.286,0.041575,1,0.067214
+"histidase",2,2,36.578,14.286,0.041575,1,0.067214
+"imidazolonepropionase",2,2,36.578,14.286,0.041575,1,0.067214
+"urocanase",2,2,36.578,14.286,0.041575,1,0.067214
+"histidine decarboxylase",3,2,36.578,14.286,0.041575,1,0.067214
+"acetyl-CoA carboxylase",17,4,39.644,14.286,0.041944,1,0.067214
+"3-Hydroxy-L-kynurenine hydrolase",21,5,38.882,14.286,0.042278,1,0.067214
+"3-hydroxyanthranilate 3,4-dioxygenase",21,5,38.882,14.286,0.042278,1,0.067214
+"5-hydroxy-L-tryptophan secretion via secretory vesicle (ATP driven)",21,5,38.882,14.286,0.042278,1,0.067214
+"kynurenine 3-monooxygenase",21,5,38.882,14.286,0.042278,1,0.067214
+"L-Tryptophan:oxygen 2,3-oxidoreductase (decyclizing)",21,5,38.882,14.286,0.042278,1,0.067214
+"N-Formyl-L-kynurenine amidohydrolase",21,5,38.882,14.286,0.042278,1,0.067214
+"nicotinate-nucleotide diphosphorylase (carboxylating)",21,5,38.882,14.286,0.042278,1,0.067214
+"Quinolinate Synthase (Eukaryotic)",21,5,38.882,14.286,0.042278,1,0.067214
+"NADP nucleosidase,extracellular",3,1,52.198,14.286,0.04293,1,0.067844
+"Nicotinamide exchange",1,1,52.198,14.286,0.04293,1,0.067844
+"timnodonic acid exchange",1,1,51.982,14.286,0.043575,1,0.068659
+"pyridoxal transport via diffusion",19,6,35.157,14.286,0.044117,1,0.069308
+"Glycine exchange",1,1,50.902,14.286,0.046903,1,0.073287
+"Choline exchange",1,1,50.875,14.286,0.046988,1,0.073287
+"Citrate exchange",1,1,50.808,14.286,0.047202,1,0.073287
+"H+ exchange",2,1,50.808,14.286,0.047202,1,0.073287
+"L-Lactate exchange",1,1,50.301,14.286,0.048835,1,0.075357
+"Glutathione dehydrogenase (dehydroascorbate reductase)",29,7,35.427,14.286,0.049206,1,0.075357
+"1-acylglycerol-3-phosphate O-acyltransferase 1",4,1,50.047,14.286,0.04967,1,0.075357
+"glycerol-3-phosphate acyltransferase",4,1,50.047,14.286,0.04967,1,0.075357
+"Glycerol exchange",1,1,50.047,14.286,0.04967,1,0.075357
+"glycerol kinase",1,1,50.047,14.286,0.04967,1,0.075357
+"glycerol transport via channel",1,1,50.047,14.286,0.04967,1,0.075357
+"lipase",3,1,50.047,14.286,0.04967,1,0.075357
+"transport into the mitochondria (carnitine)",4,3,46.434,14.286,0.052831,1,0.079697
+"carnitine transferase",4,3,46.434,14.286,0.052831,1,0.079697
+"Nitric Oxide Synthase (NO forming)",28,8,31.649,14.286,0.056063,1,0.08342
+"Steryl-sulfatase",5,1,47.68,14.286,0.057975,1,0.08342
+"3',5'-bisphosphate nucleotidase",7,1,47.68,14.286,0.057975,1,0.08342
+"adenylyl-sulfate kinase",7,1,47.68,14.286,0.057975,1,0.08342
+"sulfate adenylyltransferase",7,1,47.68,14.286,0.057975,1,0.08342
+"2-Aminoacrylate sulfotransferase",1,1,47.68,14.286,0.057975,1,0.08342
+"3-Sulfoalanine carboxy-lyase",1,1,47.68,14.286,0.057975,1,0.08342
+"L-Serine hydro-lyase",1,1,47.68,14.286,0.057975,1,0.08342
+"Taurine exchange",1,1,47.68,14.286,0.057975,1,0.08342
+"sulfite oxidase",4,1,47.68,14.286,0.057975,1,0.08342
+"Cyanide sulfurtransferase, mitochondrial",3,1,47.68,14.286,0.057975,1,0.08342
+"Cyanide transport via diffusion (mitochondrial)",3,1,47.68,14.286,0.057975,1,0.08342
+"Thiocyanate transport via diffusion (mitochondrial)",3,1,47.68,14.286,0.057975,1,0.08342
+"thiosulfate transport via sodium symport",3,1,47.68,14.286,0.057975,1,0.08342
+"Cyanide transport via diffusion (extracellular to cytosol)",4,1,47.68,14.286,0.057975,1,0.08342
+"Thiocyanate exchange",4,1,47.68,14.286,0.057975,1,0.08342
+"Thiocyanate transport via diffusion (cytosol to extracellular)",4,1,47.68,14.286,0.057975,1,0.08342
+"Arachidic acid exchange",19,5,32.804,14.286,0.058127,1,0.08342
+"fatty acyl-CoA desaturase (n-C18:2CoA -> n-C18:3CoA)",5,2,47.12,14.286,0.058951,1,0.083922
+"carnitine O-palmitoyltransferase",3,2,47.12,14.286,0.058951,1,0.083922
+"Beta oxidation of fatty acid",3,2,47.12,14.286,0.058951,1,0.083922
+"Iodide:hydrogen-peroxide oxidoreductase 4",25,5,33.081,14.286,0.060739,1,0.086007
+"L-Thyroxine exchange",25,5,33.081,14.286,0.060739,1,0.086007
+"Adenine exchange",1,1,46.235,14.286,0.063536,1,0.089489
+"adenine reversible transport, cytosol",1,1,46.235,14.286,0.063536,1,0.089489
+"fatty acid transport via diffusion",22,7,36.835,14.286,0.065163,1,0.09004
+"carnitine O-acetyltransferase, reverse direction, peroxisomal",8,4,34.392,14.286,0.066513,1,0.09004
+"carnitine-acetylcarnitine carrier, peroxisomal",8,4,34.392,14.286,0.066513,1,0.09004
+"2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate), mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"3-amino-isobutyrate transport",2,1,45.43,14.286,0.066809,1,0.09004
+"3-amino-isobutyrate transport, mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"3-hydroxyacyl-CoA dehydratase (3-hydroxyisobutyryl-CoA) (mitochondria)",2,1,45.43,14.286,0.066809,1,0.09004
+"3-hydroxyisobutyrate dehydrogenase, mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"acyl-CoA dehydrogenase (isobutyryl-CoA), mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"L-3-Amino-isobutanoate exchange",2,1,45.43,14.286,0.066809,1,0.09004
+"L-3-aminoisobutyrate transaminase, mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"malonate-semialdehyde dehydrogenase (acetylating), mitochondrial",2,1,45.43,14.286,0.066809,1,0.09004
+"methylmalonate-semialdehyde dehydrogenase",2,1,45.43,14.286,0.066809,1,0.09004
+"L-valine transport via diffusion (extracellular to cytosol)",1,1,45.43,14.286,0.066809,1,0.09004
+"Valine reversible mitochondrial transport",1,1,45.43,14.286,0.066809,1,0.09004
+"valine transaminase, mitochondiral",1,1,45.43,14.286,0.066809,1,0.09004
+"fatty-acid--CoA ligase (hexadecenoate)",1,1,45.048,14.286,0.068406,1,0.091495
+"hexadecenoate (n-C16:1) exchange",1,1,45.048,14.286,0.068406,1,0.091495
+"palmitoyl-CoA desaturase (n-C16:0CoA -> n-C16:1CoA)",1,1,45.048,14.286,0.068406,1,0.091495
+"fatty-acid--CoA ligase (n-C26:0)",3,1,44.948,14.286,0.068826,1,0.091596
+"lignoceric acid exchange",3,1,44.948,14.286,0.068826,1,0.091596
+"fatty-acid--CoA ligase",24,7,36.458,14.286,0.069959,1,0.09287
+"O2 transport, peroxisomal",5,3,30.947,14.286,0.081381,1,0.10776
+"Linoleic acid (n-C18:2) transport in via diffusion",3,1,41.888,14.286,0.082775,1,0.10907
+"gamma-linolenic acid exchange",2,1,41.888,14.286,0.082775,1,0.10907
+"glucosamine-6-phosphate deaminase",6,6,30.519,14.286,0.083766,1,0.11008
+"Maltodextrin glucosidase (maltotriose), extracellular",2,2,39.885,14.286,0.083957,1,0.11008
+"methenyltetrahydrifikate cyclohydrolase, mitochondrial",8,2,31.517,14.286,0.084819,1,0.11093
+"enolase",6,2,32.674,14.286,0.089438,1,0.1164
+"pyruvate kinase",6,2,32.674,14.286,0.089438,1,0.1164
+"C180 fatty acid activation",1,1,39.717,14.286,0.093946,1,0.12116
+"2-aminomuconate reductase",20,4,28.695,14.286,0.094924,1,0.12116
+"aminomuconate-semialdehyde dehydrogenase",20,4,28.695,14.286,0.094924,1,0.12116
+"picolinic acid decarboxylase",20,4,28.695,14.286,0.094924,1,0.12116
+"Reduced glutathione exchange",18,4,28.695,14.286,0.094924,1,0.12116
+"cysteinesulfinic acid oxidase",17,4,28.695,14.286,0.094924,1,0.12116
+"Hypotaurine oxidase",17,4,28.695,14.286,0.094924,1,0.12116
+"Glutathione:cystine oxidoreductase",20,4,28.695,14.286,0.094924,1,0.12116
+"Cytosine deaminase",1,1,39.122,14.286,0.097208,1,0.12349
+"cytosine transport via facilated diffusion",1,1,39.122,14.286,0.097208,1,0.12349
+"sucrose hydrolyzing enxyme, extracellular",1,1,39.012,14.286,0.09782,1,0.12397
+"alpha-Tocopherol (Vit. E) transport",1,1,38.544,14.286,0.10046,1,0.12671
+"alpha-Tocopherol demand",1,1,38.544,14.286,0.10046,1,0.12671
+"Dehydroascorbate exchange",2,1,38.173,14.286,0.1026,1,0.1291
+"L-Serine exchange",1,1,37.237,14.286,0.10814,1,0.13575
+"adenylosuccinate synthase",4,2,32.88,14.286,0.11089,1,0.13888
+"N-acetyl-glucosamine lysosomal efflux",8,6,27.738,14.286,0.11417,1,0.14231
+"N-acetylglucosamine kinase",8,6,27.738,14.286,0.11417,1,0.14231
+"D-Mannose exchange",1,1,35.531,14.286,0.11888,1,0.14379
+"hexokinase (D-mannose:ATP)",1,1,35.531,14.286,0.11888,1,0.14379
+"beta-galactosidase, lysosomal",3,1,35.531,14.286,0.11888,1,0.14379
+"galactose efflux from lysosome",3,1,35.531,14.286,0.11888,1,0.14379
+"N-Acetylneuraminate lyase (reversible)",3,1,35.531,14.286,0.11888,1,0.14379
+"s2l2n2m2masn transport, extracellular to lysosome",3,1,35.531,14.286,0.11888,1,0.14379
+"sialidase, lysosomal",3,1,35.531,14.286,0.11888,1,0.14379
+"n2m2nmasn transport, extracellular to lysosome",2,1,35.531,14.286,0.11888,1,0.14379
+"endo-beta-N-acetylglucosaminidase, lysosomal",4,1,35.531,14.286,0.11888,1,0.14379
+"glycosylasparaginase, lysosomal",4,1,35.531,14.286,0.11888,1,0.14379
+"beta-N-acetylhexosaminidase, lysosomal",4,1,35.531,14.286,0.11888,1,0.14379
+"L-Fucose exchange",4,1,35.531,14.286,0.11888,1,0.14379
+"alpha-fucosidase, extracellular",4,1,35.531,14.286,0.11888,1,0.14379
+"L-aspartate transport via Na, H symport and K antiport",1,1,34.923,14.286,0.1229,1,0.14832
+"N-acetylglucosamine-6-phosphate deacetylase",5,5,26.072,14.286,0.12532,1,0.15089
+"5'-nucleotidase (CMP), extracellular",1,1,33.86,14.286,0.13022,1,0.15644
+"Urate exchange",1,1,32.019,14.286,0.14375,1,0.17076
+"urate export from cytosol",1,1,32.019,14.286,0.14375,1,0.17076
+"urate export from peroxisome",1,1,32.019,14.286,0.14375,1,0.17076
+"xanthine diffusion in peroxisome",1,1,32.019,14.286,0.14375,1,0.17076
+"xanthine oxidase,peroxisomal",1,1,32.019,14.286,0.14375,1,0.17076
+"D-Glucose exchange",1,1,31.522,14.286,0.1476,1,0.17494
+"pyridoxal kinase",17,5,23.736,14.286,0.16079,1,0.18993
+"5'-nucleotidase (dCMP)",1,1,29.794,14.286,0.16167,1,0.18993
+"Deoxycytidine exchange",1,1,29.794,14.286,0.16167,1,0.18993
+"deoxycytidine transport via diffusion",1,1,29.794,14.286,0.16167,1,0.18993
+"2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate), mitochondrial",1,1,27.012,14.286,0.18677,1,0.21595
+"acyl-CoA dehydrogenase (isovaleryl-CoA), mitochondrial",1,1,27.012,14.286,0.18677,1,0.21595
+"leucine mitochondrial transport",1,1,27.012,14.286,0.18677,1,0.21595
+"leucine transaminase, mitochondrial",1,1,27.012,14.286,0.18677,1,0.21595
+"methylcrotonoyl-CoA carboxylase, mitochondrial",1,1,27.012,14.286,0.18677,1,0.21595
+"methylglutaconyl-CoA hydratase (reversible), mitochondrial",1,1,27.012,14.286,0.18677,1,0.21595
+"thioredoxin reductase (NADPH)",9,2,24.178,14.286,0.18688,1,0.21595
+"Guanosine exchange",1,1,26.98,14.286,0.18708,1,0.21595
+"alpha-mannosidase, lysosomal",7,4,22.631,14.286,0.19292,1,0.22077
+"beta-mannosidase, lysosomal",7,4,22.631,14.286,0.19292,1,0.22077
+"DM Asn-X-Ser/Thr(ly)",7,4,22.631,14.286,0.19292,1,0.22077
+"mannose efflux from lysosome",7,4,22.631,14.286,0.19292,1,0.22077
+"arginase",1,1,25.627,14.286,0.20051,1,0.22799
+"arginase (m)",1,1,25.627,14.286,0.20051,1,0.22799
+"arginine mitochondrial transport via ornithine carrier",1,1,25.627,14.286,0.20051,1,0.22799
+"H2O transport, lysosomal",5,3,22.551,14.286,0.20294,1,0.23026
+"alpha-amylase, extracellular (glygn2 -> glygn4)",1,1,24.574,14.286,0.21157,1,0.23651
+"alpha-amylase, extracellular (strch1 -> strch2)",1,1,24.574,14.286,0.21157,1,0.23651
+"glucoamylase, extracellular (glygn5 -> malt)",1,1,24.574,14.286,0.21157,1,0.23651
+"Maltose exchange",1,1,24.574,14.286,0.21157,1,0.23651
+"oligo-1,6-glucosidase (glygn4 -> glygn5), extracellular",1,1,24.574,14.286,0.21157,1,0.23651
+"oligo-1,6-glucosidase (strch2 ->strch3), extracellular",1,1,24.574,14.286,0.21157,1,0.23651
+"Tyr-194 of apo-glycogenin protein (primer for glycogen synthesis) exchange",1,1,24.574,14.286,0.21157,1,0.23651
+"adrenic acid exchange",1,1,23.98,14.286,0.21805,1,0.24025
+"fatty acyl-CoA desaturase (n-C20:3CoA -> n-C20:4CoA)",3,1,23.98,14.286,0.21805,1,0.24025
+"fatty-acyl-CoA elongation (n-C20:4CoA)",3,1,23.98,14.286,0.21805,1,0.24025
+"argininosuccinate lyase",3,2,22.103,14.286,0.21899,1,0.24025
+"argininosuccinate synthase",3,2,22.103,14.286,0.21899,1,0.24025
+"carbamoyl-phosphate synthase (ammonia) (mitochondria",2,2,22.103,14.286,0.21899,1,0.24025
+"Creatine transport (sodium symport) (2:1)",2,2,22.103,14.286,0.21899,1,0.24025
+"ornithine carbamoyltransferase, irreversible",2,2,22.103,14.286,0.21899,1,0.24025
+"Urea exchange",2,2,22.103,14.286,0.21899,1,0.24025
+"inositol oxygenase",1,1,22.807,14.286,0.2314,1,0.25179
+"myo-inositol 1-phosphatase",1,1,22.807,14.286,0.2314,1,0.25179
+"myo-Inositol exchange",1,1,22.807,14.286,0.2314,1,0.25179
+"myo-Inositol-1-phosphate synthase",1,1,22.807,14.286,0.2314,1,0.25179
+"Adenosine exchange",1,1,19.91,14.286,0.26778,1,0.29078
+"Deoxyuridine exchange",1,1,18.812,14.286,0.283,1,0.30605
+"deoxyuridine transport via diffusion",1,1,18.812,14.286,0.283,1,0.30605
+"Creatine exchange",1,1,18.674,14.286,0.28497,1,0.30632
+"glycine amidinotransferase (c)",1,1,18.674,14.286,0.28497,1,0.30632
+"guanidinoacetate N-methyltransferase (c)",1,1,18.674,14.286,0.28497,1,0.30632
+"heptadecanoate transport into the mitochondria",1,1,17.441,14.286,0.30324,1,0.32399
+"Beta oxidation of long chain fatty acid (odd chain)",2,1,17.441,14.286,0.30324,1,0.32399
+"carnitine fatty-acyl transferase",2,1,17.441,14.286,0.30324,1,0.32399
+"L-carnitine transport out of mitochondria via diffusion",7,2,18.333,14.286,0.3098,1,0.329
+"methylmalonyl-CoA mutase",8,2,18.333,14.286,0.3098,1,0.329
+"Propionyl-CoA carboxylase, mitochondrial",8,2,18.333,14.286,0.3098,1,0.329
+"ADPribose exchange",2,2,17.693,14.286,0.3286,1,0.34828
+"3-Methylimidazole acetaldehyde:NAD+ oxidoreductase",2,1,11.195,14.286,0.41789,1,0.43767
+"3-Methylimidazoleacetic acid exchange",2,1,11.195,14.286,0.41789,1,0.43767
+"3MLDA extracellular transport via diffusion",2,1,11.195,14.286,0.41789,1,0.43767
+"Histamine uniport",2,1,11.195,14.286,0.41789,1,0.43767
+"N-Methylhistamine:oxygen oxidoreductase (deaminating)",2,1,11.195,14.286,0.41789,1,0.43767
+"S-Adenosyl-L-methionine:histamine N-tele-methyltransferase",2,1,11.195,14.286,0.41789,1,0.43767
+"glyoxylate oxidase",1,1,6.6496,14.286,0.5375,1,0.56073
+"Oxalate exchange",1,1,6.6496,14.286,0.5375,1,0.56073
+"Sarcosine dehydrogenase (m)",1,1,4.6882,14.286,0.60653,1,0.62904
+"Sarcosine transport (extracellular to cytosol)",1,1,4.6882,14.286,0.60653,1,0.62904
+"Sarcosine transport (mitochondrial)",1,1,4.6882,14.286,0.60653,1,0.62904
+"5-L-Glutamyl-L-alanine exchange",1,1,1.8914,14.286,0.74537,1,0.76408
+"5-Oxoproline amidohydrolase (ATP-hydrolysing) (ir)",1,1,1.8914,14.286,0.74537,1,0.76408
+"gamma-glutamylcyclotransferase",1,1,1.8914,14.286,0.74537,1,0.76408
+"g-glutamyltransferase (e)",2,1,1.8914,14.286,0.74537,1,0.76408
+"gamma-glutamylcysteine synthetase",3,1,1.8914,14.286,0.74537,1,0.76408
+"glutathione synthetase",3,1,1.8914,14.286,0.74537,1,0.76408
+"UDP exchange",2,1,1.2734,14.286,0.79021,1,0.80848
+"D-Fructose exchange",1,1,1.0328,14.286,0.81076,1,0.82474
+"D-sorbitol dehydrogenase (D-fructose producing)",1,1,1.0328,14.286,0.81076,1,0.82474
+"D-sorbitol reductase",1,1,1.0328,14.286,0.81076,1,0.82474
+"ornithine transport via diffusion (extracellular to cytosol)",1,1,0.56545,14.286,0.85954,1,0.87269
+"thymd transport",1,1,0.49212,14.286,0.8689,1,0.87716
+"thymidine transport (1:2 Na/Thymd cotransport)",1,1,0.49212,14.286,0.8689,1,0.87716
+"thymidine transport in via sodium symport",1,1,0.49212,14.286,0.8689,1,0.87716
+"hypothetical enyme",1,1,0.21785,14.286,0.91261,1,0.9178
+"Pyridoxamine exchange",1,1,0.21785,14.286,0.91261,1,0.9178
+"fatty-acyl-CoA elongation (n-C20:5CoA)",2,1,0.082796,14.286,0.94608,1,0.94608
+"fatty acyl-CoA desaturase (n-C22:5CoA -> n-C22:6CoA)",1,1,0.082796,14.286,0.94608,1,0.94608
+"nC22:6 exchange",1,1,0.082796,14.286,0.94608,1,0.94608
