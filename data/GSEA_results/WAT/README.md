@@ -1,7 +1,7 @@
 # GSEA Analysis Parameters
 
-* Used the input file *GSEA_WAT_HFGTXvsHFVeh_preranked.rnk*
-* Set *collapse dataset to gene symbols* to true
+* Used the input file **GSEA_WAT_HFGTXvsHFVeh_preranked.rnk**
+* Set **collapse dataset to gene symbols** to true
 * Did 1000 permutations
 * Set Chip platform to gseaftp.broadinstitute.org://pub/gsea/annotations/GENE_SYMBOL.chip
 * All other parameters at default

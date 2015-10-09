@@ -96,9 +96,10 @@ genes_exp_less100 <- c("Fasn", "Pck", "Dgat2",  "Mgll", "Pnpla2")
 genes_exp_less40 <- c("Lep", "Adipoq", "Fabp4", "Lpl", "Lipe", "Cfd", 'Adrb3', "Fzd4", 'Cd300lg', "Retn", "Sfrp5", "Adig")
 genes_exp_1000 <- c("Scd1")
 
-nk_cells <- c('Ifng','Lat','Ncr1', 'Vav3','Shc2', 'Klrc1', 'Sh2d1a', 'Cd247', 'Fcer1g','Cd48')
+nk_cells <- c('Ifng','Lat','Ncr1', 'Vav3','Shc2', 'Klrc1', 'Sh2d1a', 'Cd247', 'Fcer1g','Cd48','Pik3r5','Rac2','Lck','Tyrobp','Klrk1','Plcg2','Shc4','Pack1','Icam1','Itgal','')
+peroxisome <- c('Pex11b','Baat','Hao1','Acox2','Agxt')
   
-gene.data.name <- c('cortisol_signaling', 'adipocytes', 'brown_fat', 'white_fat', 'beige_fat', 'lipolysis', 'lipid_metabolism', 'unsat_FA', 'adipocyte_regulator', 'wnt', 'ppar_genes', 'adipocyte1', 'adipocyte2', 'adipocyte3', 'hormones', 'genes_exp_less100', 'genes_exp_more100', 'genes_exp_less40', 'genes_exp_1000','nk_cells')
+gene.data.name <- c('cortisol_signaling', 'adipocytes', 'brown_fat', 'white_fat', 'beige_fat', 'lipolysis', 'lipid_metabolism', 'unsat_FA', 'adipocyte_regulator', 'wnt', 'ppar_genes', 'adipocyte1', 'adipocyte2', 'adipocyte3', 'hormones', 'genes_exp_less100', 'genes_exp_more100', 'genes_exp_less40', 'genes_exp_1000','nk_cells','peroxisome')
 for (name in gene.data.name){
   #name <- as.name(name) #convert string to variable name
   gene.data <- rpkm.liver.se[rpkm.liver.se$external_gene_name%in%eval(as.name(name)),]
