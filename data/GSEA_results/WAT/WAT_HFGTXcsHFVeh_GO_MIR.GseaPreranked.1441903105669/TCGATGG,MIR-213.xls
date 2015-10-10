@@ -1,6 +1,0 @@
-NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	AGPAT4	AGPAT4	1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta)	1381	0.9493567943572998	0.4994348	Yes	
-row_1	MAX	MAX	MYC associated factor X	4269	0.18927457928657532	0.3643144	No	
-row_2	APP	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	5251	0.03857658430933952	0.30149543	No	
-row_3	GANAB	GANAB	glucosidase, alpha; neutral AB	5534	-0.003588460385799408	0.27851087	No	
-row_4	SATB2	SATB2	SATB family member 2	7944	-0.3417404592037201	0.28648454	No	

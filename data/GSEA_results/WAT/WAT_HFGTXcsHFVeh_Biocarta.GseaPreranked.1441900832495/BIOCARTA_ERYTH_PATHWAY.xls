@@ -1,9 +1,0 @@
-NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	TGFB3	TGFB3	transforming growth factor, beta 3	2130	0.6526597142219543	-0.10577665	No	
-row_1	TGFB2	TGFB2	transforming growth factor, beta 2	2439	0.5657141804695129	-0.059192616	No	
-row_2	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	2799	0.47843223810195923	-0.028651606	No	
-row_3	CCL3	CCL3	chemokine (C-C motif) ligand 3	2842	0.46917492151260376	0.029168446	No	
-row_4	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	3090	0.4151090979576111	0.061463535	No	
-row_5	IL1A	IL1A	interleukin 1, alpha	6945	-0.1805589348077774	-0.26125887	No	
-row_6	FLT3	FLT3	fms-related tyrosine kinase 3	9108	-0.6041225790977478	-0.3762841	Yes	
-row_7	IL11	IL11	interleukin 11	10966	-4.25128173828125	0.014921442	Yes	
