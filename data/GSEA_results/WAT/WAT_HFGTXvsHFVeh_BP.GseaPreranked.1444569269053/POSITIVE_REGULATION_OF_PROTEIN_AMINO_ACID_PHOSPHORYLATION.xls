@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TDGF1	TDGF1	teratocarcinoma-derived growth factor 1	14	5.914078235626221	0.3888529	Yes	
+row_1	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	279	1.968059778213501	0.49760374	Yes	
+row_2	BMP4	BMP4	bone morphogenetic protein 4	464	1.3422797918319702	0.5714613	Yes	
+row_3	CARD14	CARD14	caspase recruitment domain family, member 14	4306	0.10070016235113144	0.2722649	No	
+row_4	CD80	CD80	CD80 molecule	4317	0.09908351302146912	0.2780021	No	
+row_5	IL31RA	IL31RA	interleukin 31 receptor A	4830	0.046467747539281845	0.24029857	No	
+row_6	CCND1	CCND1	cyclin D1	6194	-0.0997057631611824	0.1383453	No	
+row_7	CCND3	CCND3	cyclin D3	6491	-0.1330469697713852	0.12354951	No	
+row_8	TNK2	TNK2	tyrosine kinase, non-receptor, 2	6937	-0.18267889320850372	0.100162394	No	
+row_9	HCLS1	HCLS1	hematopoietic cell-specific Lyn substrate 1	7357	-0.2340826690196991	0.082235016	No	
+row_10	CCND2	CCND2	cyclin D2	7404	-0.2401689738035202	0.09440877	No	
+row_11	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	8013	-0.3253672420978546	0.06745162	No	
+row_12	CD81	CD81	CD81 molecule	9011	-0.5162793397903442	0.022109194	No	
+row_13	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	9171	-0.562840461730957	0.046562012	No	
+row_14	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	11955	-3.400723457336426	0.04920778	No	

@@ -1,0 +1,60 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CLDN19	CLDN19	claudin 19	45	4.453334331512451	0.07297588	Yes	
+row_1	KRT25	KRT25	keratin 25	61	4.198625087738037	0.14396937	Yes	
+row_2	PLG	PLG	plasminogen	107	3.198782205581665	0.19537422	Yes	
+row_3	HOXA10	HOXA10	homeobox A10	199	2.5331950187683105	0.23165923	Yes	
+row_4	TTR	TTR	transthyretin (prealbumin, amyloidosis type I)	208	2.4186835289001465	0.27260736	Yes	
+row_5	SLC17A2	SLC17A2	solute carrier family 17 (sodium phosphate), member 2	225	2.267712354660034	0.3103204	Yes	
+row_6	HOXC6	HOXC6	homeobox C6	380	1.5795953273773193	0.32517508	Yes	
+row_7	G6PC	G6PC	glucose-6-phosphatase, catalytic subunit	436	1.4072613716125488	0.34497708	Yes	
+row_8	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	473	1.3259131908416748	0.36489856	Yes	
+row_9	HOXC4	HOXC4	homeobox C4	508	1.2612568140029907	0.38386816	Yes	
+row_10	APOM	APOM	apolipoprotein M	609	1.1090537309646606	0.39494702	Yes	
+row_11	HABP2	HABP2	hyaluronan binding protein 2	654	1.039773941040039	0.40930936	Yes	
+row_12	NR5A2	NR5A2	nuclear receptor subfamily 5, group A, member 2	742	0.9479867815971375	0.41865757	Yes	
+row_13	SLC17A4	SLC17A4	solute carrier family 17 (sodium phosphate), member 4	814	0.8765044808387756	0.4280552	Yes	
+row_14	MITF	MITF	microphthalmia-associated transcription factor	899	0.8215541243553162	0.4354692	Yes	
+row_15	ZBTB4	ZBTB4	zinc finger and BTB domain containing 4	1142	0.6758536696434021	0.42775318	No	
+row_16	NFE2L2	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	1199	0.6480661034584045	0.43442154	No	
+row_17	BCL9	BCL9	B-cell CLL/lymphoma 9	1486	0.5438560247421265	0.42092013	No	
+row_18	SLC23A1	SLC23A1	solute carrier family 23 (nucleobase transporters), member 1	1773	0.4631664454936981	0.40603134	No	
+row_19	DZIP1L	DZIP1L	DAZ interacting protein 1-like	2128	0.3886597752571106	0.384428	No	
+row_20	ANXA13	ANXA13	annexin A13	2194	0.3772657513618469	0.385721	No	
+row_21	ARHGAP24	ARHGAP24	Rho GTPase activating protein 24	2333	0.3510819971561432	0.3807308	No	
+row_22	THAP11	THAP11	THAP domain containing 11	2339	0.3502812385559082	0.3863541	No	
+row_23	SLC12A2	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	2518	0.32505136728286743	0.37772018	No	
+row_24	PLA1A	PLA1A	phospholipase A1 member A	2716	0.29696840047836304	0.3670852	No	
+row_25	NRP2	NRP2	neuropilin 2	3296	0.2193281054496765	0.3245919	No	
+row_26	SLC25A45	SLC25A45	solute carrier family 25, member 45	3680	0.17175287008285522	0.29694176	No	
+row_27	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	3720	0.1681242734193802	0.29671627	No	
+row_28	PDLIM5	PDLIM5	PDZ and LIM domain 5	3777	0.1613532304763794	0.295016	No	
+row_29	F13B	F13B	coagulation factor XIII, B polypeptide	4178	0.1142093613743782	0.26501808	No	
+row_30	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	4724	0.05553143844008446	0.22242515	No	
+row_31	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	5028	0.026993202045559883	0.19867833	No	
+row_32	THOC6	THOC6	THO complex 6 homolog (Drosophila)	5373	-0.009338542819023132	0.17135188	No	
+row_33	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	0.16475566	No	
+row_34	HOXD4	HOXD4	homeobox D4	5644	-0.03993845731019974	0.15089983	No	
+row_35	RBMS1	RBMS1	RNA binding motif, single stranded interacting protein 1	6110	-0.0900251492857933	0.11529232	No	
+row_36	RTN4	RTN4	reticulon 4	6435	-0.12748689949512482	0.091595426	No	
+row_37	USP3	USP3	ubiquitin specific peptidase 3	6528	-0.13827595114707947	0.08662179	No	
+row_38	BMI1	BMI1	B lymphoma Mo-MLV insertion region (mouse)	6718	-0.15932592749595642	0.0742594	No	
+row_39	HCFC1R1	HCFC1R1	host cell factor C1 regulator 1 (XPO1 dependent)	7096	-0.20021188259124756	0.04757803	No	
+row_40	GOLT1A	GOLT1A	golgi transport 1 homolog A (S. cerevisiae)	7638	-0.2684844732284546	0.008966283	No	
+row_41	EGR1	EGR1	early growth response 1	7807	-0.2927004396915436	5.7514454E-4	No	
+row_42	GRB7	GRB7	growth factor receptor-bound protein 7	8286	-0.36354494094848633	-0.031368155	No	
+row_43	SGK2	SGK2	serum/glucocorticoid regulated kinase 2	8497	-0.40638870000839233	-0.041160487	No	
+row_44	DLX1	DLX1	distal-less homeobox 1	8634	-0.4314790666103363	-0.044608504	No	
+row_45	GC	GC	group-specific component (vitamin D binding protein)	8857	-0.4757823348045349	-0.054166514	No	
+row_46	LIPC	LIPC	lipase, hepatic	9879	-0.8085894584655762	-0.12184556	No	
+row_47	LCT	LCT	lactase	9893	-0.8146781921386719	-0.10887656	No	
+row_48	NPAS2	NPAS2	neuronal PAS domain protein 2	9918	-0.8253911137580872	-0.09660231	No	
+row_49	COL16A1	COL16A1	collagen, type XVI, alpha 1	10370	-1.1078578233718872	-0.11359033	No	
+row_50	FGFR4	FGFR4	fibroblast growth factor receptor 4	10470	-1.1770656108856201	-0.10126212	No	
+row_51	CNTD1	CNTD1	cyclin N-terminal domain containing 1	10534	-1.228555679321289	-0.08517204	No	
+row_52	RNF186	RNF186	ring finger protein 186	11062	-1.8108739852905273	-0.09614496	No	
+row_53	CYP26A1	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	11104	-1.872098445892334	-0.067231774	No	
+row_54	HGFAC	HGFAC	HGF activator	11143	-1.9146203994750977	-0.037347745	No	
+row_55	TINAG	TINAG	tubulointerstitial nephritis antigen	11150	-1.9255772829055786	-0.004718387	No	
+row_56	COL9A1	COL9A1	collagen, type IX, alpha 1	11181	-1.9643992185592651	0.026660783	No	
+row_57	CDH16	CDH16	cadherin 16, KSP-cadherin	11207	-2.0092220306396484	0.059210166	No	
+row_58	IGFBP1	IGFBP1	insulin-like growth factor binding protein 1	11701	-2.899754047393799	0.06967642	No	

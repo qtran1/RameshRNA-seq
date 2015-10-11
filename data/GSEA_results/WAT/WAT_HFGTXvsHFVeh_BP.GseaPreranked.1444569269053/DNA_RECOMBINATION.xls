@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SETMAR	SETMAR	SET domain and mariner transposase fusion gene	1080	0.7056789994239807	-0.072482616	No	
+row_1	HMGB1	HMGB1	high-mobility group box 1	1118	0.6853271722793579	-0.062120423	No	
+row_2	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	2702	0.2985166013240814	-0.18265739	No	
+row_3	RAD21	RAD21	RAD21 homolog (S. pombe)	2884	0.2725791335105896	-0.19180682	No	
+row_4	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	3431	0.20024865865707397	-0.23149164	No	
+row_5	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	-0.2853063	No	
+row_6	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4241	0.10770159214735031	-0.29159367	No	
+row_7	TEP1	TEP1	telomerase-associated protein 1	4349	0.0956728532910347	-0.29827437	No	
+row_8	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.31171027	No	
+row_9	KPNA1	KPNA1	karyopherin alpha 1 (importin alpha 5)	4815	0.04771183058619499	-0.33289024	No	
+row_10	TNFSF13	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13	5551	-0.031146198511123657	-0.3909443	No	
+row_11	RPA1	RPA1	replication protein A1, 70kDa	5886	-0.0648488998413086	-0.4163404	No	
+row_12	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	6279	-0.1100228875875473	-0.4454877	No	
+row_13	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	6484	-0.13214533030986786	-0.4592012	No	
+row_14	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	6603	-0.1456766575574875	-0.46578828	No	
+row_15	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6878	-0.1772623062133789	-0.48421177	No	
+row_16	TSN	TSN	translin	6949	-0.1848752498626709	-0.48620647	No	
+row_17	UBE2V2	UBE2V2	ubiquitin-conjugating enzyme E2 variant 2	7325	-0.2304341048002243	-0.5116576	No	
+row_18	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	7734	-0.2827921211719513	-0.5387251	No	
+row_19	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	7757	-0.2855430841445923	-0.53493315	No	
+row_20	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.5869896	No	
+row_21	UBE2N	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	8738	-0.4490886330604553	-0.59638083	No	
+row_22	MSH5	MSH5	mutS homolog 5 (E. coli)	9020	-0.517917811870575	-0.60874444	No	
+row_23	RPAIN	RPAIN	RPA interacting protein	9041	-0.5229156613349915	-0.600181	No	
+row_24	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.5915121	No	
+row_25	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	9100	-0.539466142654419	-0.5839838	No	
+row_26	RUVBL2	RUVBL2	RuvB-like 2 (E. coli)	9172	-0.5628718137741089	-0.57871425	No	
+row_27	LIG1	LIG1	ligase I, DNA, ATP-dependent	10311	-1.0569075345993042	-0.6490018	Yes	
+row_28	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.63620704	Yes	
+row_29	LIG3	LIG3	ligase III, DNA, ATP-dependent	10493	-1.1951580047607422	-0.617775	Yes	
+row_30	RAD54L	RAD54L	RAD54-like (S. cerevisiae)	10504	-1.2030959129333496	-0.5951984	Yes	
+row_31	RAD51C	RAD51C	RAD51 homolog C (S. cerevisiae)	10657	-1.333128571510315	-0.5814281	Yes	
+row_32	KPNA2	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	10847	-1.5459915399551392	-0.5664751	Yes	
+row_33	EXO1	EXO1	exonuclease 1	10949	-1.684212327003479	-0.5418135	Yes	
+row_34	IL7R	IL7R	interleukin 7 receptor	10963	-1.7050302028656006	-0.50972426	Yes	
+row_35	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.48327565	Yes	
+row_36	BLM	BLM	Bloom syndrome	11136	-1.904257893562317	-0.45082724	Yes	
+row_37	BRCA1	BRCA1	breast cancer 1, early onset	11308	-2.179550886154175	-0.42212835	Yes	
+row_38	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	11599	-2.7022581100463867	-0.3927711	Yes	
+row_39	SPO11	SPO11	SPO11 meiotic protein covalently bound to DSB homolog (S. cerevisiae)	12170	-3.856316089630127	-0.3633382	Yes	
+row_40	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	-0.2871369	Yes	
+row_41	MSH4	MSH4	mutS homolog 4 (E. coli)	12359	-4.911440849304199	-0.20296636	Yes	
+row_42	SYCP1	SYCP1	synaptonemal complex protein 1	12446	-5.619524955749512	-0.10064907	Yes	
+row_43	RAG1	RAG1	recombination activating gene 1	12453	-5.6979756355285645	0.009577085	Yes	

@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NCK1	NCK1	NCK adaptor protein 1	3200	0.23309339582920074	-0.2397686	No	
+row_1	PLCG1	PLCG1	phospholipase C, gamma 1	3890	0.14725708961486816	-0.28509295	No	
+row_2	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	4445	0.08668231219053268	-0.3235957	No	
+row_3	WAS	WAS	Wiskott-Aldrich syndrome (eczema-thrombocytopenia)	7457	-0.2457018494606018	-0.5474909	No	
+row_4	LCK	LCK	lymphocyte-specific protein tyrosine kinase	8473	-0.40201088786125183	-0.6022468	Yes	
+row_5	VASP	VASP	vasodilator-stimulated phosphoprotein	8496	-0.40632686018943787	-0.5776243	Yes	
+row_6	EVL	EVL	Enah/Vasp-like	8626	-0.42961883544921875	-0.56001306	Yes	
+row_7	CD247	CD247	CD247 molecule	8799	-0.4632827043533325	-0.5436419	Yes	
+row_8	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	9117	-0.5450804829597473	-0.5335113	Yes	
+row_9	FYB	FYB	FYN binding protein (FYB-120/130)	9204	-0.5708777904510498	-0.5033056	Yes	
+row_10	GRAP2	GRAP2	GRB2-related adaptor protein 2	9278	-0.5924596190452576	-0.47066355	Yes	
+row_11	CD4	CD4	CD4 molecule	9301	-0.5987188220024109	-0.43355274	Yes	
+row_12	ENAH	ENAH	enabled homolog (Drosophila)	9511	-0.6613433361053467	-0.40727258	Yes	
+row_13	LCP2	LCP2	lymphocyte cytosolic protein 2 (SH2 domain containing leukocyte protein of 76kDa)	10219	-0.9932104349136353	-0.39911932	Yes	
+row_14	ITK	ITK	IL2-inducible T-cell kinase	10423	-1.1446468830108643	-0.34098965	Yes	
+row_15	LAT	LAT	linker for activation of T cells	10489	-1.1934257745742798	-0.26870123	Yes	
+row_16	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	10700	-1.369989275932312	-0.19650203	Yes	
+row_17	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	10729	-1.4075404405593872	-0.107368	Yes	
+row_18	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	10959	-1.7023382186889648	-0.015109272	Yes	
+row_19	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	11332	-2.212181329727173	0.098852925	Yes	

@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	2491	0.3283534348011017	-0.18923698	No	
+row_1	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	2667	0.30605044960975647	-0.19439666	No	
+row_2	CLASP2	CLASP2	cytoplasmic linker associated protein 2	2735	0.295223206281662	-0.19125377	No	
+row_3	NUMA1	NUMA1	nuclear mitotic apparatus protein 1	3104	0.2454601228237152	-0.2135484	No	
+row_4	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	3312	0.2170652151107788	-0.22381835	No	
+row_5	LATS2	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	3736	0.1658667027950287	-0.25278768	No	
+row_6	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.27315906	No	
+row_7	NEDD9	NEDD9	neural precursor cell expressed, developmentally down-regulated 9	4513	0.07906777411699295	-0.30861145	No	
+row_8	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.30791998	No	
+row_9	ARL8A	ARL8A	ADP-ribosylation factor-like 8A	4973	0.0332295298576355	-0.3419783	No	
+row_10	MAPRE1	MAPRE1	microtubule-associated protein, RP/EB family, member 1	5949	-0.07139203697443008	-0.41768962	No	
+row_11	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	6119	-0.09058672189712524	-0.42856458	No	
+row_12	ARL8B	ARL8B	ADP-ribosylation factor-like 8B	6328	-0.1143171414732933	-0.44186792	No	
+row_13	CDC16	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	6633	-0.14987698197364807	-0.4618058	No	
+row_14	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.48206642	No	
+row_15	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	7032	-0.19266651570796967	-0.48258948	No	
+row_16	CLASP1	CLASP1	cytoplasmic linker associated protein 1	7215	-0.21561653912067413	-0.49090713	No	
+row_17	CDC27	CDC27	cell division cycle 27	7481	-0.24842962622642517	-0.50490135	No	
+row_18	SAC3D1	SAC3D1	SAC3 domain containing 1	7761	-0.286496639251709	-0.5189179	No	
+row_19	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.5594794	No	
+row_20	FBXO5	FBXO5	F-box protein 5	8615	-0.4281422793865204	-0.5634423	No	
+row_21	INCENP	INCENP	inner centromere protein antigens 135/155kDa	10008	-0.870017409324646	-0.64945483	Yes	
+row_22	KIF23	KIF23	kinesin family member 23	10420	-1.1424405574798584	-0.6493939	Yes	
+row_23	POLB	POLB	polymerase (DNA directed), beta	10463	-1.1724586486816406	-0.6190396	Yes	
+row_24	AURKA	AURKA	aurora kinase A	10762	-1.4459120035171509	-0.60124236	Yes	
+row_25	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	10877	-1.5859311819076538	-0.56474465	Yes	
+row_26	PRC1	PRC1	protein regulator of cytokinesis 1	10930	-1.6631022691726685	-0.5210836	Yes	
+row_27	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	-0.47750992	Yes	
+row_28	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	11100	-1.8617587089538574	-0.43021187	Yes	
+row_29	KNTC1	KNTC1	kinetochore associated 1	11211	-2.0195915699005127	-0.3809289	Yes	
+row_30	TPX2	TPX2	TPX2, microtubule-associated, homolog (Xenopus laevis)	11314	-2.1869397163391113	-0.3261972	Yes	
+row_31	KIF11	KIF11	kinesin family member 11	11615	-2.7345051765441895	-0.27151686	Yes	
+row_32	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.1943871	Yes	
+row_33	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.11227149	Yes	
+row_34	TTK	TTK	TTK protein kinase	11721	-2.9544851779937744	-0.030291257	Yes	
+row_35	CETN1	CETN1	centrin, EF-hand protein, 1	12000	-3.4148449897766113	0.04570117	Yes	

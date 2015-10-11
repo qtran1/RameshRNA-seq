@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NT5C1A	NT5C1A	5'-nucleotidase, cytosolic IA	24	5.008706569671631	0.37477133	Yes	
+row_1	BST1	BST1	bone marrow stromal cell antigen 1	1599	0.5105732083320618	0.287781	No	
+row_2	NUDT12	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	1921	0.42961594462394714	0.29451898	No	
+row_3	QPRT	QPRT	quinolinate phosphoribosyltransferase (nicotinate-nucleotide pyrophosphorylase (carboxylating))	2568	0.31850793957710266	0.26701078	No	
+row_4	NT5E	NT5E	5'-nucleotidase, ecto (CD73)	2697	0.2990082800388336	0.27930114	No	
+row_5	AOX1	AOX1	aldehyde oxidase 1	2737	0.2948177754878998	0.29836628	No	
+row_6	NADK	NADK	NAD kinase	2778	0.2890503704547882	0.31691805	No	
+row_7	NNT	NNT	nicotinamide nucleotide transhydrogenase	3329	0.21475130319595337	0.28925434	No	
+row_8	NMNAT1	NMNAT1	nicotinamide nucleotide adenylyltransferase 1	5246	0.0041050477884709835	0.13693021	No	
+row_9	NT5M	NT5M	5',3'-nucleotidase, mitochondrial	5356	-0.007563301362097263	0.12881583	No	
+row_10	NMNAT3	NMNAT3	nicotinamide nucleotide adenylyltransferase 3	5742	-0.049877334386110306	0.10189693	No	
+row_11	NMNAT2	NMNAT2	nicotinamide nucleotide adenylyltransferase 2	6141	-0.09362875670194626	0.07723278	No	
+row_12	NT5C3	NT5C3	5'-nucleotidase, cytosolic III	6193	-0.09930717945098877	0.08063847	No	
+row_13	CD38	CD38	CD38 molecule	6332	-0.11464976519346237	0.078267395	No	
+row_14	NT5C	NT5C	5', 3'-nucleotidase, cytosolic	6463	-0.13051055371761322	0.07772644	No	
+row_15	NADSYN1	NADSYN1	NAD synthetase 1	6990	-0.18863677978515625	0.050010663	No	
+row_16	ENPP3	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3	7128	-0.20414438843727112	0.054449756	No	
+row_17	NNMT	NNMT	nicotinamide N-methyltransferase	7203	-0.21323935687541962	0.064591564	No	
+row_18	NT5C2	NT5C2	5'-nucleotidase, cytosolic II	7432	-0.24333374202251434	0.064728655	No	
+row_19	ENPP1	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1	11324	-2.199420928955078	-0.07982813	No	
+row_20	NT5C1B	NT5C1B	5'-nucleotidase, cytosolic IB	11428	-2.3834187984466553	0.091213316	No	

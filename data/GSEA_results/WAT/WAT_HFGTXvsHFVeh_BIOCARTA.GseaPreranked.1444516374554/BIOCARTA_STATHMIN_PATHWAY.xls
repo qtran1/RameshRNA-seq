@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	1017	0.7425335049629211	-0.03409007	No	
+row_1	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	1196	0.6497719287872314	-0.007223907	No	
+row_2	CAMK2G	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	2317	0.35315099358558655	-0.07411112	No	
+row_3	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	2774	0.2900967299938202	-0.09210216	No	
+row_4	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	3170	0.23603494465351105	-0.10865005	No	
+row_5	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	5180	0.010136401280760765	-0.26800025	No	
+row_6	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5620	-0.037224773317575455	-0.3006096	No	
+row_7	CD247	CD247	CD247 molecule	8799	-0.4632827043533325	-0.5244332	No	
+row_8	CAMK2B	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	9535	-0.672095537185669	-0.54051477	Yes	
+row_9	MAPK13	MAPK13	mitogen-activated protein kinase 13	10133	-0.9409716129302979	-0.5286234	Yes	
+row_10	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	10262	-1.0190080404281616	-0.47445336	Yes	
+row_11	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	10700	-1.369989275932312	-0.4227221	Yes	
+row_12	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	10729	-1.4075404405593872	-0.3360475	Yes	
+row_13	CCNB1	CCNB1	cyclin B1	10770	-1.4547889232635498	-0.24734423	Yes	
+row_14	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	10959	-1.7023382186889648	-0.15479122	Yes	
+row_15	CD2	CD2	CD2 molecule	11159	-1.9388444423675537	-0.048175808	Yes	
+row_16	CAMK4	CAMK4	calcium/calmodulin-dependent protein kinase IV	11522	-2.5442543029785156	0.08369828	Yes	

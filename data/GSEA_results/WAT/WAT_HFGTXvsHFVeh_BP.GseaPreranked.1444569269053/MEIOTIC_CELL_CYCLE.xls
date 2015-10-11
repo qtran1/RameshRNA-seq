@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAD1	RAD1	RAD1 homolog (S. pombe)	1336	0.5914930701255798	-0.094340265	No	
+row_1	RAD21	RAD21	RAD21 homolog (S. pombe)	2884	0.2725791335105896	-0.21206021	No	
+row_2	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.22869875	No	
+row_3	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.29643285	No	
+row_4	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.33447796	No	
+row_5	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	6279	-0.1100228875875473	-0.47100666	No	
+row_6	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6878	-0.1772623062133789	-0.51503325	No	
+row_7	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.5172704	No	
+row_8	PIM2	PIM2	pim-2 oncogene	7613	-0.2653130292892456	-0.5641895	No	
+row_9	TOP3A	TOP3A	topoisomerase (DNA) III alpha	7765	-0.2870917022228241	-0.5703227	No	
+row_10	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.61370534	No	
+row_11	EREG	EREG	epiregulin	8592	-0.4246976673603058	-0.6194001	No	
+row_12	XRCC2	XRCC2	X-ray repair complementing defective repair in Chinese hamster cells 2	8709	-0.4449693262577057	-0.6194961	No	
+row_13	MSH5	MSH5	mutS homolog 5 (E. coli)	9020	-0.517917811870575	-0.6335575	No	
+row_14	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	9100	-0.539466142654419	-0.62876046	No	
+row_15	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.71118546	Yes	
+row_16	LIG3	LIG3	ligase III, DNA, ATP-dependent	10493	-1.1951580047607422	-0.6913886	Yes	
+row_17	RAD54L	RAD54L	RAD54-like (S. cerevisiae)	10504	-1.2030959129333496	-0.66744256	Yes	
+row_18	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	10753	-1.4343459606170654	-0.6577138	Yes	
+row_19	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.6459149	Yes	
+row_20	CCNA1	CCNA1	cyclin A1	11111	-1.8802160024642944	-0.6097968	Yes	
+row_21	HSPA2	HSPA2	heat shock 70kDa protein 2	11309	-2.1803815364837646	-0.58065915	Yes	
+row_22	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	11599	-2.7022581100463867	-0.5481225	Yes	
+row_23	DUSP13	DUSP13	dual specificity phosphatase 13	12085	-3.618053913116455	-0.5123764	Yes	
+row_24	SPO11	SPO11	SPO11 meiotic protein covalently bound to DSB homolog (S. cerevisiae)	12170	-3.856316089630127	-0.43976262	Yes	
+row_25	STAG3	STAG3	stromal antigen 3	12216	-4.108731746673584	-0.35884854	Yes	
+row_26	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	-0.27429986	Yes	
+row_27	BOLL	BOLL	bol, boule-like (Drosophila)	12224	-4.174673557281494	-0.18892051	Yes	
+row_28	MSH4	MSH4	mutS homolog 4 (E. coli)	12359	-4.911440849304199	-0.09859267	Yes	
+row_29	SYCP1	SYCP1	synaptonemal complex protein 1	12446	-5.619524955749512	0.010124387	Yes	

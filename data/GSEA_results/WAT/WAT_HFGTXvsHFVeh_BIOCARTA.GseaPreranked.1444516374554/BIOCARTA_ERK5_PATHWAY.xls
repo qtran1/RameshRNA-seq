@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.25375858	Yes	
+row_1	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	985	0.7620001435279846	0.32895762	Yes	
+row_2	MAPK7	MAPK7	mitogen-activated protein kinase 7	1904	0.4333202838897705	0.32782355	Yes	
+row_3	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	2029	0.40748971700668335	0.38563082	Yes	
+row_4	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2236	0.36948367953300476	0.43059522	Yes	
+row_5	NTRK1	NTRK1	neurotrophic tyrosine kinase, receptor, type 1	2342	0.35008537769317627	0.48038098	Yes	
+row_6	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	3152	0.23789387941360474	0.45546788	Yes	
+row_7	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	0.45186806	Yes	
+row_8	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.46574596	Yes	
+row_9	PLCG1	PLCG1	phospholipase C, gamma 1	3890	0.14725708961486816	0.47921482	Yes	
+row_10	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.49885392	Yes	
+row_11	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.4708448	No	
+row_12	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5974	-0.07475712150335312	0.36332852	No	
+row_13	CREB1	CREB1	cAMP responsive element binding protein 1	5985	-0.07616238296031952	0.3751824	No	
+row_14	MEF2A	MEF2A	MADS box transcription enhancer factor 2, polypeptide A (myocyte enhancer factor 2A)	6060	-0.08461181074380875	0.38334292	No	
+row_15	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	0.34140417	No	
+row_16	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	9388	-0.6256948709487915	0.2536434	No	

@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IKBKAP	IKBKAP	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein	2364	0.34704166650772095	-0.04691391	Yes	
+row_1	DUSP1	DUSP1	dual specificity phosphatase 1	2730	0.2959447503089905	0.044533905	Yes	
+row_2	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2984	0.25930482149124146	0.12997961	Yes	
+row_3	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1	3058	0.2512873411178589	0.2264929	Yes	
+row_4	TRAF6	TRAF6	TNF receptor-associated factor 6	3420	0.20223082602024078	0.2800983	Yes	
+row_5	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	3660	0.17349748313426971	0.33171743	Yes	
+row_6	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	0.36915973	Yes	
+row_7	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	3957	0.13872605562210083	0.42302227	Yes	
+row_8	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	0.45693913	Yes	
+row_9	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	4799	0.04900802671909332	0.4241047	Yes	
+row_10	TRAF3	TRAF3	TNF receptor-associated factor 3	5932	-0.0702781230211258	0.36258784	Yes	
+row_11	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	6148	-0.09403298050165176	0.3837595	Yes	
+row_12	TNFAIP3	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	6199	-0.10023730993270874	0.4205956	Yes	
+row_13	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6232	-0.10340578854084015	0.46015513	Yes	
+row_14	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6278	-0.10967938601970673	0.5012342	Yes	

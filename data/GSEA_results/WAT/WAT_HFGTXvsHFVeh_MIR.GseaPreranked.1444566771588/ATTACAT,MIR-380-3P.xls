@@ -1,0 +1,82 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FIGN	FIGN	fidgetin	381	1.5677176713943481	-0.0017613681	No	
+row_1	KLHL4	KLHL4	kelch-like 4 (Drosophila)	621	1.0914762020111084	-8.8570965E-4	No	
+row_2	KLHL2	KLHL2	kelch-like 2, Mayven (Drosophila)	697	0.991975724697113	0.011293493	No	
+row_3	LRRTM3	LRRTM3	leucine rich repeat transmembrane neuronal 3	726	0.961753249168396	0.026680835	No	
+row_4	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	770	0.9196876883506775	0.040096458	No	
+row_5	PCDH19	PCDH19	protocadherin 19	969	0.775216281414032	0.03845702	No	
+row_6	BCOR	BCOR	BCL6 co-repressor	1071	0.7093721628189087	0.043375034	No	
+row_7	USP49	USP49	ubiquitin specific peptidase 49	1260	0.6269673705101013	0.039818697	No	
+row_8	ATP11C	ATP11C	ATPase, Class VI, type 11C	1419	0.5653090476989746	0.03753353	No	
+row_9	IRF2	IRF2	interferon regulatory factor 2	1464	0.5519979000091553	0.044129483	No	
+row_10	FLRT2	FLRT2	fibronectin leucine rich transmembrane protein 2	1788	0.46009787917137146	0.026708437	No	
+row_11	TPPP	TPPP	-	1928	0.4274779260158539	0.023417726	No	
+row_12	MBNL1	MBNL1	muscleblind-like (Drosophila)	1969	0.4173087179660797	0.027865054	No	
+row_13	TRPS1	TRPS1	trichorhinophalangeal syndrome I	2174	0.3806649446487427	0.018513363	No	
+row_14	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2236	0.36948367953300476	0.020403134	No	
+row_15	EP300	EP300	E1A binding protein p300	2703	0.29833313822746277	-0.011429413	No	
+row_16	EPC2	EPC2	enhancer of polycomb homolog 2 (Drosophila)	2787	0.2868747115135193	-0.012814822	No	
+row_17	KBTBD2	KBTBD2	kelch repeat and BTB (POZ) domain containing 2	2851	0.27786293625831604	-0.012764516	No	
+row_18	STAG2	STAG2	stromal antigen 2	2853	0.27743229269981384	-0.007759325	No	
+row_19	PPP1R8	PPP1R8	protein phosphatase 1, regulatory (inhibitor) subunit 8	2965	0.26241812109947205	-0.011834269	No	
+row_20	UTY	UTY	ubiquitously transcribed tetratricopeptide repeat gene, Y-linked	3345	0.2125970721244812	-0.03827443	No	
+row_21	CUL5	CUL5	cullin 5	3449	0.1979493498802185	-0.042890705	No	
+row_22	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	3480	0.19487707316875458	-0.04172002	No	
+row_23	RAB21	RAB21	RAB21, member RAS oncogene family	3676	0.17214767634868622	-0.054173358	No	
+row_24	LUC7L2	LUC7L2	LUC7-like 2 (S. cerevisiae)	3800	0.15881377458572388	-0.06110787	No	
+row_25	HIVEP2	HIVEP2	human immunodeficiency virus type I enhancer binding protein 2	3811	0.15713882446289062	-0.05902802	No	
+row_26	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4641	0.06359705328941345	-0.12421947	No	
+row_27	PGM2L1	PGM2L1	phosphoglucomutase 2-like 1	4840	0.04555048793554306	-0.13923343	No	
+row_28	YTHDF3	YTHDF3	YTH domain family, member 3	4999	0.030702875927090645	-0.15131773	No	
+row_29	LYPLA1	LYPLA1	lysophospholipase I	5070	0.023017406463623047	-0.15649897	No	
+row_30	BOLA2	BOLA2	bolA homolog 2 (E. coli)	5136	0.015239333733916283	-0.16142255	No	
+row_31	LCOR	LCOR	ligand dependent nuclear receptor corepressor	5281	6.322214612737298E-4	-0.17293741	No	
+row_32	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	5290	-9.932183456839994E-5	-0.17357595	No	
+row_33	BIRC6	BIRC6	baculoviral IAP repeat-containing 6 (apollon)	5457	-0.020373689010739326	-0.18648995	No	
+row_34	PTER	PTER	phosphotriesterase related	5582	-0.03371475636959076	-0.19579753	No	
+row_35	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	5610	-0.036288321018218994	-0.19729358	No	
+row_36	WDR26	WDR26	WD repeat domain 26	5836	-0.05938306450843811	-0.2142152	No	
+row_37	CHMP2B	CHMP2B	chromatin modifying protein 2B	5971	-0.07438991963863373	-0.22357766	No	
+row_38	APP	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	6083	-0.08708629012107849	-0.23086639	No	
+row_39	LARP4	LARP4	La ribonucleoprotein domain family, member 4	6150	-0.09420016407966614	-0.23442268	No	
+row_40	MLLT3	MLLT3	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3	6250	-0.10599731653928757	-0.24040423	No	
+row_41	SNX2	SNX2	sorting nexin 2	6305	-0.11244688928127289	-0.24266554	No	
+row_42	EIF4G2	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	6371	-0.11880287528038025	-0.24569084	No	
+row_43	UBE2A	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	6469	-0.1306820809841156	-0.25105983	No	
+row_44	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	6532	-0.13853110373020172	-0.25348338	No	
+row_45	FNDC3A	FNDC3A	fibronectin type III domain containing 3A	6665	-0.1537911295890808	-0.26123035	No	
+row_46	HMGB3	HMGB3	high-mobility group box 3	6679	-0.15543146431446075	-0.25942194	No	
+row_47	ARPC5	ARPC5	actin related protein 2/3 complex, subunit 5, 16kDa	6701	-0.15758034586906433	-0.2582145	No	
+row_48	BMI1	BMI1	B lymphoma Mo-MLV insertion region (mouse)	6718	-0.15932592749595642	-0.2565748	No	
+row_49	SP4	SP4	Sp4 transcription factor	6898	-0.17942307889461517	-0.2676141	No	
+row_50	PHTF2	PHTF2	putative homeodomain transcription factor 2	6920	-0.1811518669128418	-0.26597458	No	
+row_51	APAF1	APAF1	apoptotic peptidase activating factor	6956	-0.18588005006313324	-0.26536903	No	
+row_52	HTR7	HTR7	5-hydroxytryptamine (serotonin) receptor 7 (adenylate cyclase-coupled)	7335	-0.23142017424106598	-0.29138413	No	
+row_53	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	7449	-0.24460472166538239	-0.29594567	No	
+row_54	RANBP9	RANBP9	RAN binding protein 9	7527	-0.25382542610168457	-0.2974566	No	
+row_55	ZCCHC11	ZCCHC11	zinc finger, CCHC domain containing 11	7712	-0.27972957491874695	-0.3070575	No	
+row_56	ZBTB20	ZBTB20	zinc finger and BTB domain containing 20	7942	-0.3150273561477661	-0.31961343	No	
+row_57	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	8124	-0.33648738265037537	-0.32793385	No	
+row_58	ITGAV	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	8232	-0.3545624911785126	-0.32999963	No	
+row_59	IL1RAPL1	IL1RAPL1	interleukin 1 receptor accessory protein-like 1	8355	-0.3771339952945709	-0.33285236	No	
+row_60	HERC4	HERC4	hect domain and RLD 4	8398	-0.38503578305244446	-0.32915667	No	
+row_61	RBM26	RBM26	RNA binding motif protein 26	8581	-0.4224037826061249	-0.33598232	No	
+row_62	ADAMTS19	ADAMTS19	ADAM metallopeptidase with thrombospondin type 1 motif, 19	8603	-0.42609015107154846	-0.32985318	No	
+row_63	SLC6A15	SLC6A15	solute carrier family 6, member 15	9092	-0.5381397008895874	-0.35905114	Yes	
+row_64	CSTF3	CSTF3	cleavage stimulation factor, 3' pre-RNA, subunit 3, 77kDa	9131	-0.5482609868049622	-0.35204342	Yes	
+row_65	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	-0.34906253	Yes	
+row_66	NRXN1	NRXN1	neurexin 1	9293	-0.5969552993774414	-0.34332347	Yes	
+row_67	HERC6	HERC6	hect domain and RLD 6	9314	-0.6024816632270813	-0.33388108	Yes	
+row_68	PDE6D	PDE6D	phosphodiesterase 6D, cGMP-specific, rod, delta	9433	-0.6380242109298706	-0.3316316	Yes	
+row_69	CALML4	CALML4	calmodulin-like 4	9550	-0.6769658327102661	-0.32850826	Yes	
+row_70	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	9556	-0.679041862487793	-0.3164619	Yes	
+row_71	ATXN2L	ATXN2L	ataxin 2-like	9630	-0.7023928165435791	-0.30943054	Yes	
+row_72	PAX8	PAX8	paired box gene 8	9812	-0.7729696035385132	-0.3097504	Yes	
+row_73	FGF12	FGF12	fibroblast growth factor 12	10648	-1.3238098621368408	-0.35232288	Yes	
+row_74	BDNF	BDNF	brain-derived neurotrophic factor	10734	-1.4148364067077637	-0.3331932	Yes	
+row_75	TRIM36	TRIM36	tripartite motif-containing 36	11677	-2.8503077030181885	-0.35635033	Yes	
+row_76	STYX	STYX	serine/threonine/tyrosine interacting protein	12103	-3.648080348968506	-0.32350135	Yes	
+row_77	LIN28B	LIN28B	lin-28 homolog B (C. elegans)	12162	-3.833451509475708	-0.25787815	Yes	
+row_78	PROK2	PROK2	prokineticin 2	12239	-4.329063415527344	-0.18461135	Yes	
+row_79	SLC25A31	SLC25A31	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 31	12347	-4.779023170471191	-0.10557834	Yes	
+row_80	KCNK10	KCNK10	potassium channel, subfamily K, member 10	12517	-6.742532253265381	0.004482313	Yes	

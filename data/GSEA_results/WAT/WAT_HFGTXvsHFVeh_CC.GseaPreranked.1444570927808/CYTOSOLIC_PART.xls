@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.20591564	Yes	
+row_1	PFKFB1	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1	561	1.1783217191696167	0.35067862	Yes	
+row_2	GUCY1A3	GUCY1A3	guanylate cyclase 1, soluble, alpha 3	748	0.9413753151893616	0.46557975	Yes	
+row_3	NEFL	NEFL	neurofilament, light polypeptide 68kDa	1785	0.46128329634666443	0.4466429	Yes	
+row_4	MAP3K13	MAP3K13	mitogen-activated protein kinase kinase kinase 13	2188	0.3776753544807434	0.46667144	Yes	
+row_5	PRDX3	PRDX3	peroxiredoxin 3	2689	0.30084294080734253	0.4683094	Yes	
+row_6	GUCY1B3	GUCY1B3	guanylate cyclase 1, soluble, beta 3	2918	0.2687370181083679	0.487183	Yes	
+row_7	AKT1S1	AKT1S1	AKT1 substrate 1 (proline-rich)	4037	0.12927615642547607	0.4159691	No	
+row_8	TSC2	TSC2	tuberous sclerosis 2	4315	0.09914176166057587	0.4075722	No	
+row_9	CYB5R3	CYB5R3	cytochrome b5 reductase 3	5571	-0.0326857827603817	0.3121397	No	
+row_10	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6278	-0.10967938601970673	0.27103332	No	
+row_11	TSC1	TSC1	tuberous sclerosis 1	6425	-0.12548284232616425	0.27669758	No	
+row_12	ERC1	ERC1	ELKS/RAB6-interacting/CAST family member 1	7623	-0.26649177074432373	0.21809983	No	
+row_13	PFKL	PFKL	phosphofructokinase, liver	8555	-0.41835275292396545	0.20160878	No	
+row_14	PYCARD	PYCARD	PYD and CARD domain containing	8580	-0.42218202352523804	0.25787023	No	
+row_15	PFKM	PFKM	phosphofructokinase, muscle	8658	-0.4355509877204895	0.3117534	No	

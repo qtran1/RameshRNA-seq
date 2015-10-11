@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT1	KRT1	keratin 1 (epidermolytic hyperkeratosis)	85	3.6891989707946777	0.14672823	Yes	
+row_1	MBL2	MBL2	mannose-binding lectin (protein C) 2, soluble (opsonic defect)	120	3.1113288402557373	0.27347723	Yes	
+row_2	APOA1	APOA1	apolipoprotein A-I	214	2.3878188133239746	0.36541864	Yes	
+row_3	APOA2	APOA2	apolipoprotein A-II	275	1.984645962715149	0.44321498	Yes	
+row_4	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	279	1.968059778213501	0.5248648	Yes	
+row_5	NCR1	NCR1	natural cytotoxicity triggering receptor 1	468	1.3366236686706543	0.56549436	Yes	
+row_6	BNIP3	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	1129	0.6814426183700562	0.5412379	No	
+row_7	RSAD2	RSAD2	radical S-adenosyl methionine domain containing 2	1211	0.6435742378234863	0.56155956	No	
+row_8	CEBPG	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	2079	0.3968964219093323	0.50896287	No	
+row_9	CFHR1	CFHR1	complement factor H-related 1	2239	0.3683874309062958	0.5116167	No	
+row_10	BCL2	BCL2	B-cell CLL/lymphoma 2	3293	0.21944251656532288	0.43680966	No	
+row_11	TRAF6	TRAF6	TNF receptor-associated factor 6	3420	0.20223082602024078	0.43518043	No	
+row_12	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	0.3831711	No	
+row_13	MALT1	MALT1	mucosa associated lymphoid tissue lymphoma translocation gene 1	4446	0.08661869913339615	0.36206418	No	
+row_14	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	5126	0.016419872641563416	0.30862224	No	
+row_15	TNFSF13	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13	5551	-0.031146198511123657	0.2761199	No	
+row_16	TARBP2	TARBP2	Tar (HIV-1) RNA binding protein 2	5578	-0.03346490487456322	0.27543977	No	
+row_17	SLA2	SLA2	Src-like-adaptor 2	5668	-0.04257114976644516	0.27011666	No	
+row_18	BNIP3L	BNIP3L	BCL2/adenovirus E1B 19kDa interacting protein 3-like	5995	-0.07726326584815979	0.24734506	No	
+row_19	TRAF2	TRAF2	TNF receptor-associated factor 2	6184	-0.09825676679611206	0.23644736	No	
+row_20	TLR8	TLR8	toll-like receptor 8	6650	-0.15236638486385345	0.20572062	No	
+row_21	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	7476	-0.24790045619010925	0.15027225	No	
+row_22	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	7883	-0.30397239327430725	0.13055675	No	
+row_23	TLR7	TLR7	toll-like receptor 7	8093	-0.33206841349601746	0.12771375	No	
+row_24	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	0.111599326	No	
+row_25	IL4	IL4	interleukin 4	9062	-0.5283421277999878	0.089661226	No	
+row_26	FOXP3	FOXP3	forkhead box P3	9368	-0.61883145570755	0.091097705	No	
+row_27	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	9593	-0.6909257173538208	0.10199071	No	
+row_28	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	11872	-3.255892515182495	0.055878814	No	

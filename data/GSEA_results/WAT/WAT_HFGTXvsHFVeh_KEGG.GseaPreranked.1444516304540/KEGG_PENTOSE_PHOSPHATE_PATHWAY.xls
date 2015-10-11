@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDOB	ALDOB	aldolase B, fructose-bisphosphate	286	1.9459383487701416	0.054268762	No	
+row_1	H6PD	H6PD	hexose-6-phosphate dehydrogenase (glucose 1-dehydrogenase)	1141	0.6760674715042114	0.012992686	No	
+row_2	RPE	RPE	ribulose-5-phosphate-3-epimerase	3131	0.24053281545639038	-0.13596846	No	
+row_3	PGM2	PGM2	phosphoglucomutase 2	3458	0.19657392799854279	-0.15416038	No	
+row_4	TKT	TKT	transketolase (Wernicke-Korsakoff syndrome)	4341	0.09702236205339432	-0.22059727	No	
+row_5	PGLS	PGLS	6-phosphogluconolactonase	4370	0.09375560283660889	-0.21911569	No	
+row_6	RPIA	RPIA	ribose 5-phosphate isomerase A (ribose 5-phosphate epimerase)	4835	0.04596550762653351	-0.2542676	No	
+row_7	TALDO1	TALDO1	transaldolase 1	5069	0.023021237924695015	-0.27192172	No	
+row_8	PRPS2	PRPS2	phosphoribosyl pyrophosphate synthetase 2	5684	-0.043995801359415054	-0.31910384	No	
+row_9	PGD	PGD	phosphogluconate dehydrogenase	6124	-0.09134604781866074	-0.35046667	No	
+row_10	PRPS1	PRPS1	phosphoribosyl pyrophosphate synthetase 1	6948	-0.18465302884578705	-0.40873224	No	
+row_11	ALDOA	ALDOA	aldolase A, fructose-bisphosphate	6965	-0.18642623722553253	-0.40262482	No	
+row_12	PFKP	PFKP	phosphofructokinase, platelet	8244	-0.3560192883014679	-0.4903594	No	
+row_13	PFKL	PFKL	phosphofructokinase, liver	8555	-0.41835275292396545	-0.49849418	No	
+row_14	PFKM	PFKM	phosphofructokinase, muscle	8658	-0.4355509877204895	-0.4893742	No	
+row_15	PGM1	PGM1	phosphoglucomutase 1	8796	-0.4628778100013733	-0.48196092	No	
+row_16	DERA	DERA	2-deoxyribose-5-phosphate aldolase homolog (C. elegans)	9282	-0.5928244590759277	-0.49713096	No	
+row_17	RBKS	RBKS	ribokinase	10209	-0.9842301607131958	-0.5319411	No	
+row_18	FBP2	FBP2	fructose-1,6-bisphosphatase 2	11257	-2.092057228088379	-0.53252363	Yes	
+row_19	FBP1	FBP1	fructose-1,6-bisphosphatase 1	11423	-2.3746681213378906	-0.45163605	Yes	
+row_20	PRPS1L1	PRPS1L1	phosphoribosyl pyrophosphate synthetase 1-like 1	11764	-3.0402278900146484	-0.3583371	Yes	
+row_21	ALDOC	ALDOC	aldolase C, fructose-bisphosphate	11769	-3.0560100078582764	-0.23764026	Yes	
+row_22	TKTL1	TKTL1	transketolase-like 1	11868	-3.2499051094055176	-0.11675539	Yes	
+row_23	TKTL2	TKTL2	transketolase-like 2	12245	-4.36501407623291	0.026135527	Yes	

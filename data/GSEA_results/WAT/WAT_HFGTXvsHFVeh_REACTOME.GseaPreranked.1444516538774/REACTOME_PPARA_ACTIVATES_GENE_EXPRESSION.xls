@@ -1,0 +1,83 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP7A1	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	31	4.828190326690674	0.090620756	Yes	
+row_1	APOA5	APOA5	apolipoprotein A-V	100	3.273967742919922	0.14830942	Yes	
+row_2	FABP1	FABP1	fatty acid binding protein 1, liver	189	2.643375873565674	0.19223733	Yes	
+row_3	APOA1	APOA1	apolipoprotein A-I	214	2.3878188133239746	0.23636058	Yes	
+row_4	APOA2	APOA2	apolipoprotein A-II	275	1.984645962715149	0.26982757	Yes	
+row_5	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	473	1.3259131908416748	0.27962518	Yes	
+row_6	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	526	1.2292360067367554	0.29916596	Yes	
+row_7	SLC27A1	SLC27A1	solute carrier family 27 (fatty acid transporter), member 1	530	1.2251602411270142	0.32255065	Yes	
+row_8	CTGF	CTGF	connective tissue growth factor	556	1.1895583868026733	0.3434877	Yes	
+row_9	G0S2	G0S2	G0/G1switch 2	564	1.17563796043396	0.36559728	Yes	
+row_10	PPARGC1B	PPARGC1B	peroxisome proliferative activated receptor, gamma, coactivator 1, beta	574	1.1596496105194092	0.3872384	Yes	
+row_11	ALAS1	ALAS1	aminolevulinate, delta-, synthase 1	578	1.1544196605682373	0.40925902	Yes	
+row_12	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	656	1.0392262935638428	0.42313454	Yes	
+row_13	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	659	1.0381027460098267	0.44299224	Yes	
+row_14	ABCB4	ABCB4	ATP-binding cassette, sub-family B (MDR/TAP), member 4	793	0.8921146988868713	0.44954816	Yes	
+row_15	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	897	0.8226136565208435	0.4571654	Yes	
+row_16	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.45955658	Yes	
+row_17	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	1082	0.7040126323699951	0.47009015	Yes	
+row_18	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.4660204	Yes	
+row_19	YAP1	YAP1	Yes-associated protein 1, 65kDa	1399	0.5711134076118469	0.46782735	Yes	
+row_20	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.46021748	Yes	
+row_21	CPT2	CPT2	carnitine palmitoyltransferase II	1682	0.48886480927467346	0.46452102	Yes	
+row_22	TEAD4	TEAD4	TEA domain family member 4	1758	0.46664220094680786	0.46751547	Yes	
+row_23	RXRA	RXRA	retinoid X receptor, alpha	1787	0.46085768938064575	0.4741608	Yes	
+row_24	NR1D1	NR1D1	nuclear receptor subfamily 1, group D, member 1	1857	0.44256263971328735	0.4771712	Yes	
+row_25	NCOR1	NCOR1	nuclear receptor co-repressor 1	2083	0.3964989185333252	0.4668054	No	
+row_26	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	2195	0.377150297164917	0.46519235	No	
+row_27	TEAD3	TEAD3	TEA domain family member 3	2221	0.3731939494609833	0.4703874	No	
+row_28	NCOA3	NCOA3	nuclear receptor coactivator 3	2358	0.3481931686401367	0.46621466	No	
+row_29	WWTR1	WWTR1	WW domain containing transcription regulator 1	2656	0.3072325885295868	0.4483638	No	
+row_30	CD36	CD36	CD36 molecule (thrombospondin receptor)	2675	0.30386149883270264	0.45278227	No	
+row_31	EP300	EP300	E1A binding protein p300	2703	0.29833313822746277	0.4563737	No	
+row_32	MED12	MED12	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)	2804	0.28444433212280273	0.45385352	No	
+row_33	CDK8	CDK8	cyclin-dependent kinase 8	2826	0.28214797377586365	0.4576131	No	
+row_34	SREBF1	SREBF1	sterol regulatory element binding transcription factor 1	2878	0.27380475401878357	0.4588103	No	
+row_35	MED6	MED6	mediator of RNA polymerase II transcription, subunit 6 homolog (S. cerevisiae)	2938	0.26607975363731384	0.4592181	No	
+row_36	TIAM2	TIAM2	T-cell lymphoma invasion and metastasis 2	3154	0.23766443133354187	0.44659	No	
+row_37	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	3214	0.23167403042316437	0.44633436	No	
+row_38	ANKRD1	ANKRD1	ankyrin repeat domain 1 (cardiac muscle)	3576	0.18439635634422302	0.4209916	No	
+row_39	TBL1X	TBL1X	transducin (beta)-like 1X-linked	3643	0.1762533038854599	0.41910693	No	
+row_40	NFYB	NFYB	nuclear transcription factor Y, beta	3654	0.17512375116348267	0.42168334	No	
+row_41	TXNRD1	TXNRD1	thioredoxin reductase 1	4074	0.12517474591732025	0.39055562	No	
+row_42	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	4318	0.09898116439580917	0.37301183	No	
+row_43	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	4525	0.07765430957078934	0.3580187	No	
+row_44	ESRRA	ESRRA	estrogen-related receptor alpha	4838	0.045800477266311646	0.33392587	No	
+row_45	NFYA	NFYA	nuclear transcription factor Y, alpha	5005	0.029936134815216064	0.32121465	No	
+row_46	ARNTL	ARNTL	aryl hydrocarbon receptor nuclear translocator-like	5062	0.023633595556020737	0.3171875	No	
+row_47	MED8	MED8	mediator of RNA polymerase II transcription, subunit 8 homolog (S. cerevisiae)	5143	0.014696850441396236	0.3110668	No	
+row_48	FADS1	FADS1	fatty acid desaturase 1	5178	0.01030076015740633	0.30854368	No	
+row_49	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	5221	0.006137722637504339	0.30529988	No	
+row_50	RORA	RORA	RAR-related orphan receptor A	5279	6.9171201903373E-4	0.30075032	No	
+row_51	CYP1A1	CYP1A1	cytochrome P450, family 1, subfamily A, polypeptide 1	5299	-0.0010162543039768934	0.29924893	No	
+row_52	NCOA6	NCOA6	nuclear receptor coactivator 6	5328	-0.00412472989410162	0.29708704	No	
+row_53	CCNC	CCNC	cyclin C	5360	-0.0079862205311656	0.29475945	No	
+row_54	GLIPR1	GLIPR1	GLI pathogenesis-related 1 (glioma)	5413	-0.014575750567018986	0.29087785	No	
+row_55	CLOCK	CLOCK	clock homolog (mouse)	5592	-0.034902360290288925	0.27730176	No	
+row_56	HDAC3	HDAC3	histone deacetylase 3	5639	-0.039387043565511703	0.2743789	No	
+row_57	MED11	MED11	mediator of RNA polymerase II transcription, subunit 11 homolog (S. cerevisiae)	5960	-0.07319626957178116	0.25017396	No	
+row_58	MED25	MED25	mediator of RNA polymerase II transcription, subunit 25 homolog (S. cerevisiae)	6186	-0.0985676571726799	0.2340631	No	
+row_59	NRF1	NRF1	nuclear respiratory factor 1	6686	-0.1559736132621765	0.1971252	No	
+row_60	MED31	MED31	mediator of RNA polymerase II transcription, subunit 31 homolog (S. cerevisiae)	7145	-0.20609688758850098	0.16443591	No	
+row_61	SMARCD3	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	7176	-0.20934076607227325	0.1660711	No	
+row_62	GRHL1	GRHL1	grainyhead-like 1 (Drosophila)	7211	-0.2143896520137787	0.16748345	No	
+row_63	FHL2	FHL2	four and a half LIM domains 2	7315	-0.22890907526016235	0.16365224	No	
+row_64	NCOA2	NCOA2	nuclear receptor coactivator 2	7317	-0.22940558195114136	0.16799584	No	
+row_65	MED19	MED19	mediator of RNA polymerase II transcription, subunit 19 homolog (S. cerevisiae)	7352	-0.23331192135810852	0.16977307	No	
+row_66	MED18	MED18	mediator of RNA polymerase II transcription, subunit 18 homolog (S. cerevisiae)	7378	-0.23714932799339294	0.17234476	No	
+row_67	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	7449	-0.24460472166538239	0.1714579	No	
+row_68	MED4	MED4	mediator of RNA polymerase II transcription, subunit 4 homolog (S. cerevisiae)	7884	-0.30399513244628906	0.14257762	No	
+row_69	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	7897	-0.30812832713127136	0.14755867	No	
+row_70	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	8204	-0.3495118319988251	0.12980266	No	
+row_71	MED9	MED9	mediator of RNA polymerase II transcription, subunit 9 homolog (S. cerevisiae)	8229	-0.3538230359554291	0.13470422	No	
+row_72	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	8511	-0.4099058210849762	0.120114066	No	
+row_73	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	9246	-0.581736147403717	0.07257412	No	
+row_74	ANGPTL4	ANGPTL4	angiopoietin-like 4	9335	-0.6091666221618652	0.077276215	No	
+row_75	FDFT1	FDFT1	farnesyl-diphosphate farnesyltransferase 1	9732	-0.7405627369880676	0.059856247	No	
+row_76	MED10	MED10	mediator of RNA polymerase II transcription, subunit 10 homolog (NUT2, S. cerevisiae)	9790	-0.7637500762939453	0.07002077	No	
+row_77	SREBF2	SREBF2	sterol regulatory element binding transcription factor 2	9840	-0.7870699167251587	0.08127539	No	
+row_78	NPAS2	NPAS2	neuronal PAS domain protein 2	9918	-0.8253911137580872	0.09102752	No	
+row_79	TEAD2	TEAD2	TEA domain family member 2	10112	-0.9293609261512756	0.09349857	No	
+row_80	HMGCR	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	10187	-0.9727635979652405	0.106332645	No	
+row_81	UGT1A9	UGT1A9	UDP glucuronosyltransferase 1 family, polypeptide A9	12276	-4.386725425720215	0.023775218	No	

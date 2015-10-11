@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF13B	TNFSF13B	tumor necrosis factor (ligand) superfamily, member 13b	1855	0.4426000118255615	-0.072742335	No	
+row_1	MAPK14	MAPK14	mitogen-activated protein kinase 14	2684	0.3012717068195343	-0.08764657	No	
+row_2	TRAF6	TRAF6	TNF receptor-associated factor 6	3420	0.20223082602024078	-0.11191971	No	
+row_3	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	3660	0.17349748313426971	-0.10156566	No	
+row_4	TNFRSF17	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	3787	0.16039560735225677	-0.08443306	No	
+row_5	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	-0.07093278	No	
+row_6	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	4799	0.04900802671909332	-0.13230374	No	
+row_7	MAPK8	MAPK8	mitogen-activated protein kinase 8	4978	0.03294863924384117	-0.14089653	No	
+row_8	TNFSF13	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13	5551	-0.031146198511123657	-0.18116651	No	
+row_9	TRAF3	TRAF3	TNF receptor-associated factor 3	5932	-0.0702781230211258	-0.19952111	No	
+row_10	TRAF2	TRAF2	TNF receptor-associated factor 2	6184	-0.09825676679611206	-0.20286562	No	
+row_11	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6232	-0.10340578854084015	-0.18909474	No	
+row_12	TRAF5	TRAF5	TNF receptor-associated factor 5	7301	-0.22702845931053162	-0.2356829	Yes	
+row_13	TNFRSF13B	TNFRSF13B	tumor necrosis factor receptor superfamily, member 13B	7739	-0.2836470603942871	-0.22243907	Yes	
+row_14	TNFRSF13C	TNFRSF13C	tumor necrosis factor receptor superfamily, member 13C	12075	-3.58554744720459	0.03965282	Yes	

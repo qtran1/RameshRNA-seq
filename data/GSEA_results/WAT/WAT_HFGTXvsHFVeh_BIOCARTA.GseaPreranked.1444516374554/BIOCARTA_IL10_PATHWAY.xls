@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	1723	0.47544312477111816	-0.10578422	No	
+row_1	STAT5A	STAT5A	signal transducer and activator of transcription 5A	1770	0.4635947346687317	-0.0788007	No	
+row_2	STAT5B	STAT5B	signal transducer and activator of transcription 5B	2135	0.3880822956562042	-0.08213359	No	
+row_3	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2366	0.34665581583976746	-0.07753372	No	
+row_4	STAT3	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	2732	0.2954478859901428	-0.087070026	No	
+row_5	BLVRB	BLVRB	biliverdin reductase B (flavin reductase (NADPH))	3732	0.16625994443893433	-0.15563631	No	
+row_6	STAT2	STAT2	signal transducer and activator of transcription 2, 113kDa	3934	0.14197616279125214	-0.16225772	No	
+row_7	IL10RA	IL10RA	interleukin 10 receptor, alpha	5255	0.0031459445599466562	-0.2671704	No	
+row_8	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	5474	-0.021739412099123	-0.2830941	No	
+row_9	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5488	-0.02303464338183403	-0.28260663	No	
+row_10	BLVRA	BLVRA	biliverdin reductase A	6031	-0.08173862844705582	-0.32036632	No	
+row_11	IL10RB	IL10RB	interleukin 10 receptor, beta	8423	-0.389442503452301	-0.48503318	No	
+row_12	HMOX1	HMOX1	heme oxygenase (decycling) 1	9259	-0.5855047106742859	-0.51282406	No	
+row_13	IL10	IL10	interleukin 10	11229	-2.048031806945801	-0.53423995	Yes	
+row_14	IL1A	IL1A	interleukin 1, alpha	11733	-2.975435733795166	-0.37760043	Yes	
+row_15	STAT4	STAT4	signal transducer and activator of transcription 4	11778	-3.0733823776245117	-0.17793262	Yes	
+row_16	IL6	IL6	interleukin 6 (interferon, beta 2)	12106	-3.6480953693389893	0.03719046	Yes	

@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TTN	TTN	titin	3115	0.24387218058109283	-0.2351238	No	
+row_1	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.22565778	No	
+row_2	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	3531	0.18877096474170685	-0.24552725	No	
+row_3	NOL6	NOL6	nucleolar protein family 6 (RNA-associated)	3722	0.16792280972003937	-0.2517695	No	
+row_4	SUV39H1	SUV39H1	suppressor of variegation 3-9 homolog 1 (Drosophila)	5365	-0.00858350284397602	-0.38205817	No	
+row_5	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	7173	-0.2086937129497528	-0.5148952	No	
+row_6	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.5928374	No	
+row_7	RGS12	RGS12	regulator of G-protein signalling 12	9458	-0.6441402435302734	-0.64211655	No	
+row_8	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.65865594	Yes	
+row_9	RCC1	RCC1	regulator of chromosome condensation 1	10527	-1.2225804328918457	-0.60144275	Yes	
+row_10	SYCE2	SYCE2	synaptonemal complex central element protein 2	10688	-1.3602325916290283	-0.5422003	Yes	
+row_11	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.47635394	Yes	
+row_12	SYCE1	SYCE1	synaptonemal complex central element protein 1	11755	-3.026709794998169	-0.37000906	Yes	
+row_13	STAG3	STAG3	stromal antigen 3	12216	-4.108731746673584	-0.18920574	Yes	
+row_14	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	0.028346192	Yes	

@@ -1,0 +1,63 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	855	0.8425230383872986	-0.04875305	No	
+row_1	AMD1	AMD1	adenosylmethionine decarboxylase 1	857	0.8416061997413635	-0.029272934	No	
+row_2	SLITRK4	SLITRK4	SLIT and NTRK-like family, member 4	895	0.8228024840354919	-0.01310708	No	
+row_3	NNAT	NNAT	neuronatin	928	0.8041679859161377	0.0030253	No	
+row_4	ARID4A	ARID4A	AT rich interactive domain 4A (RBP1-like)	1038	0.7296179533004761	0.011270946	No	
+row_5	ZFP36L1	ZFP36L1	zinc finger protein 36, C3H type-like 1	1100	0.6959578394889832	0.022570604	No	
+row_6	BAZ1B	BAZ1B	bromodomain adjacent to zinc finger domain, 1B	1183	0.6566693186759949	0.031278756	No	
+row_7	VGLL3	VGLL3	vestigial like 3 (Drosophila)	1381	0.5754157304763794	0.028907293	No	
+row_8	RAB37	RAB37	RAB37, member RAS oncogene family	1818	0.4534675180912018	0.0045999293	No	
+row_9	ADNP	ADNP	activity-dependent neuroprotector	1942	0.42295366525650024	0.0045993677	No	
+row_10	SET	SET	SET translocation (myeloid leukemia-associated)	1968	0.4174758493900299	0.012303975	No	
+row_11	SEMA3F	SEMA3F	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3F	2086	0.39586973190307617	0.012153488	No	
+row_12	RHOA	RHOA	ras homolog gene family, member A	2119	0.38974156975746155	0.018654052	No	
+row_13	EVC	EVC	Ellis van Creveld syndrome	2610	0.31365054845809937	-0.0132187	No	
+row_14	SLC26A2	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	2619	0.31231430172920227	-0.006599489	No	
+row_15	UHRF2	UHRF2	ubiquitin-like, containing PHD and RING finger domains, 2	3029	0.25397729873657227	-0.03338534	No	
+row_16	SMEK1	SMEK1	SMEK homolog 1, suppressor of mek1 (Dictyostelium)	3075	0.2488282173871994	-0.031198792	No	
+row_17	UHMK1	UHMK1	U2AF homology motif (UHM) kinase 1	3077	0.2485029399394989	-0.025503179	No	
+row_18	CPSF6	CPSF6	cleavage and polyadenylation specific factor 6, 68kDa	3099	0.24607796967029572	-0.021462392	No	
+row_19	DAAM1	DAAM1	dishevelled associated activator of morphogenesis 1	3304	0.21816852688789368	-0.032696214	No	
+row_20	TACC1	TACC1	transforming, acidic coiled-coil containing protein 1	3400	0.20523624122142792	-0.035518963	No	
+row_21	NUMB	NUMB	numb homolog (Drosophila)	3740	0.1656281054019928	-0.058763538	No	
+row_22	YY1	YY1	YY1 transcription factor	3773	0.1616249829530716	-0.057564706	No	
+row_23	SPRED1	SPRED1	sprouty-related, EVH1 domain containing 1	3776	0.1613631397485733	-0.05397426	No	
+row_24	PPP2R2A	PPP2R2A	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), alpha isoform	3839	0.15408428013324738	-0.05534838	No	
+row_25	G3BP2	G3BP2	-	3895	0.14662811160087585	-0.05633633	No	
+row_26	ZFAND6	ZFAND6	zinc finger, AN1-type domain 6	4155	0.11616790294647217	-0.07433656	No	
+row_27	FAM120A	FAM120A	family with sequence similarity 120A	4244	0.10746841132640839	-0.0788721	No	
+row_28	PLCB1	PLCB1	phospholipase C, beta 1 (phosphoinositide-specific)	4327	0.09819774329662323	-0.08314357	No	
+row_29	CTDSPL2	CTDSPL2	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase like 2	4336	0.09774021804332733	-0.08151134	No	
+row_30	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.09539207	No	
+row_31	TULP4	TULP4	tubby like protein 4	4779	0.05026813969016075	-0.11380497	No	
+row_32	STRN3	STRN3	striatin, calmodulin binding protein 3	4984	0.03246871009469032	-0.12935472	No	
+row_33	WAC	WAC	WW domain containing adaptor with coiled-coil	5385	-0.010934215039014816	-0.1610699	No	
+row_34	EED	EED	embryonic ectoderm development	5666	-0.04246514290571213	-0.18246147	No	
+row_35	GATAD2B	GATAD2B	GATA zinc finger domain containing 2B	5671	-0.042880989611148834	-0.18178454	No	
+row_36	SETD3	SETD3	SET domain containing 3	5721	-0.04809177666902542	-0.18458307	No	
+row_37	DIP2C	DIP2C	DIP2 disco-interacting protein 2 homolog C (Drosophila)	5780	-0.053323496133089066	-0.18797931	No	
+row_38	DCBLD2	DCBLD2	discoidin, CUB and LCCL domain containing 2	5965	-0.07383997738361359	-0.20096906	No	
+row_39	RBM14	RBM14	RNA binding motif protein 14	6006	-0.07882677018642426	-0.20233394	No	
+row_40	TM9SF3	TM9SF3	transmembrane 9 superfamily member 3	6051	-0.08334949612617493	-0.20391342	No	
+row_41	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	6494	-0.13338710367679596	-0.23613942	No	
+row_42	C1QL3	C1QL3	complement component 1, q subcomponent-like 3	6618	-0.14752444624900818	-0.24254131	No	
+row_43	SLC35A3	SLC35A3	solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member A3	7067	-0.19690781831741333	-0.27377054	No	
+row_44	FZD3	FZD3	frizzled homolog 3 (Drosophila)	7528	-0.2538772225379944	-0.3046348	No	
+row_45	HERPUD2	HERPUD2	HERPUD family member 2	7767	-0.2872968912124634	-0.31697938	No	
+row_46	SNX22	SNX22	sorting nexin 22	7906	-0.30946171283721924	-0.3208165	No	
+row_47	ABCB9	ABCB9	ATP-binding cassette, sub-family B (MDR/TAP), member 9	7907	-0.3095056414604187	-0.3136232	No	
+row_48	CAMK1D	CAMK1D	calcium/calmodulin-dependent protein kinase ID	8460	-0.3998379707336426	-0.34844807	No	
+row_49	CEP350	CEP350	centrosomal protein 350kDa	8495	-0.4060918986797333	-0.34172735	No	
+row_50	SLTM	SLTM	SAFB-like, transcription modulator	9274	-0.590377151966095	-0.39018652	No	
+row_51	RSBN1	RSBN1	round spermatid basic protein 1	9494	-0.6545421481132507	-0.39247727	No	
+row_52	UBE2E1	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	9561	-0.6808910965919495	-0.3819274	No	
+row_53	PTPRE	PTPRE	protein tyrosine phosphatase, receptor type, E	10168	-0.9610231518745422	-0.40802547	Yes	
+row_54	CADPS	CADPS	Ca2+-dependent secretion activator	10208	-0.98401939868927	-0.38827255	Yes	
+row_55	GRM7	GRM7	glutamate receptor, metabotropic 7	10424	-1.1470491886138916	-0.37879714	Yes	
+row_56	FNDC5	FNDC5	fibronectin type III domain containing 5	10652	-1.3304250240325928	-0.3660189	Yes	
+row_57	TMEM35	TMEM35	transmembrane protein 35	10658	-1.3343751430511475	-0.33540586	Yes	
+row_58	TMEM132E	TMEM132E	transmembrane protein 132E	11175	-1.9576531648635864	-0.33114782	Yes	
+row_59	SLC17A6	SLC17A6	solute carrier family 17 (sodium-dependent inorganic phosphate cotransporter), member 6	11341	-2.226630449295044	-0.29258534	Yes	
+row_60	IGSF11	IGSF11	immunoglobulin superfamily, member 11	11719	-2.952166795730591	-0.25410417	Yes	
+row_61	ADAM28	ADAM28	ADAM metallopeptidase domain 28	12569	-13.866625785827637	3.1965633E-4	Yes	

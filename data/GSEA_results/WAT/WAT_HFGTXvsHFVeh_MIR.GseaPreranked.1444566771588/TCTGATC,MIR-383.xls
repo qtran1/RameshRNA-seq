@@ -1,0 +1,34 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SP7	SP7	Sp7 transcription factor	131	2.9000792503356934	0.13362816	Yes	
+row_1	GADD45G	GADD45G	growth arrest and DNA-damage-inducible, gamma	565	1.1735700368881226	0.15740356	Yes	
+row_2	DIO1	DIO1	deiodinase, iodothyronine, type I	776	0.9090640544891357	0.18582015	Yes	
+row_3	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	815	0.8757688403129578	0.22629766	Yes	
+row_4	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	1152	0.6704722046852112	0.23281413	Yes	
+row_5	BRCC3	BRCC3	BRCA1/BRCA2-containing complex, subunit 3	1187	0.6542794108390808	0.26260716	Yes	
+row_6	IRF1	IRF1	interferon regulatory factor 1	1416	0.5668859481811523	0.2725893	Yes	
+row_7	EPAS1	EPAS1	endothelial PAS domain protein 1	1516	0.5357286334037781	0.2913098	Yes	
+row_8	SLC2A13	SLC2A13	solute carrier family 2 (facilitated glucose transporter), member 13	1525	0.5324563980102539	0.31712395	Yes	
+row_9	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	2285	0.3585621118545532	0.27441558	No	
+row_10	ANKRD11	ANKRD11	ankyrin repeat domain 11	2308	0.35551390051841736	0.29032302	No	
+row_11	CD47	CD47	CD47 molecule	3082	0.24789294600486755	0.24100034	No	
+row_12	TAOK3	TAOK3	TAO kinase 3	4597	0.0683654174208641	0.123672664	No	
+row_13	PCDH17	PCDH17	protocadherin 17	4789	0.04957770183682442	0.1109056	No	
+row_14	STRN3	STRN3	striatin, calmodulin binding protein 3	4984	0.03246871009469032	0.09704937	No	
+row_15	UBE2R2	UBE2R2	ubiquitin-conjugating enzyme E2R 2	5280	6.530355894938111E-4	0.073558964	No	
+row_16	RBMS1	RBMS1	RNA binding motif, single stranded interacting protein 1	6110	-0.0900251492857933	0.011928172	No	
+row_17	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6282	-0.11040803045034409	0.0037778895	No	
+row_18	RAB8A	RAB8A	RAB8A, member RAS oncogene family	6369	-0.11871204525232315	0.0028179137	No	
+row_19	CTNNAL1	CTNNAL1	catenin (cadherin-associated protein), alpha-like 1	6401	-0.12279338389635086	0.0064463103	No	
+row_20	MAPKAP1	MAPKAP1	mitogen-activated protein kinase associated protein 1	6725	-0.15980802476406097	-0.01137006	No	
+row_21	EYA3	EYA3	eyes absent homolog 3 (Drosophila)	7784	-0.28983554244041443	-0.081334524	No	
+row_22	SHMT2	SHMT2	serine hydroxymethyltransferase 2 (mitochondrial)	8404	-0.3858494460582733	-0.1115239	No	
+row_23	ARID2	ARID2	AT rich interactive domain 2 (ARID, RFX-like)	8548	-0.4160407781600952	-0.10225788	No	
+row_24	NUP153	NUP153	nucleoporin 153kDa	8556	-0.4184126555919647	-0.0820296	No	
+row_25	RBM26	RBM26	RNA binding motif protein 26	8581	-0.4224037826061249	-0.0629586	No	
+row_26	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	8675	-0.4380493462085724	-0.048612293	No	
+row_27	MAL2	MAL2	mal, T-cell differentiation protein 2	9031	-0.5206804275512695	-0.051052406	No	
+row_28	NXPH1	NXPH1	neurexophilin 1	10011	-0.8709438443183899	-0.08584847	No	
+row_29	SLC2A6	SLC2A6	solute carrier family 2 (facilitated glucose transporter), member 6	10532	-1.2278544902801514	-0.06631352	No	
+row_30	SOX5	SOX5	SRY (sex determining region Y)-box 5	10620	-1.2991745471954346	-0.00870869	No	
+row_31	CLEC3A	CLEC3A	C-type lectin domain family 3, member A	10696	-1.363135576248169	0.05303055	No	
+row_32	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	11163	-1.9436442852020264	0.11243131	No	

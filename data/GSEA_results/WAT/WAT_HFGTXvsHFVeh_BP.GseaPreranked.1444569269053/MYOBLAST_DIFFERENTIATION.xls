@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYOZ1	MYOZ1	myozenin 1	2	7.9928741455078125	0.38740346	Yes	
+row_1	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	146	2.747812509536743	0.5092528	Yes	
+row_2	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	386	1.560939073562622	0.5659072	Yes	
+row_3	BMP4	BMP4	bone morphogenetic protein 4	464	1.3422797918319702	0.62486035	Yes	
+row_4	BOC	BOC	Boc homolog (mouse)	1343	0.5886449217796326	0.5834817	No	
+row_5	MBNL1	MBNL1	muscleblind-like (Drosophila)	1969	0.4173087179660797	0.55394334	No	
+row_6	IFRD1	IFRD1	interferon-related developmental regulator 1	2060	0.4008643925189972	0.56621337	No	
+row_7	TTN	TTN	titin	3115	0.24387218058109283	0.4941011	No	
+row_8	MYEF2	MYEF2	myelin expression factor 2	3570	0.1846887767314911	0.46690127	No	
+row_9	MAPK12	MAPK12	mitogen-activated protein kinase 12	4302	0.10103987157344818	0.41358602	No	
+row_10	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	4670	0.06006212159991264	0.3872716	No	
+row_11	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6397	-0.12213700264692307	0.25574064	No	
+row_12	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	7706	-0.2787800133228302	0.16509327	No	
+row_13	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	8904	-0.4883880913257599	0.09344917	No	
+row_14	KCNH1	KCNH1	potassium voltage-gated channel, subfamily H (eag-related), member 1	9862	-0.796559751033783	0.05586071	No	
+row_15	KRT19	KRT19	keratin 19	10235	-1.0033159255981445	0.074885115	No	
+row_16	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	11372	-2.293867349624634	0.0956439	No	

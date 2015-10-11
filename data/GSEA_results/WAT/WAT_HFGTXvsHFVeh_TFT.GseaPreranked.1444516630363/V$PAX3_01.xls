@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ZIC1	ZIC1	Zic family member 1 (odd-paired homolog, Drosophila)	170	2.6982345581054688	0.19901685	Yes	
+row_1	FGF10	FGF10	fibroblast growth factor 10	241	2.1787900924682617	0.36507824	Yes	
+row_2	KCNE4	KCNE4	potassium voltage-gated channel, Isk-related family, member 4	414	1.4722497463226318	0.4673576	Yes	
+row_3	PLCXD2	PLCXD2	phosphatidylinositol-specific phospholipase C, X domain containing 2	1496	0.5413128733634949	0.4239058	No	
+row_4	PHF21B	PHF21B	PHD finger protein 21B	2378	0.3439689576625824	0.38083664	No	
+row_5	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	2766	0.2911204993724823	0.37294802	No	
+row_6	NOTCH2	NOTCH2	Notch homolog 2 (Drosophila)	2795	0.28593114018440247	0.39324254	No	
+row_7	MYH2	MYH2	myosin, heavy chain 2, skeletal muscle, adult	3234	0.2286473661661148	0.37637073	No	
+row_8	FBXO11	FBXO11	F-box protein 11	3588	0.18363258242607117	0.36272255	No	
+row_9	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	4127	0.11924996972084045	0.32926854	No	
+row_10	CRY1	CRY1	cryptochrome 1 (photolyase-like)	4904	0.039173707365989685	0.27055135	No	
+row_11	YARS	YARS	tyrosyl-tRNA synthetase	5011	0.0293220616877079	0.26441905	No	
+row_12	RTF1	RTF1	Rtf1, Paf1/RNA polymerase II complex component, homolog (S. cerevisiae)	5381	-0.01045212708413601	0.23585409	No	
+row_13	CLPTM1	CLPTM1	cleft lip and palate associated transmembrane protein 1	6541	-0.13971388339996338	0.15455373	No	
+row_14	STXBP1	STXBP1	syntaxin binding protein 1	6738	-0.16148996353149414	0.1516652	No	
+row_15	AP1S1	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	9060	-0.527124285697937	0.008338089	No	
+row_16	MAP1A	MAP1A	microtubule-associated protein 1A	10738	-1.4158462285995483	-0.0136888195	No	
+row_17	ZCCHC12	ZCCHC12	zinc finger, CCHC domain containing 12	11216	-2.027956247329712	0.10807571	No	

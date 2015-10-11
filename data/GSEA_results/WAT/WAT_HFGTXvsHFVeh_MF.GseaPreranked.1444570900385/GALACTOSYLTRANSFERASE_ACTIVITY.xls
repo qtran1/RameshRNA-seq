@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	B3GALT5	B3GALT5	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 5	81	3.7750208377838135	0.33971018	Yes	
+row_1	C1GALT1	C1GALT1	core 1 synthase, glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase, 1	669	1.0255613327026367	0.38701212	Yes	
+row_2	B3GALT2	B3GALT2	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 2	772	0.915299654006958	0.46282107	Yes	
+row_3	A4GALT	A4GALT	alpha 1,4-galactosyltransferase (globotriaosylceramide synthase)	1390	0.5742232799530029	0.46634775	Yes	
+row_4	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	3764	0.16247618198394775	0.29229826	No	
+row_5	B3GALT4	B3GALT4	UDP-Gal:betaGlcNAc beta 1,3-galactosyltransferase, polypeptide 4	3878	0.14892587065696716	0.29695684	No	
+row_6	B3GALNT1	B3GALNT1	beta-1,3-N-acetylgalactosaminyltransferase 1 (globoside blood group)	4256	0.1060464158654213	0.2766627	No	
+row_7	B4GALT6	B4GALT6	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 6	5018	0.02830447629094124	0.21866415	No	
+row_8	B4GALT5	B4GALT5	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 5	5610	-0.036288321018218994	0.17493382	No	
+row_9	B4GALT3	B4GALT3	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 3	5802	-0.05578342080116272	0.1648408	No	
+row_10	B4GALT7	B4GALT7	xylosylprotein beta 1,4-galactosyltransferase, polypeptide 7 (galactosyltransferase I)	6774	-0.16567611694335938	0.1027178	No	
+row_11	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	9294	-0.5974118709564209	-0.043074355	No	
+row_12	B4GALT4	B4GALT4	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 4	9671	-0.7168569564819336	-0.0072791027	No	
+row_13	B4GALT2	B4GALT2	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 2	9887	-0.8138682842254639	0.050231334	No	
+row_14	B3GNT6	B3GNT6	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 6 (core 3 synthase)	11041	-1.7836885452270508	0.121984325	No	

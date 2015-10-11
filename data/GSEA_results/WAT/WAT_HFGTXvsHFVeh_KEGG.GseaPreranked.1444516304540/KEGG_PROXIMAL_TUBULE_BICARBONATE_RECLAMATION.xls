@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP1B4	ATP1B4	ATPase, (Na+)/K+ transporting, beta 4 polypeptide	175	2.6982345581054688	0.150174	Yes	
+row_1	GLS2	GLS2	glutaminase 2 (liver, mitochondrial)	367	1.6045434474945068	0.23255232	Yes	
+row_2	SLC38A3	SLC38A3	solute carrier family 38, member 3	519	1.2403972148895264	0.29596853	Yes	
+row_3	SLC4A4	SLC4A4	solute carrier family 4, sodium bicarbonate cotransporter, member 4	545	1.2047119140625	0.36725092	Yes	
+row_4	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	1647	0.49923932552337646	0.30991486	No	
+row_5	GLUD1	GLUD1	glutamate dehydrogenase 1	1959	0.41985881328582764	0.31067878	No	
+row_6	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	2051	0.40337419509887695	0.3279644	No	
+row_7	GLS	GLS	glutaminase	3994	0.13446126878261566	0.18145095	No	
+row_8	PCK2	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	4718	0.05595467612147331	0.12726305	No	
+row_9	ATP1B2	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide	4725	0.05548452213406563	0.13015984	No	
+row_10	AQP1	AQP1	aquaporin 1 (Colton blood group)	5481	-0.022254757583141327	0.07137323	No	
+row_11	MDH1	MDH1	malate dehydrogenase 1, NAD (soluble)	5632	-0.03837800398468971	0.061759103	No	
+row_12	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	5771	-0.05278336629271507	0.053977013	No	
+row_13	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	6912	-0.18067185580730438	-0.025841756	No	
+row_14	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	8139	-0.338960200548172	-0.10288342	No	
+row_15	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	9333	-0.608588695526123	-0.16089691	No	
+row_16	SLC25A10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	9888	-0.8139985203742981	-0.15551673	No	
+row_17	SLC9A3	SLC9A3	solute carrier family 9 (sodium/hydrogen exchanger), member 3	10792	-1.4780441522598267	-0.13754742	No	
+row_18	ATP1A3	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	11068	-1.814793586730957	-0.04907223	No	
+row_19	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	11638	-2.7765095233917236	0.07447825	No	

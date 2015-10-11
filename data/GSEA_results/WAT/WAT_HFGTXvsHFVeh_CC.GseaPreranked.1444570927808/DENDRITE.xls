@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	820	0.872087299823761	0.100717574	Yes	
+row_1	SYNPO	SYNPO	synaptopodin	931	0.8023892641067505	0.24470477	Yes	
+row_2	BNIP3	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	1129	0.6814426183700562	0.35874015	Yes	
+row_3	MAGEE1	MAGEE1	melanoma antigen family E, 1	1889	0.43623051047325134	0.38134345	Yes	
+row_4	OPA1	OPA1	optic atrophy 1 (autosomal dominant)	2839	0.2800709307193756	0.3590897	Yes	
+row_5	DNER	DNER	-	2943	0.26563242077827454	0.40145478	Yes	
+row_6	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	3002	0.2570174038410187	0.44576323	Yes	
+row_7	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	3178	0.23548345267772675	0.4766556	Yes	
+row_8	MAP1S	MAP1S	microtubule-associated protein 1S	3463	0.19618885219097137	0.49138796	Yes	
+row_9	CAMK2N1	CAMK2N1	calcium/calmodulin-dependent protein kinase II inhibitor 1	4286	0.10291397571563721	0.44552287	No	
+row_10	ATXN10	ATXN10	ataxin 10	5099	0.019821368157863617	0.38463616	No	
+row_11	CDK5	CDK5	cyclin-dependent kinase 5	6187	-0.09888187795877457	0.31690142	No	
+row_12	TRAPPC4	TRAPPC4	trafficking protein particle complex 4	6850	-0.1734570413827896	0.2972061	No	
+row_13	ACTN2	ACTN2	actinin, alpha 2	7151	-0.2067621946334839	0.31267717	No	
+row_14	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	7618	-0.26565617322921753	0.32614088	No	
+row_15	RAB27A	RAB27A	RAB27A, member RAS oncogene family	8258	-0.3590407073497772	0.34360564	No	

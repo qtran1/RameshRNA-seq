@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SSTR4	SSTR4	somatostatin receptor 4	3	7.67584228515625	0.10052881	No	
+row_1	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	53	4.278750896453857	0.15278982	No	
+row_2	CCKBR	CCKBR	cholecystokinin B receptor	295	1.922298550605774	0.15879339	No	
+row_3	DRD1	DRD1	dopamine receptor D1	615	1.0982565879821777	0.14775439	No	
+row_4	TSPO	TSPO	translocator protein (18kDa)	953	0.7837425470352173	0.13115004	No	
+row_5	TACR2	TACR2	tachykinin receptor 2	1022	0.7387415766716003	0.13542166	No	
+row_6	CHRM3	CHRM3	cholinergic receptor, muscarinic 3	1084	0.7035028338432312	0.1397893	No	
+row_7	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	1281	0.620928168296814	0.13229962	No	
+row_8	CHRNB1	CHRNB1	cholinergic receptor, nicotinic, beta 1 (muscle)	2156	0.384865939617157	0.0676051	No	
+row_9	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	2235	0.36985141038894653	0.06623594	No	
+row_10	NPY6R	NPY6R	neuropeptide Y receptor Y6 (pseudogene)	2473	0.3303621709346771	0.051659822	No	
+row_11	KISS1R	KISS1R	KISS1 receptor	2530	0.32361653447151184	0.051439334	No	
+row_12	TACR1	TACR1	tachykinin receptor 1	4301	0.10109724849462509	-0.08848317	No	
+row_13	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	5736	-0.0491756908595562	-0.20227379	No	
+row_14	MCHR1	MCHR1	melanin-concentrating hormone receptor 1	5858	-0.06174115464091301	-0.21111931	No	
+row_15	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	6748	-0.16251814365386963	-0.27992985	No	
+row_16	ANXA9	ANXA9	annexin A9	7306	-0.22780613601207733	-0.32138896	No	
+row_17	SSTR1	SSTR1	somatostatin receptor 1	7912	-0.3101859986782074	-0.36559713	No	
+row_18	SSTR5	SSTR5	somatostatin receptor 5	8014	-0.3253672420978546	-0.36938572	No	
+row_19	GALR1	GALR1	galanin receptor 1	8026	-0.3253672420978546	-0.36599213	No	
+row_20	NMUR2	NMUR2	neuromedin U receptor 2	8049	-0.3253672420978546	-0.36347637	No	
+row_21	GALR2	GALR2	galanin receptor 2	8848	-0.4737165868282318	-0.4209395	No	
+row_22	GABRA4	GABRA4	gamma-aminobutyric acid (GABA) A receptor, alpha 4	9007	-0.5152425765991211	-0.42678416	No	
+row_23	MC2R	MC2R	melanocortin 2 receptor (adrenocorticotropic hormone)	9037	-0.521428644657135	-0.4222531	No	
+row_24	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	9575	-0.6849878430366516	-0.45611432	No	
+row_25	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	9713	-0.7316495776176453	-0.45744213	No	
+row_26	CHRM2	CHRM2	cholinergic receptor, muscarinic 2	10015	-0.8751511573791504	-0.46997362	No	
+row_27	TACR3	TACR3	tachykinin receptor 3	10224	-0.9949126839637756	-0.47351128	No	
+row_28	CHRM5	CHRM5	cholinergic receptor, muscarinic 5	10672	-1.3467861413955688	-0.49150223	No	
+row_29	SSTR3	SSTR3	somatostatin receptor 3	11170	-1.9532678127288818	-0.5055214	Yes	
+row_30	CHRNA5	CHRNA5	cholinergic receptor, nicotinic, alpha 5	11178	-1.9607166051864624	-0.48033983	Yes	
+row_31	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	11413	-2.3543879985809326	-0.4681052	Yes	
+row_32	NMBR	NMBR	neuromedin B receptor	11456	-2.4330036640167236	-0.43951648	Yes	
+row_33	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	11558	-2.6130716800689697	-0.41327217	Yes	
+row_34	CHRM4	CHRM4	cholinergic receptor, muscarinic 4	11706	-2.923715114593506	-0.38662064	Yes	
+row_35	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	11813	-3.1446571350097656	-0.3537967	Yes	
+row_36	CCKAR	CCKAR	cholecystokinin A receptor	11965	-3.400723457336426	-0.32120222	Yes	
+row_37	GABRA2	GABRA2	gamma-aminobutyric acid (GABA) A receptor, alpha 2	12096	-3.6372861862182617	-0.28382632	Yes	
+row_38	DRD4	DRD4	dopamine receptor D4	12165	-3.842219114303589	-0.23881233	Yes	
+row_39	NMUR1	NMUR1	neuromedin U receptor 1	12178	-3.9089677333831787	-0.18845315	Yes	
+row_40	HCRTR2	HCRTR2	hypocretin (orexin) receptor 2	12299	-4.46553373336792	-0.13940601	Yes	
+row_41	DRD2	DRD2	dopamine receptor D2	12478	-6.068727016448975	-0.07394073	Yes	
+row_42	SSTR2	SSTR2	somatostatin receptor 2	12488	-6.203720569610596	0.0067832936	Yes	

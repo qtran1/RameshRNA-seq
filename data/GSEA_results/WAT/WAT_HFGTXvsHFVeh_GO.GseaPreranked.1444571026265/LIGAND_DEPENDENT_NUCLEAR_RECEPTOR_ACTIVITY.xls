@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PGR	PGR	progesterone receptor	20	5.463338851928711	0.35952032	Yes	
+row_1	THRB	THRB	thyroid hormone receptor, beta (erythroblastic leukemia viral (v-erb-a) oncogene homolog 2, avian)	677	1.015695571899414	0.3743845	Yes	
+row_2	NR1I3	NR1I3	nuclear receptor subfamily 1, group I, member 3	685	1.0128461122512817	0.4407735	Yes	
+row_3	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	770	0.9196876883506775	0.49486947	Yes	
+row_4	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	777	0.9087241291999817	0.55445594	Yes	
+row_5	AHR	AHR	aryl hydrocarbon receptor	876	0.8325714468955994	0.6016782	Yes	
+row_6	RARG	RARG	retinoic acid receptor, gamma	1201	0.6475101113319397	0.6186604	Yes	
+row_7	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	1294	0.6104344725608826	0.65167797	Yes	
+row_8	RXRA	RXRA	retinoid X receptor, alpha	1787	0.46085768938064575	0.6429364	Yes	
+row_9	NR1D1	NR1D1	nuclear receptor subfamily 1, group D, member 1	1857	0.44256263971328735	0.66669077	Yes	
+row_10	RXRB	RXRB	retinoid X receptor, beta	3210	0.2322060763835907	0.57430995	No	
+row_11	BRD8	BRD8	bromodomain containing 8	3609	0.18050932884216309	0.55452806	No	
+row_12	PGRMC2	PGRMC2	progesterone receptor membrane component 2	3848	0.15274474024772644	0.54565996	No	
+row_13	RARB	RARB	retinoic acid receptor, beta	4260	0.10564326494932175	0.51989377	No	
+row_14	RARA	RARA	retinoic acid receptor, alpha	4313	0.09967320412397385	0.5223385	No	
+row_15	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	0.47142947	No	
+row_16	RXRG	RXRG	retinoid X receptor, gamma	5077	0.022273322567343712	0.46525228	No	
+row_17	PTGER3	PTGER3	prostaglandin E receptor 3 (subtype EP3)	5172	0.011403404176235199	0.45851597	No	
+row_18	NR2C1	NR2C1	nuclear receptor subfamily 2, group C, member 1	5692	-0.045215070247650146	0.42015	No	
+row_19	NR3C2	NR3C2	nuclear receptor subfamily 3, group C, member 2	6296	-0.11175134778022766	0.3794887	No	
+row_20	AR	AR	androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)	6392	-0.12145799398422241	0.37994707	No	
+row_21	NR2F6	NR2F6	nuclear receptor subfamily 2, group F, member 6	7336	-0.23161010444164276	0.32011652	No	
+row_22	ESR2	ESR2	estrogen receptor 2 (ER beta)	8762	-0.4568227231502533	0.23676561	No	
+row_23	VDR	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	10250	-1.0109304189682007	0.18509969	No	

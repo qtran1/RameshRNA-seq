@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDS	SDS	serine dehydratase	127	2.9964258670806885	0.12275752	Yes	
+row_1	DMGDH	DMGDH	dimethylglycine dehydrogenase	313	1.8084628582000732	0.18820827	Yes	
+row_2	AGXT2	AGXT2	alanine-glyoxylate aminotransferase 2	315	1.7940768003463745	0.26769057	Yes	
+row_3	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	326	1.751019835472107	0.3445459	Yes	
+row_4	MAOB	MAOB	monoamine oxidase B	541	1.207486629486084	0.3810331	Yes	
+row_5	ALAS1	ALAS1	aminolevulinate, delta-, synthase 1	578	1.1544196605682373	0.4293581	Yes	
+row_6	GNMT	GNMT	glycine N-methyltransferase	678	1.0156248807907104	0.46650523	Yes	
+row_7	CHDH	CHDH	choline dehydrogenase	724	0.9623886346817017	0.50559664	Yes	
+row_8	CBS	CBS	cystathionine-beta-synthase	1204	0.6465956568717957	0.49608266	Yes	
+row_9	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	1248	0.6314340233802795	0.5206567	Yes	
+row_10	BHMT	BHMT	betaine-homocysteine methyltransferase	2171	0.3812164068222046	0.4640554	No	
+row_11	ALAS2	ALAS2	aminolevulinate, delta-, synthase 2 (sideroblastic/hypochromic anemia)	2830	0.28124815225601196	0.42406836	No	
+row_12	SRR	SRR	serine racemase	2834	0.2808094918727875	0.43628228	No	
+row_13	SHMT1	SHMT1	serine hydroxymethyltransferase 1 (soluble)	5073	0.022798733785748482	0.2588671	No	
+row_14	PSAT1	PSAT1	phosphoserine aminotransferase 1	5370	-0.008781780488789082	0.23565774	No	
+row_15	AOC2	AOC2	amine oxidase, copper containing 2 (retina-specific)	5763	-0.051947224885225296	0.20670894	No	
+row_16	GCAT	GCAT	glycine C-acetyltransferase (2-amino-3-ketobutyrate coenzyme A ligase)	6324	-0.11410535871982574	0.16712277	No	
+row_17	GLDC	GLDC	glycine dehydrogenase (decarboxylating)	6434	-0.12748123705387115	0.16408607	No	
+row_18	MAOA	MAOA	monoamine oxidase A	6505	-0.13486666977405548	0.16448621	No	
+row_19	DLD	DLD	dihydrolipoamide dehydrogenase	6694	-0.1565680056810379	0.1564411	No	
+row_20	CTH	CTH	cystathionase (cystathionine gamma-lyase)	6755	-0.16289439797401428	0.15888146	No	
+row_21	PIPOX	PIPOX	pipecolic acid oxidase	6874	-0.17663918435573578	0.15730724	No	
+row_22	PSPH	PSPH	phosphoserine phosphatase	7424	-0.24243023991584778	0.12428887	No	
+row_23	AMT	AMT	aminomethyltransferase	7518	-0.25254690647125244	0.1280741	No	
+row_24	SARDH	SARDH	sarcosine dehydrogenase	8339	-0.37431928515434265	0.07929894	No	
+row_25	SHMT2	SHMT2	serine hydroxymethyltransferase 2 (mitochondrial)	8404	-0.3858494460582733	0.09130779	No	
+row_26	GLYCTK	GLYCTK	-	8500	-0.4073517620563507	0.10179869	No	
+row_27	PHGDH	PHGDH	phosphoglycerate dehydrogenase	9985	-0.8562018871307373	0.021455728	No	
+row_28	GAMT	GAMT	guanidinoacetate N-methyltransferase	10410	-1.1352847814559937	0.037998557	No	
+row_29	DAO	DAO	D-amino-acid oxidase	10686	-1.3577966690063477	0.07628827	No	
+row_30	GATM	GATM	glycine amidinotransferase (L-arginine:glycine amidinotransferase)	10938	-1.6703344583511353	0.13035153	No	

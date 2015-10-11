@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LMX1A	LMX1A	LIM homeobox transcription factor 1, alpha	42	4.634594917297363	0.17197119	Yes	
+row_1	NTRK3	NTRK3	neurotrophic tyrosine kinase, receptor, type 3	244	2.1639840602874756	0.23779269	Yes	
+row_2	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	512	1.2566262483596802	0.26402265	Yes	
+row_3	SLITRK4	SLITRK4	SLIT and NTRK-like family, member 4	895	0.8228024840354919	0.2646642	Yes	
+row_4	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	1294	0.6104344725608826	0.25599518	Yes	
+row_5	KLF3	KLF3	Kruppel-like factor 3 (basic)	1391	0.5731273889541626	0.27001512	Yes	
+row_6	UNC45B	UNC45B	unc-45 homolog B (C. elegans)	2130	0.38858693838119507	0.2258211	No	
+row_7	TRMT5	TRMT5	TRM5 tRNA methyltransferase 5 homolog (S. cerevisiae)	2483	0.3291625380516052	0.2101827	No	
+row_8	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	2753	0.2927808463573456	0.1997916	No	
+row_9	STARD13	STARD13	START domain containing 13	2765	0.29118695855140686	0.20992914	No	
+row_10	KCND2	KCND2	potassium voltage-gated channel, Shal-related subfamily, member 2	3181	0.2353350669145584	0.1857138	No	
+row_11	ZFX	ZFX	zinc finger protein, X-linked	3326	0.21509476006031036	0.18235916	No	
+row_12	CUL5	CUL5	cullin 5	3449	0.1979493498802185	0.18011156	No	
+row_13	PBX1	PBX1	pre-B-cell leukemia transcription factor 1	3493	0.1936415433883667	0.18400536	No	
+row_14	FBXO11	FBXO11	F-box protein 11	3588	0.18363258242607117	0.18345064	No	
+row_15	ZNRF2	ZNRF2	zinc and ring finger 2	3774	0.16150282323360443	0.17479676	No	
+row_16	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	4218	0.11012135446071625	0.14361024	No	
+row_17	HSPA14	HSPA14	heat shock 70kDa protein 14	4460	0.08477579802274704	0.12758493	No	
+row_18	MAP4K3	MAP4K3	mitogen-activated protein kinase kinase kinase kinase 3	4884	0.041173309087753296	0.0953862	No	
+row_19	GAN	GAN	giant axonal neuropathy (gigaxonin)	4991	0.03174103796482086	0.08812792	No	
+row_20	AP1G1	AP1G1	adaptor-related protein complex 1, gamma 1 subunit	5061	0.023733939975500107	0.08351941	No	
+row_21	ZFP91	ZFP91	zinc finger protein 91 homolog (mouse)	5067	0.023404736071825027	0.08400578	No	
+row_22	RNF44	RNF44	ring finger protein 44	5199	0.008545439690351486	0.07387497	No	
+row_23	ING4	ING4	inhibitor of growth family, member 4	5391	-0.01178977731615305	0.059078768	No	
+row_24	ZHX3	ZHX3	zinc fingers and homeoboxes 3	5783	-0.05356266349554062	0.029902382	No	
+row_25	SCAMP3	SCAMP3	secretory carrier membrane protein 3	6043	-0.08277202397584915	0.012364837	No	
+row_26	APP	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	6083	-0.08708629012107849	0.012546958	No	
+row_27	ELAVL1	ELAVL1	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)	6409	-0.12337134033441544	-0.008721687	No	
+row_28	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	6494	-0.13338710367679596	-0.010379139	No	
+row_29	C1QL3	C1QL3	complement component 1, q subcomponent-like 3	6618	-0.14752444624900818	-0.014614069	No	
+row_30	GON4L	GON4L	gon-4-like (C.elegans)	6660	-0.1531873494386673	-0.012091004	No	
+row_31	VDAC1	VDAC1	voltage-dependent anion channel 1	7027	-0.19189539551734924	-0.034039326	No	
+row_32	NIPBL	NIPBL	Nipped-B homolog (Drosophila)	7356	-0.23382192850112915	-0.051369123	No	
+row_33	SEPT4	SEPT4	septin 4	7440	-0.24409575760364532	-0.048758756	No	
+row_34	TMCC1	TMCC1	transmembrane and coiled-coil domain family 1	7975	-0.3201681971549988	-0.07926138	No	
+row_35	RAN	RAN	RAN, member RAS oncogene family	8264	-0.3596470355987549	-0.08863923	No	
+row_36	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	9094	-0.5384122729301453	-0.13442747	No	
+row_37	YOD1	YOD1	YOD1 OTU deubiquinating enzyme 1 homolog (S. cerevisiae)	9809	-0.7718772888183594	-0.1622067	No	
+row_38	BBX	BBX	bobby sox homolog (Drosophila)	10078	-0.9051644802093506	-0.14935203	No	
+row_39	SEPT3	SEPT3	septin 3	10406	-1.1324143409729004	-0.13260902	No	
+row_40	RUNX2	RUNX2	runt-related transcription factor 2	11255	-2.091346263885498	-0.1211673	No	
+row_41	CAMKV	CAMKV	CaM kinase-like vesicle-associated	11542	-2.5784404277801514	-0.046450444	No	
+row_42	PRKCG	PRKCG	protein kinase C, gamma	11970	-3.400723457336426	0.048120603	No	

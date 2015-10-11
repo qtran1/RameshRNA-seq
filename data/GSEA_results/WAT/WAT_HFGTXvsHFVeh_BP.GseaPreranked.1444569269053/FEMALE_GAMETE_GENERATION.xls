@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LEFTY2	LEFTY2	left-right determination factor 2	607	1.1165010929107666	1.865016E-4	No	
+row_1	TOB2	TOB2	transducer of ERBB2, 2	768	0.9206726551055908	0.027455142	No	
+row_2	GDF9	GDF9	growth differentiation factor 9	2593	0.31520020961761475	-0.10408209	No	
+row_3	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB	3410	0.20388101041316986	-0.16019562	No	
+row_4	BCL2L10	BCL2L10	BCL2-like 10 (apoptosis facilitator)	4964	0.033613648265600204	-0.28239125	No	
+row_5	AXIN1	AXIN1	axin 1	5288	9.942855285771657E-6	-0.30810943	No	
+row_6	PARN	PARN	poly(A)-specific ribonuclease (deadenylation nuclease)	6458	-0.12962737679481506	-0.39555705	No	
+row_7	USP9X	USP9X	ubiquitin specific peptidase 9, X-linked	6496	-0.13343648612499237	-0.39270455	No	
+row_8	EREG	EREG	epiregulin	8592	-0.4246976673603058	-0.54106164	No	
+row_9	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	9544	-0.6727580428123474	-0.58754903	No	
+row_10	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	10753	-1.4343459606170654	-0.62140447	Yes	
+row_11	BMP15	BMP15	bone morphogenetic protein 15	12037	-3.4787449836730957	-0.57239085	Yes	
+row_12	SPO11	SPO11	SPO11 meiotic protein covalently bound to DSB homolog (S. cerevisiae)	12170	-3.856316089630127	-0.41532224	Yes	
+row_13	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	-0.24033724	Yes	
+row_14	FSHR	FSHR	follicle stimulating hormone receptor	12480	-6.18109130859375	0.007405097	Yes	

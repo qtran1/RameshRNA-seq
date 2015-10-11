@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MEIS1	MEIS1	Meis1, myeloid ecotropic viral integration site 1 homolog (mouse)	534	1.218395471572876	-0.0112601435	No	
+row_1	DDX3X	DDX3X	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, X-linked	1375	0.5761575698852539	-0.06350826	No	
+row_2	KLF13	KLF13	Kruppel-like factor 13	1428	0.5624389052391052	-0.053170536	No	
+row_3	ZAK	ZAK	-	1541	0.5273579955101013	-0.04852899	No	
+row_4	RASSF1	RASSF1	Ras association (RalGDS/AF-6) domain family 1	1728	0.47377023100852966	-0.051178668	No	
+row_5	DDX50	DDX50	DEAD (Asp-Glu-Ala-Asp) box polypeptide 50	2102	0.3929838538169861	-0.07084588	No	
+row_6	TFDP2	TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)	2335	0.3508187532424927	-0.08033749	No	
+row_7	TRIOBP	TRIOBP	TRIO and F-actin binding protein	2385	0.3435761332511902	-0.075399086	No	
+row_8	EP300	EP300	E1A binding protein p300	2703	0.29833313822746277	-0.09303211	No	
+row_9	EDA	EDA	ectodysplasin A	2801	0.28468310832977295	-0.09344493	No	
+row_10	PPM1F	PPM1F	protein phosphatase 1F (PP2C domain containing)	2844	0.27904173731803894	-0.08961013	No	
+row_11	RICTOR	RICTOR	-	2885	0.2725120484828949	-0.085783824	No	
+row_12	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	3004	0.2569641172885895	-0.08858813	No	
+row_13	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	3059	0.2512173652648926	-0.08642869	No	
+row_14	FRMD4A	FRMD4A	FERM domain containing 4A	3162	0.2371080070734024	-0.08846664	No	
+row_15	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	3178	0.23548345267772675	-0.083597556	No	
+row_16	FHL3	FHL3	four and a half LIM domains 3	3459	0.19650262594223022	-0.10089894	No	
+row_17	BTBD7	BTBD7	BTB (POZ) domain containing 7	3524	0.18989117443561554	-0.10111827	No	
+row_18	FUT8	FUT8	fucosyltransferase 8 (alpha (1,6) fucosyltransferase)	3622	0.17826777696609497	-0.10427285	No	
+row_19	MINK1	MINK1	misshapen-like kinase 1 (zebrafish)	3759	0.162917822599411	-0.11093794	No	
+row_20	UNC45A	UNC45A	unc-45 homolog A (C. elegans)	3820	0.15615616738796234	-0.11170695	No	
+row_21	E2F3	E2F3	E2F transcription factor 3	3854	0.15183870494365692	-0.11043065	No	
+row_22	PDGFRA	PDGFRA	platelet-derived growth factor receptor, alpha polypeptide	4382	0.0927828997373581	-0.15013278	No	
+row_23	DDX3Y	DDX3Y	DEAD (Asp-Glu-Ala-Asp) box polypeptide 3, Y-linked	4455	0.08577554672956467	-0.15367359	No	
+row_24	NBEA	NBEA	neurobeachin	4543	0.07567644119262695	-0.15867269	No	
+row_25	UBN1	UBN1	ubinuclein 1	4594	0.06888626515865326	-0.16089147	No	
+row_26	ARID1B	ARID1B	AT rich interactive domain 1B (SWI1-like)	4662	0.06096258759498596	-0.16467223	No	
+row_27	SLC6A8	SLC6A8	solute carrier family 6 (neurotransmitter transporter, creatine), member 8	4897	0.039904166013002396	-0.1823342	No	
+row_28	CAMKK2	CAMKK2	calcium/calmodulin-dependent protein kinase kinase 2, beta	5238	0.004789907950907946	-0.20936733	No	
+row_29	RASA1	RASA1	RAS p21 protein activator (GTPase activating protein) 1	5890	-0.06520801782608032	-0.2596841	No	
+row_30	NDEL1	NDEL1	nudE nuclear distribution gene E homolog like 1 (A. nidulans)	5999	-0.07745407521724701	-0.2663147	No	
+row_31	MRFAP1	MRFAP1	Mof4 family associated protein 1	6093	-0.08815862983465195	-0.2714714	No	
+row_32	CTNND1	CTNND1	catenin (cadherin-associated protein), delta 1	6154	-0.09495792537927628	-0.27381718	No	
+row_33	RASAL2	RASAL2	RAS protein activator like 2	6256	-0.10685563832521439	-0.27913117	No	
+row_34	SOX6	SOX6	SRY (sex determining region Y)-box 6	6400	-0.1226402297616005	-0.28739312	No	
+row_35	ID4	ID4	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	6515	-0.1369815319776535	-0.29296926	No	
+row_36	RPS6KA5	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5	6859	-0.17405208945274353	-0.315881	No	
+row_37	KPNB1	KPNB1	karyopherin (importin) beta 1	6892	-0.1788439303636551	-0.31382906	No	
+row_38	FAM53C	FAM53C	family with sequence similarity 53, member C	7040	-0.19390548765659332	-0.32057437	No	
+row_39	AGPAT4	AGPAT4	1-acylglycerol-3-phosphate O-acyltransferase 4 (lysophosphatidic acid acyltransferase, delta)	7811	-0.29373112320899963	-0.37450805	No	
+row_40	EFTUD1	EFTUD1	elongation factor Tu GTP binding domain containing 1	8669	-0.43692314624786377	-0.43170133	No	
+row_41	WHSC1	WHSC1	Wolf-Hirschhorn syndrome candidate 1	9094	-0.5384122729301453	-0.4516951	No	
+row_42	RSBN1	RSBN1	round spermatid basic protein 1	9494	-0.6545421481132507	-0.46670002	No	
+row_43	ATXN2L	ATXN2L	ataxin 2-like	9630	-0.7023928165435791	-0.4593858	No	
+row_44	HOXB8	HOXB8	homeobox B8	10392	-1.12570059299469	-0.49116522	Yes	
+row_45	SEPT3	SEPT3	septin 3	10406	-1.1324143409729004	-0.4630272	Yes	
+row_46	PTPRN	PTPRN	protein tyrosine phosphatase, receptor type, N	10951	-1.6868945360183716	-0.46301535	Yes	
+row_47	LPPR4	LPPR4	-	11311	-2.181586503982544	-0.43548152	Yes	
+row_48	ACPT	ACPT	acid phosphatase, testicular	11482	-2.4738621711730957	-0.38532144	Yes	
+row_49	COL2A1	COL2A1	collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	11892	-3.305922746658325	-0.332813	Yes	
+row_50	ZIC4	ZIC4	Zic family member 4	11949	-3.400723457336426	-0.24966717	Yes	
+row_51	NRG1	NRG1	neuregulin 1	12083	-3.614084243774414	-0.16717432	Yes	
+row_52	MSI1	MSI1	musashi homolog 1 (Drosophila)	12084	-3.6146278381347656	-0.07404446	Yes	
+row_53	CPLX3	CPLX3	complexin 3	12249	-4.3867011070251465	0.025878605	Yes	

@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GAP43	GAP43	growth associated protein 43	133	2.8832666873931885	0.23594506	Yes	
+row_1	FZD5	FZD5	frizzled homolog 5 (Drosophila)	989	0.7608019709587097	0.23287232	Yes	
+row_2	CEBPB	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	1886	0.43673405051231384	0.1988222	Yes	
+row_3	PHC2	PHC2	polyhomeotic homolog 2 (Drosophila)	2001	0.4112088084220886	0.22490022	Yes	
+row_4	OXSR1	OXSR1	oxidative-stress responsive 1	2269	0.36253878474235535	0.23462532	Yes	
+row_5	NDST1	NDST1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1	2420	0.33839577436447144	0.2516087	Yes	
+row_6	NRCAM	NRCAM	neuronal cell adhesion molecule	2450	0.33328306674957275	0.27779636	Yes	
+row_7	PLCD1	PLCD1	phospholipase C, delta 1	2489	0.3285825252532959	0.30286494	Yes	
+row_8	MAP3K12	MAP3K12	mitogen-activated protein kinase kinase kinase 12	2554	0.3201778829097748	0.32514313	Yes	
+row_9	BRMS1L	BRMS1L	breast cancer metastasis-suppressor 1-like	2685	0.30099377036094666	0.340522	Yes	
+row_10	SOX4	SOX4	SRY (sex determining region Y)-box 4	2744	0.2944788932800293	0.3610808	Yes	
+row_11	FOXP1	FOXP1	forkhead box P1	3204	0.23273567855358124	0.3444079	No	
+row_12	WWP1	WWP1	WW domain containing E3 ubiquitin protein ligase 1	3844	0.15325702726840973	0.30659628	No	
+row_13	TJP1	TJP1	tight junction protein 1 (zona occludens 1)	4160	0.11569246649742126	0.29138932	No	
+row_14	ATP2B2	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	4458	0.08514484763145447	0.27500454	No	
+row_15	AP1G1	AP1G1	adaptor-related protein complex 1, gamma 1 subunit	5061	0.023733939975500107	0.22906587	No	
+row_16	TMOD2	TMOD2	tropomodulin 2 (neuronal)	5775	-0.053123507648706436	0.1767956	No	
+row_17	MAPRE3	MAPRE3	microtubule-associated protein, RP/EB family, member 3	7263	-0.22211040556430817	0.077301785	No	
+row_18	CCND2	CCND2	cyclin D2	7404	-0.2401689738035202	0.086682804	No	
+row_19	EGR1	EGR1	early growth response 1	7807	-0.2927004396915436	0.07967919	No	
+row_20	AMMECR1	AMMECR1	Alport syndrome, mental retardation, midface hypoplasia and elliptocytosis chromosomal region, gene 1	8873	-0.48004576563835144	0.03586644	No	
+row_21	TAF5	TAF5	TAF5 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 100kDa	9844	-0.7883288264274597	0.025984105	No	
+row_22	RNF139	RNF139	ring finger protein 139	9911	-0.8224568963050842	0.09105187	No	
+row_23	BDNF	BDNF	brain-derived neurotrophic factor	10734	-1.4148364067077637	0.14653385	No	

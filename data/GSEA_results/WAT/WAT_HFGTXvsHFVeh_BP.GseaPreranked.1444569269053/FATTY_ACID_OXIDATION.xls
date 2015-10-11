@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	91	3.550311326980591	0.2675578	Yes	
+row_1	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	897	0.8226136565208435	0.26711792	Yes	
+row_2	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	927	0.8052768707275391	0.32713926	Yes	
+row_3	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	1031	0.7338517904281616	0.37573844	Yes	
+row_4	ADIPOR2	ADIPOR2	adiponectin receptor 2	1042	0.7259629368782043	0.43113384	Yes	
+row_5	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.48732495	Yes	
+row_6	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	1186	0.6551134586334229	0.52672344	Yes	
+row_7	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.5670075	Yes	
+row_8	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	3428	0.20072446763515472	0.41178915	No	
+row_9	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.32086962	No	
+row_10	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	0.295841	No	
+row_11	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	5722	-0.04814712703227997	0.24055214	No	
+row_12	ADIPOR1	ADIPOR1	adiponectin receptor 1	6215	-0.10149116814136505	0.20922342	No	
+row_13	ALOX12	ALOX12	arachidonate 12-lipoxygenase	7141	-0.20557700097560883	0.15146577	No	
+row_14	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	8337	-0.3738337457180023	0.08522806	No	
+row_15	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	8511	-0.4099058210849762	0.1031778	No	
+row_16	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	9805	-0.7714527249336243	0.05991202	No	
+row_17	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11247	-2.0730512142181396	0.10560689	No	

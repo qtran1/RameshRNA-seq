@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	585	1.1500650644302368	0.03156244	No	
+row_1	FZD1	FZD1	frizzled homolog 1 (Drosophila)	651	1.0452059507369995	0.09743131	No	
+row_2	TLE1	TLE1	transducin-like enhancer of split 1 (E(sp1) homolog, Drosophila)	2071	0.3997501730918884	0.011536709	No	
+row_3	APC	APC	adenomatosis polyposis coli	3271	0.22276748716831207	-0.06885846	No	
+row_4	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	3330	0.2145581692457199	-0.058895323	No	
+row_5	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	3648	0.17590197920799255	-0.0721973	No	
+row_6	CTBP1	CTBP1	C-terminal binding protein 1	4156	0.11614619940519333	-0.10470064	No	
+row_7	HDAC1	HDAC1	histone deacetylase 1	4308	0.1001751720905304	-0.10992308	No	
+row_8	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	4392	0.09167133271694183	-0.11030524	No	
+row_9	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	4525	0.07765430957078934	-0.115544595	No	
+row_10	CSNK1D	CSNK1D	casein kinase 1, delta	4800	0.04868296533823013	-0.13406803	No	
+row_11	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	4977	0.032968662679195404	-0.14585088	No	
+row_12	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	-0.14379022	No	
+row_13	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	5033	0.026676015928387642	-0.14612032	No	
+row_14	AXIN1	AXIN1	axin 1	5288	9.942855285771657E-6	-0.1663587	No	
+row_15	NLK	NLK	nemo-like kinase	5301	-0.001240583136677742	-0.16723055	No	
+row_16	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	6054	-0.08396919816732407	-0.22144303	No	
+row_17	CCND1	CCND1	cyclin D1	6194	-0.0997057631611824	-0.22574121	No	
+row_18	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6318	-0.11372104287147522	-0.22781178	No	
+row_19	BTRC	BTRC	beta-transducin repeat containing	6723	-0.15973107516765594	-0.24914525	No	
+row_20	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	7476	-0.24790045619010925	-0.29221448	No	
+row_21	WNT1	WNT1	wingless-type MMTV integration site family, member 1	11495	-2.4975037574768066	-0.44260535	Yes	
+row_22	LEF1	LEF1	lymphoid enhancer-binding factor 1	11635	-2.774500608444214	-0.2650836	Yes	
+row_23	WIF1	WIF1	WNT inhibitory factor 1	12382	-4.998067378997803	0.015219145	Yes	

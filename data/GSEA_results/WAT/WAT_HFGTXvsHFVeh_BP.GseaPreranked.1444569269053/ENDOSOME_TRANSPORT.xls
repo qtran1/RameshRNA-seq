@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TOM1	TOM1	target of myb1 (chicken)	841	0.8531755208969116	0.07626324	Yes	
+row_1	ANKRD27	ANKRD27	ankyrin repeat domain 27 (VPS9 domain)	1610	0.5076355338096619	0.10031951	Yes	
+row_2	TINAGL1	TINAGL1	tubulointerstitial nephritis antigen-like 1	1713	0.47812017798423767	0.17247885	Yes	
+row_3	STX16	STX16	syntaxin 16	1936	0.4246065020561218	0.226092	Yes	
+row_4	EEA1	EEA1	early endosome antigen 1, 162kD	1982	0.41462165117263794	0.29212984	Yes	
+row_5	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	2195	0.377150297164917	0.33857086	Yes	
+row_6	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	2318	0.3529905378818512	0.38812518	Yes	
+row_7	RHOB	RHOB	ras homolog gene family, member B	2373	0.34511634707450867	0.4417747	Yes	
+row_8	LYST	LYST	lysosomal trafficking regulator	2580	0.3164025843143463	0.47849303	Yes	
+row_9	GOSR1	GOSR1	golgi SNAP receptor complex member 1	2668	0.30555984377861023	0.52287126	Yes	
+row_10	ZFYVE16	ZFYVE16	zinc finger, FYVE domain containing 16	2968	0.2618550658226013	0.5430208	Yes	
+row_11	M6PR	M6PR	mannose-6-phosphate receptor (cation dependent)	3511	0.19137871265411377	0.5319766	Yes	
+row_12	VTI1A	VTI1A	vesicle transport through interaction with t-SNAREs homolog 1A (yeast)	3673	0.1726146936416626	0.5481353	Yes	
+row_13	DOPEY1	DOPEY1	dopey family member 1	3798	0.159123495221138	0.5649763	Yes	
+row_14	RAB35	RAB35	RAB35, member RAS oncogene family	3936	0.14160974323749542	0.5778406	Yes	
+row_15	RAB14	RAB14	RAB14, member RAS oncogene family	3953	0.13890217244625092	0.5998903	Yes	
+row_16	DOPEY2	DOPEY2	dopey family member 2	4598	0.0683290958404541	0.56005746	No	
+row_17	SQSTM1	SQSTM1	sequestosome 1	4628	0.06517604738473892	0.5686914	No	
+row_18	MON2	MON2	MON2 homolog (S. cerevisiae)	5001	0.030572541058063507	0.5441884	No	
+row_19	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	5284	2.850082819350064E-4	0.5217697	No	
+row_20	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	5626	-0.037975069135427475	0.5009795	No	
+row_21	YKT6	YKT6	YKT6 v-SNARE homolog (S. cerevisiae)	7925	-0.3120458722114563	0.37029958	No	

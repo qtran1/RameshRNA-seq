@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLG	PLG	plasminogen	107	3.198782205581665	0.12907524	Yes	
+row_1	CFD	CFD	complement factor D (adipsin)	235	2.2018136978149414	0.21366952	Yes	
+row_2	CTSG	CTSG	cathepsin G	288	1.9388391971588135	0.29292884	Yes	
+row_3	TMPRSS6	TMPRSS6	transmembrane protease, serine 6	420	1.4497425556182861	0.3448522	Yes	
+row_4	KLKB1	KLKB1	kallikrein B, plasma (Fletcher factor) 1	551	1.1968950033187866	0.38597843	Yes	
+row_5	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	694	0.9966557621955872	0.4175345	Yes	
+row_6	MASP2	MASP2	mannan-binding lectin serine peptidase 2	1620	0.5057608485221863	0.3655682	No	
+row_7	CFI	CFI	complement factor I	1686	0.4870980679988861	0.38134134	No	
+row_8	KLK1	KLK1	kallikrein 1, renal/pancreas/salivary	2320	0.35290080308914185	0.3460719	No	
+row_9	HTRA2	HTRA2	HtrA serine peptidase 2	2597	0.31489670276641846	0.33762062	No	
+row_10	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3399	0.20533128082752228	0.28261346	No	
+row_11	HTRA1	HTRA1	HtrA serine peptidase 1	3914	0.14418812096118927	0.24785009	No	
+row_12	TOR1A	TOR1A	torsin family 1, member A (torsin A)	4015	0.1322251707315445	0.24556804	No	
+row_13	PCSK2	PCSK2	proprotein convertase subtilisin/kexin type 2	4763	0.05141575634479523	0.18824366	No	
+row_14	PREP	PREP	prolyl endopeptidase	4886	0.04108491912484169	0.18028758	No	
+row_15	PCSK6	PCSK6	proprotein convertase subtilisin/kexin type 6	4983	0.03247762843966484	0.17403346	No	
+row_16	PRSS36	PRSS36	protease, serine, 36	5146	0.014218940399587154	0.16173367	No	
+row_17	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	5398	-0.012646070681512356	0.14227289	No	
+row_18	APEH	APEH	N-acylaminoacyl-peptide hydrolase	5984	-0.07614237815141678	0.09892363	No	
+row_19	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	6677	-0.1550198495388031	0.050439548	No	
+row_20	KLK8	KLK8	kallikrein 8 (neuropsin/ovasin)	7270	-0.2226756364107132	0.012835872	No	
+row_21	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	8249	-0.35680830478668213	-0.0497621	No	
+row_22	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	10183	-0.9724249243736267	-0.16199169	No	
+row_23	LTF	LTF	lactotransferrin	10185	-0.9725714325904846	-0.12023392	No	
+row_24	CORIN	CORIN	corin, serine peptidase	11037	-1.7790879011154175	-0.111527234	No	
+row_25	HGFAC	HGFAC	HGF activator	11143	-1.9146203994750977	-0.03753385	No	
+row_26	ACR	ACR	acrosin	12052	-3.5201027393341064	0.04152379	No	

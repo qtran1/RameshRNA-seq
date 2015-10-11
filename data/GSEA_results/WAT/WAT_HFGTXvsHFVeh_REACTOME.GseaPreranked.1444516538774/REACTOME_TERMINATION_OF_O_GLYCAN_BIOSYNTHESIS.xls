@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ST3GAL1	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	1050	0.7230724692344666	-0.06394663	No	
+row_1	ST6GALNAC3	ST6GALNAC3	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	4225	0.1096796914935112	-0.3136918	No	
+row_2	MUC2	MUC2	mucin 2, oligomeric mucus/gel-forming	4449	0.08633659034967422	-0.3291007	No	
+row_3	ST3GAL3	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3	6149	-0.0940626785159111	-0.4618248	No	
+row_4	ST3GAL2	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	8732	-0.44851839542388916	-0.65522015	No	
+row_5	ST6GALNAC4	ST6GALNAC4	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4	8898	-0.4873540997505188	-0.6551081	No	
+row_6	MUC16	MUC16	mucin 16, cell surface associated	9484	-0.6523667573928833	-0.6839518	No	
+row_7	MUC6	MUC6	mucin 6, oligomeric mucus/gel-forming	10180	-0.9712736010551453	-0.7128838	No	
+row_8	ST6GALNAC2	ST6GALNAC2	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2	10716	-1.3924529552459717	-0.71762496	No	
+row_9	MUC13	MUC13	mucin 13, cell surface associated	11913	-3.3457140922546387	-0.72189283	Yes	
+row_10	ST6GAL1	ST6GAL1	ST6 beta-galactosamide alpha-2,6-sialyltranferase 1	12039	-3.4800431728363037	-0.6372311	Yes	
+row_11	MUC4	MUC4	mucin 4, cell surface associated	12290	-4.432276725769043	-0.53663325	Yes	
+row_12	MUC5B	MUC5B	mucin 5B, oligomeric mucus/gel-forming	12506	-6.608824729919434	-0.374073	Yes	
+row_13	MUC15	MUC15	mucin 15, cell surface associated	12523	-6.935319900512695	-0.18679081	Yes	
+row_14	MUC5AC	MUC5AC	mucin 5AC, oligomeric mucus/gel-forming	12529	-7.013891696929932	0.0035034365	Yes	

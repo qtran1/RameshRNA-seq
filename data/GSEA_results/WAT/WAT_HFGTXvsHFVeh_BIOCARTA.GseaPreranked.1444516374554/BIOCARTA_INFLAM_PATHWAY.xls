@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	279	1.968059778213501	0.050580543	No	
+row_1	IFNG	IFNG	interferon, gamma	646	1.0525017976760864	0.060356237	No	
+row_2	CSF1	CSF1	colony stimulating factor 1 (macrophage)	762	0.9266318082809448	0.08547516	No	
+row_3	TGFB2	TGFB2	transforming growth factor, beta 2	808	0.8815059661865234	0.11450227	No	
+row_4	TGFB3	TGFB3	transforming growth factor, beta 3	929	0.8036853671073914	0.13467419	No	
+row_5	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	1723	0.47544312477111816	0.08907674	No	
+row_6	CSF3	CSF3	colony stimulating factor 3 (granulocyte)	3038	0.25270360708236694	-0.006275267	No	
+row_7	IL15	IL15	interleukin 15	4741	0.05354108661413193	-0.13991195	No	
+row_8	IL7	IL7	interleukin 7	4882	0.041215699166059494	-0.1495425	No	
+row_9	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	5126	0.016419872641563416	-0.16829756	No	
+row_10	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	5341	-0.005523280240595341	-0.185145	No	
+row_11	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	8013	-0.3253672420978546	-0.3859362	No	
+row_12	IL13	IL13	interleukin 13	8385	-0.383012592792511	-0.40132776	No	
+row_13	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.39605162	No	
+row_14	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.4204091	No	
+row_15	CD4	CD4	CD4 molecule	9301	-0.5987188220024109	-0.41722265	No	
+row_16	IL2	IL2	interleukin 2	9394	-0.6268929839134216	-0.4013604	No	
+row_17	LTA	LTA	lymphotoxin alpha (TNF superfamily, member 1)	10280	-1.031394124031067	-0.4337202	Yes	
+row_18	IL11	IL11	interleukin 11	10469	-1.1758452653884888	-0.40519795	Yes	
+row_19	IL10	IL10	interleukin 10	11229	-2.048031806945801	-0.38990572	Yes	
+row_20	IL1A	IL1A	interleukin 1, alpha	11733	-2.975435733795166	-0.31990424	Yes	
+row_21	CSF2	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	11943	-3.4007081985473633	-0.21074282	Yes	
+row_22	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	11955	-3.400723457336426	-0.08580393	Yes	
+row_23	IL6	IL6	interleukin 6 (interferon, beta 2)	12106	-3.6480953693389893	0.037211187	Yes	

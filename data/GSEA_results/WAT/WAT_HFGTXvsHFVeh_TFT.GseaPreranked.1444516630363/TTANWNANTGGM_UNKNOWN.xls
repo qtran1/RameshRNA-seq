@@ -1,0 +1,51 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ANGPT1	ANGPT1	angiopoietin 1	268	2.0211281776428223	0.018734902	No	
+row_1	ADAMTS6	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif, 6	513	1.251926302909851	0.024111979	No	
+row_2	LIF	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	529	1.2260103225708008	0.04725933	No	
+row_3	TBX4	TBX4	T-box 4	835	0.8600156903266907	0.039983537	No	
+row_4	CPNE1	CPNE1	copine I	1479	0.5463431477546692	-5.09076E-4	No	
+row_5	IGSF1	IGSF1	immunoglobulin superfamily, member 1	1760	0.46619275212287903	-0.013608897	No	
+row_6	IKZF2	IKZF2	IKAROS family zinc finger 2 (Helios)	2116	0.3901185095310211	-0.034207836	No	
+row_7	PBX2	PBX2	pre-B-cell leukemia transcription factor 2	2706	0.2979700565338135	-0.075320706	No	
+row_8	STAG2	STAG2	stromal antigen 2	2853	0.27743229269981384	-0.08146931	No	
+row_9	ACVR2A	ACVR2A	activin A receptor, type IIA	2886	0.2722865045070648	-0.07861758	No	
+row_10	FOXF2	FOXF2	forkhead box F2	3085	0.24746030569076538	-0.08951337	No	
+row_11	FOXP1	FOXP1	forkhead box P1	3204	0.23273567855358124	-0.094313815	No	
+row_12	DLG3	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	3575	0.18466605246067047	-0.12019015	No	
+row_13	PENK	PENK	proenkephalin	4202	0.11200088262557983	-0.16795017	No	
+row_14	ABLIM1	ABLIM1	actin binding LIM protein 1	4211	0.1111702248454094	-0.16638142	No	
+row_15	EGLN1	EGLN1	egl nine homolog 1 (C. elegans)	4462	0.08440506458282471	-0.18466705	No	
+row_16	CSNK1A1	CSNK1A1	casein kinase 1, alpha 1	5033	0.026676015928387642	-0.22964996	No	
+row_17	OSBPL6	OSBPL6	oxysterol binding protein-like 6	5171	0.011489317752420902	-0.24036081	No	
+row_18	ESRRG	ESRRG	estrogen-related receptor gamma	5841	-0.05971889942884445	-0.2925924	No	
+row_19	BMI1	BMI1	B lymphoma Mo-MLV insertion region (mouse)	6718	-0.15932592749595642	-0.35937434	No	
+row_20	RPL27A	RPL27A	ribosomal protein L27a	7048	-0.19503124058246613	-0.38177115	No	
+row_21	BAZ1A	BAZ1A	bromodomain adjacent to zinc finger domain, 1A	7094	-0.19996514916419983	-0.38139352	No	
+row_22	RUNX1T1	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	7212	-0.2144523561000824	-0.38647717	No	
+row_23	MPPED2	MPPED2	metallophosphoesterase domain containing 2	7236	-0.21864016354084015	-0.38397208	No	
+row_24	ANKRD32	ANKRD32	ankyrin repeat domain 32	7274	-0.2234363853931427	-0.3824896	No	
+row_25	TPM3	TPM3	tropomyosin 3	7645	-0.2693158984184265	-0.40668502	No	
+row_26	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	7709	-0.2794857919216156	-0.40616557	No	
+row_27	OLFML3	OLFML3	olfactomedin-like 3	7710	-0.27958956360816956	-0.40061373	No	
+row_28	CHODL	CHODL	chondrolectin	8010	-0.3253672420978546	-0.41802704	No	
+row_29	ZBTB25	ZBTB25	zinc finger and BTB domain containing 25	8074	-0.3280003070831299	-0.41654423	No	
+row_30	CUZD1	CUZD1	CUB and zona pellucida-like domains 1	8080	-0.3295060396194458	-0.41040042	No	
+row_31	TMEM62	TMEM62	transmembrane protein 62	8352	-0.376668244600296	-0.42455932	No	
+row_32	EML4	EML4	echinoderm microtubule associated protein like 4	8520	-0.4109923243522644	-0.4297326	No	
+row_33	COL12A1	COL12A1	collagen, type XII, alpha 1	8756	-0.454553484916687	-0.43947044	No	
+row_34	SLITRK1	SLITRK1	SLIT and NTRK-like family, member 1	9009	-0.5159426331520081	-0.44934666	No	
+row_35	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	9155	-0.5567569136619568	-0.44986883	No	
+row_36	EOMES	EOMES	eomesodermin homolog (Xenopus laevis)	9650	-0.7105814814567566	-0.47520298	No	
+row_37	PDZRN4	PDZRN4	PDZ domain containing RING finger 4	9749	-0.749150276184082	-0.468152	No	
+row_38	CCDC109B	CCDC109B	coiled-coil domain containing 109B	10257	-1.0155442953109741	-0.48846844	Yes	
+row_39	JAKMIP2	JAKMIP2	janus kinase and microtubule interacting protein 2	10539	-1.2328007221221924	-0.48642546	Yes	
+row_40	KLF14	KLF14	Kruppel-like factor 14	10622	-1.3003606796264648	-0.46715146	Yes	
+row_41	ASB4	ASB4	ankyrin repeat and SOCS box-containing 4	10761	-1.444744348526001	-0.44948182	Yes	
+row_42	TBX19	TBX19	T-box 19	11048	-1.7944790124893188	-0.43668476	Yes	
+row_43	CKMT2	CKMT2	creatine kinase, mitochondrial 2 (sarcomeric)	11239	-2.0608580112457275	-0.4109329	Yes	
+row_44	CLU	CLU	clusterin	11856	-3.226191759109497	-0.39605552	Yes	
+row_45	AGBL2	AGBL2	ATP/GTP binding protein-like 2	12159	-3.817647695541382	-0.3443617	Yes	
+row_46	ANKS1B	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	12246	-4.379837512969971	-0.26425746	Yes	
+row_47	VAX1	VAX1	ventral anterior homeobox 1	12258	-4.386725425720215	-0.17802799	Yes	
+row_48	SOX14	SOX14	SRY (sex determining region Y)-box 14	12379	-4.966015815734863	-0.088998735	Yes	
+row_49	OMG	OMG	oligodendrocyte myelin glycoprotein	12408	-5.2580180168151855	0.013174737	Yes	

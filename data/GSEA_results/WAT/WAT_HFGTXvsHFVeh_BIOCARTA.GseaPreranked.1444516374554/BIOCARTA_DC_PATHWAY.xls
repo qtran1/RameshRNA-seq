@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	279	1.968059778213501	0.07547233	No	
+row_1	IFNG	IFNG	interferon, gamma	646	1.0525017976760864	0.09856545	No	
+row_2	TLR4	TLR4	toll-like receptor 4	1018	0.7424465417861938	0.10586886	No	
+row_3	CD33	CD33	CD33 molecule	2289	0.3579304814338684	0.022473885	No	
+row_4	TLR2	TLR2	toll-like receptor 2	3784	0.16100892424583435	-0.08853938	No	
+row_5	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	5126	0.016419872641563416	-0.19454283	No	
+row_6	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	5233	0.005235445685684681	-0.20272645	No	
+row_7	CD5	CD5	CD5 molecule	6133	-0.09232601523399353	-0.26975396	No	
+row_8	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	6148	-0.09403298050165176	-0.26620126	No	
+row_9	TLR9	TLR9	toll-like receptor 9	6979	-0.18811100721359253	-0.32297763	No	
+row_10	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	8013	-0.3253672420978546	-0.38911062	No	
+row_11	TLR7	TLR7	toll-like receptor 7	8093	-0.33206841349601746	-0.37891927	No	
+row_12	IL13	IL13	interleukin 13	8385	-0.383012592792511	-0.38308603	No	
+row_13	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.410706	No	
+row_14	CD7	CD7	CD7 molecule	10453	-1.1631932258605957	-0.4636857	Yes	
+row_15	CD2	CD2	CD2 molecule	11159	-1.9388444423675537	-0.42359704	Yes	
+row_16	ITGAX	ITGAX	integrin, alpha X (complement component 3 receptor 4 subunit)	11165	-1.946300745010376	-0.32737914	Yes	
+row_17	IL10	IL10	interleukin 10	11229	-2.048031806945801	-0.23073125	Yes	
+row_18	CSF2	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	11943	-3.4007081985473633	-0.11871156	Yes	
+row_19	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	11955	-3.400723457336426	0.049227312	Yes	

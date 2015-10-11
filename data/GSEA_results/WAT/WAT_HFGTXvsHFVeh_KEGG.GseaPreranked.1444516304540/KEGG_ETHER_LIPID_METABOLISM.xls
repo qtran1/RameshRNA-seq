@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENPP6	ENPP6	ectonucleotide pyrophosphatase/phosphodiesterase 6	498	1.2800041437149048	0.003848435	No	
+row_1	PLA2G4B	PLA2G4B	phospholipase A2, group IVB (cytosolic)	631	1.0742652416229248	0.02987082	No	
+row_2	PPAP2B	PPAP2B	phosphatidic acid phosphatase type 2B	955	0.7835118770599365	0.030778566	No	
+row_3	PLD1	PLD1	phospholipase D1, phosphatidylcholine-specific	2357	0.3482777178287506	-0.069043	No	
+row_4	CHPT1	CHPT1	choline phosphotransferase 1	2640	0.3093338906764984	-0.08099757	No	
+row_5	PLD2	PLD2	phospholipase D2	3303	0.21819911897182465	-0.12634084	No	
+row_6	PPAP2A	PPAP2A	phosphatidic acid phosphatase type 2A	3464	0.1961670070886612	-0.13242082	No	
+row_7	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	3611	0.18029114603996277	-0.13792497	No	
+row_8	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.20872332	No	
+row_9	AGPS	AGPS	alkylglycerone phosphate synthase	4738	0.053675130009651184	-0.2231576	No	
+row_10	PLA2G12B	PLA2G12B	phospholipase A2, group XIIB	4869	0.04206814244389534	-0.23208842	No	
+row_11	PLA2G12A	PLA2G12A	phospholipase A2, group XIIA	5988	-0.07668153941631317	-0.31859198	No	
+row_12	PAFAH1B2	PAFAH1B2	platelet-activating factor acetylhydrolase, isoform Ib, beta subunit 30kDa	6094	-0.08816392719745636	-0.3239621	No	
+row_13	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	6120	-0.09075462818145752	-0.3228675	No	
+row_14	PPAP2C	PPAP2C	phosphatidic acid phosphatase type 2C	7555	-0.2571927011013031	-0.4284179	No	
+row_15	PLA2G2D	PLA2G2D	phospholipase A2, group IID	7844	-0.2991563081741333	-0.4411969	No	
+row_16	PLA2G1B	PLA2G1B	phospholipase A2, group IB (pancreas)	8056	-0.32536807656288147	-0.44694686	No	
+row_17	PLA2G6	PLA2G6	phospholipase A2, group VI (cytosolic, calcium-independent)	9952	-0.837482213973999	-0.56950206	Yes	
+row_18	PLA2G2E	PLA2G2E	phospholipase A2, group IIE	10220	-0.9938837885856628	-0.5569745	Yes	
+row_19	PLA2G3	PLA2G3	phospholipase A2, group III	10267	-1.0225387811660767	-0.5258569	Yes	
+row_20	PAFAH2	PAFAH2	platelet-activating factor acetylhydrolase 2, 40kDa	10437	-1.1538318395614624	-0.500077	Yes	
+row_21	PAFAH1B3	PAFAH1B3	platelet-activating factor acetylhydrolase, isoform Ib, gamma subunit 29kDa	10513	-1.2092424631118774	-0.46491978	Yes	
+row_22	PLA2G7	PLA2G7	phospholipase A2, group VII (platelet-activating factor acetylhydrolase, plasma)	10614	-1.2958770990371704	-0.42880812	Yes	
+row_23	PLA2G4E	PLA2G4E	phospholipase A2, group IVE	10910	-1.6380813121795654	-0.3965984	Yes	
+row_24	PLA2G10	PLA2G10	phospholipase A2, group X	11722	-2.9559683799743652	-0.36068627	Yes	
+row_25	PLA2G2C	PLA2G2C	phospholipase A2, group IIC	11794	-3.100893497467041	-0.26086125	Yes	
+row_26	PLA2G2F	PLA2G2F	phospholipase A2, group IIF	12259	-4.386725425720215	-0.14862032	Yes	
+row_27	PLA2G5	PLA2G5	phospholipase A2, group V	12394	-5.102351665496826	0.01426752	Yes	

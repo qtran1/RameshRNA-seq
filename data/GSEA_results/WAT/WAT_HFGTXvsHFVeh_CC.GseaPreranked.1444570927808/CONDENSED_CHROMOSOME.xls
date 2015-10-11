@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGB1	HMGB1	high-mobility group box 1	1118	0.6853271722793579	-0.06610002	No	
+row_1	TTN	TTN	titin	3115	0.24387218058109283	-0.21700577	No	
+row_2	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.21213757	No	
+row_3	MIS12	MIS12	MIS12 homolog (yeast)	3245	0.22751417756080627	-0.21159196	No	
+row_4	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	3531	0.18877096474170685	-0.22796977	No	
+row_5	PMF1	PMF1	polyamine-modulated factor 1	3663	0.17317144572734833	-0.23259656	No	
+row_6	NOL6	NOL6	nucleolar protein family 6 (RNA-associated)	3722	0.16792280972003937	-0.231581	No	
+row_7	SMARCA5	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	4060	0.12686942517757416	-0.2541821	No	
+row_8	SUV39H1	SUV39H1	suppressor of variegation 3-9 homolog 1 (Drosophila)	5365	-0.00858350284397602	-0.35783142	No	
+row_9	LIG4	LIG4	ligase IV, DNA, ATP-dependent	5756	-0.051247384399175644	-0.3871962	No	
+row_10	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	7059	-0.1964007169008255	-0.48437953	No	
+row_11	HMGB2	HMGB2	high-mobility group box 2	7124	-0.20372836291790009	-0.48263994	No	
+row_12	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	7173	-0.2086937129497528	-0.4794583	No	
+row_13	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.5649851	No	
+row_14	SMC2	SMC2	structural maintenance of chromosomes 2	9005	-0.5147607326507568	-0.5950461	No	
+row_15	RGS12	RGS12	regulator of G-protein signalling 12	9458	-0.6441402435302734	-0.6094445	Yes	
+row_16	XRCC4	XRCC4	X-ray repair complementing defective repair in Chinese hamster cells 4	9460	-0.6445019841194153	-0.587883	Yes	
+row_17	NCAPD2	NCAPD2	non-SMC condensin I complex, subunit D2	9954	-0.8384210467338562	-0.5990257	Yes	
+row_18	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.5983814	Yes	
+row_19	RCC1	RCC1	regulator of chromosome condensation 1	10527	-1.2225804328918457	-0.56482184	Yes	
+row_20	SYCE2	SYCE2	synaptonemal complex central element protein 2	10688	-1.3602325916290283	-0.53190076	Yes	
+row_21	SMC4	SMC4	structural maintenance of chromosomes 4	10803	-1.4876633882522583	-0.49103427	Yes	
+row_22	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.45143965	Yes	
+row_23	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.40330085	Yes	
+row_24	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	-0.30749416	Yes	
+row_25	SYCE1	SYCE1	synaptonemal complex central element protein 1	11755	-3.026709794998169	-0.21096396	Yes	
+row_26	STAG3	STAG3	stromal antigen 3	12216	-4.108731746673584	-0.109665275	Yes	
+row_27	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	0.028375583	Yes	

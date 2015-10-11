@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AICDA	AICDA	activation-induced cytidine deaminase	475	1.3200726509094238	0.0022294712	No	
+row_1	RAG2	RAG2	recombination activating gene 2	759	0.9298778772354126	0.007913857	No	
+row_2	RFXANK	RFXANK	regulatory factor X-associated ankyrin-containing protein	1906	0.43287235498428345	-0.07030898	No	
+row_3	RFX5	RFX5	regulatory factor X, 5 (influences HLA class II expression)	2296	0.3572840988636017	-0.09047091	No	
+row_4	CD8A	CD8A	CD8a molecule	2447	0.33446425199508667	-0.092270106	No	
+row_5	TAP2	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	2522	0.32468482851982117	-0.08830675	No	
+row_6	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	2871	0.27517828345298767	-0.10769393	No	
+row_7	DCLRE1C	DCLRE1C	DNA cross-link repair 1C (PSO2 homolog, S. cerevisiae)	3556	0.1864614635705948	-0.15656622	No	
+row_8	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	-0.19906965	No	
+row_9	TAP1	TAP1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	4561	0.0737861916422844	-0.23071426	No	
+row_10	CIITA	CIITA	class II, major histocompatibility complex, transactivator	4816	0.04760410636663437	-0.24952005	No	
+row_11	RFXAP	RFXAP	regulatory factor X-associated protein	5020	0.028225315734744072	-0.26484823	No	
+row_12	UNG	UNG	uracil-DNA glycosylase	5202	0.008404197171330452	-0.27902442	No	
+row_13	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	6148	-0.09403298050165176	-0.35151464	No	
+row_14	BTK	BTK	Bruton agammaglobulinemia tyrosine kinase	6201	-0.10038401931524277	-0.35261115	No	
+row_15	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6278	-0.10967938601970673	-0.35533887	No	
+row_16	TNFRSF13B	TNFRSF13B	tumor necrosis factor receptor superfamily, member 13B	7739	-0.2836470603942871	-0.4631309	No	
+row_17	LCK	LCK	lymphocyte-specific protein tyrosine kinase	8473	-0.40201088786125183	-0.5093619	No	
+row_18	CD4	CD4	CD4 molecule	9301	-0.5987188220024109	-0.557112	No	
+row_19	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	9593	-0.6909257173538208	-0.55932456	No	
+row_20	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	9978	-0.8525815010070801	-0.56404126	Yes	
+row_21	BLNK	BLNK	B-cell linker	10373	-1.111121416091919	-0.5617012	Yes	
+row_22	ADA	ADA	adenosine deaminase	10488	-1.193195104598999	-0.5345428	Yes	
+row_23	AIRE	AIRE	autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)	10656	-1.3328707218170166	-0.5073671	Yes	
+row_24	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	10700	-1.369989275932312	-0.46917692	Yes	
+row_25	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	10959	-1.7023382186889648	-0.43803284	Yes	
+row_26	IL7R	IL7R	interleukin 7 receptor	10963	-1.7050302028656006	-0.38647527	Yes	
+row_27	ZAP70	ZAP70	zeta-chain (TCR) associated protein kinase 70kDa	11332	-2.212181329727173	-0.34861326	Yes	
+row_28	CD19	CD19	CD19 molecule	11443	-2.4065780639648438	-0.28427485	Yes	
+row_29	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	11761	-3.0320680141448975	-0.21743935	Yes	
+row_30	TNFRSF13C	TNFRSF13C	tumor necrosis factor receptor superfamily, member 13C	12075	-3.58554744720459	-0.1334709	Yes	
+row_31	RAG1	RAG1	recombination activating gene 1	12453	-5.6979756355285645	0.0095677525	Yes	

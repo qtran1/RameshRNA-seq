@@ -1,0 +1,75 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPS1	CPS1	carbamoyl-phosphate synthetase 1, mitochondrial	98	3.3984861373901367	0.034975618	No	
+row_1	GSC	GSC	goosecoid	139	2.805344820022583	0.067118585	No	
+row_2	HOXA7	HOXA7	homeobox A7	661	1.0338433980941772	0.0384634	No	
+row_3	GDPD2	GDPD2	glycerophosphodiester phosphodiesterase domain containing 2	1107	0.6929156184196472	0.011593053	No	
+row_4	EPAS1	EPAS1	endothelial PAS domain protein 1	1516	0.5357286334037781	-0.014297603	No	
+row_5	ZHX2	ZHX2	zinc fingers and homeoboxes 2	1674	0.4908510148525238	-0.020673646	No	
+row_6	DUSP4	DUSP4	dual specificity phosphatase 4	1759	0.4663567543029785	-0.021518279	No	
+row_7	SLC4A2	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	1849	0.4447616934776306	-0.023034977	No	
+row_8	LGI3	LGI3	leucine-rich repeat LGI family, member 3	2299	0.3567269742488861	-0.05446077	No	
+row_9	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	2856	0.27710452675819397	-0.095449686	No	
+row_10	DUSP3	DUSP3	dual specificity phosphatase 3 (vaccinia virus phosphatase VH1-related)	2939	0.26585879921913147	-0.09866028	No	
+row_11	RAI1	RAI1	retinoic acid induced 1	3051	0.251679390668869	-0.10436951	No	
+row_12	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3126	0.24182124435901642	-0.10724294	No	
+row_13	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	-0.13205875	No	
+row_14	PCBP1	PCBP1	poly(rC) binding protein 1	3551	0.18681682646274567	-0.13626516	No	
+row_15	TBL1X	TBL1X	transducin (beta)-like 1X-linked	3643	0.1762533038854599	-0.14132464	No	
+row_16	SAMD8	SAMD8	sterile alpha motif domain containing 8	3653	0.17525458335876465	-0.1398367	No	
+row_17	FAM76B	FAM76B	family with sequence similarity 76, member B	3847	0.15300479531288147	-0.15334909	No	
+row_18	G3BP2	G3BP2	-	3895	0.14662811160087585	-0.1552618	No	
+row_19	UBE2H	UBE2H	ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast)	4118	0.12014058232307434	-0.17150821	No	
+row_20	SEH1L	SEH1L	SEH1-like (S. cerevisiae)	4187	0.11315838992595673	-0.1755226	No	
+row_21	TMTC2	TMTC2	transmembrane and tetratricopeptide repeat containing 2	4215	0.11031834036111832	-0.17629276	No	
+row_22	TAZ	TAZ	tafazzin (cardiomyopathy, dilated 3A (X-linked); endocardial fibroelastosis 2; Barth syndrome)	4473	0.0836816281080246	-0.1957985	No	
+row_23	OGDH	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	5132	0.015445290133357048	-0.24824391	No	
+row_24	RNF44	RNF44	ring finger protein 44	5199	0.008545439690351486	-0.25341624	No	
+row_25	AZIN1	AZIN1	antizyme inhibitor 1	5268	0.0019364329054951668	-0.25883186	No	
+row_26	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	5388	-0.011426699347794056	-0.2682079	No	
+row_27	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	5459	-0.020566733554005623	-0.27354878	No	
+row_28	STAT6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	5474	-0.021739412099123	-0.2743949	No	
+row_29	PAPOLG	PAPOLG	poly(A) polymerase gamma	5525	-0.02741275541484356	-0.27804956	No	
+row_30	C3AR1	C3AR1	complement component 3a receptor 1	5716	-0.0477195642888546	-0.29264835	No	
+row_31	BNIP3L	BNIP3L	BCL2/adenovirus E1B 19kDa interacting protein 3-like	5995	-0.07726326584815979	-0.31391495	No	
+row_32	ZC3H10	ZC3H10	zinc finger CCCH-type containing 10	6063	-0.08517882972955704	-0.31820184	No	
+row_33	RIN1	RIN1	Ras and Rab interactor 1	6166	-0.09633984416723251	-0.3251481	No	
+row_34	CDK5	CDK5	cyclin-dependent kinase 5	6187	-0.09888187795877457	-0.32550234	No	
+row_35	TSC22D1	TSC22D1	TSC22 domain family, member 1	6344	-0.11602528393268585	-0.3365206	No	
+row_36	USP3	USP3	ubiquitin specific peptidase 3	6528	-0.13827595114707947	-0.34941855	No	
+row_37	FAM19A1	FAM19A1	family with sequence similarity 19 (chemokine (C-C motif)-like), member A1	6817	-0.1708879917860031	-0.37030563	No	
+row_38	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	-0.3808955	No	
+row_39	HIF3A	HIF3A	hypoxia inducible factor 3, alpha subunit	7383	-0.23749980330467224	-0.41006336	No	
+row_40	AQP7	AQP7	aquaporin 7	7423	-0.24239645898342133	-0.41012955	No	
+row_41	TNFRSF21	TNFRSF21	tumor necrosis factor receptor superfamily, member 21	8204	-0.3495118319988251	-0.46812624	No	
+row_42	RPL41	RPL41	ribosomal protein L41	8206	-0.34973055124282837	-0.46380016	No	
+row_43	AGRP	AGRP	agouti related protein homolog (mouse)	8461	-0.4000298082828522	-0.4790804	No	
+row_44	KCNK7	KCNK7	potassium channel, subfamily K, member 7	8686	-0.4402625858783722	-0.4914538	No	
+row_45	CSRP3	CSRP3	cysteine and glycine-rich protein 3 (cardiac LIM protein)	8722	-0.44674962759017944	-0.48862547	No	
+row_46	TLE3	TLE3	transducin-like enhancer of split 3 (E(sp1) homolog, Drosophila)	9130	-0.5479286909103394	-0.5142824	No	
+row_47	NRXN1	NRXN1	neurexin 1	9293	-0.5969552993774414	-0.5197217	No	
+row_48	DMP1	DMP1	dentin matrix acidic phosphoprotein	9435	-0.6385550498962402	-0.5229569	No	
+row_49	PDZRN4	PDZRN4	PDZ domain containing RING finger 4	9749	-0.749150276184082	-0.5385588	No	
+row_50	CEP57	CEP57	centrosomal protein 57kDa	9903	-0.8199424147605896	-0.5404688	No	
+row_51	CREM	CREM	cAMP responsive element modulator	9938	-0.834905207157135	-0.53267026	No	
+row_52	BAG5	BAG5	BCL2-associated athanogene 5	10467	-1.1754043102264404	-0.56010205	No	
+row_53	SPATC1	SPATC1	spermatogenesis and centriole associated 1	10996	-1.7346833944320679	-0.5804877	Yes	
+row_54	RIMS2	RIMS2	regulating synaptic membrane exocytosis 2	11052	-1.7994520664215088	-0.5622174	Yes	
+row_55	MYBPH	MYBPH	myosin binding protein H	11176	-1.9607107639312744	-0.54735553	Yes	
+row_56	PRM3	PRM3	protamine 3	11228	-2.047203302383423	-0.525644	Yes	
+row_57	SPATA3	SPATA3	spermatogenesis associated 3	11258	-2.095700740814209	-0.5015614	Yes	
+row_58	NDST4	NDST4	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 4	11264	-2.108823776245117	-0.47539353	Yes	
+row_59	WBSCR28	WBSCR28	Williams-Beuren syndrome chromosome region 28	11415	-2.356362819671631	-0.45770705	Yes	
+row_60	UBQLN3	UBQLN3	ubiquilin 3	11440	-2.4035251140594482	-0.42934638	Yes	
+row_61	SPATA20	SPATA20	spermatogenesis associated 20	11492	-2.4948062896728516	-0.40199572	Yes	
+row_62	NR6A1	NR6A1	nuclear receptor subfamily 6, group A, member 1	11502	-2.512302875518799	-0.3710646	Yes	
+row_63	GSTO2	GSTO2	glutathione S-transferase omega 2	11533	-2.5646417140960693	-0.34115413	Yes	
+row_64	ASB17	ASB17	ankyrin repeat and SOCS box-containing 17	11580	-2.6655657291412354	-0.31125218	Yes	
+row_65	EGR3	EGR3	early growth response 3	11590	-2.6825015544891357	-0.27817684	Yes	
+row_66	DNAJC5B	DNAJC5B	DnaJ (Hsp40) homolog, subfamily C, member 5 beta	11614	-2.7333476543426514	-0.24558093	Yes	
+row_67	FGF13	FGF13	fibroblast growth factor 13	11685	-2.867579460144043	-0.2150539	Yes	
+row_68	NEUROG1	NEUROG1	neurogenin 1	11703	-2.9140431880950928	-0.1797015	Yes	
+row_69	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	11792	-3.096311330795288	-0.14773282	Yes	
+row_70	ACTL7B	ACTL7B	actin-like 7B	11911	-3.3438596725463867	-0.115045406	Yes	
+row_71	DUSP13	DUSP13	dual specificity phosphatase 13	12085	-3.618053913116455	-0.08330358	Yes	
+row_72	CCR9	CCR9	chemokine (C-C motif) receptor 9	12226	-4.19948673248291	-0.041596606	Yes	
+row_73	SYT4	SYT4	synaptotagmin IV	12440	-5.498825550079346	0.010640011	Yes	

@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSD3B2	HSD3B2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	16	5.6545209884643555	0.15714073	Yes	
+row_1	ADAMTS1	ADAMTS1	ADAM metallopeptidase with thrombospondin type 1 motif, 1	240	2.181276559829712	0.2004488	Yes	
+row_2	PNCK	PNCK	pregnancy upregulated non-ubiquitously expressed CaM kinase	415	1.471231460571289	0.22777598	Yes	
+row_3	COL24A1	COL24A1	collagen, type XXIV, alpha 1	482	1.3114433288574219	0.25924855	Yes	
+row_4	AQP2	AQP2	aquaporin 2 (collecting duct)	675	1.019039511680603	0.27247006	Yes	
+row_5	SH3PXD2A	SH3PXD2A	SH3 and PX domains 2A	1041	0.7275415062904358	0.2637136	Yes	
+row_6	CPEB3	CPEB3	cytoplasmic polyadenylation element binding protein 3	1372	0.5772982239723206	0.25354207	Yes	
+row_7	PELI3	PELI3	pellino homolog 3 (Drosophila)	1409	0.5684722065925598	0.26659447	Yes	
+row_8	BCL9	BCL9	B-cell CLL/lymphoma 9	1486	0.5438560247421265	0.27576387	Yes	
+row_9	TIMP2	TIMP2	TIMP metallopeptidase inhibitor 2	1499	0.5403193831443787	0.28994355	Yes	
+row_10	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.294785	Yes	
+row_11	ZFP36	ZFP36	zinc finger protein 36, C3H type, homolog (mouse)	1733	0.4726298749446869	0.29884538	Yes	
+row_12	FCHSD2	FCHSD2	FCH and double SH3 domains 2	2743	0.294480562210083	0.22654314	No	
+row_13	SMARCC1	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	3101	0.24564938247203827	0.20492458	No	
+row_14	GAB2	GAB2	GRB2-associated binding protein 2	3272	0.22250735759735107	0.19758661	No	
+row_15	SLC44A1	SLC44A1	solute carrier family 44, member 1	3285	0.22115452587604523	0.20282452	No	
+row_16	AKAP13	AKAP13	A kinase (PRKA) anchor protein 13	3376	0.207898810505867	0.201464	No	
+row_17	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	3431	0.20024865865707397	0.20276316	No	
+row_18	CTBP2	CTBP2	C-terminal binding protein 2	3450	0.1979396790266037	0.20687166	No	
+row_19	CDH13	CDH13	cadherin 13, H-cadherin (heart)	3467	0.19567525386810303	0.2110764	No	
+row_20	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	3480	0.19487707316875458	0.2155781	No	
+row_21	RNF165	RNF165	ring finger protein 165	3612	0.18026524782180786	0.2101702	No	
+row_22	NCDN	NCDN	neurochondrin	3743	0.16481439769268036	0.20440924	No	
+row_23	UBE2O	UBE2O	ubiquitin-conjugating enzyme E2O	3779	0.16118170320987701	0.20613076	No	
+row_24	SERF2	SERF2	small EDRK-rich factor 2	3905	0.14555205404758453	0.20022933	No	
+row_25	MYH9	MYH9	myosin, heavy chain 9, non-muscle	3970	0.13664259016513824	0.19894816	No	
+row_26	LRRC14	LRRC14	leucine rich repeat containing 14	5363	-0.008343501016497612	0.088053055	No	
+row_27	CPA4	CPA4	carboxypeptidase A4	5575	-0.033341456204652786	0.07214219	No	
+row_28	UBE2W	UBE2W	ubiquitin-conjugating enzyme E2W (putative)	6048	-0.08307527750730515	0.036788024	No	
+row_29	TMEM87A	TMEM87A	transmembrane protein 87A	6192	-0.09926252067089081	0.028152727	No	
+row_30	TBC1D9B	TBC1D9B	TBC1 domain family, member 9B (with GRAM domain)	6295	-0.11169853061437607	0.02313903	No	
+row_31	PURB	PURB	purine-rich element binding protein B	6522	-0.13775889575481415	0.008956036	No	
+row_32	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	7108	-0.20149238407611847	-0.032101776	No	
+row_33	PFKFB2	PFKFB2	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 2	7117	-0.2024834156036377	-0.027067637	No	
+row_34	H2AFY2	H2AFY2	H2A histone family, member Y2	7142	-0.20561924576759338	-0.023222985	No	
+row_35	DBN1	DBN1	drebrin 1	7189	-0.21123860776424408	-0.020977248	No	
+row_36	PPME1	PPME1	protein phosphatase methylesterase 1	8082	-0.3298961818218231	-0.082946695	No	
+row_37	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	8418	-0.388506680727005	-0.0988066	No	
+row_38	KCNK7	KCNK7	potassium channel, subfamily K, member 7	8686	-0.4402625858783722	-0.10778779	No	
+row_39	PCNXL2	PCNXL2	pecanex-like 2 (Drosophila)	8810	-0.46521222591400146	-0.10457389	No	
+row_40	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	-0.1216058	No	
+row_41	FAM83D	FAM83D	family with sequence similarity 83, member D	9670	-0.7167063355445862	-0.13681303	No	
+row_42	FANCI	FANCI	Fanconi anemia, complementation group I	10313	-1.059141755104065	-0.15839331	No	
+row_43	SCN2B	SCN2B	sodium channel, voltage-gated, type II, beta	10710	-1.3841482400894165	-0.15122901	No	
+row_44	SCRT2	SCRT2	scratch homolog 2, zinc finger protein (Drosophila)	11067	-1.814406156539917	-0.12881717	No	
+row_45	RNF133	RNF133	ring finger protein 133	11619	-2.735434055328369	-0.09616926	No	
+row_46	NPTX1	NPTX1	neuronal pentraxin I	11623	-2.74468731880188	-0.01951311	No	
+row_47	LDLRAD2	LDLRAD2	low density lipoprotein receptor class A domain containing 2	11985	-3.400723457336426	0.04694211	No	

@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PER2	PER2	period homolog 2 (Drosophila)	699	0.9909594655036926	0.0407641	Yes	
+row_1	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	777	0.9087241291999817	0.12309939	Yes	
+row_2	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	897	0.8226136565208435	0.19370334	Yes	
+row_3	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.25282416	Yes	
+row_4	DBP	DBP	D site of albumin promoter (albumin D-box) binding protein	1158	0.6684138178825378	0.30881387	Yes	
+row_5	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.3215923	Yes	
+row_6	RXRA	RXRA	retinoid X receptor, alpha	1787	0.46085768938064575	0.35299063	Yes	
+row_7	NR1D1	NR1D1	nuclear receptor subfamily 1, group D, member 1	1857	0.44256263971328735	0.39057845	Yes	
+row_8	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	1939	0.42391258478164673	0.425394	Yes	
+row_9	NCOR1	NCOR1	nuclear receptor co-repressor 1	2083	0.3964989185333252	0.45259878	Yes	
+row_10	PER1	PER1	period homolog 1 (Drosophila)	2109	0.3917286694049835	0.48874453	Yes	
+row_11	ARNTL2	ARNTL2	aryl hydrocarbon receptor nuclear translocator-like 2	2148	0.38644930720329285	0.5233401	Yes	
+row_12	NCOA3	NCOA3	nuclear receptor coactivator 3	2358	0.3481931686401367	0.5405812	Yes	
+row_13	CRY2	CRY2	cryptochrome 2 (photolyase-like)	2579	0.3168753385543823	0.5538965	Yes	
+row_14	EP300	EP300	E1A binding protein p300	2703	0.29833313822746277	0.57313806	Yes	
+row_15	TBL1X	TBL1X	transducin (beta)-like 1X-linked	3643	0.1762533038854599	0.5154534	No	
+row_16	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	4525	0.07765430957078934	0.45279217	No	
+row_17	CRY1	CRY1	cryptochrome 1 (photolyase-like)	4904	0.039173707365989685	0.42647696	No	
+row_18	ARNTL	ARNTL	aryl hydrocarbon receptor nuclear translocator-like	5062	0.023633595556020737	0.41626397	No	
+row_19	RORA	RORA	RAR-related orphan receptor A	5279	6.9171201903373E-4	0.39911467	No	
+row_20	NCOA6	NCOA6	nuclear receptor coactivator 6	5328	-0.00412472989410162	0.39569032	No	
+row_21	CLOCK	CLOCK	clock homolog (mouse)	5592	-0.034902360290288925	0.37812555	No	
+row_22	HDAC3	HDAC3	histone deacetylase 3	5639	-0.039387043565511703	0.37829372	No	
+row_23	SMARCD3	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	7176	-0.20934076607227325	0.2762455	No	
+row_24	NCOA2	NCOA2	nuclear receptor coactivator 2	7317	-0.22940558195114136	0.28742135	No	
+row_25	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	7449	-0.24460472166538239	0.3007943	No	
+row_26	CCRN4L	CCRN4L	CCR4 carbon catabolite repression 4-like (S. cerevisiae)	7705	-0.27838945388793945	0.30757287	No	
+row_27	NPAS2	NPAS2	neuronal PAS domain protein 2	9918	-0.8253911137580872	0.21162117	No	

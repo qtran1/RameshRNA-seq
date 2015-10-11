@@ -1,0 +1,36 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGB	FGB	fibrinogen beta chain	97	3.4006435871124268	0.12489578	Yes	
+row_1	FGG	FGG	fibrinogen gamma chain	128	2.9948625564575195	0.23930866	Yes	
+row_2	VWF	VWF	von Willebrand factor	355	1.6487281322479248	0.28558847	Yes	
+row_3	MPL	MPL	myeloproliferative leukemia virus oncogene	453	1.36963951587677	0.33127117	Yes	
+row_4	FGA	FGA	fibrinogen alpha chain	461	1.349867820739746	0.3833604	Yes	
+row_5	ADRA2A	ADRA2A	adrenergic, alpha-2A-, receptor	539	1.2132447957992554	0.4245384	Yes	
+row_6	ADRA2B	ADRA2B	adrenergic, alpha-2B-, receptor	584	1.1506078243255615	0.46590528	Yes	
+row_7	THPO	THPO	thrombopoietin (myeloproliferative leukemia virus oncogene ligand, megakaryocyte growth and development factor)	712	0.9714762568473816	0.49366632	Yes	
+row_8	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	985	0.7620001435279846	0.5016935	Yes	
+row_9	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1036	0.7318344116210938	0.5262489	Yes	
+row_10	RAP1A	RAP1A	RAP1A, member of RAS oncogene family	1812	0.4555286467075348	0.48220822	No	
+row_11	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	2429	0.3371482789516449	0.44623092	No	
+row_12	RASGRP2	RASGRP2	RAS guanyl releasing protein 2 (calcium and DAG-regulated)	2598	0.31488460302352905	0.44511384	No	
+row_13	GP1BA	GP1BA	glycoprotein Ib (platelet), alpha polypeptide	3194	0.23360909521579742	0.4067731	No	
+row_14	GP9	GP9	glycoprotein IX (platelet)	3280	0.22183434665203094	0.4086462	No	
+row_15	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	0.4163399	No	
+row_16	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	3359	0.2109103500843048	0.41930223	No	
+row_17	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	0.41831768	No	
+row_18	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.4022282	No	
+row_19	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.3928239	No	
+row_20	TLN1	TLN1	talin 1	4824	0.046913646161556244	0.3241536	No	
+row_21	RAP1B	RAP1B	RAP1B, member of RAS oncogene family	5267	0.001980097033083439	0.2889808	No	
+row_22	RAPGEF3	RAPGEF3	Rap guanine nucleotide exchange factor (GEF) 3	6046	-0.08298993110656738	0.23017116	No	
+row_23	FN1	FN1	fibronectin 1	6799	-0.16886982321739197	0.17678452	No	
+row_24	PTPN1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	7148	-0.20637954771518707	0.15708031	No	
+row_25	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	7251	-0.22023515403270721	0.15753528	No	
+row_26	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	0.16240756	No	
+row_27	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	8164	-0.3435555100440979	0.10714114	No	
+row_28	CSK	CSK	c-src tyrosine kinase	8422	-0.3892652988433838	0.10182718	No	
+row_29	RAPGEF4	RAPGEF4	Rap guanine nucleotide exchange factor (GEF) 4	8560	-0.41882219910621643	0.10723614	No	
+row_30	GP1BB	GP1BB	glycoprotein Ib (platelet), beta polypeptide	9261	-0.5864330530166626	0.07428234	No	
+row_31	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	9294	-0.5974118709564209	0.09503052	No	
+row_32	RASGRP1	RASGRP1	RAS guanyl releasing protein 1 (calcium and DAG-regulated)	10142	-0.946714460849762	0.06440496	No	
+row_33	SYK	SYK	spleen tyrosine kinase	10793	-1.479150652885437	0.07025642	No	
+row_34	GP5	GP5	glycoprotein V (platelet)	11085	-1.8363440036773682	0.118669786	No	

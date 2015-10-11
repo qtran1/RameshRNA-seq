@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRPC5	TRPC5	transient receptor potential cation channel, subfamily C, member 5	11	6.114665508270264	0.113333404	Yes	
+row_1	SCNN1G	SCNN1G	sodium channel, nonvoltage-gated 1, gamma	18	5.538581848144531	0.21630526	Yes	
+row_2	CHRNA3	CHRNA3	cholinergic receptor, nicotinic, alpha 3	53	4.278750896453857	0.29351372	Yes	
+row_3	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	190	2.6271233558654785	0.33174154	Yes	
+row_4	TRPC4	TRPC4	transient receptor potential cation channel, subfamily C, member 4	209	2.414584159851074	0.3754064	Yes	
+row_5	RYR2	RYR2	ryanodine receptor 2 (cardiac)	528	1.2271479368209839	0.37297645	Yes	
+row_6	CHRNB3	CHRNB3	cholinergic receptor, nicotinic, beta 3	575	1.1583908796310425	0.39094588	Yes	
+row_7	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	1281	0.620928168296814	0.3463415	No	
+row_8	RYR3	RYR3	ryanodine receptor 3	1328	0.597352921962738	0.3538318	No	
+row_9	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	1473	0.5489577054977417	0.3526057	No	
+row_10	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	3693	0.17006291449069977	0.17888483	No	
+row_11	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	5736	-0.0491756908595562	0.017016353	No	
+row_12	TRPC1	TRPC1	transient receptor potential cation channel, subfamily C, member 1	5947	-0.07128671556711197	0.001606782	No	
+row_13	TRPC3	TRPC3	transient receptor potential cation channel, subfamily C, member 3	6163	-0.0957288071513176	-0.013744854	No	
+row_14	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	6748	-0.16251814365386963	-0.057265446	No	
+row_15	SCNN1B	SCNN1B	sodium channel, nonvoltage-gated 1, beta (Liddle syndrome)	7264	-0.22213274240493774	-0.09417191	No	
+row_16	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	7747	-0.2844827175140381	-0.12728307	No	
+row_17	RYR1	RYR1	ryanodine receptor 1 (skeletal)	8327	-0.37147295475006104	-0.16650218	No	
+row_18	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	9575	-0.6849878430366516	-0.25311798	No	
+row_19	SHROOM2	SHROOM2	shroom family member 2	9817	-0.7741992473602295	-0.25786978	No	
+row_20	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	10779	-1.4594566822052002	-0.30722025	No	
+row_21	P2RX2	P2RX2	purinergic receptor P2X, ligand-gated ion channel, 2	10924	-1.6517175436019897	-0.2878489	No	
+row_22	CHRNB4	CHRNB4	cholinergic receptor, nicotinic, beta 4	11413	-2.3543879985809326	-0.28277647	No	
+row_23	CNGA3	CNGA3	cyclic nucleotide gated channel alpha 3	11532	-2.564593553543091	-0.24428163	No	
+row_24	GLRB	GLRB	glycine receptor, beta	11551	-2.5899646282196045	-0.19734097	No	
+row_25	CHRNA1	CHRNA1	cholinergic receptor, nicotinic, alpha 1 (muscle)	11558	-2.6130716800689697	-0.14901207	No	
+row_26	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	11702	-2.9140431880950928	-0.105983175	No	
+row_27	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	11792	-3.096311330795288	-0.055244997	No	
+row_28	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	11810	-3.1379194259643555	0.0020101338	No	
+row_29	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	11813	-3.1446571350097656	0.060586903	No	

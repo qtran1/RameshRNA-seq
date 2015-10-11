@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP2A1	ATP2A1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	92	3.477907419204712	0.057974495	No	
+row_1	ATP4B	ATP4B	ATPase, H+/K+ exchanging, beta polypeptide	517	1.2424676418304443	0.04746739	No	
+row_2	ARHGEF9	ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	706	0.9819474816322327	0.050903838	No	
+row_3	ATP11C	ATP11C	ATPase, Class VI, type 11C	1419	0.5653090476989746	0.0046925656	No	
+row_4	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	2051	0.40337419509887695	-0.038094953	No	
+row_5	GABRA3	GABRA3	gamma-aminobutyric acid (GABA) A receptor, alpha 3	2235	0.36985141038894653	-0.045755006	No	
+row_6	ATP7A	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	3238	0.22811205685138702	-0.12144537	No	
+row_7	ATP11B	ATP11B	ATPase, Class VI, type 11B	4425	0.08825691044330597	-0.21444824	No	
+row_8	ATP2B2	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	4458	0.08514484763145447	-0.21540323	No	
+row_9	ATP1B2	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide	4725	0.05548452213406563	-0.23559195	No	
+row_10	ATP8B4	ATP8B4	ATPase, Class I, type 8B, member 4	4890	0.040648456662893295	-0.24791817	No	
+row_11	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5327	-0.004072076641023159	-0.28264096	No	
+row_12	ATP8B1	ATP8B1	ATPase, Class I, type 8B, member 1	5468	-0.02113804966211319	-0.29341805	No	
+row_13	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	5771	-0.05278336629271507	-0.31653082	No	
+row_14	ATP10B	ATP10B	ATPase, Class V, type 10B	6259	-0.1074090525507927	-0.35338342	No	
+row_15	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	6912	-0.18067185580730438	-0.40202957	No	
+row_16	ATP2A3	ATP2A3	ATPase, Ca++ transporting, ubiquitous	7008	-0.19007515907287598	-0.40604222	No	
+row_17	ATP2C1	ATP2C1	ATPase, Ca++ transporting, type 2C, member 1	7229	-0.21789100766181946	-0.41950935	No	
+row_18	ATP9A	ATP9A	ATPase, Class II, type 9A	7268	-0.22256901860237122	-0.41836232	No	
+row_19	ATP11A	ATP11A	ATPase, Class VI, type 11A	7403	-0.24011841416358948	-0.4245479	No	
+row_20	ATP2B3	ATP2B3	ATPase, Ca++ transporting, plasma membrane 3	7835	-0.297951877117157	-0.45335236	No	
+row_21	GABRB2	GABRB2	gamma-aminobutyric acid (GABA) A receptor, beta 2	8022	-0.3253672420978546	-0.4620873	No	
+row_22	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	8139	-0.338960200548172	-0.46497995	No	
+row_23	ATP8A1	ATP8A1	ATPase, aminophospholipid transporter (APLT), Class I, type 8A, member 1	8577	-0.4216614365577698	-0.49193993	No	
+row_24	GABRA4	GABRA4	gamma-aminobutyric acid (GABA) A receptor, alpha 4	9007	-0.5152425765991211	-0.5165039	No	
+row_25	ATP9B	ATP9B	ATPase, Class II, type 9B	9057	-0.5258172154426575	-0.5105396	No	
+row_26	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	9333	-0.608588695526123	-0.521059	No	
+row_27	ATP10A	ATP10A	ATPase, Class V, type 10A	9832	-0.7831999659538269	-0.54609776	No	
+row_28	ATP7B	ATP7B	ATPase, Cu++ transporting, beta polypeptide	9847	-0.7896683812141418	-0.53238463	No	
+row_29	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	9883	-0.8115867376327515	-0.519936	No	
+row_30	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	10007	-0.8692589402198792	-0.513428	No	
+row_31	GLRA1	GLRA1	glycine receptor, alpha 1 (startle disease/hyperekplexia, stiff man syndrome)	10779	-1.4594566822052002	-0.5475556	Yes	
+row_32	GABRG3	GABRG3	gamma-aminobutyric acid (GABA) A receptor, gamma 3	10921	-1.648199439048767	-0.5278552	Yes	
+row_33	GABRR1	GABRR1	gamma-aminobutyric acid (GABA) receptor, rho 1	10943	-1.6749505996704102	-0.49807462	Yes	
+row_34	ATP4A	ATP4A	ATPase, H+/K+ exchanging, alpha polypeptide	11042	-1.7846367359161377	-0.47237977	Yes	
+row_35	ATP1A3	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	11068	-1.814793586730957	-0.4402921	Yes	
+row_36	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	11163	-1.9436442852020264	-0.41129172	Yes	
+row_37	ATP8A2	ATP8A2	ATPase, aminophospholipid transporter-like, Class I, type 8A, member 2	11339	-2.220618486404419	-0.3835546	Yes	
+row_38	GLRB	GLRB	glycine receptor, beta	11551	-2.5899646282196045	-0.35175425	Yes	
+row_39	ATP8B3	ATP8B3	ATPase, Class I, type 8B, member 3	11554	-2.593306064605713	-0.30320984	Yes	
+row_40	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	11638	-2.7765095233917236	-0.25768974	Yes	
+row_41	HTR3A	HTR3A	5-hydroxytryptamine (serotonin) receptor 3A	11702	-2.9140431880950928	-0.20799036	Yes	
+row_42	GABRA2	GABRA2	gamma-aminobutyric acid (GABA) A receptor, alpha 2	12096	-3.6372861862182617	-0.1710469	Yes	
+row_43	GABRA5	GABRA5	gamma-aminobutyric acid (GABA) A receptor, alpha 5	12374	-4.966015815734863	-0.09989047	Yes	
+row_44	ATP12A	ATP12A	ATPase, H+/K+ transporting, nongastric, alpha polypeptide	12479	-6.160257339477539	0.0075025978	Yes	

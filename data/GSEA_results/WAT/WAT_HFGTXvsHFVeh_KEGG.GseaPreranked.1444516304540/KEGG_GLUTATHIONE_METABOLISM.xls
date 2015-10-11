@@ -1,0 +1,44 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GPX1	GPX1	glutathione peroxidase 1	614	1.1002073287963867	-0.030646505	No	
+row_1	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	623	1.0887689590454102	-0.01312374	No	
+row_2	GSTT1	GSTT1	glutathione S-transferase theta 1	652	1.0425342321395874	0.0020317654	No	
+row_3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	653	1.0403822660446167	0.019385835	No	
+row_4	MGST1	MGST1	microsomal glutathione S-transferase 1	780	0.9045124053955078	0.024418466	No	
+row_5	SMS	SMS	spermine synthase	1087	0.7023112177848816	0.01171391	No	
+row_6	GSTA3	GSTA3	glutathione S-transferase A3	1297	0.6083697080612183	0.0051831673	No	
+row_7	RRM2B	RRM2B	ribonucleotide reductase M2 B (TP53 inducible)	1435	0.5604510307312012	0.0035988698	No	
+row_8	MGST3	MGST3	microsomal glutathione S-transferase 3	1656	0.49684566259384155	-0.0056699696	No	
+row_9	GSTM3	GSTM3	glutathione S-transferase M3 (brain)	1814	0.4544525742530823	-0.010618414	No	
+row_10	OPLAH	OPLAH	5-oxoprolinase (ATP-hydrolysing)	1910	0.43200039863586426	-0.010993642	No	
+row_11	GSTT2	GSTT2	glutathione S-transferase theta 2	2036	0.4062202572822571	-0.0141929565	No	
+row_12	IDH2	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	2208	0.375240296125412	-0.021579929	No	
+row_13	GSTZ1	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	3056	0.25154849886894226	-0.08497635	No	
+row_14	MGST2	MGST2	microsomal glutathione S-transferase 2	3320	0.21609167754650116	-0.102359794	No	
+row_15	GSR	GSR	glutathione reductase	3692	0.17015939950942993	-0.12912802	No	
+row_16	GSTK1	GSTK1	glutathione S-transferase kappa 1	4434	0.08741780370473862	-0.1868032	No	
+row_17	GPX7	GPX7	glutathione peroxidase 7	4813	0.04781842976808548	-0.21617076	No	
+row_18	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	5233	0.005235445685684681	-0.24952051	No	
+row_19	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	5271	0.0017693063709884882	-0.25244367	No	
+row_20	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	5789	-0.05391355976462364	-0.29280207	No	
+row_21	GSTM4	GSTM4	glutathione S-transferase M4	5857	-0.06167455390095711	-0.29712003	No	
+row_22	SRM	SRM	spermidine synthase	6081	-0.08706258237361908	-0.31346366	No	
+row_23	PGD	PGD	phosphogluconate dehydrogenase	6124	-0.09134604781866074	-0.31529164	No	
+row_24	TXNDC12	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum)	6219	-0.10237372666597366	-0.3210854	No	
+row_25	GSTO1	GSTO1	glutathione S-transferase omega 1	6430	-0.12660475075244904	-0.335732	No	
+row_26	GSTA4	GSTA4	glutathione S-transferase A4	7208	-0.2142123132944107	-0.39416507	No	
+row_27	GSS	GSS	glutathione synthetase	7923	-0.31154000759124756	-0.44594714	No	
+row_28	GCLM	GCLM	glutamate-cysteine ligase, modifier subunit	8154	-0.34204208850860596	-0.4585962	No	
+row_29	GSTM2	GSTM2	glutathione S-transferase M2 (muscle)	8414	-0.3877468407154083	-0.47279713	No	
+row_30	GSTM1	GSTM1	glutathione S-transferase M1	8527	-0.4119378328323364	-0.47486365	No	
+row_31	RRM2	RRM2	ribonucleotide reductase M2 polypeptide	8566	-0.4199281334877014	-0.47089154	No	
+row_32	GGT6	GGT6	gamma-glutamyltransferase 6 homolog (rat)	9067	-0.5297459363937378	-0.50195616	No	
+row_33	ODC1	ODC1	ornithine decarboxylase 1	9193	-0.5678262114524841	-0.5024598	No	
+row_34	GPX2	GPX2	glutathione peroxidase 2 (gastrointestinal)	9378	-0.623386800289154	-0.50674504	No	
+row_35	RRM1	RRM1	ribonucleotide reductase M1 polypeptide	9553	-0.6782084703445435	-0.50931776	No	
+row_36	LAP3	LAP3	leucine aminopeptidase 3	9897	-0.8151952624320984	-0.52309203	No	
+row_37	GSTM5	GSTM5	glutathione S-transferase M5	10909	-1.6358145475387573	-0.57648575	No	
+row_38	GSTO2	GSTO2	glutathione S-transferase omega 2	11533	-2.5646417140960693	-0.583423	Yes	
+row_39	GSTA2	GSTA2	glutathione S-transferase A2	11730	-2.9717094898223877	-0.54949474	Yes	
+row_40	GGT1	GGT1	gamma-glutamyltransferase 1	12237	-4.29901647567749	-0.51816493	Yes	
+row_41	GPX6	GPX6	glutathione peroxidase 6 (olfactory)	12439	-5.496255397796631	-0.44252503	Yes	
+row_42	GPX5	GPX5	glutathione peroxidase 5 (epididymal androgen-related protein)	12573	-27.165821075439453	6.5001586E-8	Yes	

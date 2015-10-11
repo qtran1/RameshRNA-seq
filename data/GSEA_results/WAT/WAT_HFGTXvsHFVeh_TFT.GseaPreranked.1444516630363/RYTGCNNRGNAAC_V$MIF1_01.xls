@@ -1,0 +1,69 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNT2	KCNT2	potassium channel, subfamily T, member 2	222	2.2900993824005127	0.012472951	No	
+row_1	DRP2	DRP2	dystrophin related protein 2	385	1.5614904165267944	0.020127513	No	
+row_2	SIX1	SIX1	sine oculis homeobox homolog 1 (Drosophila)	424	1.4460774660110474	0.03617411	No	
+row_3	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	707	0.9797964096069336	0.026556158	No	
+row_4	STMN4	STMN4	stathmin-like 4	983	0.7646547555923462	0.0146585265	No	
+row_5	SALL2	SALL2	sal-like 2 (Drosophila)	1589	0.5141990184783936	-0.026931921	No	
+row_6	BMP6	BMP6	bone morphogenetic protein 6	1591	0.514140248298645	-0.020226328	No	
+row_7	ITGB8	ITGB8	integrin, beta 8	1678	0.4897025525569916	-0.020639997	No	
+row_8	MAP9	MAP9	microtubule-associated protein 9	1697	0.48322081565856934	-0.015701821	No	
+row_9	PTCH1	PTCH1	patched homolog 1 (Drosophila)	1988	0.4137271046638489	-0.033430375	No	
+row_10	WARS2	WARS2	tryptophanyl tRNA synthetase 2 (mitochondrial)	2124	0.3893580734729767	-0.039086495	No	
+row_11	GPC3	GPC3	glypican 3	2564	0.31936338543891907	-0.06997473	No	
+row_12	FUZ	FUZ	fuzzy homolog (Drosophila)	3348	0.21239382028579712	-0.12978153	No	
+row_13	HSF1	HSF1	heat shock transcription factor 1	3483	0.1946694552898407	-0.13792716	No	
+row_14	KCNRG	KCNRG	potassium channel regulator	3592	0.18303555250167847	-0.14414734	No	
+row_15	HS2ST1	HS2ST1	heparan sulfate 2-O-sulfotransferase 1	4126	0.11951158195734024	-0.18518959	No	
+row_16	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	4374	0.09351954609155655	-0.20370585	No	
+row_17	FILIP1	FILIP1	filamin A interacting protein 1	5340	-0.005446464754641056	-0.28079692	No	
+row_18	SIAE	SIAE	sialic acid acetylesterase	5442	-0.01825735718011856	-0.2886321	No	
+row_19	LHX6	LHX6	LIM homeobox 6	5567	-0.03218413516879082	-0.29812256	No	
+row_20	NCOA5	NCOA5	nuclear receptor coactivator 5	5784	-0.05373401567339897	-0.3146851	No	
+row_21	LSM7	LSM7	LSM7 homolog, U6 small nuclear RNA associated (S. cerevisiae)	5939	-0.07081286609172821	-0.32606462	No	
+row_22	SEP15	SEP15	-	6145	-0.09389937669038773	-0.3412175	No	
+row_23	MED25	MED25	mediator of RNA polymerase II transcription, subunit 25 homolog (S. cerevisiae)	6186	-0.0985676571726799	-0.34311506	No	
+row_24	GRM3	GRM3	glutamate receptor, metabotropic 3	6308	-0.11275477707386017	-0.3513023	No	
+row_25	EFTUD2	EFTUD2	elongation factor Tu GTP binding domain containing 2	6396	-0.1217246726155281	-0.35665244	No	
+row_26	CCDC126	CCDC126	coiled-coil domain containing 126	6944	-0.18374092876911163	-0.39796647	No	
+row_27	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	7134	-0.205102801322937	-0.4103723	No	
+row_28	NRGN	NRGN	neurogranin (protein kinase C substrate, RC3)	7184	-0.21001949906349182	-0.4115186	No	
+row_29	BCL2L1	BCL2L1	BCL2-like 1	7324	-0.23039083182811737	-0.4195926	No	
+row_30	PRKCSH	PRKCSH	protein kinase C substrate 80K-H	7346	-0.2326386570930481	-0.41820145	No	
+row_31	SPPL2B	SPPL2B	-	7616	-0.2655448317527771	-0.4362065	No	
+row_32	GBF1	GBF1	golgi-specific brefeldin A resistance factor 1	7631	-0.2678620517253876	-0.43379074	No	
+row_33	RNF25	RNF25	ring finger protein 25	7647	-0.26957255601882935	-0.4314324	No	
+row_34	PPME1	PPME1	protein phosphatase methylesterase 1	8082	-0.3298961818218231	-0.4617818	No	
+row_35	BOP1	BOP1	block of proliferation 1	8170	-0.3442700505256653	-0.46419483	No	
+row_36	FASTKD2	FASTKD2	FAST kinase domains 2	8416	-0.388333797454834	-0.47866026	No	
+row_37	GRIK5	GRIK5	glutamate receptor, ionotropic, kainate 5	8430	-0.39167138934135437	-0.47453055	No	
+row_38	MAGED1	MAGED1	melanoma antigen family D, 1	8528	-0.4119667410850525	-0.47684973	No	
+row_39	BBS2	BBS2	Bardet-Biedl syndrome 2	8569	-0.420124351978302	-0.47450346	No	
+row_40	E2F5	E2F5	E2F transcription factor 5, p130-binding	8803	-0.46396371722221375	-0.48701116	No	
+row_41	DPAGT1	DPAGT1	dolichyl-phosphate (UDP-N-acetylglucosamine) N-acetylglucosaminephosphotransferase 1 (GlcNAc-1-P transferase)	8861	-0.47736531496047974	-0.48526877	No	
+row_42	UBB	UBB	ubiquitin B	8996	-0.5121402740478516	-0.48922446	No	
+row_43	HMGCS1	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	9246	-0.581736147403717	-0.5014572	No	
+row_44	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	9617	-0.6986292004585266	-0.52182263	No	
+row_45	AP1M1	AP1M1	adaptor-related protein complex 1, mu 1 subunit	9737	-0.7437331676483154	-0.52152234	No	
+row_46	ADAMTS17	ADAMTS17	ADAM metallopeptidase with thrombospondin type 1 motif, 17	9929	-0.8313000798225403	-0.52582365	Yes	
+row_47	CPEB2	CPEB2	cytoplasmic polyadenylation element binding protein 2	9998	-0.8625940084457397	-0.51987666	Yes	
+row_48	EFNB3	EFNB3	ephrin-B3	10100	-0.9187148213386536	-0.51582766	Yes	
+row_49	TTC12	TTC12	tetratricopeptide repeat domain 12	10149	-0.9503307938575745	-0.5071235	Yes	
+row_50	CEP164	CEP164	centrosomal protein 164kDa	10167	-0.9606970548629761	-0.49580368	Yes	
+row_51	FGR	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	10245	-1.0082736015319824	-0.4886537	Yes	
+row_52	RNF138	RNF138	ring finger protein 138	10446	-1.1610163450241089	-0.48932305	Yes	
+row_53	CCDC24	CCDC24	coiled-coil domain containing 24	11241	-2.0622665882110596	-0.52559507	Yes	
+row_54	KIF17	KIF17	kinesin family member 17	11265	-2.1089718341827393	-0.49960026	Yes	
+row_55	SPA17	SPA17	sperm autoantigenic protein 17	11292	-2.1513257026672363	-0.47328633	Yes	
+row_56	CCDC103	CCDC103	coiled-coil domain containing 103	11498	-2.5031702518463135	-0.45664194	Yes	
+row_57	MAPK10	MAPK10	mitogen-activated protein kinase 10	11608	-2.7171645164489746	-0.429497	Yes	
+row_58	STK36	STK36	serine/threonine kinase 36 (fused homolog, Drosophila)	11673	-2.8404438495635986	-0.39712673	Yes	
+row_59	WDR17	WDR17	WD repeat domain 17	11709	-2.927450180053711	-0.3612893	Yes	
+row_60	MDH1B	MDH1B	malate dehydrogenase 1B, NAD (soluble)	11784	-3.082021474838257	-0.32653034	Yes	
+row_61	TEKT4	TEKT4	tektin 4	11809	-3.1353797912597656	-0.28706908	Yes	
+row_62	PDCL2	PDCL2	phosducin-like 2	11884	-3.281085252761841	-0.24968292	Yes	
+row_63	CCDC60	CCDC60	coiled-coil domain containing 60	11886	-3.2839083671569824	-0.20642228	Yes	
+row_64	SMC1B	SMC1B	structural maintenance of chromosomes 1B	12150	-3.7863855361938477	-0.17747998	Yes	
+row_65	BTG4	BTG4	B-cell translocation gene 4	12189	-3.9523894786834717	-0.12835541	Yes	
+row_66	CACNA2D3	CACNA2D3	calcium channel, voltage-dependent, alpha 2/delta 3 subunit	12415	-5.297342777252197	-0.07643314	Yes	
+row_67	KCNK10	KCNK10	potassium channel, subfamily K, member 10	12517	-6.742532253265381	0.0044777906	Yes	

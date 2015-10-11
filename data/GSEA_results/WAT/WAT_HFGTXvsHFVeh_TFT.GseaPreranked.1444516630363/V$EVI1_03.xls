@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FABP2	FABP2	fatty acid binding protein 2, intestinal	12	6.043630599975586	0.13381505	Yes	
+row_1	SPINK4	SPINK4	serine peptidase inhibitor, Kazal type 4	66	4.165923595428467	0.22248486	Yes	
+row_2	ADPRHL1	ADPRHL1	ADP-ribosylhydrolase like 1	163	2.720259189605713	0.27548435	Yes	
+row_3	RSPO2	RSPO2	R-spondin 2 homolog (Xenopus laevis)	274	1.9883477687835693	0.31104484	Yes	
+row_4	SIX1	SIX1	sine oculis homeobox homolog 1 (Drosophila)	424	1.4460774660110474	0.33139992	Yes	
+row_5	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	527	1.2274893522262573	0.3506318	Yes	
+row_6	TMEM47	TMEM47	transmembrane protein 47	825	0.8708134293556213	0.3463459	Yes	
+row_7	HOXA1	HOXA1	homeobox A1	827	0.8689863085746765	0.36564445	Yes	
+row_8	MYCT1	MYCT1	myc target 1	850	0.8466445207595825	0.3827687	Yes	
+row_9	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	897	0.8226136565208435	0.39744148	Yes	
+row_10	ACTC1	ACTC1	actin, alpha, cardiac muscle 1	1008	0.7470893263816833	0.40532193	Yes	
+row_11	CREB5	CREB5	cAMP responsive element binding protein 5	1326	0.5981684327125549	0.39335975	No	
+row_12	HOXA3	HOXA3	homeobox A3	1389	0.5742875933647156	0.40121785	No	
+row_13	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	1532	0.5303001999855042	0.40170982	No	
+row_14	LMO2	LMO2	LIM domain only 2 (rhombotin-like 1)	1746	0.4690144658088684	0.39516827	No	
+row_15	MBNL2	MBNL2	muscleblind-like 2 (Drosophila)	1834	0.44842779636383057	0.39822432	No	
+row_16	NRP1	NRP1	neuropilin 1	2495	0.32792556285858154	0.35285926	No	
+row_17	RAI1	RAI1	retinoic acid induced 1	3051	0.251679390668869	0.31417447	No	
+row_18	FHL3	FHL3	four and a half LIM domains 3	3459	0.19650262594223022	0.28607184	No	
+row_19	NCDN	NCDN	neurochondrin	3743	0.16481439769268036	0.2671596	No	
+row_20	ZFPM1	ZFPM1	zinc finger protein, multitype 1	3933	0.14203235507011414	0.2552419	No	
+row_21	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4641	0.06359705328941345	0.20023105	No	
+row_22	IL7	IL7	interleukin 7	4882	0.041215699166059494	0.18199459	No	
+row_23	RBM39	RBM39	RNA binding motif protein 39	5166	0.012162045575678349	0.1596782	No	
+row_24	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	0.13667363	No	
+row_25	MTMR10	MTMR10	myotubularin related protein 10	5615	-0.036630429327487946	0.12527882	No	
+row_26	ESRRG	ESRRG	estrogen-related receptor gamma	5841	-0.05971889942884445	0.108652204	No	
+row_27	TSC1	TSC1	tuberous sclerosis 1	6425	-0.12548284232616425	0.06491842	No	
+row_28	ADAMTS3	ADAMTS3	ADAM metallopeptidase with thrombospondin type 1 motif, 3	7033	-0.19269324839115143	0.020767875	No	
+row_29	RUNX1T1	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	7212	-0.2144523561000824	0.011343118	No	
+row_30	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	7220	-0.2166452705860138	0.015615599	No	
+row_31	SRPK2	SRPK2	SFRS protein kinase 2	7575	-0.2604694068431854	-0.0068303896	No	
+row_32	SCUBE3	SCUBE3	signal peptide, CUB domain, EGF-like 3	7795	-0.2912648916244507	-0.017814638	No	
+row_33	HS3ST5	HS3ST5	heparan sulfate (glucosamine) 3-O-sulfotransferase 5	8007	-0.3253672420978546	-0.027399885	No	
+row_34	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	8675	-0.4380493462085724	-0.07086789	No	
+row_35	CHCHD7	CHCHD7	coiled-coil-helix-coiled-coil-helix domain containing 7	8744	-0.4514857828617096	-0.066227175	No	
+row_36	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.079746455	No	
+row_37	CACNA1D	CACNA1D	calcium channel, voltage-dependent, L type, alpha 1D subunit	10037	-0.8848705887794495	-0.1377535	No	
+row_38	PLAG1	PLAG1	pleiomorphic adenoma gene 1	10038	-0.8859211206436157	-0.11799749	No	
+row_39	KLF14	KLF14	Kruppel-like factor 14	10622	-1.3003606796264648	-0.13553151	No	
+row_40	CTNNA3	CTNNA3	catenin (cadherin-associated protein), alpha 3	10821	-1.5083158016204834	-0.11769945	No	
+row_41	MSX2	MSX2	msh homeobox homolog 2 (Drosophila)	10967	-1.706506609916687	-0.09121754	No	
+row_42	TSHB	TSHB	thyroid stimulating hormone, beta	11168	-1.9514389038085938	-0.06366346	No	
+row_43	PLAC1	PLAC1	placenta-specific 1	11567	-2.636742353439331	-0.03663047	No	
+row_44	TDRD5	TDRD5	tudor domain containing 5	12403	-5.2396626472473145	0.013568509	No	

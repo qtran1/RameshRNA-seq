@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EPHA3	EPHA3	EPH receptor A3	293	1.9265789985656738	0.07218643	Yes	
+row_1	CALCA	CALCA	calcitonin/calcitonin-related polypeptide, alpha	356	1.644352912902832	0.14881085	Yes	
+row_2	ARHGAP6	ARHGAP6	Rho GTPase activating protein 6	947	0.7902815937995911	0.14092076	Yes	
+row_3	PCDH19	PCDH19	protocadherin 19	969	0.775216281414032	0.17770158	Yes	
+row_4	CEBPA	CEBPA	CCAAT/enhancer binding protein (C/EBP), alpha	1240	0.6338149309158325	0.18759224	Yes	
+row_5	NRIP1	NRIP1	nuclear receptor interacting protein 1	1293	0.6107476353645325	0.21373962	Yes	
+row_6	SLC26A9	SLC26A9	solute carrier family 26, member 9	1305	0.6049463748931885	0.24287187	Yes	
+row_7	CPEB3	CPEB3	cytoplasmic polyadenylation element binding protein 3	1372	0.5772982239723206	0.26624236	Yes	
+row_8	NAV3	NAV3	neuron navigator 3	1455	0.5530255436897278	0.2871316	Yes	
+row_9	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.29939246	Yes	
+row_10	ADNP	ADNP	activity-dependent neuroprotector	1942	0.42295366525650024	0.29451236	No	
+row_11	PDSS2	PDSS2	prenyl (decaprenyl) diphosphate synthase, subunit 2	2383	0.34369605779647827	0.27644116	No	
+row_12	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	2583	0.3159976005554199	0.2762328	No	
+row_13	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	2679	0.3027188181877136	0.28366712	No	
+row_14	MIER1	MIER1	mesoderm induction early response 1 homolog (Xenopus laevis)	3022	0.25470879673957825	0.2690039	No	
+row_15	NFKBIZ	NFKBIZ	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, zeta	3027	0.25426042079925537	0.281298	No	
+row_16	RAI1	RAI1	retinoic acid induced 1	3051	0.251679390668869	0.29194748	No	
+row_17	MLX	MLX	MAX-like protein X	3336	0.21373675763607025	0.27988133	No	
+row_18	ZCCHC2	ZCCHC2	zinc finger, CCHC domain containing 2	3361	0.21081824600696564	0.28842393	No	
+row_19	LIFR	LIFR	leukemia inhibitory factor receptor alpha	3528	0.18921950459480286	0.28456044	No	
+row_20	CNN3	CNN3	calponin 3, acidic	3832	0.15492762625217438	0.2680603	No	
+row_21	VGLL4	VGLL4	vestigial like 4 (Drosophila)	3843	0.1533050686120987	0.27486727	No	
+row_22	TOPORS	TOPORS	topoisomerase I binding, arginine/serine-rich	3928	0.14238958060741425	0.27522597	No	
+row_23	CHMP7	CHMP7	CHMP family, member 7	4344	0.09683389961719513	0.24690393	No	
+row_24	SATB2	SATB2	SATB family member 2	4367	0.09427299350500107	0.24982458	No	
+row_25	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	4525	0.07765430957078934	0.24114494	No	
+row_26	YTHDF3	YTHDF3	YTH domain family, member 3	4999	0.030702875927090645	0.20491262	No	
+row_27	ZFP91	ZFP91	zinc finger protein 91 homolog (mouse)	5067	0.023404736071825027	0.20072567	No	
+row_28	CAB39	CAB39	calcium binding protein 39	5309	-0.0019123664824292064	0.18158363	No	
+row_29	WDR26	WDR26	WD repeat domain 26	5836	-0.05938306450843811	0.14254357	No	
+row_30	PDE4D	PDE4D	phosphodiesterase 4D, cAMP-specific (phosphodiesterase E3 dunce homolog, Drosophila)	5970	-0.07423727959394455	0.13561012	No	
+row_31	FBXW7	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	6502	-0.13462966680526733	0.09990379	No	
+row_32	CPN1	CPN1	carboxypeptidase N, polypeptide 1, 50kD	6565	-0.14253132045269012	0.1020256	No	
+row_33	ACTR3	ACTR3	ARP3 actin-related protein 3 homolog (yeast)	6885	-0.17820681631565094	0.085403144	No	
+row_34	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	6912	-0.18067185580730438	0.092290595	No	
+row_35	NPM1	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	7095	-0.19997690618038177	0.087683626	No	
+row_36	PRPF38A	PRPF38A	PRP38 pre-mRNA processing factor 38 (yeast) domain containing A	7311	-0.2284182459115982	0.08185348	No	
+row_37	YBX1	YBX1	Y box binding protein 1	8133	-0.3378250002861023	0.03307915	No	
+row_38	ZBTB44	ZBTB44	zinc finger and BTB domain containing 44	8484	-0.40360093116760254	0.025163632	No	
+row_39	CD83	CD83	CD83 molecule	8621	-0.4287536144256592	0.03557763	No	
+row_40	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	0.01593394	No	
+row_41	SYNGAP1	SYNGAP1	synaptic Ras GTPase activating protein 1 homolog (rat)	9452	-0.6428745985031128	0.029945822	No	
+row_42	PFN2	PFN2	profilin 2	9694	-0.7255791425704956	0.046703562	No	
+row_43	CREM	CREM	cAMP responsive element modulator	9938	-0.834905207157135	0.068725124	No	
+row_44	FANCI	FANCI	Fanconi anemia, complementation group I	10313	-1.059141755104065	0.09141407	No	
+row_45	NRXN3	NRXN3	neurexin 3	11046	-1.7920867204666138	0.12188709	No	

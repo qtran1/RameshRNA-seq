@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLS2	GLS2	glutaminase 2 (liver, mitochondrial)	367	1.6045434474945068	0.06840139	Yes	
+row_1	MANEAL	MANEAL	mannosidase, endo-alpha-like	404	1.51054048538208	0.15746853	Yes	
+row_2	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	585	1.1500650644302368	0.21311623	Yes	
+row_3	TAL1	TAL1	T-cell acute lymphocytic leukemia 1	755	0.9334238171577454	0.25645524	Yes	
+row_4	NR4A3	NR4A3	nuclear receptor subfamily 4, group A, member 3	770	0.9196876883506775	0.31131476	Yes	
+row_5	MAFG	MAFG	v-maf musculoaponeurotic fibrosarcoma oncogene homolog G (avian)	1369	0.5790941715240479	0.29888836	Yes	
+row_6	RAP2C	RAP2C	RAP2C, member of RAS oncogene family	1417	0.5662797093391418	0.3296074	Yes	
+row_7	LAS1L	LAS1L	LAS1-like (S. cerevisiae)	1498	0.5409083962440491	0.35615152	Yes	
+row_8	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.37755436	Yes	
+row_9	SCARF1	SCARF1	scavenger receptor class F, member 1	2132	0.3883766829967499	0.36021662	No	
+row_10	NUDT17	NUDT17	nudix (nucleoside diphosphate linked moiety X)-type motif 17	2914	0.2690971791744232	0.314334	No	
+row_11	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	3004	0.2569641172885895	0.32287878	No	
+row_12	ARID5A	ARID5A	AT rich interactive domain 5A (MRF1-like)	3314	0.2169615477323532	0.31145057	No	
+row_13	ZFX	ZFX	zinc finger protein, X-linked	3326	0.21509476006031036	0.3236651	No	
+row_14	BTBD7	BTBD7	BTB (POZ) domain containing 7	3524	0.18989117443561554	0.31951785	No	
+row_15	SNX27	SNX27	sorting nexin family member 27	4564	0.07300352305173874	0.24113268	No	
+row_16	MBD5	MBD5	methyl-CpG binding domain protein 5	4661	0.06102154031395912	0.23719361	No	
+row_17	HSPD1	HSPD1	heat shock 60kDa protein 1 (chaperonin)	5270	0.0018743504770100117	0.1888383	No	
+row_18	CDK10	CDK10	cyclin-dependent kinase (CDC2-like) 10	5828	-0.058392927050590515	0.14798862	No	
+row_19	MLLT3	MLLT3	myeloid/lymphoid or mixed-lineage leukemia (trithorax homolog, Drosophila); translocated to, 3	6250	-0.10599731653928757	0.12087814	No	
+row_20	ITSN1	ITSN1	intersectin 1 (SH3 domain protein)	6266	-0.1079331785440445	0.12625155	No	
+row_21	BNC1	BNC1	basonuclin 1	6364	-0.11799004673957825	0.12570009	No	
+row_22	FBXW7	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	6502	-0.13462966680526733	0.12297258	No	
+row_23	IFIT1	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	6866	-0.17505685985088348	0.10468905	No	
+row_24	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	7376	-0.23702646791934967	0.07853818	No	
+row_25	VASP	VASP	vasodilator-stimulated phosphoprotein	8496	-0.40632686018943787	0.014062732	No	
+row_26	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	8700	-0.44269242882728577	0.024823584	No	
+row_27	HOXA4	HOXA4	homeobox A4	10359	-1.1005055904388428	-0.04037035	No	
+row_28	PKNOX2	PKNOX2	PBX/knotted 1 homeobox 2	10650	-1.32985520362854	0.017450895	No	
+row_29	PCDH8	PCDH8	protocadherin 8	11345	-2.2307181358337402	0.09789534	No	

@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	91	3.550311326980591	0.39614356	Yes	
+row_1	ACO2	ACO2	aconitase 2, mitochondrial	1930	0.4265073537826538	0.29825446	Yes	
+row_2	CS	CS	citrate synthase	1937	0.4245659410953522	0.34601626	Yes	
+row_3	ACO1	ACO1	aconitase 1, soluble	2072	0.3995501697063446	0.38074386	Yes	
+row_4	MTHFD2L	MTHFD2L	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like	2374	0.3444463312625885	0.39591324	Yes	
+row_5	MDH2	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	2855	0.2771202623844147	0.3891803	Yes	
+row_6	MTHFD1	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase	3097	0.24639490246772766	0.39798647	Yes	
+row_7	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	3761	0.1628393679857254	0.3636976	No	
+row_8	MDH1	MDH1	malate dehydrogenase 1, NAD (soluble)	5632	-0.03837800398468971	0.21916091	No	
+row_9	AFMID	AFMID	arylformamidase	7295	-0.22626017034053802	0.11253341	No	
+row_10	MTHFD1L	MTHFD1L	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like	7632	-0.2678692042827606	0.11621522	No	
+row_11	MTHFD2	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	7802	-0.29198044538497925	0.1359338	No	
+row_12	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	8337	-0.3738337457180023	0.1358898	No	
+row_13	GLYCTK	GLYCTK	-	8500	-0.4073517620563507	0.16927433	No	
+row_14	PGP	PGP	phosphoglycolate phosphatase	10697	-1.3637936115264893	0.14937504	No	

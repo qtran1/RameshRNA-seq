@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.21972921	Yes	
+row_1	TRIB3	TRIB3	tribbles homolog 3 (Drosophila)	659	1.0381027460098267	0.3458497	Yes	
+row_2	MAP3K8	MAP3K8	mitogen-activated protein kinase kinase kinase 8	1002	0.7513068914413452	0.4282762	Yes	
+row_3	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	1251	0.6303109526634216	0.50052804	Yes	
+row_4	CD86	CD86	CD86 molecule	1307	0.6041125655174255	0.5843269	Yes	
+row_5	RICTOR	RICTOR	-	2885	0.2725120484828949	0.49850684	No	
+row_6	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	0.48070446	No	
+row_7	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.48219845	No	
+row_8	CD80	CD80	CD80 molecule	4317	0.09908351302146912	0.45166278	No	
+row_9	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	4406	0.0899149477481842	0.4577786	No	
+row_10	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.46526766	No	
+row_11	FYN	FYN	FYN oncogene related to SRC, FGR, YES	4585	0.0703200101852417	0.46621364	No	
+row_12	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	4799	0.04900802671909332	0.4564031	No	
+row_13	THEM4	THEM4	thioesterase superfamily member 4	5467	-0.021040532737970352	0.40635228	No	
+row_14	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	6037	-0.08222053200006485	0.37303662	No	
+row_15	MAPKAP1	MAPKAP1	mitogen-activated protein kinase associated protein 1	6725	-0.15980802476406097	0.3416481	No	
+row_16	LCK	LCK	lymphocyte-specific protein tyrosine kinase	8473	-0.40201088786125183	0.26119095	No	
+row_17	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	8724	-0.4471385180950165	0.30654672	No	

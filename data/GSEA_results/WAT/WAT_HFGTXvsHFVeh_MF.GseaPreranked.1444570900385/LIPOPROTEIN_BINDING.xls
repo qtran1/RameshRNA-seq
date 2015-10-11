@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOA4	APOA4	apolipoprotein A-IV	96	3.4553451538085938	0.31594947	Yes	
+row_1	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	532	1.2188057899475098	0.3954517	Yes	
+row_2	LRP1	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	1284	0.6179372668266296	0.39351916	Yes	
+row_3	TLR6	TLR6	toll-like receptor 6	2012	0.4091279208660126	0.3739427	Yes	
+row_4	STAB1	STAB1	stabilin 1	2020	0.408197820186615	0.41161314	Yes	
+row_5	CXCL16	CXCL16	chemokine (C-X-C motif) ligand 16	2115	0.39022234082221985	0.44067228	Yes	
+row_6	SCARF1	SCARF1	scavenger receptor class F, member 1	2132	0.3883766829967499	0.4757698	Yes	
+row_7	LRP6	LRP6	low density lipoprotein receptor-related protein 6	2401	0.3405549228191376	0.48632187	Yes	
+row_8	CDH13	CDH13	cadherin 13, H-cadherin (heart)	3467	0.19567525386810303	0.4198404	No	
+row_9	STAB2	STAB2	stabilin 2	3997	0.13432873785495758	0.39029577	No	
+row_10	COLEC12	COLEC12	collectin sub-family member 12	4377	0.09328058362007141	0.36885157	No	
+row_11	ANKRA2	ANKRA2	ankyrin repeat, family A (RFXANK-like), 2	7105	-0.2013634890317917	0.17055689	No	
+row_12	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	8176	-0.34514912962913513	0.11767554	No	
+row_13	MAPT	MAPT	microtubule-associated protein tau	9255	-0.5844261646270752	0.08656551	No	
+row_14	VLDLR	VLDLR	very low density lipoprotein receptor	9665	-0.714789092540741	0.12093682	No	
+row_15	SORL1	SORL1	sortilin-related receptor, L(DLR class) A repeats-containing	10476	-1.180445909500122	0.16698517	No	

@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ADAMTSL1	ADAMTSL1	ADAMTS-like 1	459	1.3506488800048828	0.13107681	Yes	
+row_1	ATG9B	ATG9B	ATG9 autophagy related 9 homolog B (S. cerevisiae)	523	1.236523985862732	0.27952796	Yes	
+row_2	ACHE	ACHE	acetylcholinesterase (Yt blood group)	1564	0.520128607749939	0.26125374	No	
+row_3	ING4	ING4	inhibitor of growth family, member 4	5391	-0.01178977731615305	-0.04199788	No	
+row_4	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	5405	-0.013301701284945011	-0.041382328	No	
+row_5	SMARCA1	SMARCA1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 1	5580	-0.03350662440061569	-0.051081635	No	
+row_6	CCND1	CCND1	cyclin D1	6194	-0.0997057631611824	-0.08752814	No	
+row_7	FANCA	FANCA	Fanconi anemia, complementation group A	6509	-0.1360180824995041	-0.095654495	No	
+row_8	LRCH4	LRCH4	leucine-rich repeats and calponin homology (CH) domain containing 4	6658	-0.15310993790626526	-0.088438764	No	
+row_9	AP3D1	AP3D1	adaptor-related protein complex 3, delta 1 subunit	7320	-0.22997377812862396	-0.112540185	No	
+row_10	CCND2	CCND2	cyclin D2	7404	-0.2401689738035202	-0.08934249	No	
+row_11	HS6ST2	HS6ST2	heparan sulfate 6-O-sulfotransferase 2	7573	-0.26033997535705566	-0.07041098	No	
+row_12	ANKZF1	ANKZF1	ankyrin repeat and zinc finger domain containing 1	7943	-0.3151506185531616	-0.060685042	No	
+row_13	PPFIA3	PPFIA3	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 3	8390	-0.38378238677978516	-0.04857354	No	
+row_14	CHPF	CHPF	-	8392	-0.3839855492115021	-9.955947E-4	No	
+row_15	CCDC106	CCDC106	coiled-coil domain containing 106	8608	-0.4271630346775055	0.034897592	No	
+row_16	BSN	BSN	bassoon (presynaptic cytomatrix protein)	10364	-1.1048879623413086	0.032254707	No	
+row_17	USP2	USP2	ubiquitin specific peptidase 2	10441	-1.1569892168045044	0.1697992	No	

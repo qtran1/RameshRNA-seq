@@ -1,0 +1,136 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	361	1.6206518411636353	-0.015472264	No	
+row_1	FOXC1	FOXC1	forkhead box C1	521	1.2379393577575684	-0.017904924	No	
+row_2	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	570	1.1684883832931519	-0.011994679	No	
+row_3	AKAP8	AKAP8	A kinase (PRKA) anchor protein 8	1303	0.6053823828697205	-0.065780595	No	
+row_4	ASNS	ASNS	asparagine synthetase	1404	0.5701937675476074	-0.069052756	No	
+row_5	PCBP4	PCBP4	poly(rC) binding protein 4	1597	0.51139897108078	-0.080212556	No	
+row_6	CDKN2C	CDKN2C	cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)	1679	0.4895930290222168	-0.082631126	No	
+row_7	CDC23	CDC23	CDC23 (cell division cycle 23, yeast, homolog)	1851	0.44380223751068115	-0.092667826	No	
+row_8	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	1853	0.4428751766681671	-0.08904559	No	
+row_9	CDC25B	CDC25B	cell division cycle 25B	1914	0.43131810426712036	-0.09026312	No	
+row_10	NBN	NBN	nibrin	2136	0.3880421817302704	-0.10478562	No	
+row_11	NOLC1	NOLC1	nucleolar and coiled-body phosphoprotein 1	2161	0.3835267424583435	-0.103508584	No	
+row_12	TBRG4	TBRG4	transforming growth factor beta regulator 4	2346	0.3496911823749542	-0.115377195	No	
+row_13	ACVR1	ACVR1	activin A receptor, type I	2570	0.318439781665802	-0.13064238	No	
+row_14	CDKN1C	CDKN1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	2643	0.3088418245315552	-0.13384858	No	
+row_15	ANAPC5	ANAPC5	anaphase promoting complex subunit 5	2862	0.2765832543373108	-0.14906174	No	
+row_16	TARDBP	TARDBP	TAR DNA binding protein	2993	0.25778982043266296	-0.15735751	No	
+row_17	NUMA1	NUMA1	nuclear mitotic apparatus protein 1	3104	0.2454601228237152	-0.16414851	No	
+row_18	TTN	TTN	titin	3115	0.24387218058109283	-0.16291356	No	
+row_19	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.16406277	No	
+row_20	CUL2	CUL2	cullin 2	3163	0.23704032599925995	-0.16264375	No	
+row_21	ABL1	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	3176	0.23577813804149628	-0.16163725	No	
+row_22	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	3312	0.2170652151107788	-0.17067546	No	
+row_23	CUL5	CUL5	cullin 5	3449	0.1979493498802185	-0.17995386	No	
+row_24	DCTN3	DCTN3	dynactin 3 (p22)	3539	0.18804624676704407	-0.18553664	No	
+row_25	APBB2	APBB2	amyloid beta (A4) precursor protein-binding, family B, member 2 (Fe65-like)	3563	0.18572306632995605	-0.18583293	No	
+row_26	TAF1	TAF1	TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa	3645	0.17614051699638367	-0.19087209	No	
+row_27	PPP5C	PPP5C	protein phosphatase 5, catalytic subunit	3683	0.1709916591644287	-0.19241704	No	
+row_28	LATS2	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	3736	0.1658667027950287	-0.19521073	No	
+row_29	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6	3756	0.16328968107700348	-0.19537301	No	
+row_30	CDK2AP1	CDK2AP1	CDK2-associated protein 1	3979	0.1357252150774002	-0.21208538	No	
+row_31	PML	PML	promyelocytic leukemia	4020	0.1314111351966858	-0.21420242	No	
+row_32	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	4034	0.1296258270740509	-0.2141638	No	
+row_33	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.2134048	No	
+row_34	CEP250	CEP250	centrosomal protein 250kDa	4378	0.09327416121959686	-0.23979759	No	
+row_35	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.2515362	No	
+row_36	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.25113693	No	
+row_37	ANAPC11	ANAPC11	APC11 anaphase promoting complex subunit 11 homolog (yeast)	4583	0.07048532366752625	-0.2541653	No	
+row_38	KHDRBS1	KHDRBS1	KH domain containing, RNA binding, signal transduction associated 1	4707	0.057163555175065994	-0.26357564	No	
+row_39	CUL1	CUL1	cullin 1	4739	0.053672146052122116	-0.26561907	No	
+row_40	GSPT1	GSPT1	G1 to S phase transition 1	4919	0.03794107213616371	-0.2796921	No	
+row_41	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	4996	0.030936352908611298	-0.2855433	No	
+row_42	ANAPC4	ANAPC4	anaphase promoting complex subunit 4	5269	0.0019151532324030995	-0.30739397	No	
+row_43	CDK2	CDK2	cyclin-dependent kinase 2	5434	-0.017408693209290504	-0.32043278	No	
+row_44	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	5470	-0.02123013511300087	-0.323069	No	
+row_45	DLG1	DLG1	discs, large homolog 1 (Drosophila)	5585	-0.03397412970662117	-0.3319497	No	
+row_46	RINT1	RINT1	RAD50 interactor 1	5602	-0.035685088485479355	-0.33293763	No	
+row_47	CDK10	CDK10	cyclin-dependent kinase (CDC2-like) 10	5828	-0.058392927050590515	-0.35053772	No	
+row_48	SSSCA1	SSSCA1	Sjogren's syndrome/scleroderma autoantigen 1	5845	-0.06011399254202843	-0.3513214	No	
+row_49	PPP6C	PPP6C	protein phosphatase 6, catalytic subunit	5928	-0.06933438032865524	-0.3573339	No	
+row_50	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	5956	-0.07244228571653366	-0.35889885	No	
+row_51	GFI1B	GFI1B	growth factor independent 1B (potential regulator of CDKN1A, translocated in CML)	6012	-0.07969796657562256	-0.36265412	No	
+row_52	ACVR1B	ACVR1B	activin A receptor, type IB	6059	-0.08437243849039078	-0.36564678	No	
+row_53	CDK4	CDK4	cyclin-dependent kinase 4	6091	-0.08807255327701569	-0.3674026	No	
+row_54	PIN1	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	6136	-0.09277794510126114	-0.37016422	No	
+row_55	APBB1	APBB1	amyloid beta (A4) precursor protein-binding, family B, member 1 (Fe65)	6212	-0.10123883932828903	-0.37534723	No	
+row_56	PRMT5	PRMT5	protein arginine methyltransferase 5	6258	-0.10711850970983505	-0.37806934	No	
+row_57	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	-0.38401154	No	
+row_58	SPHK1	SPHK1	sphingosine kinase 1	6612	-0.14656636118888855	-0.4041705	No	
+row_59	CDC16	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	6633	-0.14987698197364807	-0.40452534	No	
+row_60	TGFA	TGFA	transforming growth factor, alpha	6726	-0.15982064604759216	-0.41058525	No	
+row_61	MPHOSPH6	MPHOSPH6	M-phase phosphoprotein 6	6843	-0.17285308241844177	-0.41846564	No	
+row_62	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.4258357	No	
+row_63	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	7032	-0.19266651570796967	-0.43033472	No	
+row_64	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	7059	-0.1964007169008255	-0.43078294	No	
+row_65	CUL4A	CUL4A	cullin 4A	7084	-0.19896666705608368	-0.4310489	No	
+row_66	EGF	EGF	epidermal growth factor (beta-urogastrone)	7200	-0.2127222865819931	-0.43851557	No	
+row_67	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	7376	-0.23702646791934967	-0.45060256	No	
+row_68	CDC27	CDC27	cell division cycle 27	7481	-0.24842962622642517	-0.45688638	No	
+row_69	DCTN2	DCTN2	dynactin 2 (p50)	7560	-0.2576027512550354	-0.46100333	No	
+row_70	RAD17	RAD17	RAD17 homolog (S. pombe)	7696	-0.27693405747413635	-0.46954098	No	
+row_71	CHFR	CHFR	checkpoint with forkhead and ring finger domains	7856	-0.30035334825515747	-0.4798123	No	
+row_72	CDKN2D	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	8078	-0.3288925886154175	-0.4948293	No	
+row_73	ANAPC10	ANAPC10	anaphase promoting complex subunit 10	8179	-0.345455527305603	-0.49998036	No	
+row_74	ANLN	ANLN	anillin, actin binding protein	8228	-0.3537788689136505	-0.50088143	No	
+row_75	RAN	RAN	RAN, member RAS oncogene family	8264	-0.3596470355987549	-0.5006884	No	
+row_76	CUL3	CUL3	cullin 3	8378	-0.3806596100330353	-0.50659025	No	
+row_77	E2F1	E2F1	E2F transcription factor 1	8463	-0.40026965737342834	-0.5099968	No	
+row_78	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.5102697	No	
+row_79	GFI1	GFI1	growth factor independent 1	8521	-0.4110816717147827	-0.50763685	No	
+row_80	PKMYT1	PKMYT1	protein kinase, membrane associated tyrosine/threonine 1	8551	-0.4173073172569275	-0.5064793	No	
+row_81	POLA1	POLA1	polymerase (DNA directed), alpha 1	8567	-0.42000526189804077	-0.5041738	No	
+row_82	EREG	EREG	epiregulin	8592	-0.4246976673603058	-0.50255257	No	
+row_83	FBXO5	FBXO5	F-box protein 5	8615	-0.4281422793865204	-0.5007417	No	
+row_84	MAD2L1	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	9397	-0.6283644437789917	-0.55827475	No	
+row_85	CDK6	CDK6	cyclin-dependent kinase 6	9526	-0.6661975979804993	-0.56299525	No	
+row_86	SUGT1	SUGT1	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)	9541	-0.6725130081176758	-0.5584982	No	
+row_87	CDC6	CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	9559	-0.6800215840339661	-0.5541796	No	
+row_88	BTG3	BTG3	BTG family, member 3	9569	-0.6834890246391296	-0.54918885	No	
+row_89	CIT	CIT	citron (rho-interacting, serine/threonine kinase 21)	10317	-1.0606110095977783	-0.60037476	Yes	
+row_90	BRSK1	BRSK1	BR serine/threonine kinase 1	10344	-1.0873475074768066	-0.59337425	Yes	
+row_91	MPHOSPH9	MPHOSPH9	M-phase phosphoprotein 9	10356	-1.0952972173690796	-0.5851014	Yes	
+row_92	POLE	POLE	polymerase (DNA directed), epsilon	10371	-1.107898473739624	-0.5769644	Yes	
+row_93	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	10414	-1.1359782218933105	-0.5708436	Yes	
+row_94	KIF23	KIF23	kinesin family member 23	10420	-1.1424405574798584	-0.5616942	Yes	
+row_95	BCAT1	BCAT1	branched chain aminotransferase 1, cytosolic	10435	-1.1532617807388306	-0.55317795	Yes	
+row_96	MAD2L2	MAD2L2	MAD2 mitotic arrest deficient-like 2 (yeast)	10436	-1.1533477306365967	-0.5435355	Yes	
+row_97	CDKN1A	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	10500	-1.2013955116271973	-0.538556	Yes	
+row_98	RCC1	RCC1	regulator of chromosome condensation 1	10527	-1.2225804328918457	-0.5304249	Yes	
+row_99	CCNA2	CCNA2	cyclin A2	10629	-1.3052433729171753	-0.52763206	Yes	
+row_100	BUB1B	BUB1B	BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	10636	-1.3130290508270264	-0.51713693	Yes	
+row_101	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	10740	-1.4173277616500854	-0.51356786	Yes	
+row_102	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	10749	-1.427571177482605	-0.5022759	Yes	
+row_103	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	10753	-1.4343459606170654	-0.49052528	Yes	
+row_104	AURKA	AURKA	aurora kinase A	10762	-1.4459120035171509	-0.47907996	Yes	
+row_105	KIF22	KIF22	kinesin family member 22	10776	-1.4585503339767456	-0.46793094	Yes	
+row_106	SMC4	SMC4	structural maintenance of chromosomes 4	10803	-1.4876633882522583	-0.45758364	Yes	
+row_107	NCAPH	NCAPH	non-SMC condensin I complex, subunit H	10817	-1.5034481287002563	-0.44605923	Yes	
+row_108	KPNA2	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	10847	-1.5459915399551392	-0.43546546	Yes	
+row_109	PRC1	PRC1	protein regulator of cytokinesis 1	10930	-1.6631022691726685	-0.42815334	Yes	
+row_110	CDC7	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	10962	-1.7045753002166748	-0.4163945	Yes	
+row_111	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	-0.40629697	Yes	
+row_112	SKP2	SKP2	S-phase kinase-associated protein 2 (p45)	11140	-1.9084792137145996	-0.39982754	Yes	
+row_113	DBF4	DBF4	DBF4 homolog (S. cerevisiae)	11160	-1.9392759799957275	-0.3851418	Yes	
+row_114	KIF2C	KIF2C	kinesin family member 2C	11198	-1.9976617097854614	-0.37141496	Yes	
+row_115	UBE2C	UBE2C	ubiquitin-conjugating enzyme E2C	11210	-2.013339042663574	-0.35546687	Yes	
+row_116	KNTC1	KNTC1	kinetochore associated 1	11211	-2.0195915699005127	-0.33858222	Yes	
+row_117	STMN1	STMN1	stathmin 1/oncoprotein 18	11269	-2.1161890029907227	-0.3254723	Yes	
+row_118	TPX2	TPX2	TPX2, microtubule-associated, homolog (Xenopus laevis)	11314	-2.1869397163391113	-0.31072578	Yes	
+row_119	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	11379	-2.3037524223327637	-0.2966105	Yes	
+row_120	CDCA5	CDCA5	cell division cycle associated 5	11439	-2.4014649391174316	-0.28127635	Yes	
+row_121	TPD52L1	TPD52L1	tumor protein D52-like 1	11468	-2.457331418991089	-0.26298296	Yes	
+row_122	PLK1	PLK1	polo-like kinase 1 (Drosophila)	11486	-2.4804937839508057	-0.2436116	Yes	
+row_123	CDKN3	CDKN3	cyclin-dependent kinase inhibitor 3 (CDK2-associated dual specificity phosphatase)	11537	-2.570077896118164	-0.22614424	Yes	
+row_124	CDC25C	CDC25C	cell division cycle 25C	11562	-2.6245317459106445	-0.20613143	Yes	
+row_125	KIF11	KIF11	kinesin family member 11	11615	-2.7345051765441895	-0.18745016	Yes	
+row_126	USH1C	USH1C	Usher syndrome 1C (autosomal recessive, severe)	11616	-2.734893321990967	-0.16458525	Yes	
+row_127	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.14567634	Yes	
+row_128	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.12196603	Yes	
+row_129	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	-0.09839556	Yes	
+row_130	KIF15	KIF15	kinesin family member 15	11705	-2.919687509536743	-0.07511119	Yes	
+row_131	TTK	TTK	TTK protein kinase	11721	-2.9544851779937744	-0.051616278	Yes	
+row_132	CETN1	CETN1	centrin, EF-hand protein, 1	12000	-3.4148449897766113	-0.045415733	Yes	
+row_133	SPDYA	SPDYA	speedy homolog A (Drosophila)	12064	-3.555925130844116	-0.020751353	Yes	
+row_134	GML	GML	GPI anchored molecule like protein	12539	-7.366940021514893	0.0027335465	Yes	

@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	1040	0.7283202409744263	-0.06439121	No	
+row_1	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2722	0.2966901957988739	-0.19091235	No	
+row_2	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	2766	0.2911204993724823	-0.1869222	No	
+row_3	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3126	0.24182124435901642	-0.20939396	No	
+row_4	CACNB4	CACNB4	calcium channel, voltage-dependent, beta 4 subunit	3613	0.17960186302661896	-0.24358156	No	
+row_5	COL1A2	COL1A2	collagen, type I, alpha 2	3778	0.16120651364326477	-0.25255406	No	
+row_6	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	4069	0.1258922666311264	-0.27247688	No	
+row_7	CACNB3	CACNB3	calcium channel, voltage-dependent, beta 3 subunit	5942	-0.07083818316459656	-0.41998938	No	
+row_8	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6282	-0.11040803045034409	-0.4442153	No	
+row_9	COL1A1	COL1A1	collagen, type I, alpha 1	6327	-0.11424858123064041	-0.44481298	No	
+row_10	ARTN	ARTN	artemin	6652	-0.15268854796886444	-0.46676478	No	
+row_11	CACNA1S	CACNA1S	calcium channel, voltage-dependent, L type, alpha 1S subunit	7006	-0.18982024490833282	-0.49008334	No	
+row_12	NCAM1	NCAM1	neural cell adhesion molecule 1	7360	-0.23505418002605438	-0.512249	No	
+row_13	COL5A2	COL5A2	collagen, type V, alpha 2	7461	-0.2461135983467102	-0.5139525	No	
+row_14	COL6A3	COL6A3	collagen, type VI, alpha 3	7644	-0.26923009753227234	-0.52160746	No	
+row_15	GFRA4	GFRA4	GDNF family receptor alpha 4	7724	-0.28169143199920654	-0.5207291	No	
+row_16	COL5A1	COL5A1	collagen, type V, alpha 1	8452	-0.39803972840309143	-0.56857234	No	
+row_17	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	8508	-0.4086896479129791	-0.5625428	No	
+row_18	COL4A4	COL4A4	collagen, type IV, alpha 4	9647	-0.7086961269378662	-0.63525105	Yes	
+row_19	CNTN2	CNTN2	contactin 2 (axonal)	9693	-0.7252165079116821	-0.62035626	Yes	
+row_20	COL6A1	COL6A1	collagen, type VI, alpha 1	9751	-0.7493711709976196	-0.605803	Yes	
+row_21	COL4A1	COL4A1	collagen, type IV, alpha 1	9753	-0.7505021095275879	-0.58675414	Yes	
+row_22	COL4A2	COL4A2	collagen, type IV, alpha 2	9797	-0.7679057717323303	-0.57061183	Yes	
+row_23	GFRA2	GFRA2	GDNF family receptor alpha 2	9979	-0.8540986180305481	-0.56328005	Yes	
+row_24	COL6A2	COL6A2	collagen, type VI, alpha 2	10171	-0.9646598100662231	-0.55392796	Yes	
+row_25	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	10827	-1.5147316455841064	-0.56756616	Yes	
+row_26	NRTN	NRTN	neurturin	10993	-1.7321330308914185	-0.536579	Yes	
+row_27	GFRA1	GFRA1	GDNF family receptor alpha 1	11088	-1.841956377029419	-0.4971295	Yes	
+row_28	COL9A1	COL9A1	collagen, type IX, alpha 1	11181	-1.9643992185592651	-0.45439968	Yes	
+row_29	CACNA1I	CACNA1I	calcium channel, voltage-dependent, alpha 1I subunit	11293	-2.1516871452331543	-0.40841177	Yes	
+row_30	PSPN	PSPN	persephin	11335	-2.2133948802948	-0.35526764	Yes	
+row_31	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	11372	-2.293867349624634	-0.29967362	Yes	
+row_32	GDNF	GDNF	glial cell derived neurotrophic factor	11376	-2.3013877868652344	-0.2412557	Yes	
+row_33	ST8SIA2	ST8SIA2	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	11377	-2.3024325370788574	-0.18257186	Yes	
+row_34	COL9A3	COL9A3	collagen, type IX, alpha 3	11545	-2.5805070400238037	-0.13012111	Yes	
+row_35	COL2A1	COL2A1	collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	11892	-3.305922746658325	-0.07345887	Yes	
+row_36	COL9A2	COL9A2	collagen, type IX, alpha 2	12384	-5.010183811187744	0.015075387	Yes	

@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC1A3	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3	270	2.005958318710327	0.032580514	No	
+row_1	SLC38A3	SLC38A3	solute carrier family 38, member 3	519	1.2403972148895264	0.04626715	No	
+row_2	SLC7A2	SLC7A2	solute carrier family 7 (cationic amino acid transporter, y+ system), member 2	863	0.8366790413856506	0.041493256	No	
+row_3	SLC43A1	SLC43A1	solute carrier family 43, member 1	1010	0.7465751767158508	0.049991444	No	
+row_4	SLC1A6	SLC1A6	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	1079	0.7061032056808472	0.06361521	No	
+row_5	SLC3A1	SLC3A1	 1	2566	0.3190896511077881	-0.046222974	No	
+row_6	SLC25A22	SLC25A22	solute carrier family 25 (mitochondrial carrier: glutamate), member 22	2928	0.267228901386261	-0.06778984	No	
+row_7	CTNS	CTNS	cystinosis, nephropathic	3103	0.24546721577644348	-0.07503848	No	
+row_8	SLC1A5	SLC1A5	solute carrier family 1 (neutral amino acid transporter), member 5	3374	0.20823462307453156	-0.09094313	No	
+row_9	SLC7A6	SLC7A6	solute carrier family 7 (cationic amino acid transporter, y+ system), member 6	3850	0.15249888598918915	-0.12469086	No	
+row_10	SLC6A9	SLC6A9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9	4000	0.13332661986351013	-0.13297129	No	
+row_11	SERINC1	SERINC1	serine incorporator 1	4184	0.1135425791144371	-0.14449534	No	
+row_12	SLC25A15	SLC25A15	solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15	4255	0.10610681772232056	-0.14721307	No	
+row_13	SLC1A4	SLC1A4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	4441	0.08683610707521439	-0.15961681	No	
+row_14	SLC25A12	SLC25A12	solute carrier family 25 (mitochondrial carrier, Aralar), member 12	5992	-0.07688398659229279	-0.2810886	No	
+row_15	SLC7A10	SLC7A10	solute carrier family 7, (neutral amino acid transporter, y+ system) member 10	6075	-0.08613254874944687	-0.2853015	No	
+row_16	SLC1A2	SLC1A2	solute carrier family 1 (glial high affinity glutamate transporter), member 2	6967	-0.18657107651233673	-0.3512883	No	
+row_17	SLC7A4	SLC7A4	solute carrier family 7 (cationic amino acid transporter, y+ system), member 4	7876	-0.3032665252685547	-0.41548276	No	
+row_18	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	8185	-0.3463967740535736	-0.43069	No	
+row_19	SLC1A1	SLC1A1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	9686	-0.7215397357940674	-0.53078985	No	
+row_20	SLC25A13	SLC25A13	solute carrier family 25, member 13 (citrin)	10174	-0.9678324460983276	-0.5435043	Yes	
+row_21	SLC1A7	SLC1A7	solute carrier family 1 (glutamate transporter), member 7	10456	-1.1685380935668945	-0.53438604	Yes	
+row_22	SLC7A11	SLC7A11	solute carrier family 7, (cationic amino acid transporter, y+ system) member 11	10856	-1.5576496124267578	-0.5241787	Yes	
+row_23	SLC7A5	SLC7A5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	11849	-3.2076950073242188	-0.5167352	Yes	
+row_24	SLC6A5	SLC6A5	solute carrier family 6 (neurotransmitter transporter, glycine), member 5	11934	-3.4007022380828857	-0.43171257	Yes	
+row_25	SLC7A9	SLC7A9	solute carrier family 7 (cationic amino acid transporter, y+ system), member 9	12438	-5.473818302154541	-0.32417443	Yes	
+row_26	SLC6A14	SLC6A14	solute carrier family 6 (amino acid transporter), member 14	12487	-6.183801651000977	-0.16122131	Yes	
+row_27	OCA2	OCA2	oculocutaneous albinism II (pink-eye dilution homolog, mouse)	12490	-6.228938102722168	0.00661567	Yes	

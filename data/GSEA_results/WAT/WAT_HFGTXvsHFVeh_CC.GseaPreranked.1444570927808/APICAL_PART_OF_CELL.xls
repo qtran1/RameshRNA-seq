@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AQP2	AQP2	aquaporin 2 (collecting duct)	675	1.019039511680603	-0.004058706	No	
+row_1	AKAP7	AKAP7	A kinase (PRKA) anchor protein 7	3883	0.1483108401298523	-0.25220162	No	
+row_2	ATP8B1	ATP8B1	ATPase, Class I, type 8B, member 1	5468	-0.02113804966211319	-0.3773056	No	
+row_3	SLC30A5	SLC30A5	solute carrier family 30 (zinc transporter), member 5	5497	-0.023901572450995445	-0.37836972	No	
+row_4	STX3	STX3	syntaxin 3	7265	-0.22220060229301453	-0.5082416	No	
+row_5	PKHD1	PKHD1	polycystic kidney and hepatic disease 1 (autosomal recessive)	7860	-0.3007543087005615	-0.54087627	No	
+row_6	TCHP	TCHP	trichoplein, keratin filament binding	9144	-0.5525472164154053	-0.6160981	No	
+row_7	ATP6V0A4	ATP6V0A4	ATPase, H+ transporting, lysosomal V0 subunit a4	9636	-0.7048895359039307	-0.62082386	Yes	
+row_8	SHROOM3	SHROOM3	shroom family member 3	9766	-0.7546667456626892	-0.59429604	Yes	
+row_9	SHROOM2	SHROOM2	shroom family member 2	9817	-0.7741992473602295	-0.56052494	Yes	
+row_10	MAL	MAL	mal, T-cell differentiation protein	9980	-0.854423463344574	-0.53176045	Yes	
+row_11	PDZD3	PDZD3	PDZ domain containing 3	11051	-1.7993180751800537	-0.5292241	Yes	
+row_12	SLC34A3	SLC34A3	solute carrier family 34 (sodium phosphate), member 3	11333	-2.2124547958374023	-0.44371334	Yes	
+row_13	USH1C	USH1C	Usher syndrome 1C (autosomal recessive, severe)	11616	-2.734893321990967	-0.3328063	Yes	
+row_14	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	11810	-3.1379194259643555	-0.19515917	Yes	
+row_15	RHCG	RHCG	Rh family, C glycoprotein	12404	-5.246500015258789	0.013457441	Yes	

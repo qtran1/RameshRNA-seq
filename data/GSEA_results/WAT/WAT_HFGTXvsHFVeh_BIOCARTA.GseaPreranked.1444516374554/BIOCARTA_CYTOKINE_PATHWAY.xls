@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	279	1.968059778213501	0.077295795	No	
+row_1	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	595	1.1334218978881836	0.10952238	No	
+row_2	IFNG	IFNG	interferon, gamma	646	1.0525017976760864	0.15875942	No	
+row_3	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	1723	0.47544312477111816	0.09711722	No	
+row_4	IL16	IL16	interleukin 16 (lymphocyte chemoattractant factor)	4216	0.11028532683849335	-0.09574558	No	
+row_5	IL15	IL15	interleukin 15	4741	0.05354108661413193	-0.13476473	No	
+row_6	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	5126	0.016419872641563416	-0.16451259	No	
+row_7	IL3	IL3	interleukin 3 (colony-stimulating factor, multiple)	8013	-0.3253672420978546	-0.37787443	No	
+row_8	IL13	IL13	interleukin 13	8385	-0.383012592792511	-0.38805076	No	
+row_9	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.41516596	No	
+row_10	IL2	IL2	interleukin 2	9394	-0.6268929839134216	-0.40982553	No	
+row_11	LTA	LTA	lymphotoxin alpha (TNF superfamily, member 1)	10280	-1.031394124031067	-0.42814726	Yes	
+row_12	IL10	IL10	interleukin 10	11229	-2.048031806945801	-0.4000806	Yes	
+row_13	IL1A	IL1A	interleukin 1, alpha	11733	-2.975435733795166	-0.2896852	Yes	
+row_14	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	11955	-3.400723457336426	-0.1353298	Yes	
+row_15	IL6	IL6	interleukin 6 (interferon, beta 2)	12106	-3.6480953693389893	0.03718744	Yes	

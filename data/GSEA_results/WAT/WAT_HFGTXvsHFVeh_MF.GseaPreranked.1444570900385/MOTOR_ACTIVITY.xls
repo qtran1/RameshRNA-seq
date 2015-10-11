@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	1109	0.6895479559898376	-0.06470236	No	
+row_1	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1339	0.5910288095474243	-0.06266163	No	
+row_2	KIF5B	KIF5B	kinesin family member 5B	2496	0.32787224650382996	-0.14352514	No	
+row_3	KIF1B	KIF1B	kinesin family member 1B	2595	0.3151375949382782	-0.14051628	No	
+row_4	GRIN1	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	3178	0.23548345267772675	-0.17881067	No	
+row_5	MYH2	MYH2	myosin, heavy chain 2, skeletal muscle, adult	3234	0.2286473661661148	-0.17534433	No	
+row_6	MYH9	MYH9	myosin, heavy chain 9, non-muscle	3970	0.13664259016513824	-0.229224	No	
+row_7	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	4002	0.13329477608203888	-0.22711849	No	
+row_8	MYO9B	MYO9B	myosin IXB	4866	0.04217878729104996	-0.29444098	No	
+row_9	MYH10	MYH10	myosin, heavy chain 10, non-muscle	5377	-0.009995508939027786	-0.33473852	No	
+row_10	KIF5C	KIF5C	kinesin family member 5C	7904	-0.3091478645801544	-0.52541685	No	
+row_11	MYO6	MYO6	myosin VI	8188	-0.3466821014881134	-0.53606737	No	
+row_12	BBS4	BBS4	Bardet-Biedl syndrome 4	8338	-0.37388235330581665	-0.53510594	No	
+row_13	KIF3B	KIF3B	kinesin family member 3B	8677	-0.4383038878440857	-0.546994	No	
+row_14	KIFC3	KIFC3	kinesin family member C3	8991	-0.5108067989349365	-0.5544009	No	
+row_15	MYO1E	MYO1E	myosin IE	9312	-0.6021935939788818	-0.55922854	No	
+row_16	KIF23	KIF23	kinesin family member 23	10420	-1.1424405574798584	-0.60822433	Yes	
+row_17	KIF22	KIF22	kinesin family member 22	10776	-1.4585503339767456	-0.5864434	Yes	
+row_18	KIF2C	KIF2C	kinesin family member 2C	11198	-1.9976617097854614	-0.55141497	Yes	
+row_19	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	11603	-2.7065491676330566	-0.49069673	Yes	
+row_20	KIF11	KIF11	kinesin family member 11	11615	-2.7345051765441895	-0.39770156	Yes	
+row_21	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	-0.30483577	Yes	
+row_22	DNALI1	DNALI1	dynein, axonemal, light intermediate chain 1	11707	-2.926267385482788	-0.2056561	Yes	
+row_23	MYO3A	MYO3A	myosin IIIA	11961	-3.400723457336426	-0.10907498	Yes	
+row_24	MYH13	MYH13	myosin, heavy chain 13, skeletal muscle	12329	-4.595701217651367	0.019443663	Yes	

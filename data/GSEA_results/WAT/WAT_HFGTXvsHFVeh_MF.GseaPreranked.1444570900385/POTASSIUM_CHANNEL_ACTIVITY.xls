@@ -1,0 +1,49 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNJ1	KCNJ1	potassium inwardly-rectifying channel, subfamily J, member 1	169	2.6982345581054688	0.021830782	No	
+row_1	KCNA6	KCNA6	potassium voltage-gated channel, shaker-related subfamily, member 6	264	2.0447802543640137	0.04109471	No	
+row_2	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	302	1.8789443969726562	0.0627382	No	
+row_3	KCNA2	KCNA2	potassium voltage-gated channel, shaker-related subfamily, member 2	350	1.6601818799972534	0.08071953	No	
+row_4	KCNJ10	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10	463	1.3432778120040894	0.08936304	No	
+row_5	KCNN3	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	630	1.0745717287063599	0.09017788	No	
+row_6	KCNK4	KCNK4	potassium channel, subfamily K, member 4	753	0.9359793663024902	0.092691086	No	
+row_7	KCNN2	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	1747	0.4688856899738312	0.019554183	No	
+row_8	KCNC3	KCNC3	potassium voltage-gated channel, Shaw-related subfamily, member 3	1887	0.4365977346897125	0.014172787	No	
+row_9	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	2191	0.37754252552986145	-0.0050744712	No	
+row_10	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3207	0.2323140799999237	-0.08306469	No	
+row_11	KCNS3	KCNS3	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3	4042	0.12889961898326874	-0.14795877	No	
+row_12	KCNK6	KCNK6	potassium channel, subfamily K, member 6	4808	0.048246968537569046	-0.20840013	No	
+row_13	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	5509	-0.02585170976817608	-0.26394546	No	
+row_14	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	6847	-0.17318765819072723	-0.36841625	No	
+row_15	KCNMB2	KCNMB2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	8025	-0.3253672420978546	-0.45812142	No	
+row_16	KCNC4	KCNC4	potassium voltage-gated channel, Shaw-related subfamily, member 4	8506	-0.4083872139453888	-0.49109548	No	
+row_17	KCNK7	KCNK7	potassium channel, subfamily K, member 7	8686	-0.4402625858783722	-0.49962226	No	
+row_18	KCNK5	KCNK5	potassium channel, subfamily K, member 5	9059	-0.5269908905029297	-0.5224216	No	
+row_19	KCNE2	KCNE2	potassium voltage-gated channel, Isk-related family, member 2	9270	-0.5891185998916626	-0.5314746	No	
+row_20	KCNA3	KCNA3	potassium voltage-gated channel, shaker-related subfamily, member 3	9318	-0.6039610505104065	-0.52732027	No	
+row_21	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	9450	-0.6423404812812805	-0.52936965	No	
+row_22	KCNK3	KCNK3	potassium channel, subfamily K, member 3	9489	-0.6536353826522827	-0.52384657	No	
+row_23	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	9730	-0.7385680079460144	-0.53333807	Yes	
+row_24	KCNH2	KCNH2	potassium voltage-gated channel, subfamily H (eag-related), member 2	9861	-0.7964380383491516	-0.53329027	Yes	
+row_25	KCNH1	KCNH1	potassium voltage-gated channel, subfamily H (eag-related), member 1	9862	-0.796559751033783	-0.52286243	Yes	
+row_26	KCNN4	KCNN4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	9961	-0.8416386842727661	-0.5196683	Yes	
+row_27	KCNJ3	KCNJ3	potassium inwardly-rectifying channel, subfamily J, member 3	10050	-0.8920542001724243	-0.5150157	Yes	
+row_28	KCNJ4	KCNJ4	potassium inwardly-rectifying channel, subfamily J, member 4	10072	-0.9018890857696533	-0.50488555	Yes	
+row_29	KCNH4	KCNH4	potassium voltage-gated channel, subfamily H (eag-related), member 4	10366	-1.1057202816009521	-0.5138019	Yes	
+row_30	KCNK1	KCNK1	potassium channel, subfamily K, member 1	10464	-1.1732267141342163	-0.506187	Yes	
+row_31	KCNS1	KCNS1	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 1	10771	-1.4550610780715942	-0.5115679	Yes	
+row_32	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	10786	-1.4643651247024536	-0.49351552	Yes	
+row_33	KCNIP2	KCNIP2	Kv channel interacting protein 2	10854	-1.5539264678955078	-0.47852185	Yes	
+row_34	KCNG2	KCNG2	potassium voltage-gated channel, subfamily G, member 2	10888	-1.6030330657958984	-0.46017098	Yes	
+row_35	KCNQ3	KCNQ3	potassium voltage-gated channel, KQT-like subfamily, member 3	10907	-1.6285922527313232	-0.440288	Yes	
+row_36	KCNH3	KCNH3	potassium voltage-gated channel, subfamily H (eag-related), member 3	11135	-1.9027597904205322	-0.4335012	Yes	
+row_37	KCNQ2	KCNQ2	potassium voltage-gated channel, KQT-like subfamily, member 2	11209	-2.0120232105255127	-0.4129896	Yes	
+row_38	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	11398	-2.339634656906128	-0.3973701	Yes	
+row_39	KCNC1	KCNC1	potassium voltage-gated channel, Shaw-related subfamily, member 1	11582	-2.6689281463623047	-0.37704065	Yes	
+row_40	KCNJ12	KCNJ12	potassium inwardly-rectifying channel, subfamily J, member 12	11753	-3.0248963832855225	-0.35101336	Yes	
+row_41	KCNJ6	KCNJ6	potassium inwardly-rectifying channel, subfamily J, member 6	11883	-3.280524492263794	-0.31836644	Yes	
+row_42	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	11918	-3.354937791824341	-0.27716112	Yes	
+row_43	KCNJ14	KCNJ14	potassium inwardly-rectifying channel, subfamily J, member 14	12129	-3.6917498111724854	-0.24559739	Yes	
+row_44	KCNA4	KCNA4	potassium voltage-gated channel, shaker-related subfamily, member 4	12253	-4.386706829071045	-0.19799037	Yes	
+row_45	KCNE1	KCNE1	potassium voltage-gated channel, Isk-related family, member 1	12319	-4.551544666290283	-0.14359508	Yes	
+row_46	KCNMB3	KCNMB3	potassium large conductance calcium-activated channel, subfamily M beta member 3	12456	-5.763213634490967	-0.079005994	Yes	
+row_47	KCNK10	KCNK10	potassium channel, subfamily K, member 10	12517	-6.742532253265381	0.004470782	Yes	
