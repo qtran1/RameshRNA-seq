@@ -1,0 +1,53 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GREM1	GREM1	gremlin 1, cysteine knot superfamily, homolog (Xenopus laevis)	227	2.2496206760406494	0.03022761	No	
+row_1	PTHLH	PTHLH	parathyroid hormone-like hormone	368	1.6036961078643799	0.053518817	No	
+row_2	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	460	1.349892020225525	0.0752676	No	
+row_3	CISH	CISH	cytokine inducible SH2-containing protein	1064	0.7126323580741882	0.04243042	No	
+row_4	SET	SET	SET translocation (myeloid leukemia-associated)	1968	0.4174758493900299	-0.020708999	No	
+row_5	TDG	TDG	thymine-DNA glycosylase	2534	0.3230492174625397	-0.05888563	No	
+row_6	BRD2	BRD2	bromodomain containing 2	2692	0.2998211085796356	-0.06497889	No	
+row_7	UBR1	UBR1	ubiquitin protein ligase E3 component n-recognin 1	2824	0.28236445784568787	-0.069371045	No	
+row_8	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	2871	0.27517828345298767	-0.067129605	No	
+row_9	ARPC1A	ARPC1A	actin related protein 2/3 complex, subunit 1A, 41kDa	3537	0.1881483793258667	-0.11619188	No	
+row_10	TNIP2	TNIP2	TNFAIP3 interacting protein 2	3618	0.17893262207508087	-0.11873447	No	
+row_11	TRAF4	TRAF4	TNF receptor-associated factor 4	3632	0.17735597491264343	-0.115960374	No	
+row_12	GABPB2	GABPB2	GA binding protein transcription factor, beta subunit 2	3802	0.15868069231510162	-0.12604576	No	
+row_13	WHSC1L1	WHSC1L1	Wolf-Hirschhorn syndrome candidate 1-like 1	3856	0.15159446001052856	-0.1270198	No	
+row_14	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	-0.12921286	No	
+row_15	ZFPM1	ZFPM1	zinc finger protein, multitype 1	3933	0.14203235507011414	-0.12687859	No	
+row_16	TNPO3	TNPO3	transportin 3	4003	0.1332525908946991	-0.12952462	No	
+row_17	PCDH1	PCDH1	protocadherin 1 (cadherin-like 1)	4112	0.12057448923587799	-0.1355577	No	
+row_18	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	-0.1347803	No	
+row_19	RAB10	RAB10	RAB10, member RAS oncogene family	4384	0.09272205829620361	-0.15259238	No	
+row_20	CCDC85B	CCDC85B	coiled-coil domain containing 85B	4388	0.09225893765687943	-0.15084884	No	
+row_21	STX12	STX12	syntaxin 12	4398	0.0906321182847023	-0.14961943	No	
+row_22	SMC6	SMC6	structural maintenance of chromosomes 6	4634	0.06414856016635895	-0.16700754	No	
+row_23	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	5028	0.026993202045559883	-0.19781208	No	
+row_24	FBXO8	FBXO8	F-box protein 8	5334	-0.0048192027024924755	-0.22206561	No	
+row_25	TXN2	TXN2	thioredoxin 2	5335	-0.004838998429477215	-0.2219616	No	
+row_26	LRP5	LRP5	low density lipoprotein receptor-related protein 5	5354	-0.0073555768467485905	-0.22324096	No	
+row_27	SCAMP3	SCAMP3	secretory carrier membrane protein 3	6043	-0.08277202397584915	-0.27640507	No	
+row_28	GSK3A	GSK3A	glycogen synthase kinase 3 alpha	6448	-0.1288549154996872	-0.30589855	No	
+row_29	PARN	PARN	poly(A)-specific ribonuclease (deadenylation nuclease)	6458	-0.12962737679481506	-0.30383095	No	
+row_30	ARF3	ARF3	ADP-ribosylation factor 3	6852	-0.17362438142299652	-0.33148363	No	
+row_31	ASXL1	ASXL1	additional sex combs like 1 (Drosophila)	7060	-0.1964721381664276	-0.34379137	No	
+row_32	SDC1	SDC1	syndecan 1	7563	-0.25785550475120544	-0.3783382	No	
+row_33	GOLT1A	GOLT1A	golgi transport 1 homolog A (S. cerevisiae)	7638	-0.2684844732284546	-0.3784767	No	
+row_34	PPP1R7	PPP1R7	protein phosphatase 1, regulatory subunit 7	7641	-0.26907414197921753	-0.37285265	No	
+row_35	VPS53	VPS53	vacuolar protein sorting 53 (S. cerevisiae)	7736	-0.28312739729881287	-0.3742736	No	
+row_36	SSBP4	SSBP4	single stranded DNA binding protein 4	8387	-0.38338780403137207	-0.4179413	No	
+row_37	EIF2B4	EIF2B4	eukaryotic translation initiation factor 2B, subunit 4 delta, 67kDa	8534	-0.412909597158432	-0.4207253	No	
+row_38	TCEAL1	TCEAL1	transcription elongation factor A (SII)-like 1	9033	-0.5209553241729736	-0.44929734	No	
+row_39	BTBD1	BTBD1	BTB (POZ) domain containing 1	9075	-0.5332419276237488	-0.4411095	No	
+row_40	SEC14L2	SEC14L2	SEC14-like 2 (S. cerevisiae)	9275	-0.5914703011512756	-0.44428784	No	
+row_41	ARHGAP8	ARHGAP8	Rho GTPase activating protein 8	9462	-0.644886314868927	-0.44527984	No	
+row_42	MUC1	MUC1	mucin 1, cell surface associated	9479	-0.6503520607948303	-0.43257824	No	
+row_43	APBA1	APBA1	amyloid beta (A4) precursor protein-binding, family A, member 1 (X11)	9800	-0.7689124345779419	-0.44160545	No	
+row_44	CEP164	CEP164	centrosomal protein 164kDa	10167	-0.9606970548629761	-0.45018378	No	
+row_45	TCEA2	TCEA2	transcription elongation factor A (SII), 2	10772	-1.4566407203674316	-0.46710834	Yes	
+row_46	WNT10A	WNT10A	wingless-type MMTV integration site family, member 10A	11030	-1.7737090587615967	-0.44950625	Yes	
+row_47	PASK	PASK	PAS domain containing serine/threonine kinase	11469	-2.4575369358062744	-0.43165982	Yes	
+row_48	TMEM95	TMEM95	transmembrane protein 95	12223	-4.15132474899292	-0.40256104	Yes	
+row_49	SLC6A14	SLC6A14	solute carrier family 6 (amino acid transporter), member 14	12487	-6.183801651000977	-0.29064298	Yes	
+row_50	SLC38A5	SLC38A5	solute carrier family 38, member 5	12495	-6.3544416427612305	-0.15461296	Yes	
+row_51	SNCB	SNCB	synuclein, beta	12544	-7.479031085968018	0.0023159254	Yes	

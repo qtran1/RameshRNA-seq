@@ -1,0 +1,42 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTGS2	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	311	1.8227510452270508	1.0858799E-5	No	
+row_1	CYP2E1	CYP2E1	cytochrome P450, family 2, subfamily E, polypeptide 1	369	1.601324439048767	0.017272448	No	
+row_2	GPX1	GPX1	glutathione peroxidase 1	614	1.1002073287963867	0.012788356	No	
+row_3	PLA2G4B	PLA2G4B	phospholipase A2, group IVB (cytosolic)	631	1.0742652416229248	0.026142914	No	
+row_4	GPX3	GPX3	glutathione peroxidase 3 (plasma)	653	1.0403822660446167	0.038637046	No	
+row_5	EPHX2	EPHX2	epoxide hydrolase 2, cytoplasmic	758	0.9314919710159302	0.04302561	No	
+row_6	PTGES2	PTGES2	prostaglandin E synthase 2	2390	0.34303590655326843	-0.08243878	No	
+row_7	CBR1	CBR1	carbonyl reductase 1	2983	0.25948020815849304	-0.12614004	No	
+row_8	LTA4H	LTA4H	leukotriene A4 hydrolase	3553	0.18676848709583282	-0.16899645	No	
+row_9	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	3611	0.18029114603996277	-0.17108893	No	
+row_10	GPX7	GPX7	glutathione peroxidase 7	4813	0.04781842976808548	-0.26626468	No	
+row_11	PLA2G12B	PLA2G12B	phospholipase A2, group XIIB	4869	0.04206814244389534	-0.27008012	No	
+row_12	CBR3	CBR3	carbonyl reductase 3	4956	0.03436284139752388	-0.276474	No	
+row_13	GPX4	GPX4	glutathione peroxidase 4 (phospholipid hydroperoxidase)	5271	0.0017693063709884882	-0.30150378	No	
+row_14	PTGIS	PTGIS	prostaglandin I2 (prostacyclin) synthase	5466	-0.021028555929660797	-0.3166965	No	
+row_15	ALOX15	ALOX15	arachidonate 15-lipoxygenase	5691	-0.04521089047193527	-0.33395356	No	
+row_16	LTC4S	LTC4S	leukotriene C4 synthase	5696	-0.04546394944190979	-0.3336535	No	
+row_17	PLA2G12A	PLA2G12A	phospholipase A2, group XIIA	5988	-0.07668153941631317	-0.35582784	No	
+row_18	CYP2U1	CYP2U1	cytochrome P450, family 2, subfamily U, polypeptide 1	6251	-0.10600821673870087	-0.37528884	No	
+row_19	PTGS1	PTGS1	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	6908	-0.1801292449235916	-0.42517737	No	
+row_20	ALOX5	ALOX5	arachidonate 5-lipoxygenase	7073	-0.197463721036911	-0.4355734	No	
+row_21	ALOX12	ALOX12	arachidonate 12-lipoxygenase	7141	-0.20557700097560883	-0.43811938	No	
+row_22	PTGES	PTGES	prostaglandin E synthase	7666	-0.272609144449234	-0.47621617	No	
+row_23	TBXAS1	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	7832	-0.29757341742515564	-0.48532853	No	
+row_24	PLA2G2D	PLA2G2D	phospholipase A2, group IID	7844	-0.2991563081741333	-0.4821318	No	
+row_25	PLA2G1B	PLA2G1B	phospholipase A2, group IB (pancreas)	8056	-0.32536807656288147	-0.49453592	No	
+row_26	GGT6	GGT6	gamma-glutamyltransferase 6 homolog (rat)	9067	-0.5297459363937378	-0.56790817	No	
+row_27	GPX2	GPX2	glutathione peroxidase 2 (gastrointestinal)	9378	-0.623386800289154	-0.5841525	No	
+row_28	PLA2G6	PLA2G6	phospholipase A2, group VI (cytosolic, calcium-independent)	9952	-0.837482213973999	-0.6184656	No	
+row_29	PTGDS	PTGDS	prostaglandin D2 synthase 21kDa (brain)	10035	-0.884432315826416	-0.6129626	No	
+row_30	PLA2G2E	PLA2G2E	phospholipase A2, group IIE	10220	-0.9938837885856628	-0.61410743	No	
+row_31	PLA2G3	PLA2G3	phospholipase A2, group III	10267	-1.0225387811660767	-0.603851	No	
+row_32	PLA2G4E	PLA2G4E	phospholipase A2, group IVE	10910	-1.6380813121795654	-0.6327656	No	
+row_33	PLA2G10	PLA2G10	phospholipase A2, group X	11722	-2.9559683799743652	-0.65721536	Yes	
+row_34	PLA2G2C	PLA2G2C	phospholipase A2, group IIC	11794	-3.100893497467041	-0.6206471	Yes	
+row_35	ALOX12B	ALOX12B	arachidonate 12-lipoxygenase, 12R type	12109	-3.6480953693389893	-0.5960149	Yes	
+row_36	GGT1	GGT1	gamma-glutamyltransferase 1	12237	-4.29901647567749	-0.5475968	Yes	
+row_37	PLA2G2F	PLA2G2F	phospholipase A2, group IIF	12259	-4.386725425720215	-0.48952642	Yes	
+row_38	PLA2G5	PLA2G5	phospholipase A2, group V	12394	-5.102351665496826	-0.4307256	Yes	
+row_39	GPX6	GPX6	glutathione peroxidase 6 (olfactory)	12439	-5.496255397796631	-0.3593789	Yes	
+row_40	GPX5	GPX5	glutathione peroxidase 5 (epididymal androgen-related protein)	12573	-27.165821075439453	-1.5656224E-7	Yes	

@@ -1,0 +1,61 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FABP2	FABP2	fatty acid binding protein 2, intestinal	12	6.043630599975586	0.09032792	Yes	
+row_1	CYP7A1	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	31	4.828190326690674	0.1618176	Yes	
+row_2	APOA5	APOA5	apolipoprotein A-V	100	3.273967742919922	0.20583577	Yes	
+row_3	UCP1	UCP1	uncoupling protein 1 (mitochondrial, proton carrier)	123	3.0713460445404053	0.25046933	Yes	
+row_4	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	132	2.898749589920044	0.2936146	Yes	
+row_5	APOC3	APOC3	apolipoprotein C-III	138	2.815528392791748	0.33574256	Yes	
+row_6	FABP1	FABP1	fatty acid binding protein 1, liver	189	2.643375873565674	0.37167427	Yes	
+row_7	APOA1	APOA1	apolipoprotein A-I	214	2.3878188133239746	0.40582356	Yes	
+row_8	APOA2	APOA2	apolipoprotein A-II	275	1.984645962715149	0.43100628	Yes	
+row_9	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	284	1.9548585414886475	0.45989445	Yes	
+row_10	PPARG	PPARG	peroxisome proliferative activated receptor, gamma	526	1.2292360067367554	0.45920318	Yes	
+row_11	SLC27A1	SLC27A1	solute carrier family 27 (fatty acid transporter), member 1	530	1.2251602411270142	0.47746903	Yes	
+row_12	CYP8B1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	557	1.1865378618240356	0.49331358	Yes	
+row_13	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	566	1.1731438636779785	0.5103942	Yes	
+row_14	CYP27A1	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	687	1.009090781211853	0.5160469	Yes	
+row_15	ILK	ILK	integrin-linked kinase	860	0.8384729027748108	0.51496714	Yes	
+row_16	ADIPOQ	ADIPOQ	adiponectin, C1Q and collagen domain containing	930	0.803027331829071	0.5215827	Yes	
+row_17	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.523598	Yes	
+row_18	HMGCS2	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	1082	0.7040126323699951	0.5311953	Yes	
+row_19	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.5245663	Yes	
+row_20	FABP7	FABP7	fatty acid binding protein 7, brain	1438	0.5593743324279785	0.5207092	Yes	
+row_21	FABP4	FABP4	fatty acid binding protein 4, adipocyte	1590	0.5141416192054749	0.5164087	Yes	
+row_22	SCP2	SCP2	sterol carrier protein 2	1600	0.5094274878501892	0.5233842	Yes	
+row_23	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	1647	0.49923932552337646	0.52724916	Yes	
+row_24	CPT2	CPT2	carnitine palmitoyltransferase II	1682	0.48886480927467346	0.5319163	Yes	
+row_25	RXRA	RXRA	retinoid X receptor, alpha	1787	0.46085768938064575	0.5305667	No	
+row_26	CD36	CD36	CD36 molecule (thrombospondin receptor)	2675	0.30386149883270264	0.4642758	No	
+row_27	SORBS1	SORBS1	sorbin and SH3 domain containing 1	2956	0.26350629329681396	0.44588104	No	
+row_28	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	3100	0.2457054704427719	0.43816513	No	
+row_29	RXRB	RXRB	retinoid X receptor, beta	3210	0.2322060763835907	0.43296227	No	
+row_30	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	3214	0.23167403042316437	0.4362219	No	
+row_31	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	0.4189589	No	
+row_32	ACADL	ACADL	acyl-Coenzyme A dehydrogenase, long chain	3604	0.1806424856185913	0.41089955	No	
+row_33	NR1H3	NR1H3	nuclear receptor subfamily 1, group H, member 3	3650	0.17578071355819702	0.40995866	No	
+row_34	LPL	LPL	lipoprotein lipase	4385	0.0927102193236351	0.3527047	No	
+row_35	PCK2	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	4718	0.05595467612147331	0.3270196	No	
+row_36	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	4724	0.05553143844008446	0.32745883	No	
+row_37	FABP5	FABP5	fatty acid binding protein 5 (psoriasis-associated)	4970	0.033295854926109314	0.30838367	No	
+row_38	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	0.3081578	No	
+row_39	RXRG	RXRG	retinoid X receptor, gamma	5077	0.022273322567343712	0.30082282	No	
+row_40	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	5221	0.006137722637504339	0.28948832	No	
+row_41	DBI	DBI	diazepam binding inhibitor (GABA receptor modulator, acyl-Coenzyme A binding protein)	5308	-0.001851264969445765	0.28264397	No	
+row_42	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	5387	-0.011026552878320217	0.2765775	No	
+row_43	SLC27A4	SLC27A4	solute carrier family 27 (fatty acid transporter), member 4	7207	-0.21409748494625092	0.13445418	No	
+row_44	AQP7	AQP7	aquaporin 7	7423	-0.24239645898342133	0.120934725	No	
+row_45	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	7897	-0.30812832713127136	0.08779122	No	
+row_46	ACSL3	ACSL3	acyl-CoA synthetase long-chain family member 3	8128	-0.33681967854499817	0.07449935	No	
+row_47	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	0.05377717	No	
+row_48	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	8511	-0.4099058210849762	0.056292765	No	
+row_49	FADS2	FADS2	fatty acid desaturase 2	8604	-0.426098108291626	0.05537706	No	
+row_50	ANGPTL4	ANGPTL4	angiopoietin-like 4	9335	-0.6091666221618652	0.0062436303	No	
+row_51	OLR1	OLR1	oxidised low density lipoprotein (lectin-like) receptor 1	9568	-0.6828703284263611	-0.0019810984	No	
+row_52	PLTP	PLTP	phospholipid transfer protein	9721	-0.735893964767456	-0.0030120837	No	
+row_53	UBC	UBC	ubiquitin C	9877	-0.8078035116195679	-0.0031966325	No	
+row_54	CPT1C	CPT1C	carnitine palmitoyltransferase 1C	10281	-1.0316423177719116	-0.019817982	No	
+row_55	FABP3	FABP3	fatty acid binding protein 3, muscle and heart (mammary-derived growth inhibitor)	10928	-1.6588348150253296	-0.04638407	No	
+row_56	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11247	-2.0730512142181396	-0.040482923	No	
+row_57	SLC27A6	SLC27A6	solute carrier family 27 (fatty acid transporter), member 6	11477	-2.4681975841522217	-0.0215012	No	
+row_58	GK2	GK2	glycerol kinase 2	11889	-3.286972999572754	-0.0046958826	No	
+row_59	ACSL6	ACSL6	acyl-CoA synthetase long-chain family member 6	12183	-3.9242711067199707	0.031165032	No	

@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CALCA	CALCA	calcitonin/calcitonin-related polypeptide, alpha	356	1.644352912902832	-3.9548278E-4	No	
+row_1	SAA1	SAA1	serum amyloid A1	465	1.3419029712677002	0.0138414465	No	
+row_2	CXCL12	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	855	0.8425230383872986	-0.002841325	No	
+row_3	CXCL10	CXCL10	chemokine (C-X-C motif) ligand 10	926	0.8058705925941467	0.0052984385	No	
+row_4	CXCL9	CXCL9	chemokine (C-X-C motif) ligand 9	1388	0.574427604675293	-0.021693358	No	
+row_5	XCL1	XCL1	chemokine (C motif) ligand 1	1804	0.45665356516838074	-0.047021374	No	
+row_6	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	2105	0.3921147286891937	-0.06427488	No	
+row_7	CXCL16	CXCL16	chemokine (C-X-C motif) ligand 16	2115	0.39022234082221985	-0.058347467	No	
+row_8	CXCL2	CXCL2	chemokine (C-X-C motif) ligand 2	3614	0.17949803173542023	-0.17478654	No	
+row_9	SLC9A3R1	SLC9A3R1	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 1	4617	0.06655353307723999	-0.25358295	No	
+row_10	CCR2	CCR2	chemokine (C-C motif) receptor 2	4922	0.03779260814189911	-0.27718952	No	
+row_11	CXCL1	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	5804	-0.055914461612701416	-0.3465149	No	
+row_12	CCL24	CCL24	chemokine (C-C motif) ligand 24	5814	-0.05730339139699936	-0.34625697	No	
+row_13	CCL11	CCL11	chemokine (C-C motif) ligand 11	5972	-0.074588343501091	-0.35751072	No	
+row_14	PSMC5	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	6477	-0.13129617273807526	-0.395479	No	
+row_15	CCL26	CCL26	chemokine (C-C motif) ligand 26	8028	-0.3253672420978546	-0.513582	No	
+row_16	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	9617	-0.6986292004585266	-0.6283598	No	
+row_17	CXCL14	CXCL14	chemokine (C-X-C motif) ligand 14	9707	-0.7293185591697693	-0.6230393	No	
+row_18	CCL25	CCL25	chemokine (C-C motif) ligand 25	9756	-0.7510629296302795	-0.6140779	No	
+row_19	CCL17	CCL17	chemokine (C-C motif) ligand 17	10150	-0.9511510133743286	-0.6292299	Yes	
+row_20	REEP1	REEP1	receptor accessory protein 1	10292	-1.0419201850891113	-0.622734	Yes	
+row_21	CCL8	CCL8	chemokine (C-C motif) ligand 8	10355	-1.0950596332550049	-0.60903126	Yes	
+row_22	CCL2	CCL2	chemokine (C-C motif) ligand 2	10399	-1.1300004720687866	-0.5932179	Yes	
+row_23	CCL5	CCL5	chemokine (C-C motif) ligand 5	10419	-1.1407567262649536	-0.5753069	Yes	
+row_24	CCL4	CCL4	chemokine (C-C motif) ligand 4	10499	-1.2011327743530273	-0.5611539	Yes	
+row_25	CCL7	CCL7	chemokine (C-C motif) ligand 7	10563	-1.2561980485916138	-0.5447868	Yes	
+row_26	CKLF	CKLF	chemokine-like factor	10643	-1.3159706592559814	-0.5286782	Yes	
+row_27	CCL22	CCL22	chemokine (C-C motif) ligand 22	10822	-1.509828805923462	-0.5171654	Yes	
+row_28	CXCL5	CXCL5	chemokine (C-X-C motif) ligand 5	10890	-1.6058458089828491	-0.49516305	Yes	
+row_29	GHRL	GHRL	ghrelin/obestatin preprohormone	11069	-1.8174856901168823	-0.47841105	Yes	
+row_30	CCL3	CCL3	chemokine (C-C motif) ligand 3	11479	-2.4699385166168213	-0.46897495	Yes	
+row_31	CCL28	CCL28	chemokine (C-C motif) ligand 28	11530	-2.561680793762207	-0.42933896	Yes	
+row_32	CXCL13	CXCL13	chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant)	12215	-4.107873916625977	-0.4139462	Yes	
+row_33	PROK2	PROK2	prokineticin 2	12239	-4.329063415527344	-0.34205857	Yes	
+row_34	RTP2	RTP2	receptor transporter protein 2	12256	-4.386725425720215	-0.26863056	Yes	
+row_35	RTP1	RTP1	receptor transporter protein 1	12363	-4.965989589691162	-0.1925172	Yes	
+row_36	CCL1	CCL1	chemokine (C-C motif) ligand 1	12460	-5.825538635253906	-0.10096836	Yes	
+row_37	GHRH	GHRH	growth hormone releasing hormone	12499	-6.453606128692627	0.0059029236	Yes	

@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSD3B2	HSD3B2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	16	5.6545209884643555	0.118360266	No	
+row_1	HSD17B1	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	774	0.9145490527153015	0.0773623	No	
+row_2	HSD11B1	HSD11B1	hydroxysteroid (11-beta) dehydrogenase 1	892	0.8239936828613281	0.085468814	No	
+row_3	HSD17B3	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	2548	0.3210659623146057	-0.0396738	No	
+row_4	STARD4	STARD4	START domain containing 4, sterol regulated	4175	0.11447324603796005	-0.16687556	No	
+row_5	SRD5A1	SRD5A1	steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)	4337	0.09772387146949768	-0.17764278	No	
+row_6	CYP17A1	CYP17A1	cytochrome P450, family 17, subfamily A, polypeptide 1	5337	-0.004949064925312996	-0.25717774	No	
+row_7	LRP2	LRP2	low density lipoprotein-related protein 2	5876	-0.06416013091802597	-0.2987093	No	
+row_8	STARD5	STARD5	START domain containing 5	6222	-0.10256578773260117	-0.32404244	No	
+row_9	RBP2	RBP2	retinol binding protein 2, cellular	7253	-0.22049890458583832	-0.40148818	No	
+row_10	LGMN	LGMN	legumain	7916	-0.31038904190063477	-0.44769534	No	
+row_11	CLPS	CLPS	colipase, pancreatic	8015	-0.3253672420978546	-0.4486239	No	
+row_12	CUBN	CUBN	cubilin (intrinsic factor-cobalamin receptor)	8147	-0.3404619097709656	-0.4518638	No	
+row_13	GC	GC	group-specific component (vitamin D binding protein)	8857	-0.4757823348045349	-0.49831843	No	
+row_14	CYP2R1	CYP2R1	cytochrome P450, family 2, subfamily R, polypeptide 1	9703	-0.7275860905647278	-0.55028737	No	
+row_15	STAR	STAR	steroidogenic acute regulator	10338	-1.0839799642562866	-0.5778951	Yes	
+row_16	CYP27B1	CYP27B1	cytochrome P450, family 27, subfamily B, polypeptide 1	10580	-1.2703700065612793	-0.5702296	Yes	
+row_17	RDH11	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	10606	-1.2905457019805908	-0.5449178	Yes	
+row_18	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	10619	-1.298584222793579	-0.5183996	Yes	
+row_19	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	10865	-1.5664068460464478	-0.50478953	Yes	
+row_20	SRD5A2	SRD5A2	steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)	10960	-1.70375394821167	-0.47623587	Yes	
+row_21	CYP24A1	CYP24A1	cytochrome P450, family 24, subfamily A, polypeptide 1	11203	-2.0013554096221924	-0.4531842	Yes	
+row_22	STARD6	STARD6	START domain containing 6	11291	-2.1498444080352783	-0.41463438	Yes	
+row_23	CYP11A1	CYP11A1	cytochrome P450, family 11, subfamily A, polypeptide 1	11363	-2.259601593017578	-0.37248683	Yes	
+row_24	CYP11B1	CYP11B1	cytochrome P450, family 11, subfamily B, polypeptide 1	11979	-3.400723457336426	-0.34956327	Yes	
+row_25	PNLIP	PNLIP	pancreatic lipase	11988	-3.400723457336426	-0.2782501	Yes	
+row_26	LHB	LHB	luteinizing hormone beta polypeptide	12108	-3.6480953693389893	-0.21055195	Yes	
+row_27	CYP19A1	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	12116	-3.6491312980651855	-0.13390334	Yes	
+row_28	LRAT	LRAT	lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)	12120	-3.6565349102020264	-0.056779195	Yes	
+row_29	CYP11B2	CYP11B2	cytochrome P450, family 11, subfamily B, polypeptide 2	12270	-4.386725425720215	0.024154956	Yes	

@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PLG	PLG	plasminogen	107	3.198782205581665	0.11864711	Yes	
+row_1	CFD	CFD	complement factor D (adipsin)	235	2.2018136978149414	0.19606172	Yes	
+row_2	CTSG	CTSG	cathepsin G	288	1.9388391971588135	0.2690008	Yes	
+row_3	TMPRSS6	TMPRSS6	transmembrane protease, serine 6	420	1.4497425556182861	0.3161953	Yes	
+row_4	KLKB1	KLKB1	kallikrein B, plasma (Fletcher factor) 1	551	1.1968950033187866	0.35341677	Yes	
+row_5	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	694	0.9966557621955872	0.38172024	Yes	
+row_6	ACHE	ACHE	acetylcholinesterase (Yt blood group)	1564	0.520128607749939	0.33311254	No	
+row_7	MASP2	MASP2	mannan-binding lectin serine peptidase 2	1620	0.5057608485221863	0.3488355	No	
+row_8	CFI	CFI	complement factor I	1686	0.4870980679988861	0.36301917	No	
+row_9	KLK1	KLK1	kallikrein 1, renal/pancreas/salivary	2320	0.35290080308914185	0.3265795	No	
+row_10	HTRA2	HTRA2	HtrA serine peptidase 2	2597	0.31489670276641846	0.31709325	No	
+row_11	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3399	0.20533128082752228	0.26139146	No	
+row_12	TPP1	TPP1	tripeptidyl peptidase I	3672	0.17262254655361176	0.24656753	No	
+row_13	HTRA1	HTRA1	HtrA serine peptidase 1	3914	0.14418812096118927	0.23308478	No	
+row_14	TOR1A	TOR1A	torsin family 1, member A (torsin A)	4015	0.1322251707315445	0.23036864	No	
+row_15	CPD	CPD	carboxypeptidase D	4605	0.06786743551492691	0.18610473	No	
+row_16	PCSK2	PCSK2	proprotein convertase subtilisin/kexin type 2	4763	0.05141575634479523	0.175631	No	
+row_17	PREP	PREP	prolyl endopeptidase	4886	0.04108491912484169	0.16753715	No	
+row_18	PCSK6	PCSK6	proprotein convertase subtilisin/kexin type 6	4983	0.03247762843966484	0.16117413	No	
+row_19	PRSS36	PRSS36	protease, serine, 36	5146	0.014218940399587154	0.14882286	No	
+row_20	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	5398	-0.012646070681512356	0.12931289	No	
+row_21	APEH	APEH	N-acylaminoacyl-peptide hydrolase	5984	-0.07614237815141678	0.08569691	No	
+row_22	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	6677	-0.1550198495388031	0.03668564	No	
+row_23	KLK8	KLK8	kallikrein 8 (neuropsin/ovasin)	7270	-0.2226756364107132	-0.0016625354	No	
+row_24	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	8249	-0.35680830478668213	-0.0654544	No	
+row_25	TPP2	TPP2	tripeptidyl peptidase II	9010	-0.5161793828010559	-0.10552833	No	
+row_26	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	9398	-0.6286954283714294	-0.11138873	No	
+row_27	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	10183	-0.9724249243736267	-0.13523664	No	
+row_28	LTF	LTF	lactotransferrin	10185	-0.9725714325904846	-0.09664849	No	
+row_29	CORIN	CORIN	corin, serine peptidase	11037	-1.7790879011154175	-0.09376682	No	
+row_30	HGFAC	HGFAC	HGF activator	11143	-1.9146203994750977	-0.026016464	No	
+row_31	ACR	ACR	acrosin	12052	-3.5201027393341064	0.041540433	No	

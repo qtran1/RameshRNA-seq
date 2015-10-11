@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC25A5	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	1639	0.5011516809463501	-0.101684265	No	
+row_1	PPP1R12A	PPP1R12A	protein phosphatase 1, regulatory (inhibitor) subunit 12A	1699	0.48308098316192627	-0.07843738	No	
+row_2	MBNL1	MBNL1	muscleblind-like (Drosophila)	1969	0.4173087179660797	-0.07573983	No	
+row_3	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	2856	0.27710452675819397	-0.13034919	No	
+row_4	SMARCAD1	SMARCAD1	SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1	3431	0.20024865865707397	-0.16452903	No	
+row_5	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	3792	0.1596394032239914	-0.18399584	No	
+row_6	VGLL4	VGLL4	vestigial like 4 (Drosophila)	3843	0.1533050686120987	-0.17911221	No	
+row_7	AFF3	AFF3	AF4/FMR2 family, member 3	4450	0.08610259741544724	-0.22244798	No	
+row_8	ZFPM2	ZFPM2	zinc finger protein, multitype 2	4641	0.06359705328941345	-0.23391734	No	
+row_9	CDH9	CDH9	cadherin 9, type 2 (T1-cadherin)	4709	0.057068053632974625	-0.23595743	No	
+row_10	CSNK1G3	CSNK1G3	casein kinase 1, gamma 3	4879	0.04133889824151993	-0.24704029	No	
+row_11	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	5221	0.006137722637504339	-0.2738738	No	
+row_12	HIC2	HIC2	hypermethylated in cancer 2	5559	-0.03159414231777191	-0.29891548	No	
+row_13	ETF1	ETF1	eukaryotic translation termination factor 1	5705	-0.046989552676677704	-0.30775782	No	
+row_14	BANF1	BANF1	barrier to autointegration factor 1	6310	-0.11281523108482361	-0.3493885	No	
+row_15	TSC22D1	TSC22D1	TSC22 domain family, member 1	6344	-0.11602528393268585	-0.34530646	No	
+row_16	NRF1	NRF1	nuclear respiratory factor 1	6686	-0.1559736132621765	-0.36347046	No	
+row_17	ZDHHC9	ZDHHC9	zinc finger, DHHC-type containing 9	6840	-0.172617569565773	-0.36568183	No	
+row_18	KPNA3	KPNA3	karyopherin alpha 3 (importin alpha 4)	6862	-0.17418760061264038	-0.3572777	No	
+row_19	TAPBP	TAPBP	TAP binding protein (tapasin)	6871	-0.1763378083705902	-0.34771264	No	
+row_20	PPP1R7	PPP1R7	protein phosphatase 1, regulatory subunit 7	7641	-0.26907414197921753	-0.39345798	No	
+row_21	OPCML	OPCML	opioid binding protein/cell adhesion molecule-like	7690	-0.2766586244106293	-0.38127765	No	
+row_22	SERTAD2	SERTAD2	SERTA domain containing 2	7697	-0.2771525979042053	-0.36572	No	
+row_23	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	8125	-0.33663496375083923	-0.38028792	No	
+row_24	PSD3	PSD3	pleckstrin and Sec7 domain containing 3	8516	-0.4105864465236664	-0.3876269	No	
+row_25	UBAP2	UBAP2	ubiquitin associated protein 2	9656	-0.7118796706199646	-0.43725237	Yes	
+row_26	CPEB2	CPEB2	cytoplasmic polyadenylation element binding protein 2	9998	-0.8625940084457397	-0.41453132	Yes	
+row_27	STRBP	STRBP	spermatid perinuclear RNA binding protein	10363	-1.1048500537872314	-0.37962714	Yes	
+row_28	EPHA7	EPHA7	EPH receptor A7	11121	-1.8903141021728516	-0.33061075	Yes	
+row_29	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	11155	-1.9314030408859253	-0.22149089	Yes	
+row_30	TTBK1	TTBK1	tau tubulin kinase 1	11481	-2.4733986854553223	-0.10429294	Yes	
+row_31	COL2A1	COL2A1	collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	11892	-3.305922746658325	0.054297645	Yes	

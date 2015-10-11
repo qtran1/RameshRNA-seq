@@ -1,0 +1,56 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SNTB1	SNTB1	syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	786	0.896961510181427	-0.046749536	No	
+row_1	COL11A1	COL11A1	collagen, type XI, alpha 1	839	0.855660080909729	-0.035606544	No	
+row_2	SGCG	SGCG	sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)	1143	0.6754623651504517	-0.047734477	No	
+row_3	SNTG2	SNTG2	syntrophin, gamma 2	1212	0.6434445977210999	-0.041663326	No	
+row_4	COL8A1	COL8A1	collagen, type VIII, alpha 1	1353	0.5851308703422546	-0.042385913	No	
+row_5	LAMB1	LAMB1	laminin, beta 1	1431	0.5617233514785767	-0.038494606	No	
+row_6	SGCE	SGCE	sarcoglycan, epsilon	1477	0.5465741157531738	-0.032318007	No	
+row_7	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	1827	0.45108434557914734	-0.052131575	No	
+row_8	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	1833	0.44853970408439636	-0.0445124	No	
+row_9	MAGEE1	MAGEE1	melanoma antigen family E, 1	1889	0.43623051047325134	-0.041107204	No	
+row_10	SNTB2	SNTB2	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)	1893	0.4356524646282196	-0.03355866	No	
+row_11	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	2169	0.3813893496990204	-0.04870715	No	
+row_12	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	2276	0.3605085015296936	-0.05072945	No	
+row_13	LAMA4	LAMA4	laminin, alpha 4	2457	0.33256301283836365	-0.05916235	No	
+row_14	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2722	0.2966901957988739	-0.07494635	No	
+row_15	TNXB	TNXB	tenascin XB	2996	0.25769659876823425	-0.092146344	No	
+row_16	LUM	LUM	lumican	3136	0.23991042375564575	-0.09896058	No	
+row_17	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	3423	0.2020341157913208	-0.11819408	No	
+row_18	LAMB2	LAMB2	laminin, beta 2 (laminin S)	3460	0.1964290589094162	-0.11755814	No	
+row_19	COL1A2	COL1A2	collagen, type I, alpha 2	3778	0.16120651364326477	-0.13999775	No	
+row_20	SGCB	SGCB	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	4049	0.12835699319839478	-0.15927032	No	
+row_21	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	4069	0.1258922666311264	-0.15853743	No	
+row_22	ERBB2IP	ERBB2IP	erbb2 interacting protein	4517	0.07852249592542648	-0.19283941	No	
+row_23	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	-0.26779535	No	
+row_24	EFEMP2	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2	5584	-0.033812016248703	-0.27693608	No	
+row_25	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6282	-0.11040803045034409	-0.3306377	No	
+row_26	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.3809943	No	
+row_27	NID2	NID2	nidogen 2 (osteonidogen)	7072	-0.19736342132091522	-0.38673192	No	
+row_28	DST	DST	dystonin	7112	-0.20167577266693115	-0.38624182	No	
+row_29	ODAM	ODAM	odontogenic, ameloblast asssociated	7183	-0.20989856123924255	-0.38808095	No	
+row_30	COL7A1	COL7A1	collagen, type VII, alpha 1 (epidermolysis bullosa, dystrophic, dominant and recessive)	7197	-0.21231642365455627	-0.3853238	No	
+row_31	COL5A2	COL5A2	collagen, type V, alpha 2	7461	-0.2461135983467102	-0.40193206	No	
+row_32	COL6A3	COL6A3	collagen, type VI, alpha 3	7644	-0.26923009753227234	-0.41165692	No	
+row_33	FBN1	FBN1	fibrillin 1	8307	-0.3670320212841034	-0.4579751	No	
+row_34	COL5A1	COL5A1	collagen, type V, alpha 1	8452	-0.39803972840309143	-0.46236184	No	
+row_35	COL18A1	COL18A1	collagen, type XVIII, alpha 1	8462	-0.40024498105049133	-0.45592552	No	
+row_36	LAMA3	LAMA3	laminin, alpha 3	8594	-0.4253006875514984	-0.45878652	No	
+row_37	COL4A4	COL4A4	collagen, type IV, alpha 4	9647	-0.7086961269378662	-0.5301494	Yes	
+row_38	COL4A2	COL4A2	collagen, type IV, alpha 2	9797	-0.7679057717323303	-0.5283234	Yes	
+row_39	COL5A3	COL5A3	collagen, type V, alpha 3	10010	-0.8703577518463135	-0.52969825	Yes	
+row_40	COL13A1	COL13A1	collagen, type XIII, alpha 1	10084	-0.9088215231895447	-0.51928234	Yes	
+row_41	APLP1	APLP1	amyloid beta (A4) precursor-like protein 1	10091	-0.9123042225837708	-0.5034523	Yes	
+row_42	COL15A1	COL15A1	collagen, type XV, alpha 1	10289	-1.0386271476745605	-0.5006208	Yes	
+row_43	COL16A1	COL16A1	collagen, type XVI, alpha 1	10370	-1.1078578233718872	-0.4872058	Yes	
+row_44	CAV3	CAV3	caveolin 3	10475	-1.1779619455337524	-0.4744547	Yes	
+row_45	SGCA	SGCA	sarcoglycan, alpha (50kDa dystrophin-associated glycoprotein)	10922	-1.6497633457183838	-0.48058763	Yes	
+row_46	COLQ	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	11008	-1.748847484588623	-0.45611307	Yes	
+row_47	TINAG	TINAG	tubulointerstitial nephritis antigen	11150	-1.9255772829055786	-0.4329523	Yes	
+row_48	COL9A1	COL9A1	collagen, type IX, alpha 1	11181	-1.9643992185592651	-0.400231	Yes	
+row_49	COL9A3	COL9A3	collagen, type IX, alpha 3	11545	-2.5805070400238037	-0.38309506	Yes	
+row_50	USH2A	USH2A	Usher syndrome 2A (autosomal recessive, mild)	11680	-2.858262777328491	-0.34270146	Yes	
+row_51	COL10A1	COL10A1	collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	12027	-3.470339298248291	-0.30830002	Yes	
+row_52	COL9A2	COL9A2	collagen, type IX, alpha 2	12384	-5.010183811187744	-0.24716946	Yes	
+row_53	MUC5AC	MUC5AC	mucin 5AC, oligomeric mucus/gel-forming	12529	-7.013891696929932	-0.13328427	Yes	
+row_54	SNTG1	SNTG1	syntrophin, gamma 1	12550	-7.647738933563232	0.0018371901	Yes	

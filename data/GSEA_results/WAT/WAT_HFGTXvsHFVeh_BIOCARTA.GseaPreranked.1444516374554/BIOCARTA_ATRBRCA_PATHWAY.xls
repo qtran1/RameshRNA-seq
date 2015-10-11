@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TREX1	TREX1	three prime repair exonuclease 1	944	0.7929765582084656	-0.02565924	No	
+row_1	RAD1	RAD1	RAD1 homolog (S. pombe)	1336	0.5914930701255798	-0.019857097	No	
+row_2	NBN	NBN	nibrin	2136	0.3880421817302704	-0.059259668	No	
+row_3	FANCE	FANCE	Fanconi anemia, complementation group E	2218	0.3738037645816803	-0.042363208	No	
+row_4	FANCF	FANCF	Fanconi anemia, complementation group F	2327	0.35231778025627136	-0.028959317	No	
+row_5	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.2001206	No	
+row_6	HUS1	HUS1	HUS1 checkpoint homolog (S. pombe)	5664	-0.04227154329419136	-0.28716567	No	
+row_7	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	6279	-0.1100228875875473	-0.3291984	No	
+row_8	FANCC	FANCC	Fanconi anemia, complementation group C	6365	-0.11819856613874435	-0.3285858	No	
+row_9	RAD17	RAD17	RAD17 homolog (S. pombe)	7696	-0.27693405747413635	-0.4172222	No	
+row_10	CHEK2	CHEK2	CHK2 checkpoint homolog (S. pombe)	8233	-0.35457944869995117	-0.43776703	No	
+row_11	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	9100	-0.539466142654419	-0.47304806	No	
+row_12	FANCG	FANCG	Fanconi anemia, complementation group G	9921	-0.8262050151824951	-0.48675528	Yes	
+row_13	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.45545468	Yes	
+row_14	BRCA2	BRCA2	breast cancer 2, early onset	10701	-1.3711161613464355	-0.3911598	Yes	
+row_15	ATR	ATR	ataxia telangiectasia and Rad3 related	10754	-1.436244010925293	-0.30559266	Yes	
+row_16	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.21704197	Yes	
+row_17	BRCA1	BRCA1	breast cancer 1, early onset	11308	-2.179550886154175	-0.09914526	Yes	
+row_18	FANCD2	FANCD2	Fanconi anemia, complementation group D2	11843	-3.1991653442382812	0.058144227	Yes	

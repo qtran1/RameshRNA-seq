@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PGR	PGR	progesterone receptor	20	5.463338851928711	0.30464306	Yes	
+row_1	VWF	VWF	von Willebrand factor	355	1.6487281322479248	0.37041864	Yes	
+row_2	NCOA1	NCOA1	nuclear receptor coactivator 1	1617	0.5062085390090942	0.29821104	No	
+row_3	DCTN4	DCTN4	dynactin 4 (p62)	1908	0.43207430839538574	0.2992987	No	
+row_4	NBN	NBN	nibrin	2136	0.3880421817302704	0.30294335	No	
+row_5	NCOA3	NCOA3	nuclear receptor coactivator 3	2358	0.3481931686401367	0.30483294	No	
+row_6	GTF2H3	GTF2H3	general transcription factor IIH, polypeptide 3, 34kDa	3067	0.2499738335609436	0.26237196	No	
+row_7	SMARCC1	SMARCC1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1	3101	0.24564938247203827	0.2735092	No	
+row_8	SMARCE1	SMARCE1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily e, member 1	3442	0.19861404597759247	0.25752246	No	
+row_9	PEX14	PEX14	peroxisomal biogenesis factor 14	3488	0.19424527883529663	0.26482117	No	
+row_10	NR1H4	NR1H4	nuclear receptor subfamily 1, group H, member 4	3532	0.18862853944301605	0.27196458	No	
+row_11	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	3648	0.17590197920799255	0.27265164	No	
+row_12	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	0.25882202	No	
+row_13	ERCC5	ERCC5	me))	4014	0.1322423666715622	0.2590559	No	
+row_14	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	0.2217129	No	
+row_15	MNAT1	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	4556	0.0743132084608078	0.22444266	No	
+row_16	SDCBP	SDCBP	syndecan binding protein (syntenin)	4574	0.0712050274014473	0.22707795	No	
+row_17	SLA2	SLA2	Src-like-adaptor 2	5668	-0.04257114976644516	0.14228226	No	
+row_18	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	5781	-0.05341246724128723	0.13634264	No	
+row_19	ESR1	ESR1	estrogen receptor 1	6053	-0.08394727855920792	0.11943216	No	
+row_20	DAXX	DAXX	death-associated protein 6	6098	-0.08885687589645386	0.12090327	No	
+row_21	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	0.10779519	No	
+row_22	TSC1	TSC1	tuberous sclerosis 1	6425	-0.12548284232616425	0.10852757	No	
+row_23	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	6484	-0.13214533030986786	0.11130845	No	
+row_24	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	6653	-0.15273378789424896	0.10646935	No	
+row_25	HAX1	HAX1	HCLS1 associated protein X-1	6957	-0.1859925240278244	0.09272639	No	
+row_26	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	7039	-0.1936901956796646	0.09712249	No	
+row_27	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	7080	-0.19821861386299133	0.10504275	No	
+row_28	GTF2H2	GTF2H2	general transcription factor IIH, polypeptide 2, 44kDa	7316	-0.22928670048713684	0.099150516	No	
+row_29	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	7562	-0.257780522108078	0.09405782	No	
+row_30	SMARCA4	SMARCA4	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4	7628	-0.26769858598709106	0.103878565	No	
+row_31	GLRX	GLRX	glutaredoxin (thioltransferase)	8275	-0.3616599142551422	0.07262333	No	
+row_32	EIF5A	EIF5A	eukaryotic translation initiation factor 5A	9093	-0.5382453799247742	0.037626665	No	
+row_33	CSNK2A2	CSNK2A2	casein kinase 2, alpha prime polypeptide	9850	-0.7915302515029907	0.021693068	No	
+row_34	APTX	APTX	aprataxin	9990	-0.8588108420372009	0.058745097	No	
+row_35	NFE2	NFE2	nuclear factor (erythroid-derived 2), 45kDa	10328	-1.0708158016204834	0.09188745	No	
+row_36	KCNIP2	KCNIP2	Kv channel interacting protein 2	10854	-1.5539264678955078	0.13711417	No	

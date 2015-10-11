@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	JUN	JUN	jun oncogene	618	1.0964252948760986	0.008755583	No	
+row_1	TGFB2	TGFB2	transforming growth factor, beta 2	808	0.8815059661865234	0.040337384	No	
+row_2	TGFB3	TGFB3	transforming growth factor, beta 3	929	0.8036853671073914	0.0733016	No	
+row_3	IL1B	IL1B	interleukin 1, beta	992	0.7595713138580322	0.10855505	No	
+row_4	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	1723	0.47544312477111816	0.07552006	No	
+row_5	IL1R1	IL1R1	interleukin 1 receptor, type I	1731	0.47314199805259705	0.10000041	No	
+row_6	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3	2216	0.3741287589073181	0.0812149	No	
+row_7	MAPK14	MAPK14	mitogen-activated protein kinase 14	2684	0.3012717068195343	0.05992906	No	
+row_8	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	2984	0.25930482149124146	0.04981522	No	
+row_9	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1	3058	0.2512873411178589	0.057293676	No	
+row_10	TRAF6	TRAF6	TNF receptor-associated factor 6	3420	0.20223082602024078	0.039216913	No	
+row_11	ECSIT	ECSIT	ECSIT homolog (Drosophila)	3647	0.17595802247524261	0.030511923	No	
+row_12	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	3660	0.17349748313426971	0.03873667	No	
+row_13	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	0.025427192	No	
+row_14	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	3957	0.13872605562210083	0.030137751	No	
+row_15	IRAK2	IRAK2	interleukin-1 receptor-associated kinase 2	4249	0.10707943141460419	0.012605989	No	
+row_16	IL1RAP	IL1RAP	interleukin 1 receptor accessory protein	4720	0.055881280452013016	-0.02190492	No	
+row_17	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	4799	0.04900802671909332	-0.025529556	No	
+row_18	MAPK8	MAPK8	mitogen-activated protein kinase 8	4978	0.03294863924384117	-0.037975986	No	
+row_19	IRAK3	IRAK3	interleukin-1 receptor-associated kinase 3	5723	-0.04823495075106621	-0.09473465	No	
+row_20	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6232	-0.10340578854084015	-0.12975992	No	
+row_21	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1	6330	-0.11455965787172318	-0.13143027	No	
+row_22	TOLLIP	TOLLIP	toll interacting protein	7061	-0.19652286171913147	-0.17922555	No	
+row_23	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	7476	-0.24790045619010925	-0.19911064	No	
+row_24	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.25978097	No	
+row_25	MYD88	MYD88	myeloid differentiation primary response gene (88)	9237	-0.580157995223999	-0.28695562	No	
+row_26	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	9577	-0.6858649849891663	-0.27768496	No	
+row_27	IL1A	IL1A	interleukin 1, alpha	11733	-2.975435733795166	-0.29202196	Yes	
+row_28	IL1RN	IL1RN	interleukin 1 receptor antagonist	11806	-3.132533073425293	-0.13199	Yes	
+row_29	IL6	IL6	interleukin 6 (interferon, beta 2)	12106	-3.6480953693389893	0.037228905	Yes	

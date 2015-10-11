@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDC23	CDC23	CDC23 (cell division cycle 23, yeast, homolog)	1851	0.44380223751068115	-0.12856656	No	
+row_1	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.2222659	No	
+row_2	MIS12	MIS12	MIS12 homolog (yeast)	3245	0.22751417756080627	-0.21964553	No	
+row_3	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	3312	0.2170652151107788	-0.2156383	No	
+row_4	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	3475	0.19518601894378662	-0.22021577	No	
+row_5	PMF1	PMF1	polyamine-modulated factor 1	3663	0.17317144572734833	-0.22772543	No	
+row_6	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6	3756	0.16328968107700348	-0.22808604	No	
+row_7	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.24504189	No	
+row_8	ARL8A	ARL8A	ADP-ribosylation factor-like 8A	4973	0.0332295298576355	-0.31797773	No	
+row_9	ARL8B	ARL8B	ADP-ribosylation factor-like 8B	6328	-0.1143171414732933	-0.4210029	No	
+row_10	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	-0.41731682	No	
+row_11	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	7059	-0.1964007169008255	-0.4657538	No	
+row_12	RIOK3	RIOK3	RIO kinase 3 (yeast)	7286	-0.22463245689868927	-0.47417453	No	
+row_13	DDX11	DDX11	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)	7376	-0.23702646791934967	-0.47114807	No	
+row_14	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	8970	-0.5061472654342651	-0.57649195	No	
+row_15	SRPK1	SRPK1	SFRS protein kinase 1	9134	-0.5485095977783203	-0.56606483	No	
+row_16	INCENP	INCENP	inner centromere protein antigens 135/155kDa	10008	-0.870017409324646	-0.5984945	Yes	
+row_17	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	10740	-1.4173277616500854	-0.5962417	Yes	
+row_18	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	10749	-1.427571177482605	-0.5359328	Yes	
+row_19	SMC4	SMC4	structural maintenance of chromosomes 4	10803	-1.4876633882522583	-0.47664464	Yes	
+row_20	NCAPH	NCAPH	non-SMC condensin I complex, subunit H	10817	-1.5034481287002563	-0.41349483	Yes	
+row_21	BRCA1	BRCA1	breast cancer 1, early onset	11308	-2.179550886154175	-0.3594946	Yes	
+row_22	CDCA5	CDCA5	cell division cycle associated 5	11439	-2.4014649391174316	-0.2673305	Yes	
+row_23	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	11569	-2.6381497383117676	-0.16498204	Yes	
+row_24	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.051658448	Yes	
+row_25	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	0.07036979	Yes	

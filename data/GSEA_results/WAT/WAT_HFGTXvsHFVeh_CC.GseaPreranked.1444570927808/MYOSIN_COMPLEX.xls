@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYLPF	MYLPF	-	256	2.088697910308838	0.10518783	Yes	
+row_1	MYL9	MYL9	myosin, light chain 9, regulatory	334	1.7103999853134155	0.2018853	Yes	
+row_2	MYOM1	MYOM1	myomesin 1 (skelemin) 185kDa	336	1.702103614807129	0.3041354	Yes	
+row_3	MYL3	MYL3	myosin, light chain 3, alkali; ventricular, skeletal, slow	370	1.6005852222442627	0.3977343	Yes	
+row_4	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	1109	0.6895479559898376	0.380427	No	
+row_5	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1339	0.5910288095474243	0.39772546	No	
+row_6	MYO1C	MYO1C	myosin IC	3381	0.20758774876594543	0.24769261	No	
+row_7	SHROOM1	SHROOM1	shroom family member 1	3942	0.14057902991771698	0.21155462	No	
+row_8	BMF	BMF	Bcl2 modifying factor	4387	0.09241876751184464	0.18175767	No	
+row_9	DYNLL2	DYNLL2	dynein, light chain, LC8-type 2	5944	-0.07114356756210327	0.062139574	No	
+row_10	MYO6	MYO6	myosin VI	8188	-0.3466821014881134	-0.09561507	No	
+row_11	MYL4	MYL4	myosin, light chain 4, alkali; atrial, embryonic	9963	-0.8422038555145264	-0.18623541	No	
+row_12	MYH7	MYH7	myosin, heavy chain 7, cardiac muscle, beta	10494	-1.195779800415039	-0.15654646	No	
+row_13	MYO18B	MYO18B	myosin XVIIIB	11172	-1.9540375471115112	-0.092976116	No	
+row_14	MYH6	MYH6	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)	11978	-3.400723457336426	0.04737647	No	

@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	361	1.6206518411636353	-0.0014385872	No	
+row_1	PTHLH	PTHLH	parathyroid hormone-like hormone	368	1.6036961078643799	0.025141632	No	
+row_2	RLN1	RLN1	relaxin 1	398	1.523345708847046	0.04853229	No	
+row_3	EDN1	EDN1	endothelin 1	684	1.0133450031280518	0.042906463	No	
+row_4	STC2	STC2	stanniocalcin 2	898	0.8220879435539246	0.039794333	No	
+row_5	NMB	NMB	neuromedin B	1299	0.6074677109718323	0.018151086	No	
+row_6	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	1557	0.5231813192367554	0.006487395	No	
+row_7	PNOC	PNOC	prepronociceptin	4196	0.1124541237950325	-0.20194848	No	
+row_8	PENK	PENK	proenkephalin	4202	0.11200088262557983	-0.20045738	No	
+row_9	GRP	GRP	gastrin-releasing peptide	4696	0.057840146124362946	-0.2387894	No	
+row_10	NPY	NPY	neuropeptide Y	4805	0.04838487133383751	-0.24658407	No	
+row_11	INHBB	INHBB	inhibin, beta B (activin AB beta polypeptide)	5843	-0.05980415269732475	-0.3282572	No	
+row_12	GNRH1	GNRH1	gonadotropin-releasing hormone 1 (luteinizing-releasing hormone)	7939	-0.31455034017562866	-0.48998865	No	
+row_13	AGRP	AGRP	agouti related protein homolog (mouse)	8461	-0.4000298082828522	-0.5247795	No	
+row_14	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	-0.5760308	No	
+row_15	CCL25	CCL25	chemokine (C-C motif) ligand 25	9756	-0.7510629296302795	-0.60545695	No	
+row_16	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	10619	-1.298584222793579	-0.65227544	Yes	
+row_17	UTS2	UTS2	urotensin 2	10695	-1.363135576248169	-0.63525563	Yes	
+row_18	GHRL	GHRL	ghrelin/obestatin preprohormone	11069	-1.8174856901168823	-0.63432986	Yes	
+row_19	TSHB	TSHB	thyroid stimulating hormone, beta	11168	-1.9514389038085938	-0.60921764	Yes	
+row_20	VIP	VIP	vasoactive intestinal peptide	11357	-2.2473864555358887	-0.5862879	Yes	
+row_21	PYY	PYY	peptide YY	11385	-2.3114750385284424	-0.54943997	Yes	
+row_22	AMH	AMH	anti-Mullerian hormone	11403	-2.349652051925659	-0.51115054	Yes	
+row_23	INHA	INHA	inhibin, alpha	11521	-2.540454149246216	-0.477615	Yes	
+row_24	CHGB	CHGB	chromogranin B (secretogranin 1)	11643	-2.7816944122314453	-0.440328	Yes	
+row_25	CALCB	CALCB	calcitonin-related polypeptide, beta	11674	-2.8435089588165283	-0.39474243	Yes	
+row_26	UCN	UCN	urocortin	11933	-3.4007022380828857	-0.35793442	Yes	
+row_27	PTH	PTH	parathyroid hormone	11963	-3.400723457336426	-0.3028674	Yes	
+row_28	NPPB	NPPB	natriuretic peptide precursor B	12024	-3.470339298248291	-0.24909751	Yes	
+row_29	GIP	GIP	gastric inhibitory polypeptide	12317	-4.542231559753418	-0.19573978	Yes	
+row_30	PPY	PPY	pancreatic polypeptide	12431	-5.39022159576416	-0.11380215	Yes	
+row_31	TRH	TRH	thyrotropin-releasing hormone	12543	-7.41107702255249	0.0023921404	Yes	

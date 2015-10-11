@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYL9	MYL9	myosin, light chain 9, regulatory	334	1.7103999853134155	0.09171525	Yes	
+row_1	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	386	1.560939073562622	0.19563706	Yes	
+row_2	LMOD1	LMOD1	leiomodin 1 (smooth muscle)	412	1.481090784072876	0.29610643	Yes	
+row_3	TPM2	TPM2	tropomyosin 2 (beta)	501	1.2728229761123657	0.3771488	Yes	
+row_4	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	817	0.8738673329353333	0.41250685	Yes	
+row_5	CALD1	CALD1	caldesmon 1	1032	0.7333831191062927	0.44619283	Yes	
+row_6	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	1109	0.6895479559898376	0.4878406	Yes	
+row_7	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1339	0.5910288095474243	0.5104835	Yes	
+row_8	VCL	VCL	vinculin	1549	0.5260010361671448	0.5302213	Yes	
+row_9	MYLK	MYLK	myosin, light chain kinase	1890	0.435729444026947	0.53327745	Yes	
+row_10	SORBS1	SORBS1	sorbin and SH3 domain containing 1	2956	0.26350629329681396	0.46665967	No	
+row_11	TPM1	TPM1	tropomyosin 1 (alpha)	3318	0.21647830307483673	0.45287517	No	
+row_12	TLN1	TLN1	talin 1	4824	0.046913646161556244	0.3362194	No	
+row_13	TPM4	TPM4	tropomyosin 4	5689	-0.0447443462908268	0.27048114	No	
+row_14	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	5781	-0.05341246724128723	0.26692635	No	
+row_15	ITGA1	ITGA1	integrin, alpha 1	7144	-0.20586664974689484	0.1726595	No	
+row_16	TPM3	TPM3	tropomyosin 3	7645	-0.2693158984184265	0.15145634	No	
+row_17	SORBS3	SORBS3	sorbin and SH3 domain containing 3	7681	-0.27555155754089355	0.16773044	No	
+row_18	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	7773	-0.2886259853839874	0.1804476	No	
+row_19	ITGB5	ITGB5	integrin, beta 5	8217	-0.3514096736907959	0.16946474	No	
+row_20	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	9189	-0.566962718963623	0.13132873	No	
+row_21	ACTG2	ACTG2	actin, gamma 2, smooth muscle, enteric	11197	-1.9975597858428955	0.109624	No	

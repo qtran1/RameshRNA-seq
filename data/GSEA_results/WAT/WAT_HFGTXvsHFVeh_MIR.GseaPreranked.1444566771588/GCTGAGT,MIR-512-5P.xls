@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNA6	KCNA6	potassium voltage-gated channel, shaker-related subfamily, member 6	264	2.0447802543640137	0.06874448	Yes	
+row_1	DLGAP2	DLGAP2	discs, large (Drosophila) homolog-associated protein 2	281	1.9649780988693237	0.15377626	Yes	
+row_2	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.22347216	Yes	
+row_3	VNN3	VNN3	vanin 3	421	1.449238657951355	0.2806633	Yes	
+row_4	RARG	RARG	retinoic acid receptor, gamma	1201	0.6475101113319397	0.24693345	No	
+row_5	FAM60A	FAM60A	family with sequence similarity 60, member A	1652	0.4975998103618622	0.23287596	No	
+row_6	CHD9	CHD9	chromodomain helicase DNA binding protein 9	1732	0.4730737805366516	0.24735016	No	
+row_7	PDSS2	PDSS2	prenyl (decaprenyl) diphosphate synthase, subunit 2	2383	0.34369605779647827	0.21057099	No	
+row_8	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	2429	0.3371482789516449	0.22178835	No	
+row_9	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	2702	0.2985166013240814	0.21319233	No	
+row_10	THTPA	THTPA	thiamine triphosphatase	2741	0.2945084869861603	0.22309546	No	
+row_11	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	3346	0.21248728036880493	0.18422434	No	
+row_12	PLEKHM1	PLEKHM1	pleckstrin homology domain containing, family M (with RUN domain) member 1	3598	0.18148191273212433	0.17216372	No	
+row_13	DDX6	DDX6	DEAD (Asp-Glu-Ala-Asp) box polypeptide 6	3725	0.16752170026302338	0.169466	No	
+row_14	RAB10	RAB10	RAB10, member RAS oncogene family	4384	0.09272205829620361	0.12102472	No	
+row_15	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	4392	0.09167133271694183	0.124492586	No	
+row_16	PTMA	PTMA	prothymosin, alpha (gene sequence 28)	4397	0.0906979888677597	0.12815712	No	
+row_17	MBD6	MBD6	methyl-CpG binding domain protein 6	4423	0.08836840093135834	0.13004336	No	
+row_18	TAZ	TAZ	tafazzin (cardiomyopathy, dilated 3A (X-linked); endocardial fibroelastosis 2; Barth syndrome)	4473	0.0836816281080246	0.12980834	No	
+row_19	GRK6	GRK6	G protein-coupled receptor kinase 6	4755	0.05209571123123169	0.109670386	No	
+row_20	FBXW11	FBXW11	F-box and WD-40 domain protein 11	4837	0.04582633450627327	0.10521875	No	
+row_21	SLC10A3	SLC10A3	solute carrier family 10 (sodium/bile acid cotransporter family), member 3	5532	-0.028754226863384247	0.05109467	No	
+row_22	RHOT1	RHOT1	ras homolog gene family, member T1	5698	-0.04587434232234955	0.039941236	No	
+row_23	FNBP1L	FNBP1L	formin binding protein 1-like	5846	-0.06032603234052658	0.030859124	No	
+row_24	PRIMA1	PRIMA1	proline rich membrane anchor 1	6607	-0.14594335854053497	-0.023384962	No	
+row_25	ZDHHC9	ZDHHC9	zinc finger, DHHC-type containing 9	6840	-0.172617569565773	-0.034318555	No	
+row_26	ERP29	ERP29	endoplasmic reticulum protein 29	7342	-0.2322281152009964	-0.06410232	No	
+row_27	TBL1XR1	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	7449	-0.24460472166538239	-0.061818123	No	
+row_28	RANBP9	RANBP9	RAN binding protein 9	7527	-0.25382542610168457	-0.056814473	No	
+row_29	SRPK2	SRPK2	SFRS protein kinase 2	7575	-0.2604694068431854	-0.04912474	No	
+row_30	GNAZ	GNAZ	guanine nucleotide binding protein (G protein), alpha z polypeptide	7818	-0.2950761318206787	-0.05547761	No	
+row_31	NUDT18	NUDT18	nudix (nucleoside diphosphate linked moiety X)-type motif 18	7872	-0.3024638295173645	-0.046422187	No	
+row_32	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	8212	-0.3509095013141632	-0.05806408	No	
+row_33	EMX2	EMX2	empty spiracles homolog 2 (Drosophila)	8246	-0.3562580645084381	-0.04504966	No	
+row_34	COPZ1	COPZ1	coatomer protein complex, subunit zeta 1	8445	-0.3952750265598297	-0.04348987	No	
+row_35	RAB3B	RAB3B	RAB3B, member RAS oncogene family	8568	-0.42001041769981384	-0.034778174	No	
+row_36	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	-0.061926827	No	
+row_37	RALGPS1	RALGPS1	Ral GEF with PH domain and SH3 binding motif 1	9549	-0.676193118095398	-0.057844575	No	
+row_38	XKR6	XKR6	XK, Kell blood group complex subunit-related family, member 6	9555	-0.678712785243988	-0.028432174	No	
+row_39	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	9713	-0.7316495776176453	-0.00882549	No	
+row_40	PHF6	PHF6	PHD finger protein 6	10506	-1.203766107559204	-0.019160166	No	
+row_41	USP20	USP20	ubiquitin specific peptidase 20	10512	-1.2088640928268433	0.033538334	No	
+row_42	MAP1A	MAP1A	microtubule-associated protein 1A	10738	-1.4158462285995483	0.07777035	No	
+row_43	SOX21	SOX21	SRY (sex determining region Y)-box 21	10862	-1.5617692470550537	0.13655229	No	

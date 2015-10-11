@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BNIP3	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	1129	0.6814426183700562	-0.0651694	No	
+row_1	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	1793	0.4592854380607605	-0.101288125	No	
+row_2	NDUFA13	NDUFA13	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 13	1819	0.45334944128990173	-0.08677816	No	
+row_3	ATXN7	ATXN7	ataxin 7	2759	0.2922491133213043	-0.15097268	No	
+row_4	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	3002	0.2570174038410187	-0.16090298	No	
+row_5	NUMA1	NUMA1	nuclear mitotic apparatus protein 1	3104	0.2454601228237152	-0.1600171	No	
+row_6	DEDD2	DEDD2	death effector domain containing 2	3513	0.19125786423683167	-0.1855703	No	
+row_7	ACIN1	ACIN1	apoptotic chromatin condensation inducer 1	3958	0.1385989785194397	-0.2159093	No	
+row_8	PML	PML	promyelocytic leukemia	4020	0.1314111351966858	-0.21598715	No	
+row_9	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	4845	0.04466701298952103	-0.28002906	No	
+row_10	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5929	-0.06949247419834137	-0.36380807	No	
+row_11	CYCS	CYCS	cytochrome c, somatic	6206	-0.10058719664812088	-0.38214213	No	
+row_12	PPT1	PPT1	palmitoyl-protein thioesterase 1 (ceroid-lipofuscinosis, neuronal 1, infantile)	8333	-0.3729259967803955	-0.5379967	No	
+row_13	BAX	BAX	BCL2-associated X protein	8839	-0.47119641304016113	-0.56109023	No	
+row_14	CECR2	CECR2	cat eye syndrome chromosome region, candidate 2	9519	-0.6637428998947144	-0.5910416	No	
+row_15	SYCP3	SYCP3	synaptonemal complex protein 3	10223	-0.9944158792495728	-0.6108689	Yes	
+row_16	CDKN2A	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	10414	-1.1359782218933105	-0.5846601	Yes	
+row_17	CIDEA	CIDEA	cell death-inducing DFFA-like effector a	10783	-1.4625335931777954	-0.56075	Yes	
+row_18	TSSK6	TSSK6	testis-specific serine kinase 6	10988	-1.7259173393249512	-0.51418275	Yes	
+row_19	FOXL2	FOXL2	forkhead box L2	11009	-1.7522993087768555	-0.45199138	Yes	
+row_20	MOAP1	MOAP1	modulator of apoptosis 1	11404	-2.350144863128662	-0.3978435	Yes	
+row_21	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	11427	-2.38106107711792	-0.3129241	Yes	
+row_22	TPD52L1	TPD52L1	tumor protein D52-like 1	11468	-2.457331418991089	-0.22666286	Yes	
+row_23	H1FNT	H1FNT	H1 histone family, member N, testis-specific	11535	-2.56817626953125	-0.13843884	Yes	
+row_24	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	11569	-2.6381497383117676	-0.0450378	Yes	
+row_25	WBP2NL	WBP2NL	WBP2 N-terminal like	12008	-3.433182716369629	0.045027062	Yes	

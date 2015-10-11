@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CREB5	CREB5	cAMP responsive element binding protein 5	1326	0.5981684327125549	-0.07482388	No	
+row_1	VAMP1	VAMP1	vesicle-associated membrane protein 1 (synaptobrevin 1)	1532	0.5303001999855042	-0.063860364	No	
+row_2	MAP4K5	MAP4K5	mitogen-activated protein kinase kinase kinase kinase 5	2067	0.3998911678791046	-0.085810594	No	
+row_3	SLC9A9	SLC9A9	solute carrier family 9 (sodium/hydrogen exchanger), member 9	3808	0.15808439254760742	-0.2162544	No	
+row_4	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	4982	0.032611530274152756	-0.3079976	No	
+row_5	TCF4	TCF4	transcription factor 4	5322	-0.003431649412959814	-0.33482006	No	
+row_6	SENP1	SENP1	SUMO1/sentrin specific peptidase 1	6304	-0.11243222653865814	-0.40716404	No	
+row_7	RNF11	RNF11	ring finger protein 11	6605	-0.14580731093883514	-0.42355347	No	
+row_8	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	7220	-0.2166452705860138	-0.46130535	No	
+row_9	PCF11	PCF11	PCF11, cleavage and polyadenylation factor subunit, homolog (S. cerevisiae)	7715	-0.2800188362598419	-0.48623875	No	
+row_10	SCUBE3	SCUBE3	signal peptide, CUB domain, EGF-like 3	7795	-0.2912648916244507	-0.47754145	No	
+row_11	ARPC2	ARPC2	actin related protein 2/3 complex, subunit 2, 34kDa	8695	-0.4419476091861725	-0.5263971	No	
+row_12	USP2	USP2	ubiquitin specific peptidase 2	10441	-1.1569892168045044	-0.6058334	Yes	
+row_13	KLF14	KLF14	Kruppel-like factor 14	10622	-1.3003606796264648	-0.5532499	Yes	
+row_14	GRIN2B	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	10977	-1.7127258777618408	-0.4933031	Yes	
+row_15	MAP2	MAP2	microtubule-associated protein 2	11858	-3.229663848876953	-0.3971838	Yes	
+row_16	PDHA2	PDHA2	pyruvate dehydrogenase (lipoamide) alpha 2	12280	-4.391786098480225	-0.20470305	Yes	
+row_17	IL17B	IL17B	interleukin 17B	12288	-4.429644584655762	0.022698281	Yes	

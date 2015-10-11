@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYBPC1	MYBPC1	myosin binding protein C, slow type	8	6.56673526763916	0.1448045	Yes	
+row_1	MYOT	MYOT	myotilin	94	3.468010425567627	0.21483847	Yes	
+row_2	TCAP	TCAP	titin-cap (telethonin)	129	2.9510483741760254	0.27748862	Yes	
+row_3	MYLPF	MYLPF	-	256	2.088697910308838	0.31370437	Yes	
+row_4	MYL9	MYL9	myosin, light chain 9, regulatory	334	1.7103999853134155	0.34544802	Yes	
+row_5	MYOM1	MYOM1	myomesin 1 (skelemin) 185kDa	336	1.702103614807129	0.38306707	Yes	
+row_6	MYL3	MYL3	myosin, light chain 3, alkali; ventricular, skeletal, slow	370	1.6005852222442627	0.41588643	Yes	
+row_7	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	386	1.560939073562622	0.44926274	Yes	
+row_8	TPM2	TPM2	tropomyosin 2 (beta)	501	1.2728229761123657	0.46836492	Yes	
+row_9	ACTN3	ACTN3	actinin, alpha 3	586	1.1489869356155396	0.48711613	Yes	
+row_10	MYBPC2	MYBPC2	myosin binding protein C, fast type	840	0.8535370230674744	0.48584995	Yes	
+row_11	ACTC1	ACTC1	actin, alpha, cardiac muscle 1	1008	0.7470893263816833	0.48908252	Yes	
+row_12	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	1109	0.6895479559898376	0.4963823	Yes	
+row_13	SORBS2	SORBS2	sorbin and SH3 domain containing 2	1168	0.6637482643127441	0.5064591	Yes	
+row_14	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1339	0.5910288095474243	0.50599605	No	
+row_15	ASPH	ASPH	aspartate beta-hydroxylase	1578	0.5158304572105408	0.4984461	No	
+row_16	NEB	NEB	nebulin	2361	0.3474959135055542	0.44379705	No	
+row_17	SMTN	SMTN	smoothelin	2611	0.3134456276893616	0.43088764	No	
+row_18	TTN	TTN	titin	3115	0.24387218058109283	0.39618695	No	
+row_19	TPM1	TPM1	tropomyosin 1 (alpha)	3318	0.21647830307483673	0.384877	No	
+row_20	MYOM2	MYOM2	myomesin (M-protein) 2, 165kDa	3498	0.19267407059669495	0.3748735	No	
+row_21	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	0.21890941	No	
+row_22	TPM4	TPM4	tropomyosin 4	5689	-0.0447443462908268	0.20180269	No	
+row_23	ACTN2	ACTN2	actinin, alpha 2	7151	-0.2067621946334839	0.08990282	No	
+row_24	KRT19	KRT19	keratin 19	10235	-1.0033159255981445	-0.13366987	No	
+row_25	MYH7	MYH7	myosin, heavy chain 7, cardiac muscle, beta	10494	-1.195779800415039	-0.12775458	No	
+row_26	MYBPC3	MYBPC3	myosin binding protein C, cardiac	11164	-1.9452438354492188	-0.13800718	No	
+row_27	MYBPH	MYBPH	myosin binding protein H	11176	-1.9607107639312744	-0.095457666	No	
+row_28	NEBL	NEBL	nebulette	11367	-2.2788145542144775	-0.0601336	No	
+row_29	MYH6	MYH6	myosin, heavy chain 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)	11978	-3.400723457336426	-0.033445917	No	
+row_30	MYL2	MYL2	myosin, light chain 2, regulatory, cardiac, slow	12115	-3.6482627391815186	0.03651435	No	

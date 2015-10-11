@@ -1,0 +1,131 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MID1	MID1	midline 1 (Opitz/BBB syndrome)	587	1.1453427076339722	-0.03611725	No	
+row_1	KIF5A	KIF5A	kinesin family member 5A	1138	0.6780190467834473	-0.07377148	No	
+row_2	PKD2	PKD2	polycystic kidney disease 2 (autosomal dominant)	1370	0.5779781341552734	-0.08675638	No	
+row_3	TUBGCP5	TUBGCP5	tubulin, gamma complex associated protein 5	1769	0.46382462978363037	-0.11426314	No	
+row_4	DCTN4	DCTN4	dynactin 4 (p62)	1908	0.43207430839538574	-0.12118273	No	
+row_5	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	2491	0.3283534348011017	-0.16478321	No	
+row_6	KIF5B	KIF5B	kinesin family member 5B	2496	0.32787224650382996	-0.16194025	No	
+row_7	EML1	EML1	echinoderm microtubule associated protein like 1	2524	0.3244436979293823	-0.16097866	No	
+row_8	LYST	LYST	lysosomal trafficking regulator	2580	0.3164025843143463	-0.16234475	No	
+row_9	KIF1B	KIF1B	kinesin family member 1B	2595	0.3151375949382782	-0.1604283	No	
+row_10	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	2667	0.30605044960975647	-0.16318007	No	
+row_11	NIN	NIN	ninein (GSK3B interacting protein)	2671	0.30466464161872864	-0.16048072	No	
+row_12	CLASP2	CLASP2	cytoplasmic linker associated protein 2	2735	0.295223206281662	-0.16269411	No	
+row_13	ACTR1B	ACTR1B	ARP1 actin-related protein 1 homolog B, centractin beta (yeast)	2783	0.2885086238384247	-0.16368654	No	
+row_14	ATG4B	ATG4B	ATG4 autophagy related 4 homolog B (S. cerevisiae)	2915	0.269015908241272	-0.17161734	No	
+row_15	DYNC1LI2	DYNC1LI2	dynein, cytoplasmic 1, light intermediate chain 2	2927	0.2673569619655609	-0.16992095	No	
+row_16	PPP4R2	PPP4R2	protein phosphatase 4, regulatory subunit 2	2933	0.26679420471191406	-0.16774784	No	
+row_17	TBCE	TBCE	tubulin-specific chaperone e	3091	0.24686163663864136	-0.17798182	No	
+row_18	MEFV	MEFV	Mediterranean fever	3096	0.24645672738552094	-0.17592463	No	
+row_19	NUMA1	NUMA1	nuclear mitotic apparatus protein 1	3104	0.2454601228237152	-0.17411813	No	
+row_20	APC	APC	adenomatosis polyposis coli	3271	0.22276748716831207	-0.18530789	No	
+row_21	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	3312	0.2170652151107788	-0.18642733	No	
+row_22	MAP1S	MAP1S	microtubule-associated protein 1S	3463	0.19618885219097137	-0.19658785	No	
+row_23	DCTN3	DCTN3	dynactin 3 (p22)	3539	0.18804624676704407	-0.20079994	No	
+row_24	LATS2	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	3736	0.1658667027950287	-0.21494967	No	
+row_25	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	3906	0.14540790021419525	-0.22712713	No	
+row_26	APPBP2	APPBP2	amyloid beta precursor protein (cytoplasmic tail) binding protein 2	4002	0.13329477608203888	-0.23347487	No	
+row_27	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	4034	0.1296258270740509	-0.23471497	No	
+row_28	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.233789	No	
+row_29	ATG4A	ATG4A	ATG4 autophagy related 4 homolog A (S. cerevisiae)	4114	0.1203944981098175	-0.23857367	No	
+row_30	TPT1	TPT1	tumor protein, translationally-controlled 1	4334	0.0977751612663269	-0.25522885	No	
+row_31	CEP250	CEP250	centrosomal protein 250kDa	4378	0.09327416121959686	-0.25778413	No	
+row_32	NEDD9	NEDD9	neural precursor cell expressed, developmentally down-regulated 9	4513	0.07906777411699295	-0.26778924	No	
+row_33	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.26857516	No	
+row_34	KPTN	KPTN	kaptin (actin binding protein)	4578	0.07106800377368927	-0.2714251	No	
+row_35	ARL8A	ARL8A	ADP-ribosylation factor-like 8A	4973	0.0332295298576355	-0.30276623	No	
+row_36	RABGAP1	RABGAP1	RAB GTPase activating protein 1	5157	0.013364584185183048	-0.31734315	No	
+row_37	MAP1B	MAP1B	microtubule-associated protein 1B	5480	-0.02222689427435398	-0.34300455	No	
+row_38	STAU1	STAU1	staufen, RNA binding protein, homolog 1 (Drosophila)	5516	-0.026476258412003517	-0.34556162	No	
+row_39	EML2	EML2	echinoderm microtubule associated protein like 2	5687	-0.04442792013287544	-0.35879403	No	
+row_40	NUDT21	NUDT21	nudix (nucleoside diphosphate linked moiety X)-type motif 21	5738	-0.04945775493979454	-0.3623347	No	
+row_41	MAP4	MAP4	microtubule-associated protein 4	5777	-0.053181905299425125	-0.3648751	No	
+row_42	KIF3C	KIF3C	kinesin family member 3C	5822	-0.05797845497727394	-0.36785138	No	
+row_43	MAPRE1	MAPRE1	microtubule-associated protein, RP/EB family, member 1	5949	-0.07139203697443008	-0.37728772	No	
+row_44	KLC2	KLC2	kinesin light chain 2	6047	-0.08307261765003204	-0.38428086	No	
+row_45	TUBD1	TUBD1	tubulin, delta 1	6105	-0.08949072659015656	-0.3879977	No	
+row_46	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	6119	-0.09058672189712524	-0.38816807	No	
+row_47	ATG4C	ATG4C	ATG4 autophagy related 4 homolog C (S. cerevisiae)	6170	-0.09693203866481781	-0.39125055	No	
+row_48	ARL8B	ARL8B	ADP-ribosylation factor-like 8B	6328	-0.1143171414732933	-0.40276375	No	
+row_49	UXT	UXT	ubiquitously-expressed transcript	6375	-0.11910621076822281	-0.40531078	No	
+row_50	AKAP9	AKAP9	A kinase (PRKA) anchor protein (yotiao) 9	6440	-0.12819504737854004	-0.40921658	No	
+row_51	SIRT2	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	6516	-0.1370304375886917	-0.41392106	No	
+row_52	CDC16	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	6633	-0.14987698197364807	-0.4217963	No	
+row_53	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	6795	-0.16840671002864838	-0.43310893	No	
+row_54	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.4440928	No	
+row_55	TBCC	TBCC	tubulin-specific chaperone c	6973	-0.18759311735630035	-0.4436484	No	
+row_56	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	7032	-0.19266651570796967	-0.4464498	No	
+row_57	ACTR1A	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast)	7056	-0.19580616056919098	-0.44640827	No	
+row_58	NPM1	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	7095	-0.19997690618038177	-0.4475319	No	
+row_59	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	7180	-0.20963603258132935	-0.45225888	No	
+row_60	CLASP1	CLASP1	cytoplasmic linker associated protein 1	7215	-0.21561653912067413	-0.45291016	No	
+row_61	PXN	PXN	paxillin	7393	-0.23813551664352417	-0.46483555	No	
+row_62	CDC27	CDC27	cell division cycle 27	7481	-0.24842962622642517	-0.4694292	No	
+row_63	RANBP9	RANBP9	RAN binding protein 9	7527	-0.25382542610168457	-0.47059563	No	
+row_64	DCTN2	DCTN2	dynactin 2 (p50)	7560	-0.2576027512550354	-0.47068095	No	
+row_65	HDAC6	HDAC6	histone deacetylase 6	7688	-0.27641406655311584	-0.4782189	No	
+row_66	SAC3D1	SAC3D1	SAC3 domain containing 1	7761	-0.286496639251709	-0.48123977	No	
+row_67	ATG4D	ATG4D	ATG4 autophagy related 4 homolog D (S. cerevisiae)	7859	-0.3006230890750885	-0.48613328	No	
+row_68	PKHD1	PKHD1	polycystic kidney and hepatic disease 1 (autosomal recessive)	7860	-0.3007543087005615	-0.4832306	No	
+row_69	KIF5C	KIF5C	kinesin family member 5C	7904	-0.3091478645801544	-0.4837024	No	
+row_70	PCM1	PCM1	pericentriolar material 1	7979	-0.32038161158561707	-0.48655692	No	
+row_71	CETN3	CETN3	centrin, EF-hand protein, 3 (CDC31 homolog, yeast)	7993	-0.32283803820610046	-0.48448578	No	
+row_72	TUBGCP6	TUBGCP6	tubulin, gamma complex associated protein 6	8254	-0.35803794860839844	-0.50192386	No	
+row_73	BBS4	BBS4	Bardet-Biedl syndrome 4	8338	-0.37388235330581665	-0.5049853	No	
+row_74	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.50695693	No	
+row_75	LCK	LCK	lymphocyte-specific protein tyrosine kinase	8473	-0.40201088786125183	-0.5080593	No	
+row_76	FBXO5	FBXO5	F-box protein 5	8615	-0.4281422793865204	-0.51525795	No	
+row_77	KIF3B	KIF3B	kinesin family member 3B	8677	-0.4383038878440857	-0.5159297	No	
+row_78	GAS8	GAS8	growth arrest-specific 8	8797	-0.46320968866348267	-0.52102196	No	
+row_79	TBCD	TBCD	tubulin-specific chaperone d	8883	-0.4845028519630432	-0.52317643	No	
+row_80	CKAP5	CKAP5	cytoskeleton associated protein 5	8941	-0.4990576505661011	-0.5229404	No	
+row_81	CNTROB	CNTROB	centrobin, centrosomal BRCA2 interacting protein	8956	-0.5043971538543701	-0.51919734	No	
+row_82	MARK4	MARK4	MAP/microtubule affinity-regulating kinase 4	8972	-0.5062717199325562	-0.5155165	No	
+row_83	KIFC3	KIFC3	kinesin family member C3	8991	-0.5108067989349365	-0.51203305	No	
+row_84	TUBE1	TUBE1	tubulin, epsilon 1	9029	-0.5204501748085022	-0.50998336	No	
+row_85	KIFAP3	KIFAP3	kinesin-associated protein 3	9044	-0.5234997868537903	-0.5060559	No	
+row_86	MAPT	MAPT	microtubule-associated protein tau	9255	-0.5844261646270752	-0.517291	No	
+row_87	PCGF5	PCGF5	polycomb group ring finger 5	9324	-0.6072906255722046	-0.51689434	No	
+row_88	MARK1	MARK1	MAP/microtubule affinity-regulating kinase 1	9361	-0.6174326539039612	-0.5138283	No	
+row_89	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	9544	-0.6727580428123474	-0.5219608	No	
+row_90	CROCC	CROCC	ciliary rootlet coiled-coil, rootletin	9564	-0.6813628077507019	-0.51691157	No	
+row_91	TUBGCP2	TUBGCP2	tubulin, gamma complex associated protein 2	9610	-0.6966150999069214	-0.5138045	No	
+row_92	CEP57	CEP57	centrosomal protein 57kDa	9903	-0.8199424147605896	-0.5293561	No	
+row_93	INCENP	INCENP	inner centromere protein antigens 135/155kDa	10008	-0.870017409324646	-0.5293167	No	
+row_94	SEPT9	SEPT9	septin 9	10254	-1.0127085447311401	-0.53923094	No	
+row_95	KIF23	KIF23	kinesin family member 23	10420	-1.1424405574798584	-0.54146427	Yes	
+row_96	POLB	POLB	polymerase (DNA directed), beta	10463	-1.1724586486816406	-0.5335236	Yes	
+row_97	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	10538	-1.231215000152588	-0.5275874	Yes	
+row_98	MAP7	MAP7	microtubule-associated protein 7	10666	-1.3422176837921143	-0.5248389	Yes	
+row_99	BRCA2	BRCA2	breast cancer 2, early onset	10701	-1.3711161613464355	-0.5143381	Yes	
+row_100	CEP63	CEP63	centrosomal protein 63kDa	10735	-1.4149115085601807	-0.50333416	Yes	
+row_101	MAP1A	MAP1A	microtubule-associated protein 1A	10738	-1.4158462285995483	-0.4898301	Yes	
+row_102	ESPL1	ESPL1	extra spindle poles like 1 (S. cerevisiae)	10749	-1.427571177482605	-0.47685575	Yes	
+row_103	AURKA	AURKA	aurora kinase A	10762	-1.4459120035171509	-0.4638651	Yes	
+row_104	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	10877	-1.5859311819076538	-0.4577198	Yes	
+row_105	PRC1	PRC1	protein regulator of cytokinesis 1	10930	-1.6631022691726685	-0.4458474	Yes	
+row_106	SASS6	SASS6	spindle assembly 6 homolog (C. elegans)	11014	-1.7575469017028809	-0.4355546	Yes	
+row_107	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	-0.4189974	Yes	
+row_108	ALMS1	ALMS1	Alstrom syndrome 1	11094	-1.847001552581787	-0.4069573	Yes	
+row_109	CDC20	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	11100	-1.8617587089538574	-0.38939068	Yes	
+row_110	CCNA1	CCNA1	cyclin A1	11111	-1.8802160024642944	-0.3720477	Yes	
+row_111	KIF2C	KIF2C	kinesin family member 2C	11198	-1.9976617097854614	-0.35967857	Yes	
+row_112	KNTC1	KNTC1	kinetochore associated 1	11211	-2.0195915699005127	-0.34115115	Yes	
+row_113	CEP290	CEP290	centrosomal protein 290kDa	11297	-2.1597251892089844	-0.32713753	Yes	
+row_114	TPX2	TPX2	TPX2, microtubule-associated, homolog (Xenopus laevis)	11314	-2.1869397163391113	-0.30731642	Yes	
+row_115	AURKC	AURKC	aurora kinase C	11331	-2.211221933364868	-0.28726095	Yes	
+row_116	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	11379	-2.3037524223327637	-0.2688036	Yes	
+row_117	PLK1	PLK1	polo-like kinase 1 (Drosophila)	11486	-2.4804937839508057	-0.2533817	Yes	
+row_118	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	11569	-2.6381497383117676	-0.23450959	Yes	
+row_119	DYNC1I1	DYNC1I1	dynein, cytoplasmic 1, intermediate chain 1	11603	-2.7065491676330566	-0.21103968	Yes	
+row_120	KIF11	KIF11	kinesin family member 11	11615	-2.7345051765441895	-0.18553203	Yes	
+row_121	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.16301228	Yes	
+row_122	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.13560365	Yes	
+row_123	KIF15	KIF15	kinesin family member 15	11705	-2.919687509536743	-0.109112345	Yes	
+row_124	DNALI1	DNALI1	dynein, axonemal, light intermediate chain 1	11707	-2.926267385482788	-0.08095034	Yes	
+row_125	CCNB2	CCNB2	cyclin B2	11715	-2.9466135501861572	-0.05307413	Yes	
+row_126	TTK	TTK	TTK protein kinase	11721	-2.9544851779937744	-0.024961228	Yes	
+row_127	CTAG2	CTAG2	cancer/testis antigen 2	11746	-3.0108401775360107	0.0021687364	Yes	
+row_128	MAP2	MAP2	microtubule-associated protein 2	11858	-3.229663848876953	0.024419317	Yes	
+row_129	CETN1	CETN1	centrin, EF-hand protein, 1	12000	-3.4148449897766113	0.04604634	Yes	

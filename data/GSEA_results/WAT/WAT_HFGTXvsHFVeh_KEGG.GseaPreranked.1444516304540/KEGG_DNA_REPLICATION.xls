@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPA3	RPA3	replication protein A3, 14kDa	1606	0.5091171860694885	-0.10156182	No	
+row_1	SSBP1	SSBP1	single-stranded DNA binding protein 1	3057	0.25136837363243103	-0.20409538	No	
+row_2	MCM4	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	3331	0.2144666314125061	-0.21470414	No	
+row_3	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	4245	0.107349693775177	-0.28191444	No	
+row_4	RNASEH1	RNASEH1	ribonuclease H1	5239	0.004693919792771339	-0.36084422	No	
+row_5	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	5470	-0.02123013511300087	-0.37807804	No	
+row_6	POLA2	POLA2	polymerase (DNA directed), alpha 2 (70kD subunit)	5502	-0.024824077263474464	-0.37925822	No	
+row_7	RPA1	RPA1	replication protein A1, 70kDa	5886	-0.0648488998413086	-0.40642172	No	
+row_8	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	6277	-0.10935581475496292	-0.43182775	No	
+row_9	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	6858	-0.17400890588760376	-0.46901917	No	
+row_10	RNASEH2C	RNASEH2C	ribonuclease H2, subunit C	7015	-0.1907259076833725	-0.47153446	No	
+row_11	RPA2	RPA2	replication protein A2, 32kDa	7718	-0.2805340886116028	-0.512911	Yes	
+row_12	PRIM1	PRIM1	primase, polypeptide 1, 49kDa	7900	-0.3087827265262604	-0.51127744	Yes	
+row_13	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	8134	-0.3380102813243866	-0.51226926	Yes	
+row_14	MCM6	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	8393	-0.3841431736946106	-0.5128543	Yes	
+row_15	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	8455	-0.3987380266189575	-0.4969727	Yes	
+row_16	MCM3	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	8504	-0.40808168053627014	-0.4795685	Yes	
+row_17	POLA1	POLA1	polymerase (DNA directed), alpha 1	8567	-0.42000526189804077	-0.46266022	Yes	
+row_18	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	8790	-0.46166908740997314	-0.45634142	Yes	
+row_19	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	9371	-0.6203334331512451	-0.47031185	Yes	
+row_20	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	9471	-0.648901641368866	-0.4444448	Yes	
+row_21	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	9525	-0.6661525368690491	-0.41401255	Yes	
+row_22	RNASEH2B	RNASEH2B	ribonuclease H2, subunit B	9613	-0.6974877119064331	-0.38466096	Yes	
+row_23	PCNA	PCNA	proliferating cell nuclear antigen	9891	-0.8143903613090515	-0.3643763	Yes	
+row_24	RFC3	RFC3	replication factor C (activator 1) 3, 38kDa	9996	-0.8619749546051025	-0.32782233	Yes	
+row_25	MCM5	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	10283	-1.0318573713302612	-0.2969411	Yes	
+row_26	LIG1	LIG1	ligase I, DNA, ATP-dependent	10311	-1.0569075345993042	-0.24410595	Yes	
+row_27	POLE	POLE	polymerase (DNA directed), epsilon	10371	-1.107898473739624	-0.19116932	Yes	
+row_28	FEN1	FEN1	flap structure-specific endonuclease 1	10543	-1.2366714477539062	-0.140463	Yes	
+row_29	POLE2	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	10944	-1.6760121583938599	-0.08515766	Yes	
+row_30	RNASEH2A	RNASEH2A	ribonuclease H2, subunit A	11115	-1.8838380575180054	-7.013546E-4	Yes	
+row_31	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	11356	-2.246346950531006	0.097034015	Yes	

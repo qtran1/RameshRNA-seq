@@ -1,0 +1,52 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DUSP10	DUSP10	dual specificity phosphatase 10	305	1.8462793827056885	0.015397209	No	
+row_1	HOXA6	HOXA6	homeobox A6	787	0.8947742581367493	-0.0037466572	No	
+row_2	FZD5	FZD5	frizzled homolog 5 (Drosophila)	989	0.7608019709587097	-0.0034162323	No	
+row_3	HHEX	HHEX	homeobox, hematopoietically expressed	1059	0.7137340903282166	0.006441374	No	
+row_4	HOXA2	HOXA2	homeobox A2	1091	0.7007564902305603	0.019053975	No	
+row_5	KAZALD1	KAZALD1	Kazal-type serine peptidase inhibitor domain 1	1193	0.6511310935020447	0.025008375	No	
+row_6	FLNA	FLNA	filamin A, alpha (actin binding protein 280)	1320	0.6005871891975403	0.02787818	No	
+row_7	TSC22D3	TSC22D3	TSC22 domain family, member 3	2425	0.33781182765960693	-0.05300615	No	
+row_8	CAMTA2	CAMTA2	calmodulin binding transcription activator 2	2535	0.3229029178619385	-0.054757684	No	
+row_9	KIF1B	KIF1B	kinesin family member 1B	2595	0.3151375949382782	-0.052683763	No	
+row_10	NOL11	NOL11	nucleolar protein 11	2945	0.2653888165950775	-0.07483838	No	
+row_11	CRBN	CRBN	cereblon	3254	0.22599458694458008	-0.09456721	No	
+row_12	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	3792	0.1596394032239914	-0.1340111	No	
+row_13	GADD45B	GADD45B	growth arrest and DNA-damage-inducible, beta	4252	0.10664099454879761	-0.16836756	No	
+row_14	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	4277	0.10389108955860138	-0.16804715	No	
+row_15	POU2F1	POU2F1	POU domain, class 2, transcription factor 1	4708	0.05715090036392212	-0.20115344	No	
+row_16	DNAJC11	DNAJC11	DnaJ (Hsp40) homolog, subfamily C, member 11	5307	-0.0017580055864527822	-0.24886772	No	
+row_17	GRIK3	GRIK3	glutamate receptor, ionotropic, kainate 3	5444	-0.01865346170961857	-0.2593261	No	
+row_18	GLTSCR2	GLTSCR2	glioma tumor suppressor candidate region gene 2	5469	-0.021164847537875175	-0.2607869	No	
+row_19	GNAS	GNAS	GNAS complex locus	5543	-0.030139274895191193	-0.26596722	No	
+row_20	DLL4	DLL4	delta-like 4 (Drosophila)	5729	-0.0484941340982914	-0.27969593	No	
+row_21	RASAL2	RASAL2	RAS protein activator like 2	6256	-0.10685563832521439	-0.3193979	No	
+row_22	FRS3	FRS3	fibroblast growth factor receptor substrate 3	6470	-0.1307723969221115	-0.33359095	No	
+row_23	FUCA1	FUCA1	fucosidase, alpha-L- 1, tissue	6814	-0.17076478898525238	-0.3573038	No	
+row_24	CLDN1	CLDN1	claudin 1	7157	-0.2072039097547531	-0.38015223	No	
+row_25	ACBD4	ACBD4	acyl-Coenzyme A binding domain containing 4	7443	-0.2442082315683365	-0.39765227	No	
+row_26	SYT6	SYT6	synaptotagmin VI	8011	-0.3253672420978546	-0.43592346	No	
+row_27	HCRTR1	HCRTR1	hypocretin (orexin) receptor 1	8234	-0.3546670377254486	-0.44601446	No	
+row_28	FBXO5	FBXO5	F-box protein 5	8615	-0.4281422793865204	-0.46714026	No	
+row_29	HES1	HES1	hairy and enhancer of split 1, (Drosophila)	9084	-0.5361813306808472	-0.49296695	Yes	
+row_30	PIGO	PIGO	phosphatidylinositol glycan anchor biosynthesis, class O	9126	-0.5476064085960388	-0.48445034	Yes	
+row_31	RND2	RND2	Rho family GTPase 2	9244	-0.5811702013015747	-0.48127994	Yes	
+row_32	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	9544	-0.6727580428123474	-0.4906708	Yes	
+row_33	SGIP1	SGIP1	SH3-domain GRB2-like (endophilin) interacting protein 1	9764	-0.7543750405311584	-0.49191612	Yes	
+row_34	TCERG1L	TCERG1L	transcription elongation regulator 1-like	9863	-0.7994078993797302	-0.48252958	Yes	
+row_35	PTPRF	PTPRF	protein tyrosine phosphatase, receptor type, F	9907	-0.8219295740127563	-0.46826625	Yes	
+row_36	HR	HR	hairless homolog (mouse)	9927	-0.8293211460113525	-0.45192727	Yes	
+row_37	DHCR24	DHCR24	24-dehydrocholesterol reductase	9964	-0.8426125049591064	-0.4366596	Yes	
+row_38	PSIP1	PSIP1	PC4 and SFRS1 interacting protein 1	10087	-0.9093550443649292	-0.42682227	Yes	
+row_39	PTPRE	PTPRE	protein tyrosine phosphatase, receptor type, E	10168	-0.9610231518745422	-0.41251865	Yes	
+row_40	RAB3IP	RAB3IP	RAB3A interacting protein (rabin3)	10231	-1.0020416975021362	-0.3958945	Yes	
+row_41	CHN2	CHN2	chimerin (chimaerin) 2	10957	-1.6977378129959106	-0.41723385	Yes	
+row_42	CDK5R2	CDK5R2	cyclin-dependent kinase 5, regulatory subunit 2 (p39)	11462	-2.445664405822754	-0.404822	Yes	
+row_43	WNT1	WNT1	wingless-type MMTV integration site family, member 1	11495	-2.4975037574768066	-0.35360333	Yes	
+row_44	NR6A1	NR6A1	nuclear receptor subfamily 6, group A, member 1	11502	-2.512302875518799	-0.29998985	Yes	
+row_45	GRIN2A	GRIN2A	glutamate receptor, ionotropic, N-methyl D-aspartate 2A	11583	-2.6695611476898193	-0.24889953	Yes	
+row_46	PEX5L	PEX5L	peroxisomal biogenesis factor 5-like	11625	-2.747764825820923	-0.19301116	Yes	
+row_47	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	11630	-2.762204647064209	-0.13385731	Yes	
+row_48	MAG	MAG	myelin associated glycoprotein	11823	-3.1604971885681152	-0.081140175	Yes	
+row_49	LHX2	LHX2	LIM homeobox 2	11831	-3.1877121925354004	-0.013064247	Yes	
+row_50	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	11918	-3.354937791824341	0.052303832	Yes	

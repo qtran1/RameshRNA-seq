@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PEX11B	PEX11B	peroxisomal biogenesis factor 11B	68	3.965867042541504	0.16177556	Yes	
+row_1	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	91	3.550311326980591	0.3097023	Yes	
+row_2	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	326	1.751019835472107	0.36485082	Yes	
+row_3	ACOT4	ACOT4	acyl-CoA thioesterase 4	430	1.4344042539596558	0.41710562	Yes	
+row_4	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	566	1.1731438636779785	0.45579168	Yes	
+row_5	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	806	0.8826987147331238	0.4739324	Yes	
+row_6	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	927	0.8052768707275391	0.49830619	Yes	
+row_7	ABCD2	ABCD2	ATP-binding cassette, sub-family D (ALD), member 2	1120	0.6849055290222168	0.5118588	Yes	
+row_8	SCP2	SCP2	sterol carrier protein 2	1600	0.5094274878501892	0.49510825	Yes	
+row_9	MLYCD	MLYCD	malonyl-CoA decarboxylase	1626	0.5037214159965515	0.5143501	Yes	
+row_10	AMACR	AMACR	alpha-methylacyl-CoA racemase	1711	0.47940751910209656	0.52785826	Yes	
+row_11	PEX1	PEX1	peroxisome biogenesis factor 1	2087	0.39561641216278076	0.5146094	Yes	
+row_12	PEX19	PEX19	peroxisomal biogenesis factor 19	2185	0.37834158539772034	0.52281904	Yes	
+row_13	PXMP4	PXMP4	peroxisomal membrane protein 4, 24kDa	2412	0.3392704427242279	0.51908606	Yes	
+row_14	ACAD11	ACAD11	acyl-Coenzyme A dehydrogenase family, member 11	2523	0.32452917098999023	0.52398944	Yes	
+row_15	ISOC1	ISOC1	isochorismatase domain containing 1	2751	0.2932705879211426	0.51823735	Yes	
+row_16	PEX13	PEX13	peroxisome biogenesis factor 13	2769	0.29082950949668884	0.5291421	Yes	
+row_17	PEX6	PEX6	peroxisomal biogenesis factor 6	2831	0.28108707070350647	0.53612447	Yes	
+row_18	PEX10	PEX10	peroxisome biogenesis factor 10	3040	0.2526780366897583	0.53017735	No	
+row_19	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	3100	0.2457054704427719	0.5358277	No	
+row_20	CROT	CROT	carnitine O-octanoyltransferase	3425	0.20175662636756897	0.5184759	No	
+row_21	PEX14	PEX14	peroxisomal biogenesis factor 14	3488	0.19424527883529663	0.5217172	No	
+row_22	PEX12	PEX12	peroxisomal biogenesis factor 12	3560	0.18614885210990906	0.5238989	No	
+row_23	PNPLA8	PNPLA8	patatin-like phospholipase domain containing 8	3826	0.15518836677074432	0.5092925	No	
+row_24	PEX26	PEX26	peroxisome biogenesis factor 26	4095	0.12256385385990143	0.49307117	No	
+row_25	PEX3	PEX3	peroxisomal biogenesis factor 3	4259	0.10575566440820694	0.4845211	No	
+row_26	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	4318	0.09898116439580917	0.48406526	No	
+row_27	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.461713	No	
+row_28	AGPS	AGPS	alkylglycerone phosphate synthase	4738	0.053675130009651184	0.45567587	No	
+row_29	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	4893	0.040142972022295	0.44507784	No	
+row_30	SLC25A17	SLC25A17	solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	5102	0.019496683031320572	0.42929965	No	
+row_31	PEX7	PEX7	peroxisomal biogenesis factor 7	5108	0.018879659473896027	0.4296966	No	
+row_32	ACOT8	ACOT8	acyl-CoA thioesterase 8	5977	-0.07494685053825378	0.36358264	No	
+row_33	PMVK	PMVK	phosphomevalonate kinase	6336	-0.11497534066438675	0.33985862	No	
+row_34	FIS1	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	6819	-0.1710735559463501	0.30860347	No	
+row_35	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	6836	-0.17242318391799927	0.31459597	No	
+row_36	PIPOX	PIPOX	pipecolic acid oxidase	6874	-0.17663918435573578	0.31909022	No	
+row_37	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	6977	-0.188063383102417	0.3188786	No	
+row_38	PRDX5	PRDX5	peroxiredoxin 5	7691	-0.27667564153671265	0.27363992	No	
+row_39	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	8337	-0.3738337457180023	0.23792444	No	
+row_40	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	0.24474944	No	
+row_41	IDE	IDE	insulin-degrading enzyme	9034	-0.5210540890693665	0.22130628	No	
+row_42	PEX16	PEX16	peroxisomal biogenesis factor 16	9667	-0.7152747511863708	0.20102361	No	
+row_43	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	9712	-0.7310140132904053	0.22833188	No	

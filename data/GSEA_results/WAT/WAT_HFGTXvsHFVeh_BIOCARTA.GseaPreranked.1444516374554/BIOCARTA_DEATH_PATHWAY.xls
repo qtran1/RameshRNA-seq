@@ -1,0 +1,31 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF10	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	544	1.20563542842865	0.15667808	Yes	
+row_1	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	1793	0.4592854380607605	0.13339536	Yes	
+row_2	GAS2	GAS2	growth arrest-specific 2	2045	0.4049752354621887	0.18058144	Yes	
+row_3	BIRC2	BIRC2	baculoviral IAP repeat-containing 2	2111	0.3915793299674988	0.2403726	Yes	
+row_4	RIPK1	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	2469	0.3308049440383911	0.26680169	Yes	
+row_5	TNFSF12	TNFSF12	tumor necrosis factor (ligand) superfamily, member 12	2963	0.26281511783599854	0.2711077	Yes	
+row_6	BID	BID	BH3 interacting domain death agonist	2990	0.25812670588493347	0.31186476	Yes	
+row_7	CFLAR	CFLAR	CASP8 and FADD-like apoptosis regulator	3013	0.25625571608543396	0.35263023	Yes	
+row_8	BCL2	BCL2	B-cell CLL/lymphoma 2	3293	0.21944251656532288	0.3667996	Yes	
+row_9	LMNA	LMNA	lamin A/C	3323	0.21560129523277283	0.40026143	Yes	
+row_10	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	3660	0.17349748313426971	0.40226334	Yes	
+row_11	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	0.40513405	Yes	
+row_12	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	3957	0.13872605562210083	0.4255215	Yes	
+row_13	FADD	FADD	Fas (TNFRSF6)-associated via death domain	4023	0.13128311932086945	0.4421229	Yes	
+row_14	CASP7	CASP7	caspase 7, apoptosis-related cysteine peptidase	4475	0.08347199112176895	0.4200196	No	
+row_15	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	4799	0.04900802671909332	0.4024019	No	
+row_16	DFFA	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	4845	0.04466701298952103	0.40622592	No	
+row_17	TRADD	TRADD	TNFRSF1A-associated via death domain	4881	0.04127556458115578	0.4102844	No	
+row_18	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	4988	0.03201889619231224	0.40714687	No	
+row_19	CASP8	CASP8	caspase 8, apoptosis-related cysteine peptidase	5216	0.006377778947353363	0.39010882	No	
+row_20	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	5388	-0.011426699347794056	0.3783728	No	
+row_21	CASP3	CASP3	caspase 3, apoptosis-related cysteine peptidase	5929	-0.06949247419834137	0.34685487	No	
+row_22	TNFRSF25	TNFRSF25	tumor necrosis factor receptor superfamily, member 25	5948	-0.07138342410326004	0.35726425	No	
+row_23	TRAF2	TRAF2	TNF receptor-associated factor 2	6184	-0.09825676679611206	0.35483345	No	
+row_24	CYCS	CYCS	cytochrome c, somatic	6206	-0.10058719664812088	0.36984932	No	
+row_25	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6232	-0.10340578854084015	0.38501397	No	
+row_26	BIRC3	BIRC3	baculoviral IAP repeat-containing 3	6547	-0.14041483402252197	0.38328046	No	
+row_27	CASP6	CASP6	caspase 6, apoptosis-related cysteine peptidase	6628	-0.14935334026813507	0.4016844	No	
+row_28	APAF1	APAF1	apoptotic peptidase activating factor	6956	-0.18588005006313324	0.40645838	No	
+row_29	TNFRSF10B	TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b	7483	-0.24857981503009796	0.40577164	No	

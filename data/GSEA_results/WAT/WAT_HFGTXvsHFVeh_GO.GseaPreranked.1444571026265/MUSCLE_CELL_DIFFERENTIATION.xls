@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYOZ1	MYOZ1	myozenin 1	2	7.9928741455078125	0.35940704	Yes	
+row_1	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	146	2.747812509536743	0.471629	Yes	
+row_2	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	386	1.560939073562622	0.5228114	Yes	
+row_3	BMP4	BMP4	bone morphogenetic protein 4	464	1.3422797918319702	0.57706153	Yes	
+row_4	BOC	BOC	Boc homolog (mouse)	1343	0.5886449217796326	0.5336044	No	
+row_5	MBNL1	MBNL1	muscleblind-like (Drosophila)	1969	0.4173087179660797	0.50259244	No	
+row_6	IFRD1	IFRD1	interferon-related developmental regulator 1	2060	0.4008643925189972	0.51345664	No	
+row_7	TTN	TTN	titin	3115	0.24387218058109283	0.44047013	No	
+row_8	MYEF2	MYEF2	myelin expression factor 2	3570	0.1846887767314911	0.41261473	No	
+row_9	MAPK12	MAPK12	mitogen-activated protein kinase 12	4302	0.10103987157344818	0.35893163	No	
+row_10	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	4670	0.06006212159991264	0.33239987	No	
+row_11	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6397	-0.12213700264692307	0.20040825	No	
+row_12	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	7706	-0.2787800133228302	0.108759515	No	
+row_13	SYNE1	SYNE1	spectrin repeat containing, nuclear envelope 1	7954	-0.31702595949172974	0.1033462	No	
+row_14	EREG	EREG	epiregulin	8592	-0.4246976673603058	0.07171079	No	
+row_15	IGFBP3	IGFBP3	insulin-like growth factor binding protein 3	8904	-0.4883880913257599	0.06890836	No	
+row_16	KCNH1	KCNH1	potassium voltage-gated channel, subfamily H (eag-related), member 1	9862	-0.796559751033783	0.028511608	No	
+row_17	GLMN	GLMN	glomulin, FKBP associated protein	10000	-0.8640455007553101	0.056468587	No	
+row_18	KRT19	KRT19	keratin 19	10235	-1.0033159255981445	0.082964145	No	
+row_19	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	11372	-2.293867349624634	0.09566666	No	

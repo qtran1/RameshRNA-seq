@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRF1	PRF1	perforin 1 (pore forming protein)	1128	0.6814876794815063	-0.051951587	No	
+row_1	CD86	CD86	CD86 molecule	1307	0.6041125655174255	-0.032559287	No	
+row_2	TSHR	TSHR	thyroid stimulating hormone receptor	2438	0.33553338050842285	-0.103891864	No	
+row_3	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	4135	0.11790167540311813	-0.23238367	No	
+row_4	CD80	CD80	CD80 molecule	4317	0.09908351302146912	-0.24129042	No	
+row_5	TG	TG	thyroglobulin	5893	-0.06530368328094482	-0.36307013	No	
+row_6	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	6148	-0.09403298050165176	-0.37807006	No	
+row_7	FAS	FAS	Fas (TNF receptor superfamily, member 6)	6928	-0.182026669383049	-0.4299836	No	
+row_8	IL4	IL4	interleukin 4	9062	-0.5283421277999878	-0.57046646	No	
+row_9	IL2	IL2	interleukin 2	9394	-0.6268929839134216	-0.561991	No	
+row_10	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	10183	-0.9724249243736267	-0.5707054	Yes	
+row_11	TSHB	TSHB	thyroid stimulating hormone, beta	11168	-1.9514389038085938	-0.54063076	Yes	
+row_12	IL10	IL10	interleukin 10	11229	-2.048031806945801	-0.43161646	Yes	
+row_13	IL5	IL5	interleukin 5 (colony-stimulating factor, eosinophil)	11955	-3.400723457336426	-0.30039468	Yes	
+row_14	TPO	TPO	thyroid peroxidase	12493	-6.290737152099609	0.006369942	Yes	

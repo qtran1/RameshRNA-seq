@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGB	FGB	fibrinogen beta chain	97	3.4006435871124268	0.25929403	Yes	
+row_1	FGG	FGG	fibrinogen gamma chain	128	2.9948625564575195	0.49206108	Yes	
+row_2	VWF	VWF	von Willebrand factor	355	1.6487281322479248	0.6035237	Yes	
+row_3	FGA	FGA	fibrinogen alpha chain	461	1.349867820739746	0.70115435	Yes	
+row_4	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1036	0.7318344116210938	0.7129135	Yes	
+row_5	RAP1A	RAP1A	RAP1A, member of RAS oncogene family	1812	0.4555286467075348	0.6869728	No	
+row_6	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	2429	0.3371482789516449	0.66439706	No	
+row_7	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	3359	0.2109103500843048	0.6069868	No	
+row_8	TLN1	TLN1	talin 1	4824	0.046913646161556244	0.4941007	No	
+row_9	RAP1B	RAP1B	RAP1B, member of RAS oncogene family	5267	0.001980097033083439	0.45906228	No	
+row_10	FN1	FN1	fibronectin 1	6799	-0.16886982321739197	0.3504173	No	
+row_11	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	7251	-0.22023515403270721	0.33179957	No	
+row_12	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	0.34565523	No	
+row_13	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	8164	-0.3435555100440979	0.3040747	No	
+row_14	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	9294	-0.5974118709564209	0.26108763	No	

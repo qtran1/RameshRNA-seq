@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	284	1.9548585414886475	0.146252	Yes	
+row_1	IVD	IVD	isovaleryl Coenzyme A dehydrogenase	671	1.0220304727554321	0.20379344	Yes	
+row_2	ACADSB	ACADSB	acyl-Coenzyme A dehydrogenase, short/branched chain	1110	0.6894857287406921	0.22846459	Yes	
+row_3	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	1186	0.6551134586334229	0.2790838	Yes	
+row_4	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.32492948	Yes	
+row_5	RETSAT	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	1288	0.614145815372467	0.37766558	Yes	
+row_6	CPOX	CPOX	coproporphyrinogen oxidase	1323	0.598608136177063	0.42666954	Yes	
+row_7	MECR	MECR	mitochondrial trans-2-enoyl-CoA reductase	1919	0.42985036969184875	0.4164044	Yes	
+row_8	SDHA	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	1925	0.42876386642456055	0.45304608	Yes	
+row_9	PPOX	PPOX	protoporphyrinogen oxidase	2694	0.29973098635673523	0.4177586	No	
+row_10	SDHD	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	3047	0.25203320384025574	0.4114901	No	
+row_11	ACADL	ACADL	acyl-Coenzyme A dehydrogenase, long chain	3604	0.1806424856185913	0.38280323	No	
+row_12	BLVRB	BLVRB	biliverdin reductase B (flavin reductase (NADPH))	3732	0.16625994443893433	0.38704896	No	
+row_13	GCDH	GCDH	glutaryl-Coenzyme A dehydrogenase	3851	0.1524948626756668	0.39082253	No	
+row_14	DECR1	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	5293	-5.045236321166158E-4	0.27607283	No	
+row_15	ACAD8	ACAD8	acyl-Coenzyme A dehydrogenase family, member 8	5324	-0.003647186793386936	0.27399805	No	
+row_16	BLVRA	BLVRA	biliverdin reductase A	6031	-0.08173862844705582	0.22481774	No	
+row_17	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	0.06566859	No	
+row_18	DHCR7	DHCR7	7-dehydrocholesterol reductase	8871	-0.4798043966293335	0.07477501	No	
+row_19	DHCR24	DHCR24	24-dehydrocholesterol reductase	9964	-0.8426125049591064	0.060575362	No	
+row_20	SRD5A2	SRD5A2	steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)	10960	-1.70375394821167	0.12849513	No	

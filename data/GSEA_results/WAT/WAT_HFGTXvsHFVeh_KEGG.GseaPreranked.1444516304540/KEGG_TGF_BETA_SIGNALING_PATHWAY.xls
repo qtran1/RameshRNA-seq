@@ -1,0 +1,84 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	INHBE	INHBE	inhibin, beta E	203	2.4977457523345947	0.023845786	Yes	
+row_1	INHBC	INHBC	inhibin, beta C	252	2.1194024085998535	0.054026783	Yes	
+row_2	GDF7	GDF7	growth differentiation factor 7	260	2.0693018436431885	0.08668585	Yes	
+row_3	INHBA	INHBA	inhibin, beta A (activin A, activin AB alpha polypeptide)	361	1.6206518411636353	0.104697175	Yes	
+row_4	GDF5	GDF5	growth differentiation factor 5 (cartilage-derived morphogenetic protein-1)	387	1.5573055744171143	0.12769589	Yes	
+row_5	ID3	ID3	inhibitor of DNA binding 3, dominant negative helix-loop-helix protein	417	1.4595553874969482	0.14880516	Yes	
+row_6	SMAD7	SMAD7	SMAD, mothers against DPP homolog 7 (Drosophila)	448	1.3736982345581055	0.16845605	Yes	
+row_7	BMP4	BMP4	bone morphogenetic protein 4	464	1.3422797918319702	0.18880343	Yes	
+row_8	ID1	ID1	inhibitor of DNA binding 1, dominant negative helix-loop-helix protein	491	1.3020427227020264	0.20762423	Yes	
+row_9	SMAD9	SMAD9	SMAD, mothers against DPP homolog 9 (Drosophila)	562	1.1781539916992188	0.22093366	Yes	
+row_10	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	570	1.1684883832931519	0.23913155	Yes	
+row_11	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	585	1.1500650644302368	0.25647327	Yes	
+row_12	FST	FST	follistatin	596	1.1320658922195435	0.2738463	Yes	
+row_13	LEFTY2	LEFTY2	left-right determination factor 2	607	1.1165010929107666	0.29096943	Yes	
+row_14	IFNG	IFNG	interferon, gamma	646	1.0525017976760864	0.30482355	Yes	
+row_15	THBS1	THBS1	thrombospondin 1	672	1.0218472480773926	0.3192263	Yes	
+row_16	TGFB2	TGFB2	transforming growth factor, beta 2	808	0.8815059661865234	0.32256976	Yes	
+row_17	LTBP1	LTBP1	latent transforming growth factor beta binding protein 1	917	0.8084939122200012	0.32690266	Yes	
+row_18	ACVR1C	ACVR1C	activin A receptor, type IC	924	0.8064543008804321	0.3393687	Yes	
+row_19	TGFB3	TGFB3	transforming growth factor, beta 3	929	0.8036853671073914	0.3519504	Yes	
+row_20	THBS2	THBS2	thrombospondin 2	1009	0.7467200756072998	0.3576133	Yes	
+row_21	ID2	ID2	inhibitor of DNA binding 2, dominant negative helix-loop-helix protein	1102	0.694945752620697	0.3614043	Yes	
+row_22	BMP8B	BMP8B	bone morphogenetic protein 8b (osteogenic protein 2)	1275	0.6218428611755371	0.3576171	Yes	
+row_23	CHRD	CHRD	chordin	1357	0.5842459797859192	0.36051163	Yes	
+row_24	TFDP1	TFDP1	transcription factor Dp-1	1441	0.5580065846443176	0.36282477	Yes	
+row_25	BMP8A	BMP8A	bone morphogenetic protein 8a	1480	0.5461190938949585	0.3685497	Yes	
+row_26	ACVR2B	ACVR2B	activin A receptor, type IIB	1495	0.5416722893714905	0.3761246	Yes	
+row_27	ROCK2	ROCK2	Rho-associated, coiled-coil containing protein kinase 2	1559	0.5227994918823242	0.37947372	Yes	
+row_28	BMP6	BMP6	bone morphogenetic protein 6	1591	0.514140248298645	0.38524568	Yes	
+row_29	NOG	NOG	noggin	1634	0.5019152760505676	0.38994074	Yes	
+row_30	SMAD5	SMAD5	SMAD, mothers against DPP homolog 5 (Drosophila)	1689	0.4861205220222473	0.39342153	Yes	
+row_31	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	1723	0.47544312477111816	0.39841214	Yes	
+row_32	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	1802	0.4570556879043579	0.399505	Yes	
+row_33	DCN	DCN	decorin	1810	0.4561338424682617	0.4062671	Yes	
+row_34	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	1845	0.4457437992095947	0.4107009	Yes	
+row_35	GDF6	GDF6	growth differentiation factor 6	1945	0.42244377732276917	0.40955687	No	
+row_36	RHOA	RHOA	ras homolog gene family, member A	2119	0.38974156975746155	0.4019636	No	
+row_37	BMP5	BMP5	bone morphogenetic protein 5	2540	0.32197800278663635	0.37350824	No	
+row_38	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	2543	0.32177403569221497	0.37851372	No	
+row_39	ACVR1	ACVR1	activin A receptor, type I	2570	0.318439781665802	0.3815443	No	
+row_40	ZFYVE9	ZFYVE9	zinc finger, FYVE domain containing 9	2654	0.3076413571834564	0.37983823	No	
+row_41	EP300	EP300	E1A binding protein p300	2703	0.29833313822746277	0.38078475	No	
+row_42	THBS3	THBS3	thrombospondin 3	2734	0.29531723260879517	0.38312387	No	
+row_43	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	2786	0.28785520792007446	0.38366202	No	
+row_44	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	2856	0.27710452675819397	0.3825865	No	
+row_45	ACVR2A	ACVR2A	activin A receptor, type IIA	2886	0.2722865045070648	0.38463598	No	
+row_46	ZFYVE16	ZFYVE16	zinc finger, FYVE domain containing 16	2968	0.2618550658226013	0.382355	No	
+row_47	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	3004	0.2569641172885895	0.38367817	No	
+row_48	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	3059	0.2512173652648926	0.38338795	No	
+row_49	BMPR1A	BMPR1A	bone morphogenetic protein receptor, type IA	3105	0.24520257115364075	0.3837217	No	
+row_50	SMURF1	SMURF1	SMAD specific E3 ubiquitin protein ligase 1	3206	0.23259922862052917	0.37944996	No	
+row_51	ACVRL1	ACVRL1	activin A receptor type II-like 1	3242	0.2276170700788498	0.380302	No	
+row_52	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	3330	0.2145581692457199	0.3767814	No	
+row_53	BMPR1B	BMPR1B	bone morphogenetic protein receptor, type IB	3410	0.20388101041316986	0.37372983	No	
+row_54	LEFTY1	LEFTY1	left-right determination factor 1	3443	0.19835792481899261	0.37435234	No	
+row_55	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	0.36625847	No	
+row_56	SP1	SP1	Sp1 transcription factor	3706	0.16903559863567352	0.359125	No	
+row_57	E2F4	E2F4	E2F transcription factor 4, p107/p130-binding	3714	0.16839699447155	0.36126795	No	
+row_58	SMAD2	SMAD2	SMAD, mothers against DPP homolog 2 (Drosophila)	3757	0.16323459148406982	0.36052603	No	
+row_59	BMP2	BMP2	bone morphogenetic protein 2	3927	0.14251159131526947	0.34928408	No	
+row_60	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	4525	0.07765430957078934	0.30273628	No	
+row_61	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	4569	0.07169234752655029	0.30044472	No	
+row_62	CUL1	CUL1	cullin 1	4739	0.053672146052122116	0.2877766	No	
+row_63	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	4977	0.032968662679195404	0.2693322	No	
+row_64	INHBB	INHBB	inhibin, beta B (activin AB beta polypeptide)	5843	-0.05980415269732475	0.20104241	No	
+row_65	SMAD3	SMAD3	SMAD, mothers against DPP homolog 3 (Drosophila)	5956	-0.07244228571653366	0.1932389	No	
+row_66	ID4	ID4	inhibitor of DNA binding 4, dominant negative helix-loop-helix protein	6515	-0.1369815319776535	0.15076578	No	
+row_67	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	0.11663917	No	
+row_68	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	7066	-0.1969013214111328	0.112995215	No	
+row_69	RBX1	RBX1	ring-box 1	7240	-0.21906034648418427	0.10266192	No	
+row_70	RBL2	RBL2	retinoblastoma-like 2 (p130)	7704	-0.2779379189014435	0.0700571	No	
+row_71	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	7783	-0.2897797226905823	0.06846458	No	
+row_72	PPP2R1A	PPP2R1A	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), alpha isoform	7886	-0.3052852153778076	0.065199584	No	
+row_73	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	0.021900397	No	
+row_74	E2F5	E2F5	E2F transcription factor 5, p130-binding	8803	-0.46396371722221375	0.0059717936	No	
+row_75	RBL1	RBL1	retinoblastoma-like 1 (p107)	8837	-0.4706306755542755	0.010885147	No	
+row_76	BMP7	BMP7	bone morphogenetic protein 7 (osteogenic protein 1)	10362	-1.1039243936538696	-0.09340087	No	
+row_77	NODAL	NODAL	nodal homolog (mouse)	10521	-1.2175230979919434	-0.08650451	No	
+row_78	COMP	COMP	cartilage oligomeric matrix protein	10971	-1.7089492082595825	-0.095015824	No	
+row_79	AMH	AMH	anti-Mullerian hormone	11403	-2.349652051925659	-0.0918006	No	
+row_80	AMHR2	AMHR2	anti-Mullerian hormone receptor, type II	11466	-2.4553043842315674	-0.057348017	No	
+row_81	PITX2	PITX2	paired-like homeodomain transcription factor 2	11773	-3.06038761138916	-0.032715812	No	
+row_82	THBS4	THBS4	thrombospondin 4	12477	-6.02250862121582	0.0076858285	No	

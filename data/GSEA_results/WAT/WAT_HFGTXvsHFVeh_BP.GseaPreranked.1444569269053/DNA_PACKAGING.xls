@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NAP1L3	NAP1L3	nucleosome assembly protein 1-like 3	761	0.9269353151321411	-0.031479906	No	
+row_1	SIRT4	SIRT4	sirtuin (silent mating type information regulation 2 homolog) 4 (S. cerevisiae)	1136	0.6783508062362671	-0.039934464	No	
+row_2	SIRT5	SIRT5	sirtuin (silent mating type information regulation 2 homolog) 5 (S. cerevisiae)	1683	0.4883420765399933	-0.06808567	No	
+row_3	DFFB	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	1793	0.4592854380607605	-0.06231179	No	
+row_4	SET	SET	SET translocation (myeloid leukemia-associated)	1968	0.4174758493900299	-0.06303677	No	
+row_5	ASH1L	ASH1L	ash1 (absent, small, or homeotic)-like (Drosophila)	3526	0.1896301507949829	-0.18119785	No	
+row_6	HDAC5	HDAC5	histone deacetylase 5	3823	0.15582603216171265	-0.19988935	No	
+row_7	ACIN1	ACIN1	apoptotic chromatin condensation inducer 1	3958	0.1385989785194397	-0.20620778	No	
+row_8	SMARCA5	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	4060	0.12686942517757416	-0.21026467	No	
+row_9	NAP1L4	NAP1L4	nucleosome assembly protein 1-like 4	4415	0.08891210705041885	-0.23568752	No	
+row_10	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	4541	0.07615981996059418	-0.2432548	No	
+row_11	RSF1	RSF1	remodeling and spacing factor 1	6101	-0.08914259821176529	-0.36473992	No	
+row_12	NAP1L1	NAP1L1	nucleosome assembly protein 1-like 1	6307	-0.11274228990077972	-0.37753317	No	
+row_13	ASF1A	ASF1A	ASF1 anti-silencing function 1 homolog A (S. cerevisiae)	6346	-0.11637835204601288	-0.37689772	No	
+row_14	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	7059	-0.1964007169008255	-0.42747733	No	
+row_15	HAT1	HAT1	histone acetyltransferase 1	8851	-0.47411805391311646	-0.55533504	No	
+row_16	NAP1L2	NAP1L2	nucleosome assembly protein 1-like 2	9149	-0.5546699166297913	-0.5615457	No	
+row_17	SYCP3	SYCP3	synaptonemal complex protein 3	10223	-0.9944158792495728	-0.6157749	Yes	
+row_18	CHAF1B	CHAF1B	chromatin assembly factor 1, subunit B (p60)	10641	-1.3152199983596802	-0.60760117	Yes	
+row_19	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	10740	-1.4173277616500854	-0.5707793	Yes	
+row_20	SMC4	SMC4	structural maintenance of chromosomes 4	10803	-1.4876633882522583	-0.52887225	Yes	
+row_21	PRM2	PRM2	protamine 2	10808	-1.4930487871170044	-0.4821715	Yes	
+row_22	NCAPH	NCAPH	non-SMC condensin I complex, subunit H	10817	-1.5034481287002563	-0.43546218	Yes	
+row_23	TSSK6	TSSK6	testis-specific serine kinase 6	10988	-1.7259173393249512	-0.39466235	Yes	
+row_24	PRM1	PRM1	protamine 1	11022	-1.7655612230300903	-0.34169158	Yes	
+row_25	CHAF1A	CHAF1A	chromatin assembly factor 1, subunit A (p150)	11058	-1.8051568269729614	-0.28763333	Yes	
+row_26	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	11427	-2.38106107711792	-0.24198715	Yes	
+row_27	CDCA5	CDCA5	cell division cycle associated 5	11439	-2.4014649391174316	-0.16723633	Yes	
+row_28	H1FNT	H1FNT	H1 histone family, member N, testis-specific	11535	-2.56817626953125	-0.09393232	Yes	
+row_29	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	11569	-2.6381497383117676	-0.013481694	Yes	
+row_30	HELLS	HELLS	helicase, lymphoid-specific	11728	-2.9672746658325195	0.067368135	Yes	

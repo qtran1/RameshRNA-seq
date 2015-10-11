@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	559	1.1798253059387207	0.024756618	No	
+row_1	GDF6	GDF6	growth differentiation factor 6	1945	0.42244377732276917	-0.060751613	No	
+row_2	TNFSF12	TNFSF12	tumor necrosis factor (ligand) superfamily, member 12	2963	0.26281511783599854	-0.12632239	No	
+row_3	ZBTB26	ZBTB26	zinc finger and BTB domain containing 26	3623	0.17826159298419952	-0.16834371	No	
+row_4	ARHGEF5	ARHGEF5	Rho guanine nucleotide exchange factor (GEF) 5	4480	0.08290169388055801	-0.23165564	No	
+row_5	EDEM3	EDEM3	ER degradation enhancer, mannosidase alpha-like 3	4512	0.0791921615600586	-0.22947451	No	
+row_6	HBEGF	HBEGF	heparin-binding EGF-like growth factor	4539	0.07646743208169937	-0.22705515	No	
+row_7	UBE2E3	UBE2E3	ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast)	5494	-0.023468809202313423	-0.3016627	No	
+row_8	EI24	EI24	etoposide induced 2.4 mRNA	5859	-0.061781954020261765	-0.32702723	No	
+row_9	TNRC6B	TNRC6B	trinucleotide repeat containing 6B	6254	-0.10636714845895767	-0.35216314	No	
+row_10	EIF4G2	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	6371	-0.11880287528038025	-0.35442623	No	
+row_11	CAPZA2	CAPZA2	capping protein (actin filament) muscle Z-line, alpha 2	7010	-0.19009742140769958	-0.39407992	No	
+row_12	PCGF5	PCGF5	polycomb group ring finger 5	9324	-0.6072906255722046	-0.5426485	No	
+row_13	GLMN	GLMN	glomulin, FKBP associated protein	10000	-0.8640455007553101	-0.5456742	Yes	
+row_14	SLC22A2	SLC22A2	solute carrier family 22 (organic cation transporter), member 2	10715	-1.3904577493667603	-0.5208947	Yes	
+row_15	HTR1D	HTR1D	5-hydroxytryptamine (serotonin) receptor 1D	10916	-1.642553687095642	-0.44037193	Yes	
+row_16	SCRT1	SCRT1	scratch homolog 1, zinc finger protein (Drosophila)	11500	-2.508687973022461	-0.33949453	Yes	
+row_17	HTR2C	HTR2C	5-hydroxytryptamine (serotonin) receptor 2C	11947	-3.400723457336426	-0.17532381	Yes	
+row_18	LIN28B	LIN28B	lin-28 homolog B (C. elegans)	12162	-3.833451509475708	0.03273591	Yes	

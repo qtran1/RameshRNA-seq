@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.24145679	Yes	
+row_1	ILK	ILK	integrin-linked kinase	860	0.8384729027748108	0.3332123	Yes	
+row_2	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	985	0.7620001435279846	0.44435632	Yes	
+row_3	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	1743	0.4702490270137787	0.45875934	Yes	
+row_4	CDKN1B	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	1853	0.4428751766681671	0.52041554	Yes	
+row_5	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	2262	0.3635765016078949	0.54566824	Yes	
+row_6	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	0.49862954	Yes	
+row_7	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	3359	0.2109103500843048	0.52686995	Yes	
+row_8	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	0.5493335	Yes	
+row_9	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	0.5695602	Yes	
+row_10	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.58224463	Yes	
+row_11	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.5897872	Yes	
+row_12	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.5611697	No	
+row_13	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	6323	-0.11409874260425568	0.43157583	No	
+row_14	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	0.40921634	No	
+row_15	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	0.41973236	No	

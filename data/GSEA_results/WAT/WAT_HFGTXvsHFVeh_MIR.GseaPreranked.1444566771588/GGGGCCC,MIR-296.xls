@@ -1,0 +1,59 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ONECUT2	ONECUT2	one cut domain, family member 2	124	3.0477709770202637	0.05232487	No	
+row_1	SOX10	SOX10	SRY (sex determining region Y)-box 10	257	2.080644130706787	0.08426287	No	
+row_2	ADAMTSL1	ADAMTSL1	ADAMTS-like 1	459	1.3506488800048828	0.09578222	No	
+row_3	GPX3	GPX3	glutathione peroxidase 3 (plasma)	653	1.0403822660446167	0.10160544	No	
+row_4	ZFP36L2	ZFP36L2	zinc finger protein 36, C3H type-like 2	663	1.0328891277313232	0.12197684	No	
+row_5	ELK1	ELK1	ELK1, member of ETS oncogene family	1023	0.7385054230690002	0.10837303	No	
+row_6	ZBTB4	ZBTB4	zinc finger and BTB domain containing 4	1142	0.6758536696434021	0.1127453	No	
+row_7	PPAN	PPAN	peter pan homolog (Drosophila)	1189	0.6539464592933655	0.12242288	No	
+row_8	NOG	NOG	noggin	1634	0.5019152760505676	0.097196855	No	
+row_9	SOX11	SOX11	SRY (sex determining region Y)-box 11	1964	0.4179258346557617	0.079444095	No	
+row_10	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	2092	0.3950892686843872	0.07736438	No	
+row_11	NUMBL	NUMBL	numb homolog (Drosophila)-like	2108	0.39173755049705505	0.08416477	No	
+row_12	CNTFR	CNTFR	ciliary neurotrophic factor receptor	2120	0.3897078335285187	0.091243304	No	
+row_13	IQSEC2	IQSEC2	IQ motif and Sec7 domain 2	2546	0.32123324275016785	0.06384601	No	
+row_14	SLC25A22	SLC25A22	solute carrier family 25 (mitochondrial carrier: glutamate), member 22	2928	0.267228901386261	0.038861495	No	
+row_15	IPO11	IPO11	importin 11	3143	0.23942412436008453	0.026652161	No	
+row_16	FOXP1	FOXP1	forkhead box P1	3204	0.23273567855358124	0.026610509	No	
+row_17	ARRB1	ARRB1	arrestin, beta 1	3411	0.20381875336170197	0.014313333	No	
+row_18	KCTD17	KCTD17	potassium channel tetramerisation domain containing 17	3502	0.19233965873718262	0.011049905	No	
+row_19	HIPK1	HIPK1	homeodomain interacting protein kinase 1	3814	0.15684224665164948	-0.010595742	No	
+row_20	VKORC1L1	VKORC1L1	vitamin K epoxide reductase complex, subunit 1-like 1	4104	0.12154076993465424	-0.031204456	No	
+row_21	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	4330	0.09802107512950897	-0.04717996	No	
+row_22	LYPLA2	LYPLA2	lysophospholipase II	4581	0.07051683217287064	-0.065714516	No	
+row_23	TAOK3	TAOK3	TAO kinase 3	4597	0.0683654174208641	-0.06551704	No	
+row_24	RNF44	RNF44	ring finger protein 44	5199	0.008545439690351486	-0.11336108	No	
+row_25	EPN1	EPN1	epsin 1	5359	-0.007979505695402622	-0.1259019	No	
+row_26	TRIM41	TRIM41	tripartite motif-containing 41	5748	-0.050563350319862366	-0.15586977	No	
+row_27	ZC3H10	ZC3H10	zinc finger CCCH-type containing 10	6063	-0.08517882972955704	-0.1792184	No	
+row_28	PRKACA	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	6065	-0.08531582355499268	-0.17755623	No	
+row_29	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	6106	-0.08967362344264984	-0.1789211	No	
+row_30	LRRC41	LRRC41	leucine rich repeat containing 41	6121	-0.09078772366046906	-0.17818588	No	
+row_31	CPLX2	CPLX2	complexin 2	6169	-0.09675323218107224	-0.17996548	No	
+row_32	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	6286	-0.11090140789747238	-0.18696913	No	
+row_33	FAM89B	FAM89B	family with sequence similarity 89, member B	6572	-0.14332415163516998	-0.20681347	No	
+row_34	LRCH4	LRCH4	leucine-rich repeats and calponin homology (CH) domain containing 4	6658	-0.15310993790626526	-0.21047843	No	
+row_35	TRPM2	TRPM2	transient receptor potential cation channel, subfamily M, member 2	6845	-0.17312006652355194	-0.22180448	No	
+row_36	SOX12	SOX12	SRY (sex determining region Y)-box 12	6974	-0.18761283159255981	-0.22820054	No	
+row_37	ACTR1A	ACTR1A	ARP1 actin-related protein 1 homolog A, centractin alpha (yeast)	7056	-0.19580616056919098	-0.23067412	No	
+row_38	DBN1	DBN1	drebrin 1	7189	-0.21123860776424408	-0.23690735	No	
+row_39	SMG7	SMG7	Smg-7 homolog, nonsense mediated mRNA decay factor (C. elegans)	7809	-0.29332977533340454	-0.28037456	No	
+row_40	GPC2	GPC2	glypican 2 (cerebroglycan)	8201	-0.34894731640815735	-0.30448946	No	
+row_41	PPFIA3	PPFIA3	protein tyrosine phosphatase, receptor type, f polypeptide (PTPRF), interacting protein (liprin), alpha 3	8390	-0.38378238677978516	-0.31167382	No	
+row_42	LARGE	LARGE	like-glycosyltransferase	8665	-0.4365103542804718	-0.32465273	No	
+row_43	GMPR	GMPR	guanosine monophosphate reductase	8864	-0.47844305634498596	-0.33070317	No	
+row_44	SYNGAP1	SYNGAP1	synaptic Ras GTPase activating protein 1 homolog (rat)	9452	-0.6428745985031128	-0.36447635	No	
+row_45	RTN2	RTN2	reticulon 2	9755	-0.7509118914604187	-0.37327266	No	
+row_46	HOXD3	HOXD3	homeobox D3	9967	-0.8445525765419006	-0.3728862	No	
+row_47	UNC5A	UNC5A	unc-5 homolog A (C. elegans)	10061	-0.8972817063331604	-0.3619952	No	
+row_48	WNT2	WNT2	wingless-type MMTV integration site family member 2	10669	-1.344534158706665	-0.38303918	Yes	
+row_49	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	10827	-1.5147316455841064	-0.36465394	Yes	
+row_50	SOX21	SOX21	SRY (sex determining region Y)-box 21	10862	-1.5617692470550537	-0.33548084	Yes	
+row_51	FOXL2	FOXL2	forkhead box L2	11009	-1.7522993087768555	-0.31136584	Yes	
+row_52	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	11012	-1.7548322677612305	-0.27569386	Yes	
+row_53	SCRT1	SCRT1	scratch homolog 1, zinc finger protein (Drosophila)	11500	-2.508687973022461	-0.26337937	Yes	
+row_54	KREMEN2	KREMEN2	kringle containing transmembrane protein 2	11779	-3.0734708309173584	-0.22283398	Yes	
+row_55	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	12012	-3.4427053928375244	-0.17107393	Yes	
+row_56	POU3F1	POU3F1	POU domain, class 3, transcription factor 1	12155	-3.803415298461914	-0.10475778	Yes	
+row_57	PTPN5	PTPN5	protein tyrosine phosphatase, non-receptor type 5 (striatum-enriched)	12518	-6.762112617492676	0.004394263	Yes	

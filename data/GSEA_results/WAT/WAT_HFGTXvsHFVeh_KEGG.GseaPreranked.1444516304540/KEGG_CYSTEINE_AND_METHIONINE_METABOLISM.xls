@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SDS	SDS	serine dehydratase	127	2.9964258670806885	0.11652064	Yes	
+row_1	MAT1A	MAT1A	methionine adenosyltransferase I, alpha	134	2.8559553623199463	0.23674883	Yes	
+row_2	TAT	TAT	tyrosine aminotransferase	267	2.0223634243011475	0.31170237	Yes	
+row_3	AMD1	AMD1	adenosylmethionine decarboxylase 1	857	0.8416061997413635	0.30032545	Yes	
+row_4	SMS	SMS	spermine synthase	1087	0.7023112177848816	0.3117557	Yes	
+row_5	CDO1	CDO1	cysteine dioxygenase, type I	1147	0.6738772392272949	0.3355343	Yes	
+row_6	CBS	CBS	cystathionine-beta-synthase	1204	0.6465956568717957	0.35839897	Yes	
+row_7	AHCY	AHCY	S-adenosylhomocysteine hydrolase	1361	0.5821574330329895	0.3705695	Yes	
+row_8	MPST	MPST	mercaptopyruvate sulfurtransferase	2000	0.4112769663333893	0.3370992	No	
+row_9	BHMT	BHMT	betaine-homocysteine methyltransferase	2171	0.3812164068222046	0.3396611	No	
+row_10	APIP	APIP	APAF1 interacting protein	2268	0.3628059923648834	0.34734318	No	
+row_11	AHCYL1	AHCYL1	S-adenosylhomocysteine hydrolase-like 1	3183	0.2348417192697525	0.28441682	No	
+row_12	MAT2B	MAT2B	methionine adenosyltransferase II, beta	3767	0.1621854156255722	0.24480255	No	
+row_13	ADI1	ADI1	acireductone dioxygenase 1	3872	0.1496971696615219	0.24283998	No	
+row_14	DNMT3B	DNMT3B	DNA (cytosine-5-)-methyltransferase 3 beta	3987	0.13500668108463287	0.23945946	No	
+row_15	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	4053	0.12820975482463837	0.23969728	No	
+row_16	SRM	SRM	spermidine synthase	6081	-0.08706258237361908	0.08181152	No	
+row_17	LDHA	LDHA	lactate dehydrogenase A	6513	-0.13671207427978516	0.053236052	No	
+row_18	CTH	CTH	cystathionase (cystathionine gamma-lyase)	6755	-0.16289439797401428	0.040911444	No	
+row_19	MTAP	MTAP	methylthioadenosine phosphorylase	7175	-0.20933610200881958	0.016361896	No	
+row_20	DNMT1	DNMT1	DNA (cytosine-5-)-methyltransferase 1	7347	-0.23267661035060883	0.012566087	No	
+row_21	LDHB	LDHB	lactate dehydrogenase B	7369	-0.23609018325805664	0.020870555	No	
+row_22	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	7791	-0.2909862697124481	-3.8747696E-4	No	
+row_23	MTR	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	8224	-0.3531767427921295	-0.019893814	No	
+row_24	GOT1	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	8728	-0.44783109426498413	-0.041058775	No	
+row_25	IL4I1	IL4I1	interleukin 4 induced 1	11227	-2.0438971519470215	-0.15378113	No	
+row_26	DNMT3L	DNMT3L	DNA (cytosine-5-)-methyltransferase 3-like	11634	-2.7696692943573	-0.069082476	No	
+row_27	LDHC	LDHC	lactate dehydrogenase C	11992	-3.4034764766693115	0.046309553	No	

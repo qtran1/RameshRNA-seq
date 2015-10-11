@@ -1,0 +1,90 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DSPP	DSPP	dentin sialophosphoprotein	27	4.9978532791137695	0.047271032	No	
+row_1	ADAMTS5	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 (aggrecanase-2)	470	1.3319329023361206	0.025042659	No	
+row_2	HAPLN1	HAPLN1	hyaluronan and proteoglycan link protein 1	554	1.191835641860962	0.030183094	No	
+row_3	CTGF	CTGF	connective tissue growth factor	556	1.1895583868026733	0.041868884	No	
+row_4	SNTB1	SNTB1	syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	786	0.896961510181427	0.032398697	No	
+row_5	COL11A1	COL11A1	collagen, type XI, alpha 1	839	0.855660080909729	0.036697008	No	
+row_6	MGP	MGP	matrix Gla protein	1030	0.7347815036773682	0.028746448	No	
+row_7	ECM2	ECM2	extracellular matrix protein 2, female organ and adipocyte specific	1049	0.7232121229171753	0.03445799	No	
+row_8	SGCG	SGCG	sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)	1143	0.6754623651504517	0.03369003	No	
+row_9	SNTG2	SNTG2	syntrophin, gamma 2	1212	0.6434445977210999	0.034607787	No	
+row_10	COL8A1	COL8A1	collagen, type VIII, alpha 1	1353	0.5851308703422546	0.029181844	No	
+row_11	LAMB1	LAMB1	laminin, beta 1	1431	0.5617233514785767	0.028570432	No	
+row_12	SGCE	SGCE	sarcoglycan, epsilon	1477	0.5465741157531738	0.030372256	No	
+row_13	FBLN1	FBLN1	fibulin 1	1563	0.5207002758979797	0.028714318	No	
+row_14	LTBP4	LTBP4	latent transforming growth factor beta binding protein 4	1661	0.4948079586029053	0.025839126	No	
+row_15	CD248	CD248	CD248 molecule, endosialin	1775	0.46264442801475525	0.021364268	No	
+row_16	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	1827	0.45108434557914734	0.021741029	No	
+row_17	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	1833	0.44853970408439636	0.025777042	No	
+row_18	MAGEE1	MAGEE1	melanoma antigen family E, 1	1889	0.43623051047325134	0.025686499	No	
+row_19	SNTB2	SNTB2	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)	1893	0.4356524646282196	0.029755237	No	
+row_20	MMP11	MMP11	matrix metallopeptidase 11 (stromelysin 3)	1946	0.42208749055862427	0.029765094	No	
+row_21	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	2169	0.3813893496990204	0.015756069	No	
+row_22	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	2276	0.3605085015296936	0.01083166	No	
+row_23	LAMA4	LAMA4	laminin, alpha 4	2457	0.33256301283836365	-2.962694E-4	No	
+row_24	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2722	0.2966901957988739	-0.01850709	No	
+row_25	LTBP2	LTBP2	latent transforming growth factor beta binding protein 2	2814	0.283211350440979	-0.0229946	No	
+row_26	TNXB	TNXB	tenascin XB	2996	0.25769659876823425	-0.034943126	No	
+row_27	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	3002	0.2570174038410187	-0.032801457	No	
+row_28	LUM	LUM	lumican	3136	0.23991042375564575	-0.04108129	No	
+row_29	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	3423	0.2020341157913208	-0.061990466	No	
+row_30	LAMB2	LAMB2	laminin, beta 2 (laminin S)	3460	0.1964290589094162	-0.06293105	No	
+row_31	ECM1	ECM1	extracellular matrix protein 1	3504	0.19204501807689667	-0.06447567	No	
+row_32	COL1A2	COL1A2	collagen, type I, alpha 2	3778	0.16120651364326477	-0.084747426	No	
+row_33	EFEMP1	EFEMP1	EGF-containing fibulin-like extracellular matrix protein 1	3944	0.14051124453544617	-0.09657349	No	
+row_34	SGCB	SGCB	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	4049	0.12835699319839478	-0.10363391	No	
+row_35	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	4069	0.1258922666311264	-0.103910536	No	
+row_36	MUC2	MUC2	mucin 2, oligomeric mucus/gel-forming	4449	0.08633659034967422	-0.13341302	No	
+row_37	ERBB2IP	ERBB2IP	erbb2 interacting protein	4517	0.07852249592542648	-0.13800278	No	
+row_38	FBLN5	FBLN5	fibulin 5	5148	0.014032535254955292	-0.18832454	No	
+row_39	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	-0.21311007	No	
+row_40	EFEMP2	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2	5584	-0.033812016248703	-0.22254737	No	
+row_41	DGCR6	DGCR6	DiGeorge syndrome critical region gene 6	5649	-0.04038995876908302	-0.22727402	No	
+row_42	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6282	-0.11040803045034409	-0.27680272	No	
+row_43	SPG7	SPG7	spastic paraplegia 7, paraplegin (pure and complicated autosomal recessive)	6519	-0.13736724853515625	-0.2943467	No	
+row_44	POSTN	POSTN	periostin, osteoblast specific factor	6680	-0.15544137358665466	-0.3056246	No	
+row_45	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.32573307	No	
+row_46	NID2	NID2	nidogen 2 (osteonidogen)	7072	-0.19736342132091522	-0.3330721	No	
+row_47	DST	DST	dystonin	7112	-0.20167577266693115	-0.33420107	No	
+row_48	FBLN2	FBLN2	fibulin 2	7139	-0.20542609691619873	-0.3342517	No	
+row_49	ODAM	ODAM	odontogenic, ameloblast asssociated	7183	-0.20989856123924255	-0.33561975	No	
+row_50	COL7A1	COL7A1	collagen, type VII, alpha 1 (epidermolysis bullosa, dystrophic, dominant and recessive)	7197	-0.21231642365455627	-0.334561	No	
+row_51	COL5A2	COL5A2	collagen, type V, alpha 2	7461	-0.2461135983467102	-0.35319194	No	
+row_52	COL6A3	COL6A3	collagen, type VI, alpha 3	7644	-0.26923009753227234	-0.3651065	No	
+row_53	FBN1	FBN1	fibrillin 1	8307	-0.3670320212841034	-0.41449982	No	
+row_54	OPTC	OPTC	opticin	8411	-0.38688597083091736	-0.41892305	No	
+row_55	COL5A1	COL5A1	collagen, type V, alpha 1	8452	-0.39803972840309143	-0.41818988	No	
+row_56	COL18A1	COL18A1	collagen, type XVIII, alpha 1	8462	-0.40024498105049133	-0.41495195	No	
+row_57	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.41466436	No	
+row_58	LAMA3	LAMA3	laminin, alpha 3	8594	-0.4253006875514984	-0.4171057	No	
+row_59	FMOD	FMOD	fibromodulin	8618	-0.42818835377693176	-0.41471273	No	
+row_60	ADAMTS9	ADAMTS9	ADAM metallopeptidase with thrombospondin type 1 motif, 9	9102	-0.5399678349494934	-0.44805834	No	
+row_61	PRELP	PRELP	proline/arginine-rich end leucine-rich repeat protein	9347	-0.6113426685333252	-0.461555	No	
+row_62	DMP1	DMP1	dentin matrix acidic phosphoprotein	9435	-0.6385550498962402	-0.46220744	No	
+row_63	COL4A4	COL4A4	collagen, type IV, alpha 4	9647	-0.7086961269378662	-0.47209802	No	
+row_64	COL4A2	COL4A2	collagen, type IV, alpha 2	9797	-0.7679057717323303	-0.47643703	No	
+row_65	COL5A3	COL5A3	collagen, type V, alpha 3	10010	-0.8703577518463135	-0.4848087	No	
+row_66	COL13A1	COL13A1	collagen, type XIII, alpha 1	10084	-0.9088215231895447	-0.4816666	No	
+row_67	APLP1	APLP1	amyloid beta (A4) precursor-like protein 1	10091	-0.9123042225837708	-0.4731236	No	
+row_68	COL15A1	COL15A1	collagen, type XV, alpha 1	10289	-1.0386271476745605	-0.4786295	No	
+row_69	COL16A1	COL16A1	collagen, type XVI, alpha 1	10370	-1.1078578233718872	-0.4740794	No	
+row_70	CAV3	CAV3	caveolin 3	10475	-1.1779619455337524	-0.4707582	No	
+row_71	CHAD	CHAD	chondroadherin	10894	-1.6127724647521973	-0.4882865	Yes	
+row_72	SGCA	SGCA	sarcoglycan, alpha (50kDa dystrophin-associated glycoprotein)	10922	-1.6497633457183838	-0.47413132	Yes	
+row_73	COMP	COMP	cartilage oligomeric matrix protein	10971	-1.7089492082595825	-0.46107277	Yes	
+row_74	TFPI2	TFPI2	tissue factor pathway inhibitor 2	10998	-1.7361302375793457	-0.44598326	Yes	
+row_75	COLQ	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	11008	-1.748847484588623	-0.42940632	Yes	
+row_76	IMPG2	IMPG2	interphotoreceptor matrix proteoglycan 2	11129	-1.898672103881836	-0.42023814	Yes	
+row_77	TINAG	TINAG	tubulointerstitial nephritis antigen	11150	-1.9255772829055786	-0.40279424	Yes	
+row_78	COL9A1	COL9A1	collagen, type IX, alpha 1	11181	-1.9643992185592651	-0.3857673	Yes	
+row_79	COL9A3	COL9A3	collagen, type IX, alpha 3	11545	-2.5805070400238037	-0.38931847	Yes	
+row_80	USH2A	USH2A	Usher syndrome 2A (autosomal recessive, mild)	11680	-2.858262777328491	-0.37178037	Yes	
+row_81	COL10A1	COL10A1	collagen, type X, alpha 1(Schmid metaphyseal chondrodysplasia)	12027	-3.470339298248291	-0.3651686	Yes	
+row_82	FBN2	FBN2	fibrillin 2 (congenital contractural arachnodactyly)	12207	-4.061280250549316	-0.33933577	Yes	
+row_83	COL9A2	COL9A2	collagen, type IX, alpha 2	12384	-5.010183811187744	-0.30387712	Yes	
+row_84	ADAMTS13	ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif, 13	12405	-5.253020763397217	-0.25352156	Yes	
+row_85	THBS4	THBS4	thrombospondin 4	12477	-6.02250862121582	-0.19963992	Yes	
+row_86	IMPG1	IMPG1	interphotoreceptor matrix proteoglycan 1	12492	-6.275519371032715	-0.13869028	Yes	
+row_87	MUC5AC	MUC5AC	mucin 5AC, oligomeric mucus/gel-forming	12529	-7.013891696929932	-0.07219954	Yes	
+row_88	SNTG1	SNTG1	syntrophin, gamma 1	12550	-7.647738933563232	0.0018421093	Yes	

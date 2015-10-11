@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.17805673	Yes	
+row_1	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	585	1.1500650644302368	0.29805976	Yes	
+row_2	JUN	JUN	jun oncogene	618	1.0964252948760986	0.4285261	Yes	
+row_3	STAT5A	STAT5A	signal transducer and activator of transcription 5A	1770	0.4635947346687317	0.39306256	Yes	
+row_4	STAT5B	STAT5B	signal transducer and activator of transcription 5B	2135	0.3880822956562042	0.4111422	Yes	
+row_5	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	2211	0.37455636262893677	0.45060694	Yes	
+row_6	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	2303	0.3561513423919678	0.486564	Yes	
+row_7	STAT1	STAT1	signal transducer and activator of transcription 1, 91kDa	2366	0.34665581583976746	0.5236797	Yes	
+row_8	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1	3058	0.2512873411178589	0.49910995	Yes	
+row_9	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	3152	0.23789387941360474	0.520561	Yes	
+row_10	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	0.53614664	Yes	
+row_11	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.5195642	No	
+row_12	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.52180165	No	
+row_13	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.4900091	No	
+row_14	MAPK8	MAPK8	mitogen-activated protein kinase 8	4978	0.03294863924384117	0.45337215	No	
+row_15	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	5455	-0.020220641046762466	0.41790003	No	
+row_16	BCR	BCR	breakpoint cluster region	5743	-0.04991859197616577	0.40108934	No	
+row_17	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	5842	-0.05977855995297432	0.40053338	No	
+row_18	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5974	-0.07475712150335312	0.39916533	No	
+row_19	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	6553	-0.14071597158908844	0.3701846	No	
+row_20	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	0.35906658	No	
+row_21	BAD	BAD	BCL2-antagonist of cell death	7116	-0.20236505568027496	0.37286094	No	
+row_22	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	8987	-0.5097808837890625	0.28571436	No	

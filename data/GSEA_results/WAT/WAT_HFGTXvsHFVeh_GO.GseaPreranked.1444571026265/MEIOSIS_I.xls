@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAD1	RAD1	RAD1 homolog (S. pombe)	1336	0.5914930701255798	-0.087768905	No	
+row_1	RAD21	RAD21	RAD21 homolog (S. pombe)	2884	0.2725791335105896	-0.20237778	No	
+row_2	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.33151636	No	
+row_3	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	6279	-0.1100228875875473	-0.46669006	No	
+row_4	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6878	-0.1772623062133789	-0.5087297	No	
+row_5	MSH5	MSH5	mutS homolog 5 (E. coli)	9020	-0.517917811870575	-0.662917	No	
+row_6	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	9100	-0.539466142654419	-0.6522279	No	
+row_7	CHEK1	CHEK1	CHK1 checkpoint homolog (S. pombe)	10432	-1.151472568511963	-0.72197306	Yes	
+row_8	LIG3	LIG3	ligase III, DNA, ATP-dependent	10493	-1.1951580047607422	-0.68913287	Yes	
+row_9	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.6780501	Yes	
+row_10	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	11599	-2.7022581100463867	-0.63440335	Yes	
+row_11	SPO11	SPO11	SPO11 meiotic protein covalently bound to DSB homolog (S. cerevisiae)	12170	-3.856316089630127	-0.55841374	Yes	
+row_12	STAG3	STAG3	stromal antigen 3	12216	-4.108731746673584	-0.43267322	Yes	
+row_13	DMC1	DMC1	DMC1 dosage suppressor of mck1 homolog, meiosis-specific homologous recombination (yeast)	12217	-4.111027240753174	-0.30327708	Yes	
+row_14	MSH4	MSH4	mutS homolog 4 (E. coli)	12359	-4.911440849304199	-0.15991549	Yes	
+row_15	SYCP1	SYCP1	synaptonemal complex protein 1	12446	-5.619524955749512	0.010112975	Yes	

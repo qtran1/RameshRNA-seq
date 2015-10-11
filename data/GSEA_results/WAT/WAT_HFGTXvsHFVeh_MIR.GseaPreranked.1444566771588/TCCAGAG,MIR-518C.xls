@@ -1,0 +1,119 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PCDHGA9	PCDHGA9	protocadherin gamma subfamily A, 9	309	1.837369680404663	0.00951744	Yes	
+row_1	HOXA1	HOXA1	homeobox A1	827	0.8689863085746765	-0.015754726	Yes	
+row_2	PRX	PRX	periaxin	831	0.8642466068267822	1.4982032E-4	Yes	
+row_3	PCDHGC3	PCDHGC3	protocadherin gamma subfamily C, 3	832	0.8611586689949036	0.016237527	Yes	
+row_4	PCDHGB6	PCDHGB6	protocadherin gamma subfamily B, 6	910	0.811996579170227	0.025225054	Yes	
+row_5	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	950	0.7851528525352478	0.03676184	Yes	
+row_6	PCDHGA11	PCDHGA11	protocadherin gamma subfamily A, 11	952	0.7837467193603516	0.051323097	Yes	
+row_7	NR4A2	NR4A2	nuclear receptor subfamily 4, group A, member 2	963	0.7804820537567139	0.06510082	Yes	
+row_8	PCDH19	PCDH19	protocadherin 19	969	0.775216281414032	0.07918158	Yes	
+row_9	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1036	0.7318344116210938	0.08755467	Yes	
+row_10	SPRY2	SPRY2	sprouty homolog 2 (Drosophila)	1046	0.7243942022323608	0.10036487	Yes	
+row_11	PCDHGA3	PCDHGA3	protocadherin gamma subfamily A, 3	1108	0.6901235580444336	0.10836016	Yes	
+row_12	IL18BP	IL18BP	interleukin 18 binding protein	1134	0.6788310408592224	0.11903465	Yes	
+row_13	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	1149	0.6731852889060974	0.13048679	Yes	
+row_14	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	1152	0.6704722046852112	0.14285162	Yes	
+row_15	GOLGA7	GOLGA7	golgi autoantigen, golgin subfamily a, 7	1164	0.6656540036201477	0.15440391	Yes	
+row_16	ST3GAL4	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4	1165	0.6652534604072571	0.16683182	Yes	
+row_17	TWIST1	TWIST1	twist homolog 1 (acrocephalosyndactyly 3; Saethre-Chotzen syndrome) (Drosophila)	1241	0.6336740851402283	0.17264858	Yes	
+row_18	MEOX2	MEOX2	mesenchyme homeobox 2	1363	0.5804892778396606	0.17377879	Yes	
+row_19	PCDHGB5	PCDHGB5	protocadherin gamma subfamily B, 5	1453	0.5540791749954224	0.17698464	Yes	
+row_20	PCDHGB7	PCDHGB7	protocadherin gamma subfamily B, 7	1456	0.5530175566673279	0.18715526	Yes	
+row_21	PCDHGA8	PCDHGA8	protocadherin gamma subfamily A, 8	1503	0.5397601127624512	0.19354576	Yes	
+row_22	SALL2	SALL2	sal-like 2 (Drosophila)	1589	0.5141990184783936	0.19632773	Yes	
+row_23	SMCR8	SMCR8	Smith-Magenis syndrome chromosome region, candidate 8	1765	0.46572500467300415	0.1909787	Yes	
+row_24	COQ10B	COQ10B	coenzyme Q10 homolog B (S. cerevisiae)	1782	0.46173062920570374	0.19831999	Yes	
+row_25	ARID5B	ARID5B	AT rich interactive domain 5B (MRF1-like)	1859	0.44217321276664734	0.20047896	Yes	
+row_26	CBX7	CBX7	chromobox homolog 7	1927	0.4276493191719055	0.20308913	Yes	
+row_27	PCDHGA7	PCDHGA7	protocadherin gamma subfamily A, 7	2025	0.40799805521965027	0.20292373	Yes	
+row_28	PCDHGB4	PCDHGB4	protocadherin gamma subfamily B, 4	2089	0.3954533636569977	0.20525357	Yes	
+row_29	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	2276	0.3605085015296936	0.19705585	Yes	
+row_30	RND1	RND1	Rho family GTPase 1	2306	0.35573461651802063	0.2013733	Yes	
+row_31	CAMK2G	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	2317	0.35315099358558655	0.20716785	Yes	
+row_32	PRR3	PRR3	proline rich 3	2326	0.3523451089859009	0.2131079	Yes	
+row_33	PCDHGA6	PCDHGA6	protocadherin gamma subfamily A, 6	2423	0.33812764286994934	0.2117175	Yes	
+row_34	ZMYND11	ZMYND11	zinc finger, MYND domain containing 11	2482	0.3292253613471985	0.21321152	Yes	
+row_35	SULF1	SULF1	sulfatase 1	2511	0.32588836550712585	0.21705167	Yes	
+row_36	HMGN1	HMGN1	high-mobility group nucleosome binding domain 1	2648	0.3082957863807678	0.21189266	No	
+row_37	WIBG	WIBG	within bgcn homolog (Drosophila)	2695	0.2995191514492035	0.21379513	No	
+row_38	TCF12	TCF12	transcription factor 12 (HTF4, helix-loop-helix transcription factors 4)	2770	0.2906985282897949	0.21328488	No	
+row_39	RICTOR	RICTOR	-	2885	0.2725120484828949	0.20922358	No	
+row_40	RAB15	RAB15	RAB15, member RAS onocogene family	2901	0.2703050971031189	0.21306905	No	
+row_41	SLC38A2	SLC38A2	solute carrier family 38, member 2	3006	0.25689229369163513	0.20951878	No	
+row_42	PCDHGA5	PCDHGA5	protocadherin gamma subfamily A, 5	3145	0.23905260860919952	0.20290564	No	
+row_43	AXL	AXL	AXL receptor tyrosine kinase	3193	0.2336704432964325	0.20349766	No	
+row_44	MLX	MLX	MAX-like protein X	3336	0.21373675763607025	0.19609044	No	
+row_45	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	3346	0.21248728036880493	0.19933748	No	
+row_46	CD34	CD34	CD34 molecule	3435	0.19984328746795654	0.19600597	No	
+row_47	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	0.18772243	No	
+row_48	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	3648	0.17590197920799255	0.18579017	No	
+row_49	PATZ1	PATZ1	POZ (BTB) and AT hook containing zinc finger 1	3792	0.1596394032239914	0.17729205	No	
+row_50	PCDHGB2	PCDHGB2	protocadherin gamma subfamily B, 2	3868	0.15012018382549286	0.17407532	No	
+row_51	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.17109437	No	
+row_52	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	4053	0.12820975482463837	0.16441758	No	
+row_53	RHOQ	RHOQ	ras homolog gene family, member Q	4115	0.12038613855838776	0.16176933	No	
+row_54	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	4218	0.11012135446071625	0.15563774	No	
+row_55	RBBP5	RBBP5	retinoblastoma binding protein 5	4246	0.10726398229598999	0.15547396	No	
+row_56	SYT7	SYT7	synaptotagmin VII	4391	0.09191098809242249	0.1456303	No	
+row_57	PREB	PREB	prolactin regulatory element binding	4544	0.07547266781330109	0.13483728	No	
+row_58	PHF21A	PHF21A	PHD finger protein 21A	4550	0.07501611858606339	0.13583727	No	
+row_59	SMURF2	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	4569	0.07169234752655029	0.1357315	No	
+row_60	DDT	DDT	D-dopachrome tautomerase	4812	0.04801638051867485	0.117200136	No	
+row_61	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	4843	0.045195866376161575	0.11563598	No	
+row_62	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	4853	0.043668437749147415	0.115729235	No	
+row_63	SH2B3	SH2B3	SH2B adaptor protein 3	4944	0.035514187067747116	0.109167255	No	
+row_64	PUM1	PUM1	pumilio homolog 1 (Drosophila)	5065	0.023454608395695686	0.09997151	No	
+row_65	TCERG1	TCERG1	transcription elongation regulator 1	5096	0.020139552652835846	0.09793927	No	
+row_66	RNF44	RNF44	ring finger protein 44	5199	0.008545439690351486	0.08991009	No	
+row_67	GDAP2	GDAP2	ganglioside induced differentiation associated protein 2	5256	0.003090533195063472	0.085471995	No	
+row_68	GRK5	GRK5	G protein-coupled receptor kinase 5	5272	0.0016028252430260181	0.0842977	No	
+row_69	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5327	-0.004072076641023159	0.08003851	No	
+row_70	MKLN1	MKLN1	muskelin 1, intracellular mediator containing kelch motifs	5423	-0.01601244881749153	0.072710805	No	
+row_71	TNKS2	TNKS2	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase 2	5428	-0.016675671562552452	0.0727012	No	
+row_72	PCDHGA12	PCDHGA12	protocadherin gamma subfamily A, 12	5495	-0.02362148091197014	0.06784383	No	
+row_73	GGA3	GGA3	golgi associated, gamma adaptin ear containing, ARF binding protein 3	5503	-0.025313012301921844	0.06775474	No	
+row_74	GPRC5B	GPRC5B	G protein-coupled receptor, family C, group 5, member B	5526	-0.027435120195150375	0.06650105	No	
+row_75	ING3	ING3	inhibitor of growth family, member 3	5638	-0.03930932283401489	0.058324035	No	
+row_76	RALA	RALA	v-ral simian leukemia viral oncogene homolog A (ras related)	5685	-0.04405924677848816	0.055454127	No	
+row_77	RHOT1	RHOT1	ras homolog gene family, member T1	5698	-0.04587434232234955	0.055347737	No	
+row_78	DLL4	DLL4	delta-like 4 (Drosophila)	5729	-0.0484941340982914	0.0538452	No	
+row_79	WDR1	WDR1	WD repeat domain 1	5730	-0.048507943749427795	0.0547514	No	
+row_80	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	5789	-0.05391355976462364	0.051102195	No	
+row_81	SLC30A4	SLC30A4	solute carrier family 30 (zinc transporter), member 4	5935	-0.07067008316516876	0.04078144	No	
+row_82	PARP6	PARP6	poly (ADP-ribose) polymerase family, member 6	6106	-0.08967362344264984	0.028808631	No	
+row_83	PSME3	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6249	-0.10594865679740906	0.019387778	No	
+row_84	CHCHD3	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3	6384	-0.12022539228200912	0.0108758975	No	
+row_85	ELAVL1	ELAVL1	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 1 (Hu antigen R)	6409	-0.12337134033441544	0.011253872	No	
+row_86	ZFAND5	ZFAND5	zinc finger, AN1-type domain 5	6487	-0.1324942260980606	0.007547299	No	
+row_87	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	6494	-0.13338710367679596	0.00955747	No	
+row_88	CHKB	CHKB	choline kinase beta	6667	-0.15382727980613708	-0.0013774172	No	
+row_89	LSM12	LSM12	LSM12 homolog (S. cerevisiae)	6671	-0.15439508855342865	0.0012660617	No	
+row_90	RANBP10	RANBP10	RAN binding protein 10	6797	-0.1687500923871994	-0.0056167636	No	
+row_91	ZDHHC9	ZDHHC9	zinc finger, DHHC-type containing 9	6840	-0.172617569565773	-0.0057638832	No	
+row_92	TNK2	TNK2	tyrosine kinase, non-receptor, 2	6937	-0.18267889320850372	-0.010058303	No	
+row_93	PCDHGA1	PCDHGA1	protocadherin gamma subfamily A, 1	7028	-0.19206848740577698	-0.013695615	No	
+row_94	PCDHGB1	PCDHGB1	protocadherin gamma subfamily B, 1	7386	-0.23767858743667603	-0.037916318	No	
+row_95	GTDC1	GTDC1	glycosyltransferase-like domain containing 1	7409	-0.24059174954891205	-0.03518793	No	
+row_96	SEPT4	SEPT4	septin 4	7440	-0.24409575760364532	-0.03303634	No	
+row_97	NCOR2	NCOR2	nuclear receptor co-repressor 2	7491	-0.2498476803302765	-0.03238295	No	
+row_98	NRXN2	NRXN2	neurexin 2	7588	-0.26175224781036377	-0.035200164	No	
+row_99	MED12L	MED12L	mediator of RNA polymerase II transcription, subunit 12 homolog (S. cerevisiae)-like	7614	-0.2653433084487915	-0.032250226	No	
+row_100	LZTFL1	LZTFL1	leucine zipper transcription factor-like 1	7782	-0.2897230088710785	-0.040244967	No	
+row_101	STC1	STC1	stanniocalcin 1	9227	-0.577488362789154	-0.14538471	No	
+row_102	CSNK1G1	CSNK1G1	casein kinase 1, gamma 1	9351	-0.6123030781745911	-0.14382075	No	
+row_103	NCF4	NCF4	neutrophil cytosolic factor 4, 40kDa	9567	-0.6822171807289124	-0.1483367	No	
+row_104	PCDH9	PCDH9	protocadherin 9	9682	-0.7209103107452393	-0.14402124	No	
+row_105	IQCB1	IQCB1	IQ motif containing B1	9748	-0.7486972808837891	-0.13525285	No	
+row_106	SDK2	SDK2	sidekick homolog 2 (chicken)	9788	-0.7627649903297424	-0.124134295	No	
+row_107	ELOF1	ELOF1	elongation factor 1 homolog (S. cerevisiae)	9848	-0.7899958491325378	-0.11411269	No	
+row_108	SMPD3	SMPD3	sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)	9984	-0.8561909794807434	-0.108955935	No	
+row_109	ANK2	ANK2	ankyrin 2, neuronal	10202	-0.9826477766036987	-0.10801996	No	
+row_110	PCDHGA2	PCDHGA2	protocadherin gamma subfamily A, 2	10282	-1.031643271446228	-0.095089674	No	
+row_111	PCDHGC5	PCDHGC5	protocadherin gamma subfamily C, 5	10515	-1.211458683013916	-0.091083415	No	
+row_112	AIRE	AIRE	autoimmune regulator (autoimmune polyendocrinopathy candidiasis ectodermal dystrophy)	10656	-1.3328707218170166	-0.077423	No	
+row_113	PCDHGA4	PCDHGA4	protocadherin gamma subfamily A, 4	11076	-1.8278539180755615	-0.076914415	No	
+row_114	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	11107	-1.8745298385620117	-0.044303928	No	
+row_115	ST8SIA2	ST8SIA2	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	11377	-2.3024325370788574	-0.02288713	No	
+row_116	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	11630	-2.762204647064209	0.008483688	No	
+row_117	MICALCL	MICALCL	MICAL C-terminal like	12079	-3.5940663814544678	0.03965952	No	

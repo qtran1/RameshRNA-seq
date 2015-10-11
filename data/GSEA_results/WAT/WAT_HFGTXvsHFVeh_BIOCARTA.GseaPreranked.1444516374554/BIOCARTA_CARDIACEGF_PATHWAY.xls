@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AGT	AGT	angiotensinogen (serpin peptidase inhibitor, clade A, member 8)	473	1.3259131908416748	0.11876765	Yes	
+row_1	EDNRA	EDNRA	endothelin receptor type A	524	1.2359685897827148	0.26060724	Yes	
+row_2	MYC	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	585	1.1500650644302368	0.3915155	Yes	
+row_3	JUN	JUN	jun oncogene	618	1.0964252948760986	0.518325	Yes	
+row_4	EDN1	EDN1	endothelin 1	684	1.0133450031280518	0.6327047	Yes	
+row_5	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1414	0.5671026110649109	0.6415615	Yes	
+row_6	RHOA	RHOA	ras homolog gene family, member A	2119	0.38974156975746155	0.6314838	No	
+row_7	PLCG1	PLCG1	phospholipase C, gamma 1	3890	0.14725708961486816	0.5079114	No	
+row_8	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	3923	0.1431800127029419	0.5222557	No	
+row_9	EDNRB	EDNRB	endothelin receptor type B	4164	0.11557561159133911	0.5167802	No	
+row_10	PRKCA	PRKCA	protein kinase C, alpha	4205	0.11190378665924072	0.5267975	No	
+row_11	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5974	-0.07475712150335312	0.39483067	No	
+row_12	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6232	-0.10340578854084015	0.3865656	No	
+row_13	EGF	EGF	epidermal growth factor (beta-urogastrone)	7200	-0.2127222865819931	0.3346601	No	
+row_14	ADAM12	ADAM12	ADAM metallopeptidase domain 12 (meltrin alpha)	7706	-0.2787800133228302	0.3273375	No	
+row_15	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	8987	-0.5097808837890625	0.28555503	No	

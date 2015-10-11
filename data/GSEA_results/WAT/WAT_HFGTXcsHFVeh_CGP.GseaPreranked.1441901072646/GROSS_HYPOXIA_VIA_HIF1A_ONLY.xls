@@ -1,8 +1,0 @@
-NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	SRA1	SRA1	steroid receptor RNA activator 1	4170	0.20598188042640686	-0.35111776	No	
-row_1	FGB	FGB	fibrinogen beta chain	4397	0.16845698654651642	-0.35206446	No	
-row_2	CITED2	CITED2	Cbp/p300-interacting transactivator, with Glu/Asp-rich carboxy-terminal domain, 2	5369	0.02160271629691124	-0.43685403	No	
-row_3	AGL	AGL	amylo-1, 6-glucosidase, 4-alpha-glucanotransferase (glycogen debranching enzyme, glycogen storage disease type III)	8517	-0.45507699251174927	-0.6673886	No	
-row_4	MAFF	MAFF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog F (avian)	10356	-1.4349427223205566	-0.6676239	Yes	
-row_5	CCNG2	CCNG2	cyclin G2	10464	-1.693834662437439	-0.48251498	Yes	
-row_6	VLDLR	VLDLR	very low density lipoprotein receptor	11023	-4.718657970428467	0.009796827	Yes	

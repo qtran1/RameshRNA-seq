@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	2491	0.3283534348011017	-0.18188563	No	
+row_1	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	2667	0.30605044960975647	-0.18045236	No	
+row_2	NUMA1	NUMA1	nuclear mitotic apparatus protein 1	3104	0.2454601228237152	-0.20284712	No	
+row_3	LATS1	LATS1	LATS, large tumor suppressor, homolog 1 (Drosophila)	3312	0.2170652151107788	-0.20843104	No	
+row_4	LATS2	LATS2	LATS, large tumor suppressor, homolog 2 (Drosophila)	3736	0.1658667027950287	-0.23378767	No	
+row_5	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.25134727	No	
+row_6	DCTN1	DCTN1	dynactin 1 (p150, glued homolog, Drosophila)	6119	-0.09058672189712524	-0.41236308	No	
+row_7	SMC3	SMC3	structural maintenance of chromosomes 3	6955	-0.18581482768058777	-0.46952832	No	
+row_8	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	7032	-0.19266651570796967	-0.46590507	No	
+row_9	TUBG1	TUBG1	tubulin, gamma 1	8410	-0.38687846064567566	-0.55613613	No	
+row_10	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	10877	-1.5859311819076538	-0.6728758	Yes	
+row_11	KNTC1	KNTC1	kinetochore associated 1	11211	-2.0195915699005127	-0.5979719	Yes	
+row_12	TPX2	TPX2	TPX2, microtubule-associated, homolog (Xenopus laevis)	11314	-2.1869397163391113	-0.49626768	Yes	
+row_13	KIF11	KIF11	kinesin family member 11	11615	-2.7345051765441895	-0.38283303	Yes	
+row_14	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.24432811	Yes	
+row_15	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.10069493	Yes	
+row_16	CETN1	CETN1	centrin, EF-hand protein, 1	12000	-3.4148449897766113	0.045631893	Yes	

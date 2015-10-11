@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOX2	SOX2	SRY (sex determining region Y)-box 2	35	4.682839870452881	0.089072034	No	
+row_1	PCDHA11	PCDHA11	protocadherin alpha 11	70	3.9621527194976807	0.164086	No	
+row_2	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	375	1.591346025466919	0.17105351	No	
+row_3	MEIS1	MEIS1	Meis1, myeloid ecotropic viral integration site 1 homolog (mouse)	534	1.218395471572876	0.18235126	No	
+row_4	PCDHA6	PCDHA6	protocadherin alpha 6	547	1.2034324407577515	0.20500195	No	
+row_5	PCDHAC2	PCDHAC2	protocadherin alpha subfamily C, 2	650	1.0453412532806396	0.217372	No	
+row_6	KLF6	KLF6	Kruppel-like factor 6	1065	0.7117741703987122	0.19831009	No	
+row_7	PCDHA8	PCDHA8	protocadherin alpha 8	1447	0.5566689372062683	0.17883788	No	
+row_8	ATP5L	ATP5L	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit G	1483	0.5447658896446228	0.18673268	No	
+row_9	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	1743	0.4702490270137787	0.17529713	No	
+row_10	MMP19	MMP19	matrix metallopeptidase 19	2379	0.3439212143421173	0.13138977	No	
+row_11	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	2429	0.3371482789516449	0.13409492	No	
+row_12	SELT	SELT	-	3422	0.20215478539466858	0.058928523	No	
+row_13	ZFAND3	ZFAND3	zinc finger, AN1-type domain 3	3546	0.18741963803768158	0.05279342	No	
+row_14	RYBP	RYBP	RING1 and YY1 binding protein	4489	0.08221899718046188	-0.02073726	No	
+row_15	NLK	NLK	nemo-like kinase	5301	-0.001240583136677742	-0.0854066	No	
+row_16	SMG6	SMG6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	5530	-0.02822859212756157	-0.10304046	No	
+row_17	ARHGAP1	ARHGAP1	Rho GTPase activating protein 1	6022	-0.08085104078054428	-0.14062159	No	
+row_18	ENPP2	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	6120	-0.09075462818145752	-0.14657895	No	
+row_19	RAB5C	RAB5C	RAB5C, member RAS oncogene family	6508	-0.13534267246723175	-0.17479502	No	
+row_20	PURB	PURB	purine-rich element binding protein B	6522	-0.13775889575481415	-0.17312959	No	
+row_21	OSBP	OSBP	oxysterol binding protein	6737	-0.1613529920578003	-0.18703513	No	
+row_22	PBX3	PBX3	pre-B-cell leukemia transcription factor 3	6987	-0.18848617374897003	-0.20320037	No	
+row_23	USP47	USP47	ubiquitin specific peptidase 47	7931	-0.3129250705242157	-0.272285	No	
+row_24	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	8212	-0.3509095013141632	-0.28773686	No	
+row_25	INSIG1	INSIG1	insulin induced gene 1	8420	-0.3889593780040741	-0.29661903	No	
+row_26	SF3B4	SF3B4	splicing factor 3b, subunit 4, 49kDa	9408	-0.6312146782875061	-0.36296964	No	
+row_27	OLR1	OLR1	oxidised low density lipoprotein (lectin-like) receptor 1	9568	-0.6828703284263611	-0.36225712	No	
+row_28	DEDD	DEDD	death effector domain containing	9905	-0.821622908115387	-0.37294203	No	
+row_29	NPAS2	NPAS2	neuronal PAS domain protein 2	9918	-0.8253911137580872	-0.35770744	No	
+row_30	PCDHA12	PCDHA12	protocadherin alpha 12	11045	-1.7919466495513916	-0.41237587	Yes	
+row_31	MLF1	MLF1	myeloid leukemia factor 1	11429	-2.385145664215088	-0.3961381	Yes	
+row_32	PCDHA2	PCDHA2	protocadherin alpha 2	11564	-2.624565839767456	-0.3553408	Yes	
+row_33	GAD1	GAD1	glutamate decarboxylase 1 (brain, 67kDa)	11630	-2.762204647064209	-0.3063393	Yes	
+row_34	PCDHA9	PCDHA9	protocadherin alpha 9	11976	-3.400723457336426	-0.2671475	Yes	
+row_35	PCDHA1	PCDHA1	protocadherin alpha 1	12098	-3.643594264984131	-0.20532277	Yes	
+row_36	PCDHA5	PCDHA5	protocadherin alpha 5	12472	-5.974450588226318	-0.11787537	Yes	
+row_37	PCDHA3	PCDHA3	protocadherin alpha 3	12497	-6.415428161621094	0.0060625845	Yes	

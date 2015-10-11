@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP7A1	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	31	4.828190326690674	0.23374483	Yes	
+row_1	BAAT	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	82	3.71484637260437	0.41150784	Yes	
+row_2	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	132	2.898749589920044	0.54942393	Yes	
+row_3	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	284	1.9548585414886475	0.6330397	Yes	
+row_4	CYP8B1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	557	1.1865378618240356	0.6694318	Yes	
+row_5	AKR1D1	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	611	1.1076185703277588	0.7194006	Yes	
+row_6	CYP27A1	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	687	1.009090781211853	0.7627973	Yes	
+row_7	HSD3B7	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	1070	0.7101091742515564	0.7671221	Yes	
+row_8	CYP7B1	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	1086	0.702355682849884	0.8002896	Yes	
+row_9	SCP2	SCP2	sterol carrier protein 2	1600	0.5094274878501892	0.7843655	No	
+row_10	AMACR	AMACR	alpha-methylacyl-CoA racemase	1711	0.47940751910209656	0.79906124	No	
+row_11	CH25H	CH25H	cholesterol 25-hydroxylase	2728	0.2961803376674652	0.7326533	No	
+row_12	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	4893	0.040142972022295	0.5623106	No	
+row_13	CYP39A1	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	6152	-0.09427332878112793	0.46675557	No	
+row_14	CYP46A1	CYP46A1	cytochrome P450, family 46, subfamily A, polypeptide 1	10082	-0.9081830978393555	0.1983439	No	

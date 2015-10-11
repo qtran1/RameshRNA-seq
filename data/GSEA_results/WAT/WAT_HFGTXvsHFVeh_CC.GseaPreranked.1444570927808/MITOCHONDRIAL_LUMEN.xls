@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIN4	PIN4	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting, 4 (parvulin)	353	1.6536129713058472	0.06349297	Yes	
+row_1	MRPL23	MRPL23	mitochondrial ribosomal protein L23	496	1.287611961364746	0.123537704	Yes	
+row_2	NR3C1	NR3C1	nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)	777	0.9087241291999817	0.15156443	Yes	
+row_3	DBT	DBT	dihydrolipoamide branched chain transacylase E2	870	0.8349641561508179	0.1905075	Yes	
+row_4	TFB2M	TFB2M	transcription factor B2, mitochondrial	921	0.8077285289764404	0.23129298	Yes	
+row_5	ETFB	ETFB	electron-transfer-flavoprotein, beta polypeptide	935	0.7972660660743713	0.27445164	Yes	
+row_6	BCKDHB	BCKDHB	branched chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease)	958	0.7829270958900452	0.31609708	Yes	
+row_7	MRPS36	MRPS36	mitochondrial ribosomal protein S36	1207	0.645498514175415	0.33208603	Yes	
+row_8	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.36042634	Yes	
+row_9	CS	CS	citrate synthase	1937	0.4245659410953522	0.33184296	Yes	
+row_10	MRPS18C	MRPS18C	mitochondrial ribosomal protein S18C	1999	0.4115433394908905	0.34978804	Yes	
+row_11	BCKDHA	BCKDHA	branched chain keto acid dehydrogenase E1, alpha polypeptide	2151	0.38618800044059753	0.35914424	Yes	
+row_12	ETFA	ETFA	electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)	2427	0.33753153681755066	0.35590613	Yes	
+row_13	ALDH4A1	ALDH4A1	aldehyde dehydrogenase 4 family, member A1	2519	0.3249828517436981	0.36665833	Yes	
+row_14	NDUFAB1	NDUFAB1	NADH dehydrogenase (ubiquinone) 1, alpha/beta subcomplex, 1, 8kDa	2932	0.2669675350189209	0.3485739	Yes	
+row_15	GRPEL1	GRPEL1	GrpE-like 1, mitochondrial (E. coli)	2954	0.26374852657318115	0.36151862	Yes	
+row_16	POLG2	POLG2	polymerase (DNA directed), gamma 2, accessory subunit	3034	0.25329816341400146	0.36925477	Yes	
+row_17	DNAJA3	DNAJA3	DnaJ (Hsp40) homolog, subfamily A, member 3	3302	0.21839472651481628	0.36005086	Yes	
+row_18	MRPS15	MRPS15	mitochondrial ribosomal protein S15	3316	0.2166590392589569	0.37102368	Yes	
+row_19	MRPS10	MRPS10	mitochondrial ribosomal protein S10	3510	0.19137971103191376	0.36622852	No	
+row_20	SUPV3L1	SUPV3L1	suppressor of var1, 3-like 1 (S. cerevisiae)	3718	0.16828550398349762	0.3590357	No	
+row_21	TIMM44	TIMM44	translocase of inner mitochondrial membrane 44 homolog (yeast)	4418	0.0887652039527893	0.30816582	No	
+row_22	MARS2	MARS2	methionine-tRNA synthetase 2 (mitochondrial)	4917	0.038024574518203735	0.2705259	No	
+row_23	NFS1	NFS1	NFS1 nitrogen fixation 1 (S. cerevisiae)	4976	0.0331292487680912	0.26773316	No	
+row_24	BCKDK	BCKDK	branched chain ketoacid dehydrogenase kinase	5110	0.018639283254742622	0.25815105	No	
+row_25	MRPS16	MRPS16	mitochondrial ribosomal protein S16	5113	0.018073217943310738	0.25899333	No	
+row_26	MRPL40	MRPL40	mitochondrial ribosomal protein L40	5160	0.012951786629855633	0.2560398	No	
+row_27	PITRM1	PITRM1	pitrilysin metallopeptidase 1	5744	-0.049919143319129944	0.21227501	No	
+row_28	MRPS28	MRPS28	mitochondrial ribosomal protein S28	5869	-0.06322164088487625	0.20588265	No	
+row_29	MRPL10	MRPL10	mitochondrial ribosomal protein L10	5873	-0.06374423950910568	0.20917685	No	
+row_30	MRPS12	MRPS12	mitochondrial ribosomal protein S12	6086	-0.08763685077428818	0.19711424	No	
+row_31	MRPL51	MRPL51	mitochondrial ribosomal protein L51	6102	-0.08918370306491852	0.20086089	No	
+row_32	MRPL41	MRPL41	mitochondrial ribosomal protein L41	6322	-0.11392311751842499	0.18969674	No	
+row_33	MRPL12	MRPL12	mitochondrial ribosomal protein L12	7114	-0.20206832885742188	0.13776481	No	
+row_34	MRPS35	MRPS35	mitochondrial ribosomal protein S35	7513	-0.25182342529296875	0.11995828	No	
+row_35	MRPS24	MRPS24	mitochondrial ribosomal protein S24	7829	-0.2970518171787262	0.1112836	No	
+row_36	ATP5F1	ATP5F1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit B1	8190	-0.34688717126846313	0.10177986	No	
+row_37	MRPS21	MRPS21	mitochondrial ribosomal protein S21	8216	-0.3511652648448944	0.119251244	No	
+row_38	MRPL55	MRPL55	mitochondrial ribosomal protein L55	8279	-0.3623238503932953	0.13438806	No	
+row_39	MRPL42	MRPL42	mitochondrial ribosomal protein L42	8453	-0.39854928851127625	0.14267357	No	
+row_40	MRPS18A	MRPS18A	mitochondrial ribosomal protein S18A	8465	-0.4004819691181183	0.16399622	No	
+row_41	MRPS11	MRPS11	mitochondrial ribosomal protein S11	9112	-0.5431214570999146	0.14254364	No	
+row_42	MRPL52	MRPL52	mitochondrial ribosomal protein L52	9608	-0.6959145069122314	0.14161314	No	
+row_43	MRPS22	MRPS22	mitochondrial ribosomal protein S22	9890	-0.8142536282539368	0.1643231	No	
+row_44	CASQ1	CASQ1	calsequestrin 1 (fast-twitch, skeletal muscle)	10060	-0.8972777128219604	0.20057477	No	

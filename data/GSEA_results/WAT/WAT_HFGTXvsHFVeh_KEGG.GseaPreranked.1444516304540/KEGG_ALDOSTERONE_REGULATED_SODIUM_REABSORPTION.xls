@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SCNN1G	SCNN1G	sodium channel, nonvoltage-gated 1, gamma	18	5.538581848144531	0.1508699	Yes	
+row_1	KCNJ1	KCNJ1	potassium inwardly-rectifying channel, subfamily J, member 1	169	2.6982345581054688	0.21310237	Yes	
+row_2	ATP1B4	ATP1B4	ATPase, (Na+)/K+ transporting, beta 4 polypeptide	175	2.6982345581054688	0.28690246	Yes	
+row_3	IRS1	IRS1	insulin receptor substrate 1	316	1.7930188179016113	0.3250401	Yes	
+row_4	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.36976737	Yes	
+row_5	FXYD4	FXYD4	FXYD domain containing ion transport regulator 4	593	1.1350421905517578	0.3807965	Yes	
+row_6	HSD11B1	HSD11B1	hydroxysteroid (11-beta) dehydrogenase 1	892	0.8239936828613281	0.37968212	Yes	
+row_7	SLC9A3R2	SLC9A3R2	solute carrier family 9 (sodium/hydrogen exchanger), member 3 regulator 2	1171	0.6615455746650696	0.37569612	Yes	
+row_8	IRS2	IRS2	insulin receptor substrate 2	1234	0.6353133916854858	0.3882205	Yes	
+row_9	INSR	INSR	insulin receptor	1444	0.5566907525062561	0.38685566	Yes	
+row_10	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	1557	0.5231813192367554	0.3923077	Yes	
+row_11	PIK3CB	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	1596	0.5127020478248596	0.403375	Yes	
+row_12	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	2051	0.40337419509887695	0.37824884	No	
+row_13	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	3152	0.23789387941360474	0.2970364	No	
+row_14	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	3468	0.19559454917907715	0.27728546	No	
+row_15	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	0.273331	No	
+row_16	PRKCA	PRKCA	protein kinase C, alpha	4205	0.11190378665924072	0.22678718	No	
+row_17	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	4406	0.0899149477481842	0.21330443	No	
+row_18	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.21082899	No	
+row_19	ATP1B2	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide	4725	0.05548452213406563	0.19185217	No	
+row_20	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	5277	9.328087326139212E-4	0.1479209	No	
+row_21	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	5771	-0.05278336629271507	0.11004252	No	
+row_22	NR3C2	NR3C2	nuclear receptor subfamily 3, group C, member 2	6296	-0.11175134778022766	0.07131263	No	
+row_23	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	6912	-0.18067185580730438	0.027218312	No	
+row_24	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	0.027046673	No	
+row_25	SCNN1B	SCNN1B	sodium channel, nonvoltage-gated 1, beta (Liddle syndrome)	7264	-0.22213274240493774	0.010578334	No	
+row_26	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	8139	-0.338960200548172	-0.049825344	No	
+row_27	HSD11B2	HSD11B2	hydroxysteroid (11-beta) dehydrogenase 2	8388	-0.3834679126739502	-0.059064936	No	
+row_28	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	8724	-0.4471385180950165	-0.07349421	No	
+row_29	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	8880	-0.48320823907852173	-0.07257181	No	
+row_30	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	8971	-0.5062096118927002	-0.0658314	No	
+row_31	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	9333	-0.608588695526123	-0.077895135	No	
+row_32	SCNN1A	SCNN1A	sodium channel, nonvoltage-gated 1 alpha	9935	-0.834138810634613	-0.102902845	No	
+row_33	NEDD4L	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like	10108	-0.9240503907203674	-0.09121389	No	
+row_34	SFN	SFN	stratifin	10199	-0.9797748923301697	-0.07145088	No	
+row_35	IRS4	IRS4	insulin receptor substrate 4	10797	-1.4817960262298584	-0.0783295	No	
+row_36	ATP1A3	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	11068	-1.814793586730957	-0.049964044	No	
+row_37	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	11638	-2.7765095233917236	-0.019005498	No	
+row_38	PRKCG	PRKCG	protein kinase C, gamma	11970	-3.400723457336426	0.0481052	No	

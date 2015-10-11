@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NOX4	NOX4	NADPH oxidase 4	337	1.7017745971679688	0.23608638	Yes	
+row_1	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	592	1.1350902318954468	0.39123031	Yes	
+row_2	ALDH6A1	ALDH6A1	aldehyde dehydrogenase 6 family, member A1	1132	0.680370569229126	0.45342836	Yes	
+row_3	PPOX	PPOX	protoporphyrinogen oxidase	2694	0.29973098635673523	0.37544268	No	
+row_4	NNT	NNT	nicotinamide nucleotide transhydrogenase	3329	0.21475130319595337	0.35813946	No	
+row_5	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	3761	0.1628393679857254	0.3489797	No	
+row_6	SPR	SPR	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)	4099	0.12206333875656128	0.34100482	No	
+row_7	MTRR	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	4300	0.10115373879671097	0.340708	No	
+row_8	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.3241947	No	
+row_9	WWOX	WWOX	WW domain containing oxidoreductase	4878	0.04139944165945053	0.3111625	No	
+row_10	NDOR1	NDOR1	NADPH dependent diflavin oxidoreductase 1	5436	-0.01776784099638462	0.2695569	No	
+row_11	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	5722	-0.04814712703227997	0.25430265	No	
+row_12	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	5789	-0.05391355976462364	0.25737694	No	
+row_13	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	7897	-0.30812832713127136	0.13721384	No	
+row_14	ACOT7	ACOT7	acyl-CoA thioesterase 7	10832	-1.5212496519088745	0.13862562	No	

@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FANCE	FANCE	Fanconi anemia, complementation group E	2218	0.3738037645816803	-0.1561337	No	
+row_1	FANCF	FANCF	Fanconi anemia, complementation group F	2327	0.35231778025627136	-0.14538686	No	
+row_2	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.31712583	No	
+row_3	FANCM	FANCM	Fanconi anemia, complementation group M	4849	0.04405916854739189	-0.33947715	No	
+row_4	FANCB	FANCB	Fanconi anemia, complementation group B	4892	0.04028020426630974	-0.34061027	No	
+row_5	RPS27A	RPS27A	ribosomal protein S27a	6353	-0.11689990758895874	-0.45047858	No	
+row_6	FANCC	FANCC	Fanconi anemia, complementation group C	6365	-0.11819856613874435	-0.44486335	No	
+row_7	FANCA	FANCA	Fanconi anemia, complementation group A	6509	-0.1360180824995041	-0.44878325	No	
+row_8	PALB2	PALB2	-	7759	-0.28584957122802734	-0.5325669	No	
+row_9	FANCL	FANCL	Fanconi anemia, complementation group L	8535	-0.41326525807380676	-0.5715991	No	
+row_10	FANCG	FANCG	Fanconi anemia, complementation group G	9921	-0.8262050151824951	-0.6365393	Yes	
+row_11	USP1	USP1	ubiquitin specific peptidase 1	9925	-0.8271239399909973	-0.59135324	Yes	
+row_12	UBA52	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	10105	-0.9215061068534851	-0.5550022	Yes	
+row_13	BRCA2	BRCA2	breast cancer 2, early onset	10701	-1.3711161613464355	-0.5270931	Yes	
+row_14	ATR	ATR	ataxia telangiectasia and Rad3 related	10754	-1.436244010925293	-0.45235762	Yes	
+row_15	ZBTB32	ZBTB32	zinc finger and BTB domain containing 32	11179	-1.962364673614502	-0.37835762	Yes	
+row_16	BRCA1	BRCA1	breast cancer 1, early onset	11308	-2.179550886154175	-0.26885366	Yes	
+row_17	FANCD2	FANCD2	Fanconi anemia, complementation group D2	11843	-3.1991653442382812	-0.13569108	Yes	
+row_18	UBE2T	UBE2T	ubiquitin-conjugating enzyme E2T (putative)	12055	-3.5280137062072754	0.0412584	Yes	

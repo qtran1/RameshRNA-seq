@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	1040	0.7283202409744263	-0.06849236	No	
+row_1	SPTBN1	SPTBN1	spectrin, beta, non-erythrocytic 1	1896	0.4349920153617859	-0.12808873	No	
+row_2	FGFR1	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	2047	0.40394824743270874	-0.1319669	No	
+row_3	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	2303	0.3561513423919678	-0.1451959	No	
+row_4	YWHAB	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	2583	0.3159976005554199	-0.16114898	No	
+row_5	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	2722	0.2966901957988739	-0.16622138	No	
+row_6	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	2766	0.2911204993724823	-0.1638135	No	
+row_7	ST8SIA4	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	3126	0.24182124435901642	-0.18764904	No	
+row_8	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	-0.19642365	No	
+row_9	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	-0.21582545	No	
+row_10	CACNB4	CACNB4	calcium channel, voltage-dependent, beta 4 subunit	3613	0.17960186302661896	-0.2146174	No	
+row_11	COL1A2	COL1A2	collagen, type I, alpha 2	3778	0.16120651364326477	-0.22448751	No	
+row_12	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	-0.23443851	No	
+row_13	COL3A1	COL3A1	collagen, type III, alpha 1 (Ehlers-Danlos syndrome type IV, autosomal dominant)	4069	0.1258922666311264	-0.24222048	No	
+row_14	FYN	FYN	FYN oncogene related to SRC, FGR, YES	4585	0.0703200101852417	-0.28196597	No	
+row_15	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	5277	9.328087326139212E-4	-0.33716983	No	
+row_16	SPTAN1	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	5388	-0.011426699347794056	-0.3457313	No	
+row_17	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	5455	-0.020220641046762466	-0.35059986	No	
+row_18	CACNB3	CACNB3	calcium channel, voltage-dependent, beta 3 subunit	5942	-0.07083818316459656	-0.3880174	No	
+row_19	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	5974	-0.07475712150335312	-0.38899404	No	
+row_20	CREB1	CREB1	cAMP responsive element binding protein 1	5985	-0.07616238296031952	-0.3882642	No	
+row_21	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6282	-0.11040803045034409	-0.40970317	No	
+row_22	COL1A1	COL1A1	collagen, type I, alpha 1	6327	-0.11424858123064041	-0.41092592	No	
+row_23	ARTN	ARTN	artemin	6652	-0.15268854796886444	-0.43375373	No	
+row_24	RPS6KA5	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5	6859	-0.17405208945274353	-0.44672248	No	
+row_25	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	-0.45253575	No	
+row_26	CACNA1S	CACNA1S	calcium channel, voltage-dependent, L type, alpha 1S subunit	7006	-0.18982024490833282	-0.450723	No	
+row_27	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	7220	-0.2166452705860138	-0.46339607	No	
+row_28	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	-0.465309	No	
+row_29	NCAM1	NCAM1	neural cell adhesion molecule 1	7360	-0.23505418002605438	-0.46514547	No	
+row_30	COL5A2	COL5A2	collagen, type V, alpha 2	7461	-0.2461135983467102	-0.46819636	No	
+row_31	MAP2K2	MAP2K2	mitogen-activated protein kinase kinase 2	7554	-0.25711196660995483	-0.47038716	No	
+row_32	COL6A3	COL6A3	collagen, type VI, alpha 3	7644	-0.26923009753227234	-0.4720949	No	
+row_33	GFRA4	GFRA4	GDNF family receptor alpha 4	7724	-0.28169143199920654	-0.47275332	No	
+row_34	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	8164	-0.3435555100440979	-0.50093985	No	
+row_35	SPTB	SPTB	spectrin, beta, erythrocytic (includes spherocytosis, clinical type I)	8305	-0.3669520318508148	-0.5047616	No	
+row_36	SPTBN5	SPTBN5	spectrin, beta, non-erythrocytic 5	8424	-0.3907451331615448	-0.5063475	No	
+row_37	COL5A1	COL5A1	collagen, type V, alpha 1	8452	-0.39803972840309143	-0.5005145	No	
+row_38	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	8508	-0.4086896479129791	-0.49670538	No	
+row_39	SPTBN2	SPTBN2	spectrin, beta, non-erythrocytic 2	9114	-0.544350266456604	-0.5341271	No	
+row_40	COL4A4	COL4A4	collagen, type IV, alpha 4	9647	-0.7086961269378662	-0.56241566	Yes	
+row_41	CNTN2	CNTN2	contactin 2 (axonal)	9693	-0.7252165079116821	-0.55145305	Yes	
+row_42	COL6A1	COL6A1	collagen, type VI, alpha 1	9751	-0.7493711709976196	-0.5409645	Yes	
+row_43	COL4A1	COL4A1	collagen, type IV, alpha 1	9753	-0.7505021095275879	-0.5259779	Yes	
+row_44	COL4A2	COL4A2	collagen, type IV, alpha 2	9797	-0.7679057717323303	-0.51399845	Yes	
+row_45	GFRA2	GFRA2	GDNF family receptor alpha 2	9979	-0.8540986180305481	-0.5113172	Yes	
+row_46	COL6A2	COL6A2	collagen, type VI, alpha 2	10171	-0.9646598100662231	-0.50721556	Yes	
+row_47	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	10827	-1.5147316455841064	-0.5291525	Yes	
+row_48	SPTBN4	SPTBN4	spectrin, beta, non-erythrocytic 4	10978	-1.7135435342788696	-0.5067403	Yes	
+row_49	NRTN	NRTN	neurturin	10993	-1.7321330308914185	-0.47308612	Yes	
+row_50	GFRA1	GFRA1	GDNF family receptor alpha 1	11088	-1.841956377029419	-0.4436206	Yes	
+row_51	COL9A1	COL9A1	collagen, type IX, alpha 1	11181	-1.9643992185592651	-0.41153717	Yes	
+row_52	CACNA1I	CACNA1I	calcium channel, voltage-dependent, alpha 1I subunit	11293	-2.1516871452331543	-0.37721235	Yes	
+row_53	PSPN	PSPN	persephin	11335	-2.2133948802948	-0.3360545	Yes	
+row_54	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	11372	-2.293867349624634	-0.29288158	Yes	
+row_55	GDNF	GDNF	glial cell derived neurotrophic factor	11376	-2.3013877868652344	-0.24692045	Yes	
+row_56	ST8SIA2	ST8SIA2	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	11377	-2.3024325370788574	-0.20069857	Yes	
+row_57	COL9A3	COL9A3	collagen, type IX, alpha 3	11545	-2.5805070400238037	-0.16224042	Yes	
+row_58	COL2A1	COL2A1	collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)	11892	-3.305922746658325	-0.12352448	Yes	
+row_59	SPTA1	SPTA1	spectrin, alpha, erythrocytic 1 (elliptocytosis 2)	12167	-3.8459012508392334	-0.06821434	Yes	
+row_60	COL9A2	COL9A2	collagen, type IX, alpha 2	12384	-5.010183811187744	0.015104218	Yes	

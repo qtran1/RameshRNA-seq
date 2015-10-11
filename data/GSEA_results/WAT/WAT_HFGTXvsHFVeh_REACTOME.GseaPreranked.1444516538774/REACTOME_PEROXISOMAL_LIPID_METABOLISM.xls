@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	284	1.9548585414886475	0.23138025	Yes	
+row_1	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	566	1.1731438636779785	0.3614303	Yes	
+row_2	IDH1	IDH1	isocitrate dehydrogenase 1 (NADP+), soluble	623	1.0887689590454102	0.49843568	Yes	
+row_3	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	806	0.8826987147331238	0.59863186	Yes	
+row_4	SCP2	SCP2	sterol carrier protein 2	1600	0.5094274878501892	0.6016704	Yes	
+row_5	AMACR	AMACR	alpha-methylacyl-CoA racemase	1711	0.47940751910209656	0.6552003	Yes	
+row_6	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	3214	0.23167403042316437	0.5656874	No	
+row_7	ABCD1	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	3398	0.20543961226940155	0.5778069	No	
+row_8	CROT	CROT	carnitine O-octanoyltransferase	3425	0.20175662636756897	0.6019508	No	
+row_9	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.51417345	No	
+row_10	AGPS	AGPS	alkylglycerone phosphate synthase	4738	0.053675130009651184	0.51286525	No	
+row_11	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	4893	0.040142972022295	0.505817	No	
+row_12	SLC25A17	SLC25A17	solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	5102	0.019496683031320572	0.49178576	No	
+row_13	ACOT8	ACOT8	acyl-CoA thioesterase 8	5977	-0.07494685053825378	0.4319211	No	
+row_14	CRAT	CRAT	carnitine acetyltransferase	6441	-0.12826377153396606	0.4117147	No	
+row_15	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	6977	-0.188063383102417	0.3935443	No	
+row_16	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	0.32722792	No	

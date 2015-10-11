@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HS3ST2	HS3ST2	heparan sulfate (glucosamine) 3-O-sulfotransferase 2	425	1.443260908126831	0.05787161	No	
+row_1	HOXA1	HOXA1	homeobox A1	827	0.8689863085746765	0.08115738	No	
+row_2	CTDSPL	CTDSPL	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like	1124	0.6825523376464844	0.10095833	No	
+row_3	FGFR3	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	1380	0.5755829811096191	0.117226824	No	
+row_4	FZD8	FZD8	frizzled homolog 8 (Drosophila)	1941	0.4235595166683197	0.099538535	No	
+row_5	MBNL1	MBNL1	muscleblind-like (Drosophila)	1969	0.4173087179660797	0.12390957	No	
+row_6	RAVER2	RAVER2	ribonucleoprotein, PTB-binding 2	2175	0.37976664304733276	0.1317159	No	
+row_7	MTMR3	MTMR3	myotubularin related protein 3	2922	0.2682408094406128	0.08934045	No	
+row_8	SLC44A1	SLC44A1	solute carrier family 44, member 1	3285	0.22115452587604523	0.07456033	No	
+row_9	ADCY1	ADCY1	adenylate cyclase 1 (brain)	3445	0.19820764660835266	0.07449198	No	
+row_10	EPDR1	EPDR1	ependymin related protein 1 (zebrafish)	3626	0.17791777849197388	0.07146135	No	
+row_11	SMARCA5	SMARCA5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5	4060	0.12686942517757416	0.045033444	No	
+row_12	TRIB2	TRIB2	tribbles homolog 2 (Drosophila)	4601	0.06810848414897919	0.0063478462	No	
+row_13	ZZEF1	ZZEF1	zinc finger, ZZ-type with EF-hand domain 1	5590	-0.034544628113508224	-0.070156716	No	
+row_14	ICMT	ICMT	isoprenylcysteine carboxyl methyltransferase	6303	-0.11232202500104904	-0.11973316	No	
+row_15	KBTBD8	KBTBD8	kelch repeat and BTB (POZ) domain containing 8	8158	-0.3422572612762451	-0.24566327	No	
+row_16	BAZ2A	BAZ2A	bromodomain adjacent to zinc finger domain, 2A	8212	-0.3509095013141632	-0.22758324	No	
+row_17	CYP26B1	CYP26B1	cytochrome P450, family 26, subfamily B, polypeptide 1	11279	-2.1412272453308105	-0.33572412	Yes	
+row_18	HS3ST3B1	HS3ST3B1	heparan sulfate (glucosamine) 3-O-sulfotransferase 3B1	11393	-2.3334059715270996	-0.19642735	Yes	
+row_19	INSM1	INSM1	insulinoma-associated 1	12322	-4.568404197692871	0.019993484	Yes	

@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TDGF1	TDGF1	teratocarcinoma-derived growth factor 1	14	5.914078235626221	0.29914516	Yes	
+row_1	PLG	PLG	plasminogen	107	3.198782205581665	0.4542177	Yes	
+row_2	ABI3	ABI3	ABI gene family, member 3	1021	0.7400322556495667	0.41903472	Yes	
+row_3	NEXN	NEXN	nexilin (F actin binding protein)	1287	0.6153545379638672	0.42915937	Yes	
+row_4	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1414	0.5671026110649109	0.44791082	Yes	
+row_5	LAMB1	LAMB1	laminin, beta 1	1431	0.5617233514785767	0.4751548	Yes	
+row_6	VCL	VCL	vinculin	1549	0.5260010361671448	0.4925367	Yes	
+row_7	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	1743	0.4702490270137787	0.50103176	Yes	
+row_8	CLIC4	CLIC4	chloride intracellular channel 4	1801	0.45727479457855225	0.51970565	Yes	
+row_9	ANGPTL3	ANGPTL3	angiopoietin-like 3	2324	0.3525708019733429	0.4960089	No	
+row_10	GTPBP4	GTPBP4	GTP binding protein 4	2921	0.26855528354644775	0.46214977	No	
+row_11	TRIP6	TRIP6	thyroid hormone receptor interactor 6	3198	0.23317968845367432	0.45199463	No	
+row_12	ACVRL1	ACVRL1	activin A receptor type II-like 1	3242	0.2276170700788498	0.46012428	No	
+row_13	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	3359	0.2109103500843048	0.46158856	No	
+row_14	CDH13	CDH13	cadherin 13, H-cadherin (heart)	3467	0.19567525386810303	0.4629965	No	
+row_15	SHH	SHH	sonic hedgehog homolog (Drosophila)	6144	-0.09387002885341644	0.25451824	No	
+row_16	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	6317	-0.1136213019490242	0.24658059	No	
+row_17	RTN4	RTN4	reticulon 4	6435	-0.12748689949512482	0.24372971	No	
+row_18	SPHK1	SPHK1	sphingosine kinase 1	6612	-0.14656636118888855	0.23714595	No	
+row_19	MIA3	MIA3	melanoma inhibitory activity family, member 3	7549	-0.2564898431301117	0.17558044	No	
+row_20	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	7618	-0.26565617322921753	0.18364918	No	
+row_21	PARD6B	PARD6B	par-6 partitioning defective 6 homolog beta (C. elegans)	7764	-0.2868335545063019	0.18665716	No	
+row_22	THY1	THY1	Thy-1 cell surface antigen	7871	-0.3024043142795563	0.1935635	No	
+row_23	AMOT	AMOT	angiomotin	8214	-0.3509173095226288	0.18412659	No	
+row_24	TBX5	TBX5	T-box 5	11854	-3.2135186195373535	0.057295308	No	

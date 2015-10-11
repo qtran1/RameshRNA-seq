@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BMP4	BMP4	bone morphogenetic protein 4	464	1.3422797918319702	0.010509402	No	
+row_1	FZD1	FZD1	frizzled homolog 1 (Drosophila)	651	1.0452059507369995	0.032672714	No	
+row_2	TGFB2	TGFB2	transforming growth factor, beta 2	808	0.8815059661865234	0.051434085	No	
+row_3	TGFB3	TGFB3	transforming growth factor, beta 3	929	0.8036853671073914	0.07031175	No	
+row_4	CHRD	CHRD	chordin	1357	0.5842459797859192	0.056940533	No	
+row_5	TGFBR3	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kDa)	1469	0.5505300760269165	0.06757528	No	
+row_6	NOG	NOG	noggin	1634	0.5019152760505676	0.0722628	No	
+row_7	SMAD5	SMAD5	SMAD, mothers against DPP homolog 5 (Drosophila)	1689	0.4861205220222473	0.085163176	No	
+row_8	TGFBR2	TGFBR2	transforming growth factor, beta receptor II (70/80kDa)	1845	0.4457437992095947	0.08858017	No	
+row_9	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2236	0.36948367953300476	0.07055784	No	
+row_10	BMP5	BMP5	bone morphogenetic protein 5	2540	0.32197800278663635	0.057791814	No	
+row_11	SMAD1	SMAD1	SMAD, mothers against DPP homolog 1 (Drosophila)	2543	0.32177403569221497	0.069021754	No	
+row_12	ACVR1	ACVR1	activin A receptor, type I	2570	0.318439781665802	0.07821981	No	
+row_13	SMAD6	SMAD6	SMAD, mothers against DPP homolog 6 (Drosophila)	2856	0.27710452675819397	0.06530085	No	
+row_14	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	3059	0.2512173652648926	0.05808443	No	
+row_15	BMPR1A	BMPR1A	bone morphogenetic protein receptor, type IA	3105	0.24520257115364075	0.06317504	No	
+row_16	APC	APC	adenomatosis polyposis coli	3271	0.22276748716831207	0.05790217	No	
+row_17	SMAD4	SMAD4	SMAD, mothers against DPP homolog 4 (Drosophila)	3330	0.2145581692457199	0.060871415	No	
+row_18	BMP2	BMP2	bone morphogenetic protein 2	3927	0.14251159131526947	0.01838781	No	
+row_19	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	4392	0.09167133271694183	-0.015369009	No	
+row_20	AXIN1	AXIN1	axin 1	5288	9.942855285771657E-6	-0.08674027	No	
+row_21	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	6054	-0.08396919816732407	-0.1447729	No	
+row_22	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	6277	-0.10935581475496292	-0.15860552	No	
+row_23	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6318	-0.11372104287147522	-0.15777007	No	
+row_24	ATF2	ATF2	activating transcription factor 2	6485	-0.13219475746154785	-0.16632858	No	
+row_25	TGFBR1	TGFBR1	transforming growth factor, beta receptor I (activin A receptor type II-like kinase, 53kDa)	7066	-0.1969013214111328	-0.2056111	No	
+row_26	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	7476	-0.24790045619010925	-0.2294521	No	
+row_27	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.29732773	No	
+row_28	BMP7	BMP7	bone morphogenetic protein 7 (osteogenic protein 1)	10362	-1.1039243936538696	-0.40586114	No	
+row_29	GATA4	GATA4	GATA binding protein 4	11457	-2.433581590652466	-0.40696353	Yes	
+row_30	WNT1	WNT1	wingless-type MMTV integration site family, member 1	11495	-2.4975037574768066	-0.3215131	Yes	
+row_31	NPPB	NPPB	natriuretic peptide precursor B	12024	-3.470339298248291	-0.2407831	Yes	
+row_32	MYL2	MYL2	myosin, light chain 2, regulatory, cardiac, slow	12115	-3.6482627391815186	-0.11882714	Yes	
+row_33	NPPA	NPPA	natriuretic peptide precursor A	12254	-4.386706829071045	0.025438847	Yes	

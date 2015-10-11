@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN2B	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	570	1.1684883832931519	-0.01594294	No	
+row_1	PCBP4	PCBP4	poly(rC) binding protein 4	1597	0.51139897108078	-0.08486487	No	
+row_2	CDC23	CDC23	CDC23 (cell division cycle 23, yeast, homolog)	1851	0.44380223751068115	-0.09383247	No	
+row_3	NBN	NBN	nibrin	2136	0.3880421817302704	-0.10668193	No	
+row_4	NEK6	NEK6	NIMA (never in mitosis gene a)-related kinase 6	3756	0.16328968107700348	-0.23170388	No	
+row_5	PML	PML	promyelocytic leukemia	4020	0.1314111351966858	-0.24936287	No	
+row_6	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.24753284	No	
+row_7	ATM	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	4537	0.07660108059644699	-0.28524306	No	
+row_8	TRIAP1	TRIAP1	TP53 regulated inhibitor of apoptosis 1	4996	0.030936352908611298	-0.32099614	No	
+row_9	RINT1	RINT1	RAD50 interactor 1	5602	-0.035685088485479355	-0.36835542	No	
+row_10	PIN1	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	6136	-0.09277794510126114	-0.4085286	No	
+row_11	PRMT5	PRMT5	protein arginine methyltransferase 5	6258	-0.10711850970983505	-0.41547406	No	
+row_12	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	-0.4193979	No	
+row_13	CDC16	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	6633	-0.14987698197364807	-0.43850476	No	
+row_14	TGFA	TGFA	transforming growth factor, alpha	6726	-0.15982064604759216	-0.44180518	No	
+row_15	EGF	EGF	epidermal growth factor (beta-urogastrone)	7200	-0.2127222865819931	-0.4741613	No	
+row_16	RAD17	RAD17	RAD17 homolog (S. pombe)	7696	-0.27693405747413635	-0.50664985	No	
+row_17	CHFR	CHFR	checkpoint with forkhead and ring finger domains	7856	-0.30035334825515747	-0.5117438	No	
+row_18	ANLN	ANLN	anillin, actin binding protein	8228	-0.3537788689136505	-0.53239906	No	
+row_19	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	8510	-0.40967583656311035	-0.54446256	No	
+row_20	PKMYT1	PKMYT1	protein kinase, membrane associated tyrosine/threonine 1	8551	-0.4173073172569275	-0.53710854	No	
+row_21	EREG	EREG	epiregulin	8592	-0.4246976673603058	-0.52956784	No	
+row_22	MAD2L1	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	9397	-0.6283644437789917	-0.57782525	No	
+row_23	BRSK1	BRSK1	BR serine/threonine kinase 1	10344	-1.0873475074768066	-0.6258121	Yes	
+row_24	MAD2L2	MAD2L2	MAD2 mitotic arrest deficient-like 2 (yeast)	10436	-1.1533477306365967	-0.6039277	Yes	
+row_25	RCC1	RCC1	regulator of chromosome condensation 1	10527	-1.2225804328918457	-0.5802141	Yes	
+row_26	CCNA2	CCNA2	cyclin A2	10629	-1.3052433729171753	-0.55528915	Yes	
+row_27	BUB1B	BUB1B	BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	10636	-1.3130290508270264	-0.5225893	Yes	
+row_28	NUSAP1	NUSAP1	nucleolar and spindle associated protein 1	10740	-1.4173277616500854	-0.4949917	Yes	
+row_29	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	10753	-1.4343459606170654	-0.45970497	Yes	
+row_30	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	-0.436392	Yes	
+row_31	UBE2C	UBE2C	ubiquitin-conjugating enzyme E2C	11210	-2.013339042663574	-0.40051448	Yes	
+row_32	KNTC1	KNTC1	kinetochore associated 1	11211	-2.0195915699005127	-0.34948218	Yes	
+row_33	NEK2	NEK2	NIMA (never in mitosis gene a)-related kinase 2	11379	-2.3037524223327637	-0.30459112	Yes	
+row_34	CDC25C	CDC25C	cell division cycle 25C	11562	-2.6245317459106445	-0.252791	Yes	
+row_35	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.18997228	Yes	
+row_36	TTK	TTK	TTK protein kinase	11721	-2.9544851779937744	-0.11826797	Yes	
+row_37	GML	GML	GPI anchored molecule like protein	12539	-7.366940021514893	0.0027122472	Yes	

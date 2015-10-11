@@ -1,0 +1,73 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAAT	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	82	3.71484637260437	0.06050926	Yes	
+row_1	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	91	3.550311326980591	0.123967044	Yes	
+row_2	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	132	2.898749589920044	0.17310187	Yes	
+row_3	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	284	1.9548585414886475	0.19631702	Yes	
+row_4	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	326	1.751019835472107	0.22465064	Yes	
+row_5	ACOT4	ACOT4	acyl-CoA thioesterase 4	430	1.4344042539596558	0.24230884	Yes	
+row_6	PFKFB1	PFKFB1	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 1	561	1.1783217191696167	0.25318405	Yes	
+row_7	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	566	1.1731438636779785	0.27404416	Yes	
+row_8	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	592	1.1350902318954468	0.2925375	Yes	
+row_9	AKR1D1	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	611	1.1076185703277588	0.3110948	Yes	
+row_10	FTCD	FTCD	formiminotransferase cyclodeaminase	632	1.0728957653045654	0.32886523	Yes	
+row_11	ACOT2	ACOT2	acyl-CoA thioesterase 2	643	1.0553032159805298	0.3471179	Yes	
+row_12	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	897	0.8226136565208435	0.34173268	Yes	
+row_13	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	927	0.8052768707275391	0.3539516	Yes	
+row_14	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	1031	0.7338517904281616	0.35896197	Yes	
+row_15	ADIPOR2	ADIPOR2	adiponectin receptor 2	1042	0.7259629368782043	0.3712687	Yes	
+row_16	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.38437513	Yes	
+row_17	HSD3B7	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	1070	0.7101091742515564	0.39511585	Yes	
+row_18	CYP7B1	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	1086	0.702355682849884	0.40659645	Yes	
+row_19	ACADSB	ACADSB	acyl-Coenzyme A dehydrogenase, short/branched chain	1110	0.6894857287406921	0.4172048	Yes	
+row_20	ABCD2	ABCD2	ATP-binding cassette, sub-family D (ALD), member 2	1120	0.6849055290222168	0.42885026	Yes	
+row_21	ACADVL	ACADVL	acyl-Coenzyme A dehydrogenase, very long chain	1186	0.6551134586334229	0.43547857	Yes	
+row_22	ACADM	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	1283	0.6192219257354736	0.4389793	Yes	
+row_23	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	1557	0.5231813192367554	0.42658836	No	
+row_24	MLYCD	MLYCD	malonyl-CoA decarboxylase	1626	0.5037214159965515	0.43024346	No	
+row_25	NPC1	NPC1	Niemann-Pick disease, type C1	2014	0.4085010886192322	0.40666354	No	
+row_26	UGDH	UGDH	UDP-glucose dehydrogenase	2409	0.3395170569419861	0.38127825	No	
+row_27	ATF4	ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)	2470	0.3305775821208954	0.3824473	No	
+row_28	ALDH5A1	ALDH5A1	aldehyde dehydrogenase 5 family, member A1 (succinate-semialdehyde dehydrogenase)	2636	0.309838205575943	0.37484327	No	
+row_29	PTGES3	PTGES3	prostaglandin E synthase 3 (cytosolic)	2890	0.2717962861061096	0.35951355	No	
+row_30	CROT	CROT	carnitine O-octanoyltransferase	3425	0.20175662636756897	0.32044291	No	
+row_31	ACADS	ACADS	acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain	3428	0.20072446763515472	0.32390684	No	
+row_32	GLYAT	GLYAT	glycine-N-acyltransferase	3454	0.19724102318286896	0.32546818	No	
+row_33	NR1H4	NR1H4	nuclear receptor subfamily 1, group H, member 4	3532	0.18862853944301605	0.3227147	No	
+row_34	LTA4H	LTA4H	leukotriene A4 hydrolase	3553	0.18676848709583282	0.32448688	No	
+row_35	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3772	0.16167882084846497	0.30996862	No	
+row_36	PNPLA8	PNPLA8	patatin-like phospholipase domain containing 8	3826	0.15518836677074432	0.3085311	No	
+row_37	OXSM	OXSM	3-oxoacyl-ACP synthase, mitochondrial	4217	0.11021308600902557	0.27932587	No	
+row_38	ACOT9	ACOT9	acyl-CoA thioesterase 9	4373	0.09365953505039215	0.2686188	No	
+row_39	MCAT	MCAT	malonyl CoA:ACP acyltransferase (mitochondrial)	4417	0.0887802243232727	0.2667822	No	
+row_40	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.2507444	No	
+row_41	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	0.22365847	No	
+row_42	FADS1	FADS1	fatty acid desaturase 1	5178	0.01030076015740633	0.20808695	No	
+row_43	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	5722	-0.04814712703227997	0.16552316	No	
+row_44	CYP39A1	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	6152	-0.09427332878112793	0.13291067	No	
+row_45	ADIPOR1	ADIPOR1	adiponectin receptor 1	6215	-0.10149116814136505	0.1297838	No	
+row_46	MIF	MIF	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	6636	-0.15055495500564575	0.09890731	No	
+row_47	PTGS1	PTGS1	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	6908	-0.1801292449235916	0.08048285	No	
+row_48	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	6977	-0.188063383102417	0.078439035	No	
+row_49	ALOX12	ALOX12	arachidonate 12-lipoxygenase	7141	-0.20557700097560883	0.06911263	No	
+row_50	PTGES	PTGES	prostaglandin E synthase	7666	-0.272609144449234	0.03212105	No	
+row_51	MTHFD2	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	7802	-0.29198044538497925	0.026594223	No	
+row_52	CD74	CD74	CD74 molecule, major histocompatibility complex, class II invariant chain	7883	-0.30397239327430725	0.025683196	No	
+row_53	GCK	GCK	glucokinase (hexokinase 4, maturity onset diabetes of the young 2)	8172	-0.3445889353752136	0.008868126	No	
+row_54	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	8337	-0.3738337457180023	0.002499458	No	
+row_55	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	-3.5012953E-4	No	
+row_56	ME3	ME3	malic enzyme 3, NADP(+)-dependent, mitochondrial	8492	-0.4052290618419647	0.0048062624	No	
+row_57	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	8511	-0.4099058210849762	0.010766975	No	
+row_58	FADS2	FADS2	fatty acid desaturase 2	8604	-0.426098108291626	0.01110097	No	
+row_59	ACOT1	ACOT1	acyl-CoA thioesterase 1	8672	-0.43767526745796204	0.0136436615	No	
+row_60	ALDH1L1	ALDH1L1	aldehyde dehydrogenase 1 family, member L1	8691	-0.44124269485473633	0.020170132	No	
+row_61	DEGS1	DEGS1	degenerative spermatocyte homolog 1, lipid desaturase (Drosophila)	8714	-0.44580966234207153	0.026459105	No	
+row_62	GBA2	GBA2	glucosidase, beta (bile acid) 2	9320	-0.6047210097312927	-0.011015455	No	
+row_63	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	9805	-0.7714527249336243	-0.035801373	No	
+row_64	SLC25A10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	9888	-0.8139985203742981	-0.027664313	No	
+row_65	PTGDS	PTGDS	prostaglandin D2 synthase 21kDa (brain)	10035	-0.884432315826416	-0.023374815	No	
+row_66	FAAH	FAAH	fatty acid amide hydrolase	11122	-1.8910130262374878	-0.07610037	No	
+row_67	BBOX1	BBOX1	butyrobetaine (gamma), 2-oxoglutarate dioxygenase (gamma-butyrobetaine hydroxylase) 1	11148	-1.9233819246292114	-0.04337512	No	
+row_68	ACOT12	ACOT12	acyl-CoA thioesterase 12	11187	-1.9773300886154175	-0.010715715	No	
+row_69	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11247	-2.0730512142181396	0.021992115	No	
+row_70	BRCA1	BRCA1	breast cancer 1, early onset	11308	-2.179550886154175	0.056542713	No	
+row_71	SLC27A6	SLC27A6	solute carrier family 27 (fatty acid transporter), member 6	11477	-2.4681975841522217	0.08766595	No	

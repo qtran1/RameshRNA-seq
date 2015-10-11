@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGB	FGB	fibrinogen beta chain	97	3.4006435871124268	0.1094361	Yes	
+row_1	FGG	FGG	fibrinogen gamma chain	128	2.9948625564575195	0.21022944	Yes	
+row_2	SERPINC1	SERPINC1	serpin peptidase inhibitor, clade C (antithrombin), member 1	136	2.847198963165283	0.30776763	Yes	
+row_3	KNG1	KNG1	kininogen 1	191	2.6197216510772705	0.39372402	Yes	
+row_4	VWF	VWF	von Willebrand factor	355	1.6487281322479248	0.43754244	Yes	
+row_5	THBD	THBD	thrombomodulin	358	1.633984088897705	0.49367952	Yes	
+row_6	FGA	FGA	fibrinogen alpha chain	461	1.349867820739746	0.5320609	Yes	
+row_7	KLKB1	KLKB1	kallikrein B, plasma (Fletcher factor) 1	551	1.1968950033187866	0.56620765	Yes	
+row_8	TFPI	TFPI	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	660	1.0374624729156494	0.5933476	Yes	
+row_9	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	2105	0.3921147286891937	0.49181587	No	
+row_10	C1QBP	C1QBP	complement component 1, q subcomponent binding protein	3112	0.24395541846752167	0.4200744	No	
+row_11	GP1BA	GP1BA	glycoprotein Ib (platelet), alpha polypeptide	3194	0.23360909521579742	0.4216699	No	
+row_12	GP9	GP9	glycoprotein IX (platelet)	3280	0.22183434665203094	0.42254102	No	
+row_13	F13B	F13B	coagulation factor XIII, B polypeptide	4178	0.1142093613743782	0.35501322	No	
+row_14	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	5028	0.026993202045559883	0.2883046	No	
+row_15	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	5398	-0.012646070681512356	0.2593426	No	
+row_16	F13A1	F13A1	coagulation factor XIII, A1 polypeptide	6373	-0.11890372633934021	0.18584205	No	
+row_17	PROS1	PROS1	protein S (alpha)	6517	-0.13726085424423218	0.17917855	No	
+row_18	PRCP	PRCP	prolylcarboxypeptidase (angiotensinase C)	9116	-0.5450149178504944	-0.00902276	No	
+row_19	GP1BB	GP1BB	glycoprotein Ib (platelet), beta polypeptide	9261	-0.5864330530166626	-2.9038527E-4	No	
+row_20	GP5	GP5	glycoprotein V (platelet)	11085	-1.8363440036773682	-0.082257785	No	
+row_21	A2M	A2M	alpha-2-macroglobulin	12462	-5.825974464416504	0.008843253	No	

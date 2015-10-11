@@ -1,0 +1,121 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNNC2	TNNC2	troponin C type 2 (fast)	13	5.97471284866333	0.06273622	Yes	
+row_1	CMTM5	CMTM5	CKLF-like MARVEL transmembrane domain containing 5	25	5.008706569671631	0.11532091	Yes	
+row_2	CALCR	CALCR	calcitonin receptor	64	4.184475898742676	0.15693897	Yes	
+row_3	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	146	2.747812509536743	0.17976794	Yes	
+row_4	HOXA10	HOXA10	homeobox A10	199	2.5331950187683105	0.20263442	Yes	
+row_5	RAB33A	RAB33A	RAB33A, member RAS oncogene family	228	2.247945547103882	0.22438297	Yes	
+row_6	NR2F1	NR2F1	nuclear receptor subfamily 2, group F, member 1	308	1.8395717144012451	0.23767705	Yes	
+row_7	HPCA	HPCA	hippocalcin	348	1.6652642488479614	0.25232223	Yes	
+row_8	MAF	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	731	0.9596576690673828	0.2318937	Yes	
+row_9	SYTL2	SYTL2	synaptotagmin-like 2	764	0.9246079921722412	0.23919444	Yes	
+row_10	RORC	RORC	RAR-related orphan receptor C	869	0.8351655006408691	0.23975909	Yes	
+row_11	ACTC1	ACTC1	actin, alpha, cardiac muscle 1	1008	0.7470893263816833	0.23665349	Yes	
+row_12	CALD1	CALD1	caldesmon 1	1032	0.7333831191062927	0.24263556	Yes	
+row_13	LNX2	LNX2	ligand of numb-protein X 2	1039	0.7284111976623535	0.24992958	Yes	
+row_14	BCOR	BCOR	BCL6 co-repressor	1071	0.7093721628189087	0.25501296	Yes	
+row_15	PRPF38B	PRPF38B	PRP38 pre-mRNA processing factor 38 (yeast) domain containing B	1072	0.7082560062408447	0.2625736	Yes	
+row_16	ZBTB4	ZBTB4	zinc finger and BTB domain containing 4	1142	0.6758536696434021	0.26424795	Yes	
+row_17	PRKCE	PRKCE	protein kinase C, epsilon	1221	0.639954149723053	0.2648164	Yes	
+row_18	THRA	THRA	thyroid hormone receptor, alpha (erythroblastic leukemia viral (v-erb-a) oncogene homolog, avian)	1294	0.6104344725608826	0.26555154	Yes	
+row_19	FLNC	FLNC	filamin C, gamma (actin binding protein 280)	1387	0.574505627155304	0.2642972	Yes	
+row_20	TCF7L2	TCF7L2	transcription factor 7-like 2 (T-cell specific, HMG-box)	1395	0.5724562406539917	0.26984608	Yes	
+row_21	PTCH2	PTCH2	patched homolog 2 (Drosophila)	1460	0.5526408553123474	0.2706066	Yes	
+row_22	PACSIN3	PACSIN3	protein kinase C and casein kinase substrate in neurons 3	1551	0.5250341296195984	0.26898476	Yes	
+row_23	PRPF4B	PRPF4B	PRP4 pre-mRNA processing factor 4 homolog B (yeast)	1581	0.5150263905525208	0.2721541	Yes	
+row_24	ANGPTL2	ANGPTL2	angiopoietin-like 2	1772	0.4633174538612366	0.2618439	No	
+row_25	SRF	SRF	serum response factor (c-fos serum response element-binding transcription factor)	2092	0.3950892686843872	0.2404472	No	
+row_26	CASKIN2	CASKIN2	CASK interacting protein 2	2138	0.3879369795322418	0.24097513	No	
+row_27	UBTF	UBTF	upstream binding transcription factor, RNA polymerase I	2352	0.34868529438972473	0.2275944	No	
+row_28	EML1	EML1	echinoderm microtubule associated protein like 1	2524	0.3244436979293823	0.21732731	No	
+row_29	ATP5G2	ATP5G2	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit C2 (subunit 9)	2626	0.31085890531539917	0.21253589	No	
+row_30	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	2753	0.2927808463573456	0.20554408	No	
+row_31	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	2792	0.28648900985717773	0.20555113	No	
+row_32	STAG2	STAG2	stromal antigen 2	2853	0.27743229269981384	0.20369498	No	
+row_33	HMGN3	HMGN3	high mobility group nucleosomal binding domain 3	2907	0.26970550417900085	0.20231843	No	
+row_34	RNF145	RNF145	ring finger protein 145	2908	0.2696920335292816	0.2051974	No	
+row_35	BMPR2	BMPR2	bone morphogenetic protein receptor, type II (serine/threonine kinase)	3059	0.2512173652648926	0.19583482	No	
+row_36	BAHD1	BAHD1	bromo adjacent homology domain containing 1	3211	0.232185959815979	0.18618879	No	
+row_37	GAB2	GAB2	GRB2-associated binding protein 2	3272	0.22250735759735107	0.18374632	No	
+row_38	KCNIP1	KCNIP1	Kv channel interacting protein 1	3295	0.21936602890491486	0.18432155	No	
+row_39	ZFX	ZFX	zinc finger protein, X-linked	3326	0.21509476006031036	0.18420883	No	
+row_40	TRAF4	TRAF4	TNF receptor-associated factor 4	3632	0.17735597491264343	0.16161197	No	
+row_41	POLR2A	POLR2A	polymerase (RNA) II (DNA directed) polypeptide A, 220kDa	3720	0.1681242734193802	0.15642099	No	
+row_42	RAB11A	RAB11A	RAB11A, member RAS oncogene family	3837	0.15441924333572388	0.14875515	No	
+row_43	PARP8	PARP8	poly (ADP-ribose) polymerase family, member 8	3917	0.1438085287809372	0.14394696	No	
+row_44	POFUT1	POFUT1	protein O-fucosyltransferase 1	3921	0.14336585998535156	0.1452365	No	
+row_45	SFXN2	SFXN2	sideroflexin 2	3926	0.14276115596294403	0.1464393	No	
+row_46	CDK9	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	3996	0.1343977302312851	0.1423336	No	
+row_47	MNT	MNT	MAX binding protein	4025	0.1311987191438675	0.14148587	No	
+row_48	TIMP3	TIMP3	TIMP metallopeptidase inhibitor 3 (Sorsby fundus dystrophy, pseudoinflammatory)	4121	0.12006957828998566	0.13513954	No	
+row_49	TNFAIP8	TNFAIP8	tumor necrosis factor, alpha-induced protein 8	4161	0.11566732078790665	0.13324277	No	
+row_50	ARFIP2	ARFIP2	ADP-ribosylation factor interacting protein 2 (arfaptin 2)	4223	0.10987115651369095	0.12951761	No	
+row_51	UBE2D3	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	4277	0.10389108955860138	0.126371	No	
+row_52	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	4307	0.10044947266578674	0.12511472	No	
+row_53	ERBB2	ERBB2	v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)	4409	0.08948642015457153	0.11796015	No	
+row_54	CDC40	CDC40	cell division cycle 40 homolog (S. cerevisiae)	4487	0.08239281177520752	0.112656936	No	
+row_55	OTUD7B	OTUD7B	OTU domain containing 7B	4540	0.07628380507230759	0.109295905	No	
+row_56	TSEN54	TSEN54	tRNA splicing endonuclease 54 homolog (S. cerevisiae)	4700	0.05769495293498039	0.09714481	No	
+row_57	GOLPH3L	GOLPH3L	golgi phosphoprotein 3-like	4801	0.0486491359770298	0.0896346	No	
+row_58	ARF6	ARF6	ADP-ribosylation factor 6	4906	0.03901604562997818	0.08170036	No	
+row_59	POLR1D	POLR1D	polymerase (RNA) I polypeptide D, 16kDa	4933	0.03615620732307434	0.07999864	No	
+row_60	SH2B3	SH2B3	SH2B adaptor protein 3	4944	0.035514187067747116	0.0795748	No	
+row_61	MAP3K5	MAP3K5	mitogen-activated protein kinase kinase kinase 5	5091	0.02093285694718361	0.06807512	No	
+row_62	FXR2	FXR2	fragile X mental retardation, autosomal homolog 2	5214	0.006489733699709177	0.05834835	No	
+row_63	RORA	RORA	RAR-related orphan receptor A	5279	6.9171201903373E-4	0.053216822	No	
+row_64	NCOA6	NCOA6	nuclear receptor coactivator 6	5328	-0.00412472989410162	0.04940667	No	
+row_65	MYH10	MYH10	myosin, heavy chain 10, non-muscle	5377	-0.009995508939027786	0.04565919	No	
+row_66	SYNJ1	SYNJ1	synaptojanin 1	5401	-0.013021205551922321	0.043951392	No	
+row_67	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	5461	-0.020671704784035683	0.03943463	No	
+row_68	HIC2	HIC2	hypermethylated in cancer 2	5559	-0.03159414231777191	0.031983234	No	
+row_69	NECAP1	NECAP1	NECAP endocytosis associated 1	5651	-0.04056285321712494	0.025109354	No	
+row_70	WASF1	WASF1	WAS protein family, member 1	5793	-0.054329466074705124	0.014367657	No	
+row_71	EPHA1	EPHA1	EPH receptor A1	5943	-0.07108336687088013	0.003162444	No	
+row_72	PAIP2	PAIP2	poly(A) binding protein interacting protein 2	6038	-0.08224859833717346	-0.003507328	No	
+row_73	SENP1	SENP1	SUMO1/sentrin specific peptidase 1	6304	-0.11243222653865814	-0.023585418	No	
+row_74	GSK3B	GSK3B	glycogen synthase kinase 3 beta	6318	-0.11372104287147522	-0.023415288	No	
+row_75	EIF4G2	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	6371	-0.11880287528038025	-0.026322432	No	
+row_76	LRCH4	LRCH4	leucine-rich repeats and calponin homology (CH) domain containing 4	6658	-0.15310993790626526	-0.047652494	No	
+row_77	NRF1	NRF1	nuclear respiratory factor 1	6686	-0.1559736132621765	-0.048155453	No	
+row_78	INTS12	INTS12	integrator complex subunit 12	6783	-0.16652946174144745	-0.05408612	No	
+row_79	ASXL1	ASXL1	additional sex combs like 1 (Drosophila)	7060	-0.1964721381664276	-0.07415033	No	
+row_80	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	7180	-0.20963603258132935	-0.08146763	No	
+row_81	TLK1	TLK1	tousled-like kinase 1	7262	-0.2220572978258133	-0.08560111	No	
+row_82	XPR1	XPR1	xenotropic and polytropic retrovirus receptor	7405	-0.24016991257667542	-0.09443925	No	
+row_83	CDC27	CDC27	cell division cycle 27	7481	-0.24842962622642517	-0.09780943	No	
+row_84	CREB3L2	CREB3L2	cAMP responsive element binding protein 3-like 2	7679	-0.27535146474838257	-0.11068826	No	
+row_85	DET1	DET1	de-etiolated homolog 1 (Arabidopsis)	7716	-0.28010454773902893	-0.11058878	No	
+row_86	SEPT10	SEPT10	septin 10	8065	-0.32654520869255066	-0.13504574	No	
+row_87	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	8418	-0.388506680727005	-0.15916245	No	
+row_88	POU3F3	POU3F3	POU domain, class 3, transcription factor 3	8432	-0.3920697867870331	-0.15602094	No	
+row_89	DLX1	DLX1	distal-less homeobox 1	8634	-0.4314790666103363	-0.16755429	No	
+row_90	DNAL4	DNAL4	dynein, axonemal, light chain 4	8679	-0.43905144929885864	-0.16640042	No	
+row_91	KDELR2	KDELR2	KDEL (Lys-Asp-Glu-Leu) endoplasmic reticulum protein retention receptor 2	8802	-0.4637007713317871	-0.17124647	No	
+row_92	BTBD1	BTBD1	BTB (POZ) domain containing 1	9075	-0.5332419276237488	-0.18739448	No	
+row_93	CTNNBIP1	CTNNBIP1	catenin, beta interacting protein 1	9203	-0.5707973837852478	-0.19149874	No	
+row_94	GSTCD	GSTCD	glutathione S-transferase, C-terminal domain containing	9291	-0.5967759490013123	-0.19211388	No	
+row_95	GIPC1	GIPC1	GIPC PDZ domain containing family, member 1	9382	-0.6236346364021301	-0.19268316	No	
+row_96	SESN3	SESN3	sestrin 3	9517	-0.6632490754127502	-0.19636257	No	
+row_97	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	9556	-0.679041862487793	-0.19216503	No	
+row_98	ARL3	ARL3	ADP-ribosylation factor-like 3	9691	-0.7238274216651917	-0.19519778	No	
+row_99	PDZRN4	PDZRN4	PDZ domain containing RING finger 4	9749	-0.749150276184082	-0.19177744	No	
+row_100	RTN2	RTN2	reticulon 2	9755	-0.7509118914604187	-0.18416293	No	
+row_101	MAML3	MAML3	mastermind-like 3 (Drosophila)	9815	-0.773715078830719	-0.18064095	No	
+row_102	SCNN1A	SCNN1A	sodium channel, nonvoltage-gated 1 alpha	9935	-0.834138810634613	-0.18129168	No	
+row_103	WDR78	WDR78	WD repeat domain 78	10190	-0.974898099899292	-0.1912797	No	
+row_104	LIG1	LIG1	ligase I, DNA, ATP-dependent	10311	-1.0569075345993042	-0.18963267	No	
+row_105	RAPGEFL1	RAPGEFL1	Rap guanine nucleotide exchange factor (GEF)-like 1	10342	-1.0872410535812378	-0.18043524	No	
+row_106	ICA1	ICA1	islet cell autoantigen 1, 69kDa	10368	-1.1064367294311523	-0.17063141	No	
+row_107	WNT2	WNT2	wingless-type MMTV integration site family member 2	10669	-1.344534158706665	-0.18036716	No	
+row_108	CBLN1	CBLN1	cerebellin 1 precursor	10848	-1.5461499691009521	-0.1781546	No	
+row_109	PGF	PGF	placental growth factor, vascular endothelial growth factor-related protein	11033	-1.7770155668258667	-0.17395933	No	
+row_110	SH3GL3	SH3GL3	SH3-domain GRB2-like 3	11098	-1.856325387954712	-0.15928197	No	
+row_111	TMEM132E	TMEM132E	transmembrane protein 132E	11175	-1.9576531648635864	-0.14448647	No	
+row_112	CDH16	CDH16	cadherin 16, KSP-cadherin	11207	-2.0092220306396484	-0.12552719	No	
+row_113	FBXO24	FBXO24	F-box protein 24	11424	-2.375115156173706	-0.11751665	No	
+row_114	CDK5R2	CDK5R2	cyclin-dependent kinase 5, regulatory subunit 2 (p39)	11462	-2.445664405822754	-0.09438012	No	
+row_115	SPATA17	SPATA17	spermatogenesis associated 17	11645	-2.784759283065796	-0.07926659	No	
+row_116	HOXC13	HOXC13	homeobox C13	11972	-3.400723457336426	-0.0691402	No	
+row_117	NRG1	NRG1	neuregulin 1	12083	-3.614084243774414	-0.039392352	No	
+row_118	FGF5	FGF5	fibroblast growth factor 5	12100	-3.6480796337127686	-0.0017338273	No	
+row_119	RFX4	RFX4	regulatory factor X, 4 (influences HLA class II expression)	12132	-3.712686777114868	0.035409942	No	

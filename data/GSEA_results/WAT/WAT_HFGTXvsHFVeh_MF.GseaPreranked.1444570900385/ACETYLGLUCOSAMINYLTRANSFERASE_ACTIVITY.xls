@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	1206	0.6456820964813232	-0.05175702	No	
+row_1	EXT1	EXT1	exostoses (multiple) 1	2193	0.3773146867752075	-0.10439672	No	
+row_2	B3GNT8	B3GNT8	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 8	2631	0.3104383945465088	-0.117907986	No	
+row_3	PIGA	PIGA	phosphatidylinositol glycan anchor biosynthesis, class A (paroxysmal nocturnal hemoglobinuria)	4694	0.05800512805581093	-0.27811605	No	
+row_4	EXTL2	EXTL2	exostoses (multiple)-like 2	5938	-0.0707876980304718	-0.37223548	No	
+row_5	MGAT4B	MGAT4B	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme B	6134	-0.09247981011867523	-0.38142154	No	
+row_6	MGAT2	MGAT2	mannosyl (alpha-1,6-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase	6314	-0.11304469406604767	-0.3879236	No	
+row_7	GCNT2	GCNT2	glucosaminyl (N-acetyl) transferase 2, I-branching enzyme (I blood group)	6816	-0.17085584998130798	-0.41610098	No	
+row_8	MGAT4A	MGAT4A	mannosyl (alpha-1,3-)-glycoprotein beta-1,4-N-acetylglucosaminyltransferase, isozyme A	7692	-0.27678126096725464	-0.46679524	No	
+row_9	LARGE	LARGE	like-glycosyltransferase	8665	-0.4365103542804718	-0.5142616	No	
+row_10	POMGNT1	POMGNT1	protein O-linked mannose beta1,2-N-acetylglucosaminyltransferase	9571	-0.6840454339981079	-0.53942144	Yes	
+row_11	B3GNT5	B3GNT5	UDP-GlcNAc:betaGal beta-1,3-N-acetylglucosaminyltransferase 5	10445	-1.1607266664505005	-0.52935076	Yes	
+row_12	GCNT1	GCNT1	glucosaminyl (N-acetyl) transferase 1, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	11087	-1.841745138168335	-0.45411476	Yes	
+row_13	GCNT3	GCNT3	glucosaminyl (N-acetyl) transferase 3, mucin type	11607	-2.715975284576416	-0.309225	Yes	
+row_14	GCNT4	GCNT4	glucosaminyl (N-acetyl) transferase 4, core 2 (beta-1,6-N-acetylglucosaminyltransferase)	12448	-5.630789279937744	0.009953017	Yes	

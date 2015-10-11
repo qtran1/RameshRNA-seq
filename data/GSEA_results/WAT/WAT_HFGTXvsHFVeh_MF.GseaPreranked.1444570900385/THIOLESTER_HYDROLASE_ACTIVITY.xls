@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HIBCH	HIBCH	3-hydroxyisobutyryl-Coenzyme A hydrolase	2150	0.38624149560928345	-0.14274713	No	
+row_1	ACOT11	ACOT11	acyl-CoA thioesterase 11	2305	0.3557974100112915	-0.12879488	No	
+row_2	USP53	USP53	ubiquitin specific peptidase 53	2623	0.3115783631801605	-0.1310805	No	
+row_3	USP21	USP21	ubiquitin specific peptidase 21	3925	0.1430046707391739	-0.22414313	No	
+row_4	ACOT9	ACOT9	acyl-CoA thioesterase 9	4373	0.09365953505039215	-0.2528371	No	
+row_5	USP5	USP5	ubiquitin specific peptidase 5 (isopeptidase T)	4431	0.08768845349550247	-0.2509151	No	
+row_6	ACOT8	ACOT8	acyl-CoA thioesterase 8	5977	-0.07494685053825378	-0.36842212	No	
+row_7	USP12	USP12	ubiquitin specific peptidase 12	7365	-0.23563353717327118	-0.46150804	No	
+row_8	PPT1	PPT1	palmitoyl-protein thioesterase 1 (ceroid-lipofuscinosis, neuronal 1, infantile)	8333	-0.3729259967803955	-0.51103336	No	
+row_9	HAGH	HAGH	hydroxyacylglutathione hydrolase	9596	-0.692829430103302	-0.56047904	Yes	
+row_10	YOD1	YOD1	YOD1 OTU deubiquinating enzyme 1 homolog (S. cerevisiae)	9809	-0.7718772888183594	-0.5204884	Yes	
+row_11	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	10616	-1.2964569330215454	-0.48914692	Yes	
+row_12	UCHL3	UCHL3	ubiquitin carboxyl-terminal esterase L3 (ubiquitin thiolesterase)	10834	-1.522613763809204	-0.39423972	Yes	
+row_13	OTUB2	OTUB2	OTU domain, ubiquitin aldehyde binding 2	11151	-1.9258311986923218	-0.2775067	Yes	
+row_14	ACOT12	ACOT12	acyl-CoA thioesterase 12	11187	-1.9773300886154175	-0.13460301	Yes	
+row_15	USP29	USP29	ubiquitin specific peptidase 29	11905	-3.3236889839172363	0.053193104	Yes	

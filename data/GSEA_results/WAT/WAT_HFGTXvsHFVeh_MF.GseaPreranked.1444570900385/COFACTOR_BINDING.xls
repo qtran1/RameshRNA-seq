@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALB	ALB	albumin	193	2.601724147796631	0.16219051	Yes	
+row_1	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	326	1.751019835472107	0.2711806	Yes	
+row_2	NOX4	NOX4	NADPH oxidase 4	337	1.7017745971679688	0.38652855	Yes	
+row_3	HPGD	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	592	1.1350902318954468	0.44376323	Yes	
+row_4	ALDH6A1	ALDH6A1	aldehyde dehydrogenase 6 family, member A1	1132	0.680370569229126	0.44725996	Yes	
+row_5	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	1248	0.6314340233802795	0.4811936	Yes	
+row_6	PPOX	PPOX	protoporphyrinogen oxidase	2694	0.29973098635673523	0.38653806	No	
+row_7	NNT	NNT	nicotinamide nucleotide transhydrogenase	3329	0.21475130319595337	0.3506888	No	
+row_8	GRHPR	GRHPR	glyoxylate reductase/hydroxypyruvate reductase	3761	0.1628393679857254	0.327468	No	
+row_9	SPR	SPR	sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)	4099	0.12206333875656128	0.30895254	No	
+row_10	MTRR	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	4300	0.10115373879671097	0.29992375	No	
+row_11	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	4633	0.06422080099582672	0.27785888	No	
+row_12	WWOX	WWOX	WW domain containing oxidoreductase	4878	0.04139944165945053	0.26124677	No	
+row_13	NDOR1	NDOR1	NADPH dependent diflavin oxidoreductase 1	5436	-0.01776784099638462	0.21808755	No	
+row_14	BDH2	BDH2	3-hydroxybutyrate dehydrogenase, type 2	5722	-0.04814712703227997	0.1986698	No	
+row_15	GCLC	GCLC	glutamate-cysteine ligase, catalytic subunit	5789	-0.05391355976462364	0.19709165	No	
+row_16	ME1	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	7897	-0.30812832713127136	0.05027281	No	
+row_17	ME3	ME3	malic enzyme 3, NADP(+)-dependent, mitochondrial	8492	-0.4052290618419647	0.03060996	No	
+row_18	ABAT	ABAT	4-aminobutyrate aminotransferase	10272	-1.0247070789337158	-0.041173823	No	
+row_19	ACOT7	ACOT7	acyl-CoA thioesterase 7	10832	-1.5212496519088745	0.018118896	No	
+row_20	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	0.12363576	No	

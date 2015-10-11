@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	696	0.9932464361190796	0.07082605	Yes	
+row_1	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	812	0.8781251907348633	0.1733069	Yes	
+row_2	RPS6	RPS6	ribosomal protein S6	1088	0.7019468545913696	0.24064073	Yes	
+row_3	EEF2K	EEF2K	eukaryotic elongation factor-2 kinase	1227	0.6375730633735657	0.31070563	Yes	
+row_4	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	1251	0.6303109526634216	0.38900983	Yes	
+row_5	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	1422	0.5643166303634644	0.44721144	Yes	
+row_6	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	1490	0.5424354672431946	0.5108376	Yes	
+row_7	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	1628	0.5033007860183716	0.563911	Yes	
+row_8	PRKAB2	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	2082	0.39654994010925293	0.57823503	Yes	
+row_9	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	3004	0.2569641172885895	0.5375244	Yes	
+row_10	RHEB	RHEB	Ras homolog enriched in brain	3269	0.22355720400810242	0.54491293	Yes	
+row_11	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	3354	0.21139799058437347	0.5650971	Yes	
+row_12	STK11	STK11	serine/threonine kinase 11	3494	0.19364145398139954	0.57864153	Yes	
+row_13	TSC2	TSC2	tuberous sclerosis 2	4315	0.09914176166057587	0.5259128	No	
+row_14	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4932	0.03616790100932121	0.4814314	No	
+row_15	CAB39L	CAB39L	calcium binding protein 39-like	5041	0.025695117190480232	0.47609335	No	
+row_16	EIF4B	EIF4B	eukaryotic translation initiation factor 4B	5049	0.025099879130721092	0.47872677	No	
+row_17	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	5193	0.008890622295439243	0.4684636	No	
+row_18	CAB39	CAB39	calcium binding protein 39	5309	-0.0019123664824292064	0.45954412	No	
+row_19	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	5405	-0.013301701284945011	0.45366618	No	
+row_20	PRKAB1	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	6359	-0.11734187602996826	0.39265463	No	
+row_21	TSC1	TSC1	tuberous sclerosis 1	6425	-0.12548284232616425	0.40342945	No	
+row_22	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	9556	-0.679041862487793	0.24037926	No	

@@ -1,9 +1,0 @@
-NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
-row_0	GABRD	GABRD	gamma-aminobutyric acid (GABA) A receptor, delta	3279	0.37481749057769775	-0.26859197	No	
-row_1	GABBR2	GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	6413	-0.09965115040540695	-0.54325765	No	
-row_2	GABRP	GABRP	gamma-aminobutyric acid (GABA) A receptor, pi	8188	-0.38831627368927	-0.67562693	No	
-row_3	GABBR1	GABBR1	gamma-aminobutyric acid (GABA) B receptor, 1	9295	-0.6609962582588196	-0.72892743	Yes	
-row_4	GABRB3	GABRB3	gamma-aminobutyric acid (GABA) A receptor, beta 3	10319	-1.3636507987976074	-0.72574574	Yes	
-row_5	GABRR2	GABRR2	gamma-aminobutyric acid (GABA) receptor, rho 2	10814	-3.325230121612549	-0.5381614	Yes	
-row_6	GABRB1	GABRB1	gamma-aminobutyric acid (GABA) A receptor, beta 1	10828	-3.343733072280884	-0.30605027	Yes	
-row_7	GABRE	GABRE	gamma-aminobutyric acid (GABA) A receptor, epsilon	11028	-4.777184963226318	0.009348328	Yes	

@@ -1,0 +1,38 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FOXA1	FOXA1	forkhead box A1	15	5.823486328125	0.20380557	Yes	
+row_1	SYNPO2L	SYNPO2L	synaptopodin 2-like	466	1.3413692712783813	0.21513154	Yes	
+row_2	UNC5C	UNC5C	unc-5 homolog C (C. elegans)	512	1.2566262483596802	0.2557787	Yes	
+row_3	SMOC1	SMOC1	SPARC related modular calcium binding 1	666	1.0291190147399902	0.27980253	Yes	
+row_4	TRIM8	TRIM8	tripartite motif-containing 8	907	0.8150491714477539	0.28935108	Yes	
+row_5	NTF3	NTF3	neurotrophin 3	1013	0.7462495565414429	0.3072458	Yes	
+row_6	CALD1	CALD1	caldesmon 1	1032	0.7333831191062927	0.33162707	Yes	
+row_7	PRRX1	PRRX1	paired related homeobox 1	1205	0.6461672782897949	0.34065446	Yes	
+row_8	GPR161	GPR161	G protein-coupled receptor 161	1264	0.6262114644050598	0.35807243	Yes	
+row_9	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	1492	0.5419498085975647	0.3590441	Yes	
+row_10	LMO4	LMO4	LIM domain only 4	1535	0.5295068621635437	0.37433404	Yes	
+row_11	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	1557	0.5231813192367554	0.39107636	Yes	
+row_12	SON	SON	SON DNA binding protein	2263	0.36324676871299744	0.34763005	No	
+row_13	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	2349	0.3491987884044647	0.35314283	No	
+row_14	SVIL	SVIL	supervillin	2405	0.3400595784187317	0.3607268	No	
+row_15	EHBP1	EHBP1	EH domain binding protein 1	2471	0.33057698607444763	0.36717933	No	
+row_16	DPH5	DPH5	DPH5 homolog (S. cerevisiae)	2582	0.31610748171806335	0.36953312	No	
+row_17	CDR2L	CDR2L	cerebellar degeneration-related protein 2-like	2682	0.30209097266197205	0.37227088	No	
+row_18	HIST1H2AC	HIST1H2AC	histone cluster 1, H2ac	2837	0.28029903769493103	0.3698545	No	
+row_19	FBXO11	FBXO11	F-box protein 11	3588	0.18363258242607117	0.31649595	No	
+row_20	OTUD7B	OTUD7B	OTU domain containing 7B	4540	0.07628380507230759	0.24332586	No	
+row_21	PHF21A	PHF21A	PHD finger protein 21A	4550	0.07501611858606339	0.24524875	No	
+row_22	NEO1	NEO1	neogenin homolog 1 (chicken)	5088	0.02127804420888424	0.20316458	No	
+row_23	YES1	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	5170	0.011544546112418175	0.1971101	No	
+row_24	HOXD4	HOXD4	homeobox D4	5644	-0.03993845731019974	0.16078772	No	
+row_25	CCND1	CCND1	cyclin D1	6194	-0.0997057631611824	0.12050724	No	
+row_26	PDE2A	PDE2A	phosphodiesterase 2A, cGMP-stimulated	7525	-0.2535712718963623	0.02334763	No	
+row_27	NDFIP1	NDFIP1	Nedd4 family interacting protein 1	7910	-0.30970513820648193	0.003620727	No	
+row_28	EMX2	EMX2	empty spiracles homolog 2 (Drosophila)	8246	-0.3562580645084381	-0.010558959	No	
+row_29	COLEC10	COLEC10	collectin sub-family member 10 (C-type lectin)	8395	-0.3846937417984009	-0.008821785	No	
+row_30	HOXB5	HOXB5	homeobox B5	9083	-0.5355919003486633	-0.044765342	No	
+row_31	TRPV6	TRPV6	transient receptor potential cation channel, subfamily V, member 6	9719	-0.7352007627487183	-0.06953442	No	
+row_32	UNC5B	UNC5B	unc-5 homolog B (C. elegans)	9789	-0.7632695436477661	-0.04816903	No	
+row_33	PPP2R2B	PPP2R2B	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), beta isoform	10211	-0.9844329357147217	-0.04709501	No	
+row_34	CASKIN1	CASKIN1	CASK interacting protein 1	10704	-1.3794832229614258	-0.03777741	No	
+row_35	KCNH3	KCNH3	potassium voltage-gated channel, subfamily H (eag-related), member 3	11135	-1.9027597904205322	-0.0050937375	No	
+row_36	TFAP2D	TFAP2D	transcription factor AP-2 delta (activating enhancer binding protein 2 delta)	11975	-3.400723457336426	0.04769876	No	

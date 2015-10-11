@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	C8A	C8A	complement component 8, alpha polypeptide	75	3.9424517154693604	0.23209189	Yes	
+row_1	MBL2	MBL2	mannose-binding lectin (protein C) 2, soluble (opsonic defect)	120	3.1113288402557373	0.41646522	Yes	
+row_2	CFD	CFD	complement factor D (adipsin)	235	2.2018136978149414	0.540343	Yes	
+row_3	CRP	CRP	C-reactive protein, pentraxin-related	277	1.971542477607727	0.6561293	Yes	
+row_4	CFH	CFH	complement factor H	365	1.6075644493103027	0.7462736	Yes	
+row_5	MASP2	MASP2	mannan-binding lectin serine peptidase 2	1620	0.5057608485221863	0.67694926	No	
+row_6	CD46	CD46	CD46 molecule, complement regulatory protein	1660	0.49518120288848877	0.7037449	No	
+row_7	CFI	CFI	complement factor I	1686	0.4870980679988861	0.7311674	No	
+row_8	C8B	C8B	complement component 8, beta polypeptide	2066	0.39990460872650146	0.72513324	No	
+row_9	C8G	C8G	complement component 8, gamma polypeptide	2686	0.3009912669658661	0.69401336	No	
+row_10	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3399	0.20533128082752228	0.64971083	No	
+row_11	C1QB	C1QB	complement component 1, q subcomponent, B chain	4610	0.0673193410038948	0.5574153	No	
+row_12	PROS1	PROS1	protein S (alpha)	6517	-0.13726085424423218	0.41391593	No	
+row_13	C1QC	C1QC	complement component 1, q subcomponent, C chain	6538	-0.1394994854927063	0.42074686	No	
+row_14	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	7153	-0.20698268711566925	0.38434845	No	
+row_15	C1QA	C1QA	complement component 1, q subcomponent, A chain	7428	-0.2428659051656723	0.3771934	No	
+row_16	CFB	CFB	complement factor B	9089	-0.537530243396759	0.27745494	No	

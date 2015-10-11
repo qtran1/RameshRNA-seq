@@ -1,0 +1,57 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LENEP	LENEP	lens epithelial protein	150	2.729173421859741	0.069822304	Yes	
+row_1	OLIG3	OLIG3	oligodendrocyte transcription factor 3	179	2.6982345581054688	0.1484632	Yes	
+row_2	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	375	1.591346025466919	0.18058512	Yes	
+row_3	ISL1	ISL1	ISL1 transcription factor, LIM/homeodomain, (islet-1)	527	1.2274893522262573	0.2053156	Yes	
+row_4	CHSY1	CHSY1	carbohydrate (chondroitin) synthase 1	695	0.9962840676307678	0.22183773	Yes	
+row_5	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	820	0.872087299823761	0.2380722	Yes	
+row_6	DBNDD2	DBNDD2	dysbindin (dystrobrevin binding protein 1) domain containing 2	945	0.7917792201042175	0.25189948	Yes	
+row_7	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	1152	0.6704722046852112	0.2555401	Yes	
+row_8	TRIM3	TRIM3	tripartite motif-containing 3	1162	0.6671075820922852	0.27481723	Yes	
+row_9	GADD45A	GADD45A	growth arrest and DNA-damage-inducible, alpha	1166	0.6652478575706482	0.2945179	Yes	
+row_10	SORBS2	SORBS2	sorbin and SH3 domain containing 2	1168	0.6637482643127441	0.3143334	Yes	
+row_11	GLIS2	GLIS2	GLIS family zinc finger 2	1169	0.6624553203582764	0.33419004	Yes	
+row_12	SPATA2	SPATA2	spermatogenesis associated 2	1615	0.5063251256942749	0.31381798	Yes	
+row_13	GRIA3	GRIA3	glutamate receptor, ionotrophic, AMPA 3	1625	0.5041719675064087	0.32821122	Yes	
+row_14	DLL1	DLL1	delta-like 1 (Drosophila)	1702	0.48243090510368347	0.33660048	Yes	
+row_15	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	2328	0.35204628109931946	0.2972247	No	
+row_16	DVL3	DVL3	dishevelled, dsh homolog 3 (Drosophila)	2332	0.35130774974823	0.30751526	No	
+row_17	SEC31B	SEC31B	SEC31 homolog B (S. cerevisiae)	2545	0.32137832045555115	0.30021274	No	
+row_18	ACVR2A	ACVR2A	activin A receptor, type IIA	2886	0.2722865045070648	0.28121343	No	
+row_19	RNF145	RNF145	ring finger protein 145	2908	0.2696920335292816	0.28761968	No	
+row_20	SRGAP2	SRGAP2	SLIT-ROBO Rho GTPase activating protein 2	4031	0.1303374171257019	0.20189552	No	
+row_21	PRKCA	PRKCA	protein kinase C, alpha	4205	0.11190378665924072	0.19142966	No	
+row_22	EDEM1	EDEM1	ER degradation enhancer, mannosidase alpha-like 1	4420	0.08855580538511276	0.17698868	No	
+row_23	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4599	0.06832180172204971	0.16481705	No	
+row_24	PIGA	PIGA	phosphatidylinositol glycan anchor biosynthesis, class A (paroxysmal nocturnal hemoglobinuria)	4694	0.05800512805581093	0.15904653	No	
+row_25	SPTY2D1	SPTY2D1	SPT2, Suppressor of Ty, domain containing 1 (S. cerevisiae)	4742	0.05351220443844795	0.15689592	No	
+row_26	SEMA4F	SEMA4F	sema domain, immunoglobulin domain (Ig), transmembrane domain (TM) and short cytoplasmic domain, (semaphorin) 4F	4747	0.05306209251284599	0.15816689	No	
+row_27	TMEM115	TMEM115	transmembrane protein 115	4785	0.050083134323358536	0.15671235	No	
+row_28	RNF24	RNF24	ring finger protein 24	4858	0.04292402043938637	0.15224725	No	
+row_29	STRN3	STRN3	striatin, calmodulin binding protein 3	4984	0.03246871009469032	0.14323485	No	
+row_30	SMG1	SMG1	-	4998	0.030774002894759178	0.14311878	No	
+row_31	YTHDF3	YTHDF3	YTH domain family, member 3	4999	0.030702875927090645	0.14403908	No	
+row_32	KCNIP4	KCNIP4	Kv channel interacting protein 4	5285	1.601793192094192E-4	0.12127666	No	
+row_33	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	5290	-9.932183456839994E-5	0.1209601	No	
+row_34	DNAJC11	DNAJC11	DnaJ (Hsp40) homolog, subfamily C, member 11	5307	-0.0017580055864527822	0.11973464	No	
+row_35	NMT1	NMT1	N-myristoyltransferase 1	5450	-0.019517967477440834	0.10897601	No	
+row_36	RAPGEF6	RAPGEF6	Rap guanine nucleotide exchange factor (GEF) 6	5800	-0.0555763877928257	0.08276202	No	
+row_37	TLE4	TLE4	transducin-like enhancer of split 4 (E(sp1) homolog, Drosophila)	6084	-0.0871066004037857	0.06276553	No	
+row_38	TCEA1	TCEA1	transcription elongation factor A (SII), 1	6155	-0.09504639357328415	0.06002253	No	
+row_39	MIER3	MIER3	mesoderm induction early response 1, family member 3	6387	-0.12037137895822525	0.04517715	No	
+row_40	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	6532	-0.13853110373020172	0.037826087	No	
+row_41	GPR180	GPR180	G protein-coupled receptor 180	6984	-0.18830136954784393	0.00744217	No	
+row_42	NPEPPS	NPEPPS	aminopeptidase puromycin sensitive	7140	-0.20547500252723694	0.0012189688	No	
+row_43	VAMP4	VAMP4	vesicle-associated membrane protein 4	8289	-0.3639470338821411	-0.07957991	No	
+row_44	PLAGL2	PLAGL2	pleiomorphic adenoma gene-like 2	8418	-0.388506680727005	-0.07815998	No	
+row_45	PSD3	PSD3	pleckstrin and Sec7 domain containing 3	8516	-0.4105864465236664	-0.07360178	No	
+row_46	EIF2S2	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	8893	-0.48669642210006714	-0.089050144	No	
+row_47	USP15	USP15	ubiquitin specific peptidase 15	9604	-0.6950923800468445	-0.12493356	No	
+row_48	LGALS3	LGALS3	lectin, galactoside-binding, soluble, 3 (galectin 3)	9743	-0.7474703788757324	-0.113552794	No	
+row_49	SGIP1	SGIP1	SH3-domain GRB2-like (endophilin) interacting protein 1	9764	-0.7543750405311584	-0.09253863	No	
+row_50	HOXD3	HOXD3	homeobox D3	9967	-0.8445525765419006	-0.08336053	No	
+row_51	RIMS4	RIMS4	regulating synaptic membrane exocytosis 4	10182	-0.9716396927833557	-0.071331695	No	
+row_52	CAPN3	CAPN3	calpain 3, (p94)	10617	-1.2975845336914062	-0.06710759	No	
+row_53	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	11230	-2.049548387527466	-0.05456342	No	
+row_54	LHX4	LHX4	LIM homeobox 4	11444	-2.4088735580444336	6.253649E-4	No	
+row_55	NOL4	NOL4	nucleolar protein 4	11735	-2.9853909015655518	0.06694371	No	

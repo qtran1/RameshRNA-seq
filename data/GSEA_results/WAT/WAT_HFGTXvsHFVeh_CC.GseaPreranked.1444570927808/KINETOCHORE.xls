@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.23733357	No	
+row_1	MIS12	MIS12	MIS12 homolog (yeast)	3245	0.22751417756080627	-0.23099606	No	
+row_2	APC	APC	adenomatosis polyposis coli	3271	0.22276748716831207	-0.21983992	No	
+row_3	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	3475	0.19518601894378662	-0.22449265	No	
+row_4	PMF1	PMF1	polyamine-modulated factor 1	3663	0.17317144572734833	-0.22917	No	
+row_5	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.25141752	No	
+row_6	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.28616312	No	
+row_7	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	-0.42358428	No	
+row_8	SUMO3	SUMO3	SMT3 suppressor of mif two 3 homolog 3 (S. cerevisiae)	6393	-0.12147463858127594	-0.4201592	No	
+row_9	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	7108	-0.20149238407611847	-0.46515036	No	
+row_10	CLASP1	CLASP1	cytoplasmic linker associated protein 1	7215	-0.21561653912067413	-0.46086943	No	
+row_11	DCTN2	DCTN2	dynactin 2 (p50)	7560	-0.2576027512550354	-0.47307158	No	
+row_12	CENPC1	CENPC1	centromere protein C 1	7893	-0.3077845275402069	-0.48135594	No	
+row_13	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	8970	-0.5061472654342651	-0.53720623	Yes	
+row_14	MAD2L1	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	9397	-0.6283644437789917	-0.53405863	Yes	
+row_15	SUGT1	SUGT1	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)	9541	-0.6725130081176758	-0.5057592	Yes	
+row_16	ZWILCH	ZWILCH	Zwilch, kinetochore associated, homolog (Drosophila)	10596	-1.282525658607483	-0.51403445	Yes	
+row_17	BUB1B	BUB1B	BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	10636	-1.3130290508270264	-0.43964586	Yes	
+row_18	KIF22	KIF22	kinesin family member 22	10776	-1.4585503339767456	-0.36463535	Yes	
+row_19	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.26782218	Yes	
+row_20	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.098975524	Yes	
+row_21	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	0.07034735	Yes	

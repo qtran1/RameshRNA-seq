@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGB	FGB	fibrinogen beta chain	97	3.4006435871124268	0.26327416	Yes	
+row_1	FGG	FGG	fibrinogen gamma chain	128	2.9948625564575195	0.4995464	Yes	
+row_2	VWF	VWF	von Willebrand factor	355	1.6487281322479248	0.61293864	Yes	
+row_3	FGA	FGA	fibrinogen alpha chain	461	1.349867820739746	0.71214926	Yes	
+row_4	ITGB3	ITGB3	integrin, beta 3 (platelet glycoprotein IIIa, antigen CD61)	1036	0.7318344116210938	0.72476494	Yes	
+row_5	RAP1A	RAP1A	RAP1A, member of RAS oncogene family	1812	0.4555286467075348	0.69935733	No	
+row_6	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	0.5991057	No	
+row_7	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	0.55892503	No	
+row_8	TLN1	TLN1	talin 1	4824	0.046913646161556244	0.4922758	No	
+row_9	RAP1B	RAP1B	RAP1B, member of RAS oncogene family	5267	0.001980097033083439	0.45723972	No	
+row_10	FN1	FN1	fibronectin 1	6799	-0.16886982321739197	0.34879237	No	
+row_11	APBB1IP	APBB1IP	amyloid beta (A4) precursor protein-binding, family B, member 1 interacting protein	7251	-0.22023515403270721	0.33043244	No	
+row_12	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	0.34455398	No	
+row_13	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	8164	-0.3435555100440979	0.30337554	No	
+row_14	ITGA2B	ITGA2B	integrin, alpha 2b (platelet glycoprotein IIb of IIb/IIIa complex, antigen CD41)	9294	-0.5974118709564209	0.26108766	No	

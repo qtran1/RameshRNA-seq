@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HSD3B2	HSD3B2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	16	5.6545209884643555	0.25269777	Yes	
+row_1	APOB	APOB	apolipoprotein B (including Ag(x) antigen)	90	3.5850589275360107	0.40790066	Yes	
+row_2	IRS1	IRS1	insulin receptor substrate 1	316	1.7930188179016113	0.4704946	Yes	
+row_3	AADAC	AADAC	arylacetamide deacetylase (esterase)	455	1.3686543703079224	0.52096486	Yes	
+row_4	OAS2	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	1184	0.6562884449958801	0.49239716	No	
+row_5	MGST3	MGST3	microsomal glutathione S-transferase 3	1656	0.49684566259384155	0.47715923	No	
+row_6	STX16	STX16	syntaxin 16	1936	0.4246065020561218	0.47398522	No	
+row_7	DCT	DCT	dopachrome tautomerase (dopachrome delta-isomerase, tyrosine-related protein 2)	2220	0.37374088168144226	0.46820766	No	
+row_8	STX2	STX2	syntaxin 2	2319	0.3529037535190582	0.47624463	No	
+row_9	HSD17B3	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	2548	0.3210659623146057	0.47248644	No	
+row_10	MGST2	MGST2	microsomal glutathione S-transferase 2	3320	0.21609167754650116	0.42071876	No	
+row_11	OAS3	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	3455	0.19714148342609406	0.41888928	No	
+row_12	SLC9A6	SLC9A6	solute carrier family 9 (sodium/hydrogen exchanger), member 6	3599	0.18120665848255157	0.41562653	No	
+row_13	TMED2	TMED2	transmembrane emp24 domain trafficking protein 2	4867	0.04217363893985748	0.3165002	No	
+row_14	VCP	VCP	valosin-containing protein	5058	0.02394702658057213	0.30242667	No	
+row_15	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5327	-0.004072076641023159	0.28124136	No	
+row_16	TMED10	TMED10	transmembrane emp24-like trafficking protein 10 (yeast)	5487	-0.02296738140285015	0.26959553	No	
+row_17	SSR3	SSR3	signal sequence receptor, gamma (translocon-associated protein gamma)	5549	-0.03098144195973873	0.2661234	No	
+row_18	ERO1L	ERO1L	ERO1-like (S. cerevisiae)	5652	-0.04061994329094887	0.25981522	No	
+row_19	LTC4S	LTC4S	leukotriene C4 synthase	5696	-0.04546394944190979	0.25842875	No	
+row_20	CYP39A1	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	6152	-0.09427332878112793	0.22638494	No	
+row_21	PTGS1	PTGS1	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	6908	-0.1801292449235916	0.17427772	No	
+row_22	SLC35B1	SLC35B1	solute carrier family 35, member B1	6969	-0.18705257773399353	0.1778953	No	
+row_23	COMT	COMT	catechol-O-methyltransferase	6994	-0.18901458382606506	0.18447134	No	
+row_24	FMO3	FMO3	flavin containing monooxygenase 3	7548	-0.25630924105644226	0.15189165	No	
+row_25	COPA	COPA	coatomer protein complex, subunit alpha	8121	-0.3356912434101105	0.12136249	No	
+row_26	GBA2	GBA2	glucosidase, beta (bile acid) 2	9320	-0.6047210097312927	0.05300456	No	
+row_27	HSP90B1	HSP90B1	heat shock protein 90kDa beta (Grp94), member 1	9359	-0.6163083910942078	0.07765631	No	
+row_28	POMGNT1	POMGNT1	protein O-linked mannose beta1,2-N-acetylglucosaminyltransferase	9571	-0.6840454339981079	0.09155682	No	
+row_29	DHRS9	DHRS9	dehydrogenase/reductase (SDR family) member 9	9727	-0.7381705045700073	0.112353355	No	
+row_30	RDH16	RDH16	retinol dehydrogenase 16 (all-trans)	10200	-0.9807284474372864	0.11876934	No	
+row_31	HSD3B1	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	10865	-1.5664068460464478	0.13618258	No	

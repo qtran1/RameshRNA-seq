@@ -1,0 +1,63 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRS1	IRS1	insulin receptor substrate 1	316	1.7930188179016113	0.0052651227	No	
+row_1	PPARGC1B	PPARGC1B	peroxisome proliferative activated receptor, gamma, coactivator 1, beta	574	1.1596496105194092	0.0044644675	No	
+row_2	GPX1	GPX1	glutathione peroxidase 1	614	1.1002073287963867	0.020075256	No	
+row_3	MICAL1	MICAL1	microtubule associated monoxygenase, calponin and LIM domain containing 1	1172	0.6612919569015503	-0.0131854545	No	
+row_4	LDB1	LDB1	LIM domain binding 1	1335	0.591797947883606	-0.016059404	No	
+row_5	INSR	INSR	insulin receptor	1444	0.5566907525062561	-0.015215094	No	
+row_6	ADAM15	ADAM15	ADAM metallopeptidase domain 15 (metargidin)	1666	0.4933862090110779	-0.024479687	No	
+row_7	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	1743	0.4702490270137787	-0.02254925	No	
+row_8	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	2429	0.3371482789516449	-0.07155773	No	
+row_9	RIPK2	RIPK2	receptor-interacting serine-threonine kinase 2	2541	0.32182011008262634	-0.07495117	No	
+row_10	PTPN12	PTPN12	protein tyrosine phosphatase, non-receptor type 12	2729	0.29607975482940674	-0.084856935	No	
+row_11	USHBP1	USHBP1	Usher syndrome 1C binding protein 1	2880	0.2730417549610138	-0.092197694	No	
+row_12	ADAM9	ADAM9	ADAM metallopeptidase domain 9 (meltrin gamma)	3202	0.2328556925058365	-0.11388938	No	
+row_13	BCL2	BCL2	B-cell CLL/lymphoma 2	3293	0.21944251656532288	-0.117347114	No	
+row_14	CD2AP	CD2AP	CD2-associated protein	3405	0.20424504578113556	-0.12274192	No	
+row_15	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	3881	0.14872777462005615	-0.15817383	No	
+row_16	STUB1	STUB1	STIP1 homology and U-box containing protein 1	4070	0.12538398802280426	-0.1710651	No	
+row_17	CARD14	CARD14	caspase recruitment domain family, member 14	4306	0.10070016235113144	-0.18813296	No	
+row_18	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	4505	0.08059334009885788	-0.20258589	No	
+row_19	LDB2	LDB2	LIM domain binding 2	4547	0.07513510435819626	-0.2045838	No	
+row_20	SQSTM1	SQSTM1	sequestosome 1	4628	0.06517604738473892	-0.20986822	No	
+row_21	TLN1	TLN1	talin 1	4824	0.046913646161556244	-0.2246547	No	
+row_22	CARD9	CARD9	caspase recruitment domain family, member 9	5601	-0.035678423941135406	-0.28606784	No	
+row_23	ABI2	ABI2	abl interactor 2	5659	-0.0414578840136528	-0.28991777	No	
+row_24	ESRRG	ESRRG	estrogen-related receptor gamma	5841	-0.05971889942884445	-0.30336735	No	
+row_25	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	5842	-0.05977855995297432	-0.30234978	No	
+row_26	HSP90AB1	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	6534	-0.1386566162109375	-0.35521653	No	
+row_27	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	6603	-0.1456766575574875	-0.3581716	No	
+row_28	CLCN3	CLCN3	chloride channel 3	6794	-0.16835179924964905	-0.37049133	No	
+row_29	PTK2	PTK2	PTK2 protein tyrosine kinase 2	7302	-0.22716417908668518	-0.40714562	No	
+row_30	ARHGAP27	ARHGAP27	Rho GTPase activating protein 27	7515	-0.25225308537483215	-0.4197955	No	
+row_31	TBC1D10A	TBC1D10A	TBC1 domain family, member 10A	7827	-0.296790212392807	-0.43959966	No	
+row_32	PAG1	PAG1	phosphoprotein associated with glycosphingolipid microdomains 1	8002	-0.32443153858184814	-0.4479838	No	
+row_33	DOCK4	DOCK4	dedicator of cytokinesis 4	8003	-0.32447126507759094	-0.44246066	No	
+row_34	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	8164	-0.3435555100440979	-0.44940034	No	
+row_35	NUP62	NUP62	nucleoporin 62kDa	8302	-0.36610016226768494	-0.45411804	No	
+row_36	LCK	LCK	lymphocyte-specific protein tyrosine kinase	8473	-0.40201088786125183	-0.46086195	No	
+row_37	XPA	XPA	xeroderma pigmentosum, complementation group A	8487	-0.4041394889354706	-0.45502168	No	
+row_38	PYCARD	PYCARD	PYD and CARD domain containing	8580	-0.42218202352523804	-0.4551882	No	
+row_39	EVL	EVL	Enah/Vasp-like	8626	-0.42961883544921875	-0.45147175	No	
+row_40	BAX	BAX	BCL2-associated X protein	8839	-0.47119641304016113	-0.46039474	No	
+row_41	ARHGEF4	ARHGEF4	Rho guanine nucleotide exchange factor (GEF) 4	8974	-0.507308840751648	-0.46246904	No	
+row_42	MAPT	MAPT	microtubule-associated protein tau	9255	-0.5844261646270752	-0.4748994	No	
+row_43	LAT2	LAT2	linker for activation of T cells family, member 2	9360	-0.6168939471244812	-0.4727106	No	
+row_44	ELMO1	ELMO1	engulfment and cell motility 1	9584	-0.687982439994812	-0.47882262	No	
+row_45	LAX1	LAX1	lymphocyte transmembrane adaptor 1	9793	-0.765643835067749	-0.48241383	No	
+row_46	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	9970	-0.8458535671234131	-0.48208216	No	
+row_47	GRM7	GRM7	glutamate receptor, metabotropic 7	10424	-1.1470491886138916	-0.49876225	Yes	
+row_48	ESPN	ESPN	espin	10425	-1.1473146677017212	-0.4792326	Yes	
+row_49	NOS1AP	NOS1AP	nitric oxide synthase 1 (neuronal) adaptor protein	10556	-1.2518118619918823	-0.4683142	Yes	
+row_50	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	10700	-1.369989275932312	-0.4564232	Yes	
+row_51	SLC22A12	SLC22A12	solute carrier family 22 (organic anion/cation transporter), member 12	10964	-1.7058876752853394	-0.4484053	Yes	
+row_52	CARD11	CARD11	caspase recruitment domain family, member 11	11171	-1.9534313678741455	-0.43161806	Yes	
+row_53	MLF1	MLF1	myeloid leukemia factor 1	11429	-2.385145664215088	-0.41155824	Yes	
+row_54	PDZK1	PDZK1	PDZ domain containing 1	11629	-2.760896682739258	-0.38046682	Yes	
+row_55	USH2A	USH2A	Usher syndrome 2A (autosomal recessive, mild)	11680	-2.858262777328491	-0.33580947	Yes	
+row_56	HOXB1	HOXB1	homeobox B1	11776	-3.067061424255371	-0.29119447	Yes	
+row_57	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	11810	-3.1379194259643555	-0.24041808	Yes	
+row_58	SIT1	SIT1	signaling threshold regulating transmembrane adaptor 1	11903	-3.3217058181762695	-0.19122873	Yes	
+row_59	WBP2NL	WBP2NL	WBP2 N-terminal like	12008	-3.433182716369629	-0.1411009	Yes	
+row_60	FOXH1	FOXH1	forkhead box H1	12342	-4.729011058807373	-0.08721784	Yes	
+row_61	SSTR2	SSTR2	somatostatin receptor 2	12488	-6.203720569610596	0.006793399	Yes	

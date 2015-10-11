@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ENO2	ENO2	enolase 2 (gamma, neuronal)	722	0.9627701640129089	0.05661286	Yes	
+row_1	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	927	0.8052768707275391	0.135811	Yes	
+row_2	ECHS1	ECHS1	enoyl Coenzyme A hydratase, short chain, 1, mitochondrial	1031	0.7338517904281616	0.21458691	Yes	
+row_3	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	1180	0.6579664945602417	0.280785	Yes	
+row_4	CBS	CBS	cystathionine-beta-synthase	1204	0.6465956568717957	0.35559	Yes	
+row_5	PTS	PTS	6-pyruvoyltetrahydropterin synthase	1421	0.5644257664680481	0.405286	Yes	
+row_6	AUH	AUH	AU RNA binding protein/enoyl-Coenzyme A hydratase	1861	0.4416613280773163	0.4226726	Yes	
+row_7	ACO1	ACO1	aconitase 1, soluble	2072	0.3995501697063446	0.45330486	Yes	
+row_8	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	2190	0.37758922576904297	0.48874044	Yes	
+row_9	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	3100	0.2457054704427719	0.44547236	No	
+row_10	ALAD	ALAD	aminolevulinate, delta-, dehydratase	4602	0.06794197112321854	0.33399016	No	
+row_11	OGG1	OGG1	8-oxoguanine DNA glycosylase	6253	-0.10624904930591583	0.21518232	No	
+row_12	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	6829	-0.17213700711727142	0.18979338	No	
+row_13	GMDS	GMDS	GDP-mannose 4,6-dehydratase	7684	-0.27590155601501465	0.15448426	No	
+row_14	ENO3	ENO3	enolase 3 (beta, muscle)	9199	-0.5693020820617676	0.1013896	No	
+row_15	ENO1	ENO1	enolase 1, (alpha)	9436	-0.6387842893600464	0.1583061	No	
+row_16	HADHB	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	9805	-0.7714527249336243	0.22043484	No	

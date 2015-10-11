@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOA4	APOA4	apolipoprotein A-IV	96	3.4553451538085938	0.13296147	Yes	
+row_1	APOF	APOF	apolipoprotein F	103	3.2377383708953857	0.2642406	Yes	
+row_2	APOC3	APOC3	apolipoprotein C-III	138	2.815528392791748	0.37610662	Yes	
+row_3	APOA1	APOA1	apolipoprotein A-I	214	2.3878188133239746	0.4672996	Yes	
+row_4	APOA2	APOA2	apolipoprotein A-II	275	1.984645962715149	0.54328126	Yes	
+row_5	LCAT	LCAT	lecithin-cholesterol acyltransferase	447	1.3739593029022217	0.58556473	Yes	
+row_6	SLCO2A1	SLCO2A1	solute carrier organic anion transporter family, member 2A1	497	1.284433126449585	0.6339285	Yes	
+row_7	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	532	1.2188057899475098	0.68081707	Yes	
+row_8	APOE	APOE	apolipoprotein E	628	1.0768564939498901	0.7170674	Yes	
+row_9	TSPO	TSPO	translocator protein (18kDa)	953	0.7837425470352173	0.72313833	Yes	
+row_10	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	1043	0.7259535193443298	0.7455871	Yes	
+row_11	ABCA1	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	2195	0.377150297164917	0.6691999	No	
+row_12	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	2293	0.3574959635734558	0.676017	No	
+row_13	ANGPTL3	ANGPTL3	angiopoietin-like 3	2324	0.3525708019733429	0.6879736	No	
+row_14	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	2944	0.265470951795578	0.64944226	No	
+row_15	STX12	STX12	syntaxin 12	4398	0.0906321182847023	0.53732586	No	
+row_16	ATP11B	ATP11B	ATPase, Class VI, type 11B	4425	0.08825691044330597	0.5388452	No	
+row_17	NPC1L1	NPC1L1	NPC1 (Niemann-Pick disease, type C1, gene)-like 1	4665	0.06052500754594803	0.52225983	No	
+row_18	PPARD	PPARD	peroxisome proliferative activated receptor, delta	4980	0.032659322023391724	0.498563	No	
+row_19	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	6836	-0.17242318391799927	0.3577355	No	
+row_20	ABCA2	ABCA2	ATP-binding cassette, sub-family A (ABC1), member 2	7180	-0.20963603258132935	0.33892927	No	
+row_21	SLC27A4	SLC27A4	solute carrier family 27 (fatty acid transporter), member 4	7207	-0.21409748494625092	0.3455696	No	
+row_22	PSAP	PSAP	prosaposin (variant Gaucher disease and variant metachromatic leukodystrophy)	7574	-0.26046809554100037	0.32699883	No	
+row_23	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	7791	-0.2909862697124481	0.32162502	No	
+row_24	GLTP	GLTP	glycolipid transfer protein	8645	-0.43354716897010803	0.27128354	No	
+row_25	CHKA	CHKA	choline kinase alpha	8754	-0.45423194766044617	0.28116053	No	
+row_26	NPC2	NPC2	Niemann-Pick disease, type C2	9196	-0.568513035774231	0.2691479	No	

@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDH4	CDH4	cadherin 4, type 1, R-cadherin (retinal)	1127	0.6818564534187317	-0.0641349	No	
+row_1	PVRL1	PVRL1	poliovirus receptor-related 1 (herpesvirus entry mediator C; nectin)	2091	0.3954121768474579	-0.12598222	No	
+row_2	CDH11	CDH11	cadherin 11, type 2, OB-cadherin (osteoblast)	2793	0.2862231433391571	-0.17106356	No	
+row_3	CTNNA1	CTNNA1	catenin (cadherin-associated protein), alpha 1, 102kDa	2820	0.28272390365600586	-0.16249602	No	
+row_4	CDH13	CDH13	cadherin 13, H-cadherin (heart)	3467	0.19567525386810303	-0.20660262	No	
+row_5	CTNNB1	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	4392	0.09167133271694183	-0.2767726	No	
+row_6	JUP	JUP	junction plakoglobin	4683	0.0588967502117157	-0.297662	No	
+row_7	CDH9	CDH9	cadherin 9, type 2 (T1-cadherin)	4709	0.057068053632974625	-0.29750636	No	
+row_8	PVR	PVR	poliovirus receptor	5101	0.019503161311149597	-0.32792532	No	
+row_9	CDH5	CDH5	cadherin 5, type 2, VE-cadherin (vascular epithelium)	5223	0.00597012136131525	-0.33734134	No	
+row_10	CTNND1	CTNND1	catenin (cadherin-associated protein), delta 1	6154	-0.09495792537927628	-0.40786567	No	
+row_11	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	7045	-0.1947716772556305	-0.47144696	No	
+row_12	CDH1	CDH1	cadherin 1, type 1, E-cadherin (epithelial)	8318	-0.3700084388256073	-0.5588698	No	
+row_13	CDH24	CDH24	cadherin-like 24	8505	-0.40826737880706787	-0.55832595	No	
+row_14	CDH2	CDH2	cadherin 2, type 1, N-cadherin (neuronal)	9761	-0.7528604865074158	-0.6299873	No	
+row_15	CDH10	CDH10	cadherin 10, type 2 (T2-cadherin)	10293	-1.0423637628555298	-0.6330698	Yes	
+row_16	CDH3	CDH3	cadherin 3, type 1, P-cadherin (placental)	10898	-1.6191117763519287	-0.6202652	Yes	
+row_17	CDH6	CDH6	cadherin 6, type 2, K-cadherin (fetal kidney)	10975	-1.712111234664917	-0.5618925	Yes	
+row_18	PVRL4	PVRL4	poliovirus receptor-related 4	11191	-1.980208396911621	-0.504506	Yes	
+row_19	PVRL3	PVRL3	poliovirus receptor-related 3	11217	-2.0287394523620605	-0.430155	Yes	
+row_20	CDH18	CDH18	cadherin 18, type 2	11328	-2.203465223312378	-0.3560013	Yes	
+row_21	CDH15	CDH15	cadherin 15, M-cadherin (myotubule)	12371	-4.966015815734863	-0.2521479	Yes	
+row_22	CDH12	CDH12	cadherin 12, type 2 (N-cadherin 2)	12532	-7.126166820526123	0.0032667231	Yes	

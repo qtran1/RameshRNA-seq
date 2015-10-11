@@ -1,0 +1,54 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SMAD7	SMAD7	SMAD, mothers against DPP homolog 7 (Drosophila)	448	1.3736982345581055	0.0051951534	No	
+row_1	TEAD1	TEAD1	TEA domain family member 1 (SV40 transcriptional enhancer factor)	656	1.0392262935638428	0.019661251	No	
+row_2	CLK1	CLK1	CDC-like kinase 1	1090	0.7015267610549927	0.0060046804	No	
+row_3	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	1152	0.6704722046852112	0.021131892	No	
+row_4	ATP11C	ATP11C	ATPase, Class VI, type 11C	1419	0.5653090476989746	0.016749775	No	
+row_5	CNR1	CNR1	cannabinoid receptor 1 (brain)	1618	0.5061142444610596	0.016032854	No	
+row_6	SP3	SP3	Sp3 transcription factor	1888	0.43654999136924744	0.0075704805	No	
+row_7	RHOA	RHOA	ras homolog gene family, member A	2119	0.38974156975746155	8.266582E-4	No	
+row_8	FIGF	FIGF	c-fos induced growth factor (vascular endothelial growth factor D)	2433	0.336337685585022	-0.014138972	No	
+row_9	ABCD4	ABCD4	ATP-binding cassette, sub-family D (ALD), member 4	2531	0.32354220747947693	-0.012235253	No	
+row_10	SPRED2	SPRED2	sprouty-related, EVH1 domain containing 2	2618	0.31248435378074646	-0.009782845	No	
+row_11	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	2753	0.2927808463573456	-0.011751719	No	
+row_12	TSHZ3	TSHZ3	teashirt family zinc finger 3	2982	0.2595980763435364	-0.022217764	No	
+row_13	TOP1	TOP1	topoisomerase (DNA) I	3375	0.2080596536397934	-0.047319107	No	
+row_14	DYRK1A	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	3480	0.19487707316875458	-0.049812306	No	
+row_15	SP1	SP1	Sp1 transcription factor	3706	0.16903559863567352	-0.06274007	No	
+row_16	GDA	GDA	guanine deaminase	3744	0.16481035947799683	-0.060779102	No	
+row_17	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	4053	0.12820975482463837	-0.081553504	No	
+row_18	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	4541	0.07615981996059418	-0.11817644	No	
+row_19	KCNMA1	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	4599	0.06832180172204971	-0.120690875	No	
+row_20	TRIB2	TRIB2	tribbles homolog 2 (Drosophila)	4601	0.06810848414897919	-0.11873918	No	
+row_21	YTHDC1	YTHDC1	YTH domain containing 1	4682	0.05897704139351845	-0.12336926	No	
+row_22	STIM2	STIM2	stromal interaction molecule 2	4752	0.05214439332485199	-0.12732463	No	
+row_23	PIK3C2B	PIK3C2B	phosphoinositide-3-kinase, class 2, beta polypeptide	5068	0.023039299994707108	-0.15179513	No	
+row_24	PPM1A	PPM1A	protein phosphatase 1A (formerly 2C), magnesium-dependent, alpha isoform	5193	0.008890622295439243	-0.16143331	No	
+row_25	RNF44	RNF44	ring finger protein 44	5199	0.008545439690351486	-0.16157775	No	
+row_26	AZIN1	AZIN1	antizyme inhibitor 1	5268	0.0019364329054951668	-0.16695085	No	
+row_27	RC3H1	RC3H1	ring finger and CCCH-type zinc finger domains 1	5290	-9.932183456839994E-5	-0.16862507	No	
+row_28	NLK	NLK	nemo-like kinase	5301	-0.001240583136677742	-0.16938673	No	
+row_29	GPM6A	GPM6A	glycoprotein M6A	5342	-0.005617618560791016	-0.1724138	No	
+row_30	UBE2Q1	UBE2Q1	ubiquitin-conjugating enzyme E2Q (putative) 1	5891	-0.06526471674442291	-0.21423353	No	
+row_31	PDE4D	PDE4D	phosphodiesterase 4D, cAMP-specific (phosphodiesterase E3 dunce homolog, Drosophila)	5970	-0.07423727959394455	-0.2182487	No	
+row_32	RBBP6	RBBP6	retinoblastoma binding protein 6	6272	-0.10886917263269424	-0.23904094	No	
+row_33	PUM2	PUM2	pumilio homolog 2 (Drosophila)	6312	-0.11293358355760574	-0.23878708	No	
+row_34	MAGI2	MAGI2	membrane associated guanylate kinase, WW and PDZ domain containing 2	6427	-0.12557800114154816	-0.24414602	No	
+row_35	BMI1	BMI1	B lymphoma Mo-MLV insertion region (mouse)	6718	-0.15932592749595642	-0.26255468	No	
+row_36	KPNA3	KPNA3	karyopherin alpha 3 (importin alpha 4)	6862	-0.17418760061264038	-0.26877978	No	
+row_37	NPTN	NPTN	neuroplastin	6872	-0.17639046907424927	-0.26423717	No	
+row_38	GALC	GALC	galactosylceramidase	7223	-0.21738283336162567	-0.28570604	No	
+row_39	ENY2	ENY2	enhancer of yellow 2 homolog (Drosophila)	7534	-0.2546985447406769	-0.30286723	No	
+row_40	SNX6	SNX6	sorting nexin 6	7598	-0.2632187008857727	-0.30004743	No	
+row_41	ARID2	ARID2	AT rich interactive domain 2 (ARID, RFX-like)	8548	-0.4160407781600952	-0.3634303	No	
+row_42	ZMYM4	ZMYM4	zinc finger, MYM-type 4	8610	-0.42757806181907654	-0.3555482	No	
+row_43	CHKA	CHKA	choline kinase alpha	8754	-0.45423194766044617	-0.35342005	No	
+row_44	RNF38	RNF38	ring finger protein 38	8784	-0.46086010336875916	-0.34198952	No	
+row_45	SEMA3C	SEMA3C	sema domain, immunoglobulin domain (Ig), short basic domain, secreted, (semaphorin) 3C	8936	-0.49764683842658997	-0.3392053	No	
+row_46	FMR1	FMR1	fragile X mental retardation 1	9375	-0.6219797730445862	-0.35563394	No	
+row_47	RFX3	RFX3	regulatory factor X, 3 (influences HLA class II expression)	9824	-0.7770147919654846	-0.36823684	No	
+row_48	ETV1	ETV1	ets variant gene 1	10574	-1.2650052309036255	-0.39032343	No	
+row_49	STYX	STYX	serine/threonine/tyrosine interacting protein	12103	-3.648080348968506	-0.40354246	Yes	
+row_50	ANKS1B	ANKS1B	ankyrin repeat and sterile alpha motif domain containing 1B	12246	-4.379837512969971	-0.28424042	Yes	
+row_51	GAD2	GAD2	glutamate decarboxylase 2 (pancreatic islets and brain, 65kDa)	12386	-5.021446704864502	-0.1455607	Yes	
+row_52	CSMD3	CSMD3	CUB and Sushi multiple domains 3	12422	-5.3779778480529785	0.012059778	Yes	

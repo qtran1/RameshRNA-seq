@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	STEAP2	STEAP2	six transmembrane epithelial antigen of the prostate 2	487	1.3084867000579834	0.20405327	Yes	
+row_1	TOM1	TOM1	target of myb1 (chicken)	841	0.8531755208969116	0.3342791	Yes	
+row_2	ANKRD27	ANKRD27	ankyrin repeat domain 27 (VPS9 domain)	1610	0.5076355338096619	0.36733523	Yes	
+row_3	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	1876	0.4381672739982605	0.42755035	Yes	
+row_4	RABEP1	RABEP1	rabaptin, RAB GTPase binding effector protein 1	2608	0.31376975774765015	0.42757478	Yes	
+row_5	DNER	DNER	-	2943	0.26563242077827454	0.4502766	Yes	
+row_6	CTNS	CTNS	cystinosis, nephropathic	3103	0.24546721577644348	0.48317042	Yes	
+row_7	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	3906	0.14540790021419525	0.44629678	No	
+row_8	RAB14	RAB14	RAB14, member RAS oncogene family	3953	0.13890217244625092	0.46841168	No	
+row_9	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	6317	-0.1136213019490242	0.3013457	No	
+row_10	STX6	STX6	syntaxin 6	6537	-0.13903988897800446	0.3097112	No	
+row_11	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	6684	-0.15586714446544647	0.32701203	No	
+row_12	RAB22A	RAB22A	RAB22A, member RAS oncogene family	7379	-0.23726539313793182	0.31578478	No	
+row_13	SNX17	SNX17	sorting nexin 17	7587	-0.26156339049339294	0.34784377	No	
+row_14	WDFY1	WDFY1	WD repeat and FYVE domain containing 1	7605	-0.2644811272621155	0.39557284	No	

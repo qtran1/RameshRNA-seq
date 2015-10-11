@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	820	0.872087299823761	-0.017919276	No	
+row_1	SYNPO	SYNPO	synaptopodin	931	0.8023892641067505	0.016908554	No	
+row_2	PKD2	PKD2	polycystic kidney disease 2 (autosomal dominant)	1370	0.5779781341552734	0.013429447	No	
+row_3	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	3002	0.2570174038410187	-0.102476165	No	
+row_4	B4GALT1	B4GALT1	UDP-Gal:betaGlcNAc beta 1,4- galactosyltransferase, polypeptide 1	3764	0.16247618198394775	-0.15424432	No	
+row_5	RAB35	RAB35	RAB35, member RAS oncogene family	3936	0.14160974323749542	-0.16016768	No	
+row_6	ACTN2	ACTN2	actinin, alpha 2	7151	-0.2067621946334839	-0.40484828	No	
+row_7	PKHD1	PKHD1	polycystic kidney and hepatic disease 1 (autosomal recessive)	7860	-0.3007543087005615	-0.44488496	No	
+row_8	CROCC	CROCC	ciliary rootlet coiled-coil, rootletin	9564	-0.6813628077507019	-0.5434727	Yes	
+row_9	ATP6V0A4	ATP6V0A4	ATPase, H+ transporting, lysosomal V0 subunit a4	9636	-0.7048895359039307	-0.51083577	Yes	
+row_10	SLC22A12	SLC22A12	solute carrier family 22 (organic anion/cation transporter), member 12	10964	-1.7058876752853394	-0.5238317	Yes	
+row_11	DNALI1	DNALI1	dynein, axonemal, light intermediate chain 1	11707	-2.926267385482788	-0.42395547	Yes	
+row_12	SPAG6	SPAG6	sperm associated antigen 6	11717	-2.9497461318969727	-0.26443928	Yes	
+row_13	EFHC1	EFHC1	EF-hand domain (C-terminal) containing 1	11740	-2.9912209510803223	-0.10370528	Yes	
+row_14	DNAH9	DNAH9	dynein, axonemal, heavy chain 9	11804	-3.128678560256958	0.06123097	Yes	

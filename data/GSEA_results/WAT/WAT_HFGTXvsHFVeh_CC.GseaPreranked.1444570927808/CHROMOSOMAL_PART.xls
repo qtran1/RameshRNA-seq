@@ -1,0 +1,88 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BCL6	BCL6	B-cell CLL/lymphoma 6 (zinc finger protein 51)	460	1.349892020225525	-0.01740703	No	
+row_1	FOXC1	FOXC1	forkhead box C1	521	1.2379393577575684	-0.00439227	No	
+row_2	MAF	MAF	v-maf musculoaponeurotic fibrosarcoma oncogene homolog (avian)	731	0.9596576690673828	-0.0073157	No	
+row_3	REPIN1	REPIN1	replication initiator 1	978	0.7678934931755066	-0.015962597	No	
+row_4	RPA3	RPA3	replication protein A3, 14kDa	1606	0.5091171860694885	-0.05884623	No	
+row_5	HMGN1	HMGN1	high-mobility group nucleosome binding domain 1	2648	0.3082957863807678	-0.13777511	No	
+row_6	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	2702	0.2985166013240814	-0.13772246	No	
+row_7	TMPO	TMPO	thymopoietin	2874	0.27467381954193115	-0.14746286	No	
+row_8	CBX1	CBX1	chromobox homolog 1 (HP1 beta homolog Drosophila )	2967	0.26190200448036194	-0.15106052	No	
+row_9	SMC1A	SMC1A	structural maintenance of chromosomes 1A	3155	0.23755794763565063	-0.16261654	No	
+row_10	MIS12	MIS12	MIS12 homolog (yeast)	3245	0.22751417756080627	-0.16646895	No	
+row_11	APC	APC	adenomatosis polyposis coli	3271	0.22276748716831207	-0.16526435	No	
+row_12	TOP2B	TOP2B	topoisomerase (DNA) II beta 180kDa	3335	0.2140578329563141	-0.16722831	No	
+row_13	PSEN2	PSEN2	presenilin 2 (Alzheimer disease 4)	3475	0.19518601894378662	-0.17555024	No	
+row_14	UBE2I	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	3531	0.18877096474170685	-0.17723753	No	
+row_15	PURA	PURA	purine-rich element binding protein A	3605	0.1805795282125473	-0.18048422	No	
+row_16	PMF1	PMF1	polyamine-modulated factor 1	3663	0.17317144572734833	-0.18255621	No	
+row_17	UPF1	UPF1	UPF1 regulator of nonsense transcripts homolog (yeast)	3962	0.13823488354682922	-0.20443118	No	
+row_18	ZW10	ZW10	ZW10, kinetochore associated, homolog (Drosophila)	4039	0.12924669682979584	-0.20865704	No	
+row_19	DNMT3A	DNMT3A	DNA (cytosine-5-)-methyltransferase 3 alpha	4053	0.12820975482463837	-0.20785259	No	
+row_20	NUFIP1	NUFIP1	nuclear fragile X mental retardation protein interacting protein 1	4230	0.10913363099098206	-0.2203763	No	
+row_21	PAFAH1B1	PAFAH1B1	platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit 45kDa	4533	0.07676967978477478	-0.24345638	No	
+row_22	JUND	JUND	jun D proto-oncogene	4686	0.05860564485192299	-0.25478542	No	
+row_23	CBX5	CBX5	chromobox homolog 5 (HP1 alpha homolog, Drosophila)	4921	0.037816934287548065	-0.27298054	No	
+row_24	TERF2	TERF2	telomeric repeat binding factor 2	5142	0.014698104932904243	-0.2903873	No	
+row_25	H2AFY	H2AFY	H2A histone family, member Y	5761	-0.05161932483315468	-0.33913574	No	
+row_26	RPA1	RPA1	replication protein A1, 70kDa	5886	-0.0648488998413086	-0.34813258	No	
+row_27	RFC1	RFC1	replication factor C (activator 1) 1, 145kDa	6277	-0.10935581475496292	-0.37779093	No	
+row_28	ZWINT	ZWINT	ZW10 interactor	6345	-0.11620782315731049	-0.3814837	No	
+row_29	TIMELESS	TIMELESS	timeless homolog (Drosophila)	6361	-0.11751516908407211	-0.38099337	No	
+row_30	SUMO3	SUMO3	SMT3 suppressor of mif two 3 homolog 3 (S. cerevisiae)	6393	-0.12147463858127594	-0.38172737	No	
+row_31	ERCC4	ERCC4	excision repair cross-complementing rodent repair deficiency, complementation group 4	6484	-0.13214533030986786	-0.38703266	No	
+row_32	PURB	PURB	purine-rich element binding protein B	6522	-0.13775889575481415	-0.38801277	No	
+row_33	ERCC1	ERCC1	excision repair cross-complementing rodent repair deficiency, complementation group 1 (includes overlapping antisense sequence)	6603	-0.1456766575574875	-0.39232245	No	
+row_34	TIPIN	TIPIN	TIMELESS interacting protein	7051	-0.19542436301708221	-0.4253066	No	
+row_35	PAM	PAM	peptidylglycine alpha-amidating monooxygenase	7059	-0.1964007169008255	-0.42304006	No	
+row_36	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	7108	-0.20149238407611847	-0.42398363	No	
+row_37	H2AFY2	H2AFY2	H2A histone family, member Y2	7142	-0.20561924576759338	-0.42366657	No	
+row_38	JUNB	JUNB	jun B proto-oncogene	7168	-0.20832403004169464	-0.4226699	No	
+row_39	CLASP1	CLASP1	cytoplasmic linker associated protein 1	7215	-0.21561653912067413	-0.42324996	No	
+row_40	DCTN2	DCTN2	dynactin 2 (p50)	7560	-0.2576027512550354	-0.4470905	No	
+row_41	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	7673	-0.27407726645469666	-0.45211458	No	
+row_42	RPA2	RPA2	replication protein A2, 32kDa	7718	-0.2805340886116028	-0.45160004	No	
+row_43	CENPC1	CENPC1	centromere protein C 1	7893	-0.3077845275402069	-0.46110407	No	
+row_44	TINF2	TINF2	TERF1 (TRF1)-interacting nuclear factor 2	7974	-0.31995514035224915	-0.46290508	No	
+row_45	CENPA	CENPA	centromere protein A	8112	-0.3343993127346039	-0.46906292	No	
+row_46	RFC5	RFC5	replication factor C (activator 1) 5, 36.5kDa	8134	-0.3380102813243866	-0.4658791	No	
+row_47	RAN	RAN	RAN, member RAS oncogene family	8264	-0.3596470355987549	-0.47103283	No	
+row_48	MCM3	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	8504	-0.40808168053627014	-0.48429853	No	
+row_49	POLA1	POLA1	polymerase (DNA directed), alpha 1	8567	-0.42000526189804077	-0.48321787	No	
+row_50	CDT1	CDT1	chromatin licensing and DNA replication factor 1	8648	-0.43399444222450256	-0.4833773	No	
+row_51	MCM2	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	8790	-0.46166908740997314	-0.48802346	No	
+row_52	PSEN1	PSEN1	presenilin 1 (Alzheimer disease 3)	8970	-0.5061472654342651	-0.49507254	No	
+row_53	ACD	ACD	adrenocortical dysplasia homolog (mouse)	8973	-0.5069813132286072	-0.48793486	No	
+row_54	SMC2	SMC2	structural maintenance of chromosomes 2	9005	-0.5147607326507568	-0.4830076	No	
+row_55	TNKS	TNKS	tankyrase, TRF1-interacting ankyrin-related ADP-ribose polymerase	9304	-0.6003861427307129	-0.49823007	Yes	
+row_56	MCM7	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	9371	-0.6203334331512451	-0.49458605	Yes	
+row_57	MAD2L1	MAD2L1	MAD2 mitotic arrest deficient-like 1 (yeast)	9397	-0.6283644437789917	-0.48754302	Yes	
+row_58	RFC2	RFC2	replication factor C (activator 1) 2, 40kDa	9525	-0.6661525368690491	-0.48812455	Yes	
+row_59	SUGT1	SUGT1	SGT1, suppressor of G2 allele of SKP1 (S. cerevisiae)	9541	-0.6725130081176758	-0.47964516	Yes	
+row_60	HIST4H4	HIST4H4	histone cluster 4, H4	9745	-0.748182475566864	-0.48513222	Yes	
+row_61	PCNA	PCNA	proliferating cell nuclear antigen	9891	-0.8143903613090515	-0.48502138	Yes	
+row_62	APTX	APTX	aprataxin	9990	-0.8588108420372009	-0.48050722	Yes	
+row_63	RFC3	RFC3	replication factor C (activator 1) 3, 38kDa	9996	-0.8619749546051025	-0.46849978	Yes	
+row_64	INCENP	INCENP	inner centromere protein antigens 135/155kDa	10008	-0.870017409324646	-0.4568571	Yes	
+row_65	KLHDC3	KLHDC3	kelch domain containing 3	10147	-0.9487674832344055	-0.45425135	Yes	
+row_66	RCC1	RCC1	regulator of chromosome condensation 1	10527	-1.2225804328918457	-0.46700424	Yes	
+row_67	ZWILCH	ZWILCH	Zwilch, kinetochore associated, homolog (Drosophila)	10596	-1.282525658607483	-0.45398834	Yes	
+row_68	OIP5	OIP5	Opa interacting protein 5	10607	-1.291602373123169	-0.43619695	Yes	
+row_69	BUB1B	BUB1B	BUB1 budding uninhibited by benzimidazoles 1 homolog beta (yeast)	10636	-1.3130290508270264	-0.41953865	Yes	
+row_70	SYCE2	SYCE2	synaptonemal complex central element protein 2	10688	-1.3602325916290283	-0.40404275	Yes	
+row_71	NPM2	NPM2	nucleophosmin/nucleoplasmin, 2	10753	-1.4343459606170654	-0.3885211	Yes	
+row_72	KIF22	KIF22	kinesin family member 22	10776	-1.4585503339767456	-0.36928758	Yes	
+row_73	SMC4	SMC4	structural maintenance of chromosomes 4	10803	-1.4876633882522583	-0.34995526	Yes	
+row_74	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	11021	-1.7654939889907837	-0.3419196	Yes	
+row_75	MYCN	MYCN	v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)	11155	-1.9314030408859253	-0.32476872	Yes	
+row_76	SUV39H2	SUV39H2	suppressor of variegation 3-9 homolog 2 (Drosophila)	11254	-2.0898871421813965	-0.3025336	Yes	
+row_77	RFC4	RFC4	replication factor C (activator 1) 4, 37kDa	11356	-2.246346950531006	-0.27828655	Yes	
+row_78	TNP1	TNP1	transition protein 1 (during histone to protamine replacement)	11427	-2.38106107711792	-0.24961773	Yes	
+row_79	CDCA5	CDCA5	cell division cycle associated 5	11439	-2.4014649391174316	-0.2159303	Yes	
+row_80	H1FNT	H1FNT	H1 histone family, member N, testis-specific	11535	-2.56817626953125	-0.1865701	Yes	
+row_81	CENPF	CENPF	centromere protein F, 350/400ka (mitosin)	11679	-2.8578903675079346	-0.15688355	Yes	
+row_82	BUB1	BUB1	BUB1 budding uninhibited by benzimidazoles 1 homolog (yeast)	11683	-2.864861011505127	-0.11588501	Yes	
+row_83	CENPE	CENPE	centromere protein E, 312kDa	11690	-2.876979112625122	-0.074952275	Yes	
+row_84	HELLS	HELLS	helicase, lymphoid-specific	11728	-2.9672746658325195	-0.035202347	Yes	
+row_85	SYCE1	SYCE1	synaptonemal complex central element protein 1	11755	-3.026709794998169	0.0062840455	Yes	
+row_86	STAG3	STAG3	stromal antigen 3	12216	-4.108731746673584	0.028589664	Yes	

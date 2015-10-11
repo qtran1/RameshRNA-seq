@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BAAT	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	82	3.71484637260437	0.29580128	Yes	
+row_1	ACOT4	ACOT4	acyl-CoA thioesterase 4	430	1.4344042539596558	0.38490778	Yes	
+row_2	ACOT2	ACOT2	acyl-CoA thioesterase 2	643	1.0553032159805298	0.45391145	Yes	
+row_3	ACOX1	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	3214	0.23167403042316437	0.2681157	No	
+row_4	PECR	PECR	peroxisomal trans-2-enoyl-CoA reductase	3969	0.13687147200107574	0.2192135	No	
+row_5	FADS1	FADS1	fatty acid desaturase 1	5178	0.01030076015740633	0.12385816	No	
+row_6	HSD17B12	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	5232	0.005262583959847689	0.12006603	No	
+row_7	ELOVL5	ELOVL5	ELOVL family member 5, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	5459	-0.020566733554005623	0.10374335	No	
+row_8	HADHA	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	6829	-0.17213700711727142	0.00873846	No	
+row_9	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	8464	-0.40039652585983276	-0.08879173	No	
+row_10	FADS2	FADS2	fatty acid desaturase 2	8604	-0.426098108291626	-0.06518258	No	
+row_11	ACOT1	ACOT1	acyl-CoA thioesterase 1	8672	-0.43767526745796204	-0.034897838	No	
+row_12	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	9646	-0.7080131769180298	-0.054757025	No	
+row_13	YOD1	YOD1	YOD1 OTU deubiquinating enzyme 1 homolog (S. cerevisiae)	9809	-0.7718772888183594	-0.004838307	No	
+row_14	ELOVL2	ELOVL2	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 2	10549	-1.2406731843948364	0.037286326	No	
+row_15	ACOT7	ACOT7	acyl-CoA thioesterase 7	10832	-1.5212496519088745	0.13863668	No	

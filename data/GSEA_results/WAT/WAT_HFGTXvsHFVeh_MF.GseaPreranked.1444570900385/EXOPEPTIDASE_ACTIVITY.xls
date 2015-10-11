@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPB1	CPB1	carboxypeptidase B1 (tissue)	23	5.124447345733643	0.21805511	Yes	
+row_1	CPB2	CPB2	carboxypeptidase B2 (plasma, carboxypeptidase U)	207	2.448550224304199	0.30853638	Yes	
+row_2	ACE2	ACE2	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2	462	1.348476767539978	0.34615517	Yes	
+row_3	DPEP1	DPEP1	dipeptidase 1 (renal)	795	0.8917911052703857	0.3579611	Yes	
+row_4	CPE	CPE	carboxypeptidase E	867	0.8355543613433838	0.3881557	Yes	
+row_5	AEBP1	AEBP1	AE binding protein 1	1668	0.4929794669151306	0.34554902	No	
+row_6	CPA3	CPA3	carboxypeptidase A3 (mast cell)	2592	0.3152187764644623	0.28551155	No	
+row_7	BACE1	BACE1	beta-site APP-cleaving enzyme 1	3127	0.24143607914447784	0.2533115	No	
+row_8	TPP1	TPP1	tripeptidyl peptidase I	3672	0.17262254655361176	0.2173617	No	
+row_9	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	3963	0.13806258141994476	0.20017281	No	
+row_10	CPD	CPD	carboxypeptidase D	4605	0.06786743551492691	0.15199707	No	
+row_11	ZMPSTE24	ZMPSTE24	zinc metallopeptidase (STE24 homolog, yeast)	4643	0.0632384791970253	0.1517617	No	
+row_12	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	5233	0.005235445685684681	0.10504286	No	
+row_13	ENPEP	ENPEP	glutamyl aminopeptidase (aminopeptidase A)	5937	-0.07076668739318848	0.0520501	No	
+row_14	METAP1	METAP1	methionyl aminopeptidase 1	6329	-0.11432435363531113	0.02579289	No	
+row_15	PEPD	PEPD	peptidase D	6626	-0.14922839403152466	0.008604929	No	
+row_16	NPEPPS	NPEPPS	aminopeptidase puromycin sensitive	7140	-0.20547500252723694	-0.02346448	No	
+row_17	BLMH	BLMH	bleomycin hydrolase	7445	-0.24424129724502563	-0.037213072	No	
+row_18	METAP2	METAP2	methionyl aminopeptidase 2	8137	-0.33856067061424255	-0.07775848	No	
+row_19	TRHDE	TRHDE	thyrotropin-releasing hormone degrading enzyme	9128	-0.5476373434066772	-0.13316289	No	
+row_20	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	9398	-0.6286954283714294	-0.12762517	No	
+row_21	GGH	GGH	gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)	9423	-0.6345024704933167	-0.10231171	No	
+row_22	XPNPEP1	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	9818	-0.7750723361968994	-0.10045555	No	
+row_23	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	10616	-1.2964569330215454	-0.10834621	No	
+row_24	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	11012	-1.7548322677612305	-0.06452861	No	
+row_25	CPA2	CPA2	carboxypeptidase A2 (pancreatic)	11283	-2.144582509994507	0.00597558	No	
+row_26	CPA1	CPA1	carboxypeptidase A1 (pancreatic)	11360	-2.2549266815185547	0.09667646	No	

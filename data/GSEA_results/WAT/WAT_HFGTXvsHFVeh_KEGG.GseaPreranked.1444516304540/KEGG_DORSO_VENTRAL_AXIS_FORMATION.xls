@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	1414	0.5671026110649109	-0.06828829	No	
+row_1	CPEB1	CPEB1	cytoplasmic polyadenylation element binding protein 1	2015	0.40849822759628296	-0.0841336	No	
+row_2	NOTCH3	NOTCH3	Notch homolog 3 (Drosophila)	2605	0.31422358751296997	-0.10647743	No	
+row_3	NOTCH2	NOTCH2	Notch homolog 2 (Drosophila)	2795	0.28593114018440247	-0.099167086	No	
+row_4	SOS2	SOS2	son of sevenless homolog 2 (Drosophila)	2930	0.2670300304889679	-0.08895356	No	
+row_5	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	3292	0.2197573184967041	-0.10052283	No	
+row_6	MAPK1	MAPK1	mitogen-activated protein kinase 1	3582	0.18401694297790527	-0.10915184	No	
+row_7	ETS1	ETS1	v-ets erythroblastosis virus E26 oncogene homolog 1 (avian)	3803	0.1585664600133896	-0.11427466	No	
+row_8	GRB2	GRB2	growth factor receptor-bound protein 2	3939	0.14125403761863708	-0.11397995	No	
+row_9	ETS2	ETS2	v-ets erythroblastosis virus E26 oncogene homolog 2 (avian)	4650	0.06200352683663368	-0.16569425	No	
+row_10	NOTCH1	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	4670	0.06006212159991264	-0.16250944	No	
+row_11	FMN2	FMN2	formin 2	4885	0.04113222658634186	-0.17634083	No	
+row_12	ETV6	ETV6	ets variant gene 6 (TEL oncogene)	5183	0.009842896834015846	-0.19923243	No	
+row_13	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	5277	9.328087326139212E-4	-0.20656863	No	
+row_14	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	5455	-0.020220641046762466	-0.21908815	No	
+row_15	NOTCH4	NOTCH4	Notch homolog 4 (Drosophila)	5600	-0.03560005873441696	-0.22777553	No	
+row_16	MAPK3	MAPK3	mitogen-activated protein kinase 3	6980	-0.18812981247901917	-0.32292154	No	
+row_17	SPIRE1	SPIRE1	spire homolog 1 (Drosophila)	7071	-0.19731789827346802	-0.31465602	No	
+row_18	PIWIL4	PIWIL4	piwi-like 4 (Drosophila)	8145	-0.3398377001285553	-0.37355572	No	
+row_19	PIWIL2	PIWIL2	piwi-like 2 (Drosophila)	10955	-1.690702199935913	-0.46508518	Yes	
+row_20	SPIRE2	SPIRE2	spire homolog 2 (Drosophila)	11381	-2.3060529232025146	-0.31854734	Yes	
+row_21	PIWIL1	PIWIL1	piwi-like 1 (Drosophila)	12413	-5.284996509552002	0.012746969	Yes	

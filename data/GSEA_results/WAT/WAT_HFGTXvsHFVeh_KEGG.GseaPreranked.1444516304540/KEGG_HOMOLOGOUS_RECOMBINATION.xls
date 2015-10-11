@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPA3	RPA3	replication protein A3, 14kDa	1606	0.5091171860694885	-0.098061636	No	
+row_1	NBN	NBN	nibrin	2136	0.3880421817302704	-0.11741871	No	
+row_2	SSBP1	SSBP1	single-stranded DNA binding protein 1	3057	0.25136837363243103	-0.17595963	No	
+row_3	XRCC3	XRCC3	X-ray repair complementing defective repair in Chinese hamster cells 3	4241	0.10770159214735031	-0.263896	No	
+row_4	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	5470	-0.02123013511300087	-0.3604975	No	
+row_5	RPA1	RPA1	replication protein A1, 70kDa	5886	-0.0648488998413086	-0.38975587	No	
+row_6	MRE11A	MRE11A	MRE11 meiotic recombination 11 homolog A (S. cerevisiae)	6279	-0.1100228875875473	-0.41452798	No	
+row_7	TOP3B	TOP3B	topoisomerase (DNA) III beta	6363	-0.11789818853139877	-0.41421598	No	
+row_8	RAD52	RAD52	RAD52 homolog (S. cerevisiae)	6878	-0.1772623062133789	-0.44475943	No	
+row_9	SHFM1	SHFM1	split hand/foot malformation (ectrodactyly) type 1	7292	-0.22575509548187256	-0.46440652	No	
+row_10	RPA2	RPA2	replication protein A2, 32kDa	7718	-0.2805340886116028	-0.48179197	No	
+row_11	TOP3A	TOP3A	topoisomerase (DNA) III alpha	7765	-0.2870917022228241	-0.468593	No	
+row_12	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	8455	-0.3987380266189575	-0.5000708	Yes	
+row_13	MUS81	MUS81	MUS81 endonuclease homolog (S. cerevisiae)	8693	-0.44166311621665955	-0.49301115	Yes	
+row_14	XRCC2	XRCC2	X-ray repair complementing defective repair in Chinese hamster cells 2	8709	-0.4449693262577057	-0.46806803	Yes	
+row_15	RAD50	RAD50	RAD50 homolog (S. cerevisiae)	9100	-0.539466142654419	-0.4674545	Yes	
+row_16	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	9471	-0.648901641368866	-0.45881885	Yes	
+row_17	RAD54L	RAD54L	RAD54-like (S. cerevisiae)	10504	-1.2030959129333496	-0.47037783	Yes	
+row_18	RAD51C	RAD51C	RAD51 homolog C (S. cerevisiae)	10657	-1.333128571510315	-0.40417895	Yes	
+row_19	BRCA2	BRCA2	breast cancer 2, early onset	10701	-1.3711161613464355	-0.32706332	Yes	
+row_20	EME1	EME1	essential meiotic endonuclease 1 homolog 1 (S. pombe)	10935	-1.6655783653259277	-0.24778987	Yes	
+row_21	RAD51	RAD51	RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)	11078	-1.8295880556106567	-0.1516312	Yes	
+row_22	BLM	BLM	Bloom syndrome	11136	-1.904257893562317	-0.04431338	Yes	
+row_23	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	11599	-2.7022581100463867	0.07760955	Yes	

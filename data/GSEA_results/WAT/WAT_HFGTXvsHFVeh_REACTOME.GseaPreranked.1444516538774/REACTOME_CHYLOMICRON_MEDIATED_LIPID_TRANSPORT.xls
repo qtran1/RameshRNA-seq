@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOB	APOB	apolipoprotein B (including Ag(x) antigen)	90	3.5850589275360107	0.17328642	Yes	
+row_1	APOA5	APOA5	apolipoprotein A-V	100	3.273967742919922	0.3373642	Yes	
+row_2	APOC3	APOC3	apolipoprotein C-III	138	2.815528392791748	0.4761369	Yes	
+row_3	APOA1	APOA1	apolipoprotein A-I	214	2.3878188133239746	0.5903549	Yes	
+row_4	APOA2	APOA2	apolipoprotein A-II	275	1.984645962715149	0.6854738	Yes	
+row_5	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	532	1.2188057899475098	0.72643673	Yes	
+row_6	APOE	APOE	apolipoprotein E	628	1.0768564939498901	0.77307516	Yes	
+row_7	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	1876	0.4381672739982605	0.695831	No	
+row_8	SAR1B	SAR1B	SAR1 gene homolog B (S. cerevisiae)	3829	0.15505260229110718	0.54819673	No	
+row_9	APOC2	APOC2	apolipoprotein C-II	4043	0.1286744624376297	0.5377123	No	
+row_10	LPL	LPL	lipoprotein lipase	4385	0.0927102193236351	0.5152248	No	
+row_11	MTTP	MTTP	microsomal triglyceride transfer protein	7556	-0.2574315369129181	0.2757538	No	
+row_12	SDC1	SDC1	syndecan 1	7563	-0.25785550475120544	0.28825513	No	
+row_13	P4HB	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	8952	-0.5028637051582336	0.2030395	No	
+row_14	LIPC	LIPC	lipase, hepatic	9879	-0.8085894584655762	0.17000182	No	
+row_15	HSPG2	HSPG2	heparan sulfate proteoglycan 2 (perlecan)	10030	-0.8829502463340759	0.20250034	No	

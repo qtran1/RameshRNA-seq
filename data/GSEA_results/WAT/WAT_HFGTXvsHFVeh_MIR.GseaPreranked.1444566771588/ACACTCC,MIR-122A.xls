@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NEGR1	NEGR1	neuronal growth regulator 1	478	1.316733956336975	0.02241639	Yes	
+row_1	CLIC5	CLIC5	chloride intracellular channel 5	657	1.0391420125961304	0.056028727	Yes	
+row_2	NTRK2	NTRK2	neurotrophic tyrosine kinase, receptor, type 2	698	0.9912375211715698	0.09846429	Yes	
+row_3	SLC25A34	SLC25A34	solute carrier family 25, member 34	733	0.9584929347038269	0.13987193	Yes	
+row_4	SLC4A3	SLC4A3	solute carrier family 4, anion exchanger, member 3	833	0.8609297871589661	0.17159359	Yes	
+row_5	BCAT2	BCAT2	branched chain aminotransferase 2, mitochondrial	883	0.8297902345657349	0.20587757	Yes	
+row_6	MEIS2	MEIS2	Meis1, myeloid ecotropic viral integration site 1 homolog 2 (mouse)	950	0.7851528525352478	0.23674805	Yes	
+row_7	GYS1	GYS1	glycogen synthase 1 (muscle)	981	0.76609867811203	0.26961836	Yes	
+row_8	CLIC4	CLIC4	chloride intracellular channel 4	1801	0.45727479457855225	0.22521737	Yes	
+row_9	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	1833	0.44853970408439636	0.24338874	Yes	
+row_10	CS	CS	citrate synthase	1937	0.4245659410953522	0.25470248	Yes	
+row_11	MIPOL1	MIPOL1	mirror-image polydactyly 1	1974	0.4158722162246704	0.2709704	Yes	
+row_12	CPEB1	CPEB1	cytoplasmic polyadenylation element binding protein 1	2015	0.40849822759628296	0.2865792	Yes	
+row_13	CDC42BPB	CDC42BPB	CDC42 binding protein kinase beta (DMPK-like)	2284	0.3585999608039856	0.28166983	Yes	
+row_14	TNRC6A	TNRC6A	trinucleotide repeat containing 6A	2349	0.3491987884044647	0.29263073	Yes	
+row_15	MSN	MSN	moesin	2800	0.28483182191848755	0.26978055	No	
+row_16	RAD21	RAD21	RAD21 homolog (S. pombe)	2884	0.2725791335105896	0.2756958	No	
+row_17	DICER1	DICER1	Dicer1, Dcr-1 homolog (Drosophila)	2953	0.263947457075119	0.2824124	No	
+row_18	MAF1	MAF1	MAF1 homolog (S. cerevisiae)	3140	0.23958228528499603	0.2785772	No	
+row_19	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	3399	0.20533128082752228	0.2674112	No	
+row_20	P4HA1	P4HA1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha polypeptide I	3448	0.19803418219089508	0.27269182	No	
+row_21	ANKRD13C	ANKRD13C	ankyrin repeat domain 13C	3545	0.18750889599323273	0.27365187	No	
+row_22	SLC9A6	SLC9A6	solute carrier family 9 (sodium/hydrogen exchanger), member 6	3599	0.18120665848255157	0.27775824	No	
+row_23	BRPF1	BRPF1	bromodomain and PHD finger containing, 1	3659	0.17357423901557922	0.28103375	No	
+row_24	G3BP2	G3BP2	-	3895	0.14662811160087585	0.2690034	No	
+row_25	TBC1D10B	TBC1D10B	TBC1 domain family, member 10B	3975	0.13599440455436707	0.26895055	No	
+row_26	TNPO3	TNPO3	transportin 3	4003	0.1332525908946991	0.27292717	No	
+row_27	HAND2	HAND2	heart and neural crest derivatives expressed 2	4214	0.11063020676374435	0.26123753	No	
+row_28	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	4218	0.11012135446071625	0.2660673	No	
+row_29	H1F0	H1F0	H1 histone family, member 0	4224	0.10973414033651352	0.27071938	No	
+row_30	ZDHHC7	ZDHHC7	zinc finger, DHHC-type containing 7	4464	0.08430727571249008	0.25550038	No	
+row_31	DLG4	DLG4	discs, large homolog 4 (Drosophila)	4528	0.07719430327415466	0.25401932	No	
+row_32	PAPOLA	PAPOLA	poly(A) polymerase alpha	4546	0.0753767266869545	0.25613075	No	
+row_33	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	4843	0.045195866376161575	0.23455596	No	
+row_34	FKBP5	FKBP5	FK506 binding protein 5	4948	0.03515730798244476	0.22786309	No	
+row_35	BRWD1	BRWD1	bromodomain and WD repeat domain containing 1	5303	-0.001505803200416267	0.19964184	No	
+row_36	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	5781	-0.05341246724128723	0.16398036	No	
+row_37	CD320	CD320	CD320 molecule	5787	-0.05390100181102753	0.16606215	No	
+row_38	SMARCD1	SMARCD1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 1	5882	-0.06458153575658798	0.161523	No	
+row_39	CCDC97	CCDC97	coiled-coil domain containing 97	5897	-0.06564251333475113	0.16342606	No	
+row_40	OCLN	OCLN	occludin	5908	-0.0668591633439064	0.1657048	No	
+row_41	STK24	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	6001	-0.07839243859052658	0.16196129	No	
+row_42	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	6494	-0.13338710367679596	0.12878273	No	
+row_43	GNPDA2	GNPDA2	glucosamine-6-phosphate deaminase 2	6601	-0.14547324180603027	0.1270085	No	
+row_44	ALDOA	ALDOA	aldolase A, fructose-bisphosphate	6965	-0.18642623722553253	0.10658091	No	
+row_45	SERP1	SERP1	-	6968	-0.1870439052581787	0.115031764	No	
+row_46	LRP10	LRP10	low density lipoprotein receptor-related protein 10	7100	-0.20057019591331482	0.113796026	No	
+row_47	NPEPPS	NPEPPS	aminopeptidase puromycin sensitive	7140	-0.20547500252723694	0.12013844	No	
+row_48	IQGAP1	IQGAP1	IQ motif containing GTPase activating protein 1	7146	-0.2062150537967682	0.1292321	No	
+row_49	GALC	GALC	galactosylceramidase	7223	-0.21738283336162567	0.13316576	No	
+row_50	VAV3	VAV3	vav 3 oncogene	7244	-0.21924477815628052	0.14166048	No	
+row_51	DAND5	DAND5	DAN domain family, member 5	7312	-0.22863514721393585	0.14683142	No	
+row_52	DLG2	DLG2	discs, large homolog 2, chapsyn-110 (Drosophila)	7689	-0.27652788162231445	0.1295128	No	
+row_53	CCNG1	CCNG1	cyclin G1	7909	-0.30963388085365295	0.12626518	No	
+row_54	CCDC6	CCDC6	coiled-coil domain containing 6	8220	-0.35172757506370544	0.11768295	No	
+row_55	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	8675	-0.4380493462085724	0.10156656	No	
+row_56	PAK3	PAK3	p21 (CDKN1A)-activated kinase 3	9042	-0.523165762424469	0.09640124	No	
+row_57	MARK1	MARK1	MAP/microtubule affinity-regulating kinase 1	9361	-0.6174326539039612	0.09941156	No	
+row_58	GIT1	GIT1	G protein-coupled receptor kinase interactor 1	9910	-0.8223602175712585	0.09347497	No	
+row_59	SLC39A8	SLC39A8	solute carrier family 39 (zinc transporter), member 8	10172	-0.9658111333847046	0.11707837	No	
+row_60	SLCO5A1	SLCO5A1	solute carrier organic anion transporter family, member 5A1	10900	-1.6231374740600586	0.13370094	No	

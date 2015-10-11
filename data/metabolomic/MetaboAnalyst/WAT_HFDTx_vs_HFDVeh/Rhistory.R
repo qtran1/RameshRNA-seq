@@ -1,0 +1,43 @@
+# Below is your R command history : 
+InitDataObjects("conc", "stat", FALSE)
+Read.TextData("Metabolomic_WAT_HFDTx_vs_HFDVeh.csv", "colu", "disc");
+SanityCheckData();
+RemoveMissingPercent(percent=0.5)
+ImputeVar(method="knn")
+IsSmallSmplSize();
+FilterVariable("none")
+Normalization("MedianNorm", "LogNorm", "RangeNorm", "207", "F", ratio=FALSE, ratioNum=20)
+Ttests.Anal(F, 0.05, FALSE, TRUE)
+Ttests.Anal(F, 0.05, FALSE, FALSE)
+PlotPCAPairSummary("pca_pair_0_", "png", 72, width=NA, 5)
+PlotPCA2DScore("pca_score2d_0_", "png", 72, width=NA, 1,2,0.95,1,0)
+PlotHeatMap("heatmap_0_", "png", 72, width=NA, "euclidean", "ward","bwm", "overview", T, T, NA, T)
+PlotSubHeatMap("heatmap_1_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 100, "overview", T, T, T)
+PlotSubHeatMap("heatmap_2_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 50, "overview", T, T, T)
+PlotSubHeatMap("heatmap_3_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 60, "overview", T, T, T)
+PlotSubHeatMap("heatmap_4_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 70, "overview", T, T, T)
+PlotSubHeatMap("heatmap_5_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 80, "overview", T, T, T)
+PlotSubHeatMap("heatmap_6_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 90, "overview", T, T, T)
+PlotSubHeatMap("heatmap_7_", "png", 72, width=NA, "euclidean", "ward","bwm", "tanova", 100, "overview", T, T, T)
+PlotSubHeatMap("heatmap_7_", "png", 300, width=NA, "euclidean", "ward","bwm", "tanova", 100, "overview", T, T, T)
+PlotSubHeatMap("heatmap_7_", "png", 300, width=NA, "euclidean", "ward","bwm", "tanova", 100, "overview", T, T, T)
+SaveTransformedData()
+Ttests.Anal(F, 0.05, FALSE, FALSE)
+Ttests.Anal(F, 0.05, FALSE, FALSE)
+Ttests.Anal(T, 0.05, FALSE, FALSE)
+Ttests.Anal(F, 0.05, FALSE, TRUE)
+FC.Anal.unpaired(2.0, 0)
+FC.Anal.unpaired(1.7, 0)
+PlotFC("fc_1_", "png", 300, width=NA)
+Ttests.Anal(F, 0.05, FALSE, FALSE)
+Ttests.Anal(F, 0.1, FALSE, FALSE)
+Ttests.Anal(F, 0.05, FALSE, FALSE)
+PLSR.Anal()
+PlotPLS2DScore("pls_score2d_0_", "png", 72, width=NA, 1,2,0.95,1,0)
+PlotPLSLoading("pls_loading_0_", "png", 72, width=NA, 1, 2,"scatter", 1);
+GetMinGroupSize();
+PLSDA.CV("L",4, "Q2")
+PlotPLS.Imp("pls_imp_0_", "png", 72, width=NA, "vip", "Comp. 1", 15,FALSE)
+GetMinGroupSize();
+PLSDA.Permut(100, "accu")
+SaveTransformedData()

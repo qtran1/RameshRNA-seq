@@ -1,0 +1,28 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MYOD1	MYOD1	myogenic differentiation 1	29	4.981436729431152	0.30827856	Yes	
+row_1	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	339	1.6903249025344849	0.38904202	Yes	
+row_2	CAMK1G	CAMK1G	calcium/calmodulin-dependent protein kinase IG	1033	0.7328339219093323	0.3795015	Yes	
+row_3	INSR	INSR	insulin receptor	1444	0.5566907525062561	0.3815337	Yes	
+row_4	IGF1	IGF1	insulin-like growth factor 1 (somatomedin C)	1557	0.5231813192367554	0.40522736	Yes	
+row_5	MAPK7	MAPK7	mitogen-activated protein kinase 7	1904	0.4333202838897705	0.40466833	Yes	
+row_6	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	2029	0.40748971700668335	0.42019224	Yes	
+row_7	CAMK1	CAMK1	calcium/calmodulin-dependent protein kinase I	2125	0.38934099674224854	0.4368959	Yes	
+row_8	CABIN1	CABIN1	-	2184	0.37836554646492004	0.4558642	Yes	
+row_9	MEF2C	MEF2C	MADS box transcription enhancer factor 2, polypeptide C (myocyte enhancer factor 2C)	2236	0.36948367953300476	0.4748366	Yes	
+row_10	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	2259	0.3645009398460388	0.4958096	Yes	
+row_11	MAPK14	MAPK14	mitogen-activated protein kinase 14	2684	0.3012717068195343	0.48080078	No	
+row_12	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	3152	0.23789387941360474	0.4584133	No	
+row_13	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3751	0.16410361230373383	0.42098427	No	
+row_14	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	3770	0.16189104318618774	0.42964348	No	
+row_15	HDAC5	HDAC5	histone deacetylase 5	3823	0.15582603216171265	0.43521473	No	
+row_16	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	3881	0.14872777462005615	0.43994492	No	
+row_17	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	4467	0.08404508233070374	0.39856037	No	
+row_18	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	5781	-0.05341246724128723	0.29724407	No	
+row_19	MEF2A	MEF2A	MADS box transcription enhancer factor 2, polypeptide A (myocyte enhancer factor 2A)	6060	-0.08461181074380875	0.2803629	No	
+row_20	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	6731	-0.1612461358308792	0.23701729	No	
+row_21	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	7773	-0.2886259853839874	0.17204492	No	
+row_22	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	8271	-0.3607928156852722	0.15492909	No	
+row_23	IGF1R	IGF1R	insulin-like growth factor 1 receptor	8886	-0.484836220741272	0.13622236	No	
+row_24	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	9189	-0.566962718963623	0.14750268	No	
+row_25	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	9577	-0.6858649849891663	0.15942197	No	
+row_26	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	10583	-1.2715483903884888	0.15860349	No	

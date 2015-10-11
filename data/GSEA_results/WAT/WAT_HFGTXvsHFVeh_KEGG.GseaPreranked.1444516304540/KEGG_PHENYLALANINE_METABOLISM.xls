@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PAH	PAH	phenylalanine hydroxylase	196	2.5453240871429443	0.15036371	Yes	
+row_1	TAT	TAT	tyrosine aminotransferase	267	2.0223634243011475	0.2766616	Yes	
+row_2	HPD	HPD	4-hydroxyphenylpyruvate dioxygenase	363	1.609372615814209	0.3740384	Yes	
+row_3	MAOB	MAOB	monoamine oxidase B	541	1.207486629486084	0.43867853	Yes	
+row_4	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	1248	0.6314340233802795	0.42362458	No	
+row_5	ALDH1A3	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	1761	0.46599844098091125	0.41323376	No	
+row_6	AOC2	AOC2	amine oxidase, copper containing 2 (retina-specific)	5763	-0.051947224885225296	0.09796867	No	
+row_7	ALDH3A1	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	6313	-0.11296616494655609	0.061610773	No	
+row_8	MAOA	MAOA	monoamine oxidase A	6505	-0.13486666977405548	0.055193216	No	
+row_9	MIF	MIF	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	6636	-0.15055495500564575	0.054656886	No	
+row_10	NAT6	NAT6	N-acetyltransferase 6	6681	-0.15544763207435608	0.06128891	No	
+row_11	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	7791	-0.2909862697124481	-0.008060958	No	
+row_12	GOT1	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	8728	-0.44783109426498413	-0.05340512	No	
+row_13	PRDX6	PRDX6	peroxiredoxin 6	8774	-0.45894697308540344	-0.02706236	No	
+row_14	ALDH3B2	ALDH3B2	aldehyde dehydrogenase 3 family, member B2	9676	-0.7183517813682556	-0.05197908	No	
+row_15	ALDH3B1	ALDH3B1	aldehyde dehydrogenase 3 family, member B1	10389	-1.124817967414856	-0.035338663	No	
+row_16	DDC	DDC	dopa decarboxylase (aromatic L-amino acid decarboxylase)	10452	-1.163106918334961	0.035566557	No	
+row_17	IL4I1	IL4I1	interleukin 4 induced 1	11227	-2.0438971519470215	0.107199796	No	

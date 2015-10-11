@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ATP2A1	ATP2A1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	92	3.477907419204712	0.13692614	Yes	
+row_1	ABCC2	ABCC2	ATP-binding cassette, sub-family C (CFTR/MRP), member 2	198	2.5383098125457764	0.23384039	Yes	
+row_2	ABCB11	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	388	1.5551689863204956	0.28327286	Yes	
+row_3	ATP4B	ATP4B	ATPase, H+/K+ exchanging, beta polypeptide	517	1.2424676418304443	0.32460034	Yes	
+row_4	ABCC6	ABCC6	ATP-binding cassette, sub-family C (CFTR/MRP), member 6	582	1.1520353555679321	0.3672819	Yes	
+row_5	ABCG2	ABCG2	ATP-binding cassette, sub-family G (WHITE), member 2	934	0.7999940514564514	0.37246665	Yes	
+row_6	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	2051	0.40337419509887695	0.30017516	No	
+row_7	ABCD4	ABCD4	ATP-binding cassette, sub-family D (ALD), member 4	2531	0.32354220747947693	0.27538586	No	
+row_8	ABCG1	ABCG1	ATP-binding cassette, sub-family G (WHITE), member 1	2944	0.265470951795578	0.25353235	No	
+row_9	ATP7A	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	3238	0.22811205685138702	0.23962186	No	
+row_10	ATP11B	ATP11B	ATPase, Class VI, type 11B	4425	0.08825691044330597	0.14867526	No	
+row_11	ATP1B2	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide	4725	0.05548452213406563	0.12712547	No	
+row_12	ABCC1	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	5071	0.022934507578611374	0.10055607	No	
+row_13	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	5327	-0.004072076641023159	0.08038356	No	
+row_14	ATP2B1	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	5339	-0.005141939967870712	0.07971938	No	
+row_15	ABCF1	ABCF1	ATP-binding cassette, sub-family F (GCN20), member 1	5393	-0.012009594589471817	0.07598972	No	
+row_16	ATP8B1	ATP8B1	ATPase, Class I, type 8B, member 1	5468	-0.02113804966211319	0.07096354	No	
+row_17	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	5650	-0.040515266358852386	0.05820571	No	
+row_18	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	5771	-0.05278336629271507	0.050822753	No	
+row_19	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	6836	-0.17242318391799927	-0.02690062	No	
+row_20	TAPBP	TAPBP	TAP binding protein (tapasin)	6871	-0.1763378083705902	-0.022298243	No	
+row_21	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	6912	-0.18067185580730438	-0.017994711	No	
+row_22	ATP2A3	ATP2A3	ATPase, Ca++ transporting, ubiquitous	7008	-0.19007515907287598	-0.01768849	No	
+row_23	ATP2C1	ATP2C1	ATPase, Ca++ transporting, type 2C, member 1	7229	-0.21789100766181946	-0.02619974	No	
+row_24	SEC61B	SEC61B	Sec61 beta subunit	7533	-0.25468847155570984	-0.039805546	No	
+row_25	ATP6V1B2	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	7576	-0.26058849692344666	-0.03234658	No	
+row_26	ABCB7	ABCB7	ATP-binding cassette, sub-family B (MDR/TAP), member 7	7797	-0.2914753258228302	-0.037805524	No	
+row_27	ATP2B3	ATP2B3	ATPase, Ca++ transporting, plasma membrane 3	7835	-0.297951877117157	-0.028397856	No	
+row_28	ABCA3	ABCA3	ATP-binding cassette, sub-family A (ABC1), member 3	7896	-0.30799204111099243	-0.020408437	No	
+row_29	ATP2B4	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	7988	-0.3219902217388153	-0.014311246	No	
+row_30	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	8139	-0.338960200548172	-0.012216576	No	
+row_31	ATP6V1C1	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	8789	-0.4615284204483032	-0.04484309	No	
+row_32	ABCC3	ABCC3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	9212	-0.5722792148590088	-0.054767765	No	
+row_33	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	9333	-0.608588695526123	-0.03909569	No	
+row_34	ATP7B	ATP7B	ATPase, Cu++ transporting, beta polypeptide	9847	-0.7896683812141418	-0.047262065	No	
+row_35	ATP4A	ATP4A	ATPase, H+/K+ exchanging, alpha polypeptide	11042	-1.7846367359161377	-0.0684803	No	
+row_36	ATP1A3	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	11068	-1.814793586730957	0.0048038233	No	
+row_37	ATP1A4	ATP1A4	ATPase, Na+/K+ transporting, alpha 4 polypeptide	11638	-2.7765095233917236	0.07458529	No	
