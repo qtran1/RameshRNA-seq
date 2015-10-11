@@ -100,10 +100,14 @@ nk_cells <- c('Ifng','Lat','Ncr1', 'Vav3','Shc2', 'Klrc1', 'Sh2d1a', 'Cd247', 'F
 peroxisome <- c('Pex11b','Baat','Hao1','Acox2','Agxt')
   
 gene.data.name <- c('cortisol_signaling', 'adipocytes', 'brown_fat', 'white_fat', 'beige_fat', 'lipolysis', 'lipid_metabolism', 'unsat_FA', 'adipocyte_regulator', 'wnt', 'ppar_genes', 'adipocyte1', 'adipocyte2', 'adipocyte3', 'hormones', 'genes_exp_less100', 'genes_exp_more100', 'genes_exp_less40', 'genes_exp_1000','nk_cells','peroxisome')
+
+
+
 for (name in gene.data.name){
   #name <- as.name(name) #convert string to variable name
   gene.data <- rpkm.liver.se[rpkm.liver.se$external_gene_name%in%eval(as.name(name)),]
   gene.data$external_gene_name <- factor(gene.data$external_gene_name, levels=eval(as.name(name)))
+  gene.data$Diet_Drug <- factor(gene.data$Diet_Drug, levels=c("Normal_Vehicle", "HFD_Vehicle", "HFD_GTX"))
   
   ggplot(gene.data, aes(x=external_gene_name, y=mean_Expression, fill=Diet_Drug))+ 
     #this line together with show_guide=F and the element_rect=black get rid of the slash in legend box
@@ -122,13 +126,28 @@ for (name in gene.data.name){
   ggsave(filename=paste('figures/Liver-', name, '-barplot.pdf',sep=""))
 }
 
+biocarta_ppara <- c('Fabp1','Apoa1','Apoa2',  'Nr2f1',	'Ptgs2',	'Pik3r1',	'Myc',	'Jun',	'Ppargc1a',	'Ppara',	'Prkar1b',	'Nrip1',	'Ncoa1',	'Tnf',	'Stat5a',	'Rxra',	'Ncor1',	'Stat5b',	'Nr0b2',	'Cd36',	'Ep300',	'Dusp1',	'Prkar2b')
+bp_lipid_transport <- c('Apof', 'Apoc3', 'Apoa1', 'Apoa2', 'Lcat', 'Slco2a1', 'Ldlr', 'Apoe', 'Tspo', 'Ppara')
+go_peroxisome <-c('Pex11b', 'Hao1', 'Agxt', 'Acot4', 'Slc27a2', 'Phyh', 'Ech1', 'Abcd2', 'Scp2', 'Mlycd', 'Amacr', 'Pex1', 'Pex19', 'Pxmp4', 'Acad11', 'Isoc1', 'Pex13', 'Pex6')
+               
+REACTOME_BILE_SALT_METABOLISM <- c('Cyp7a1', 'Baat', 'Slc27a5', 'Slc10a1', 'Alb', 'Acox2', 'Abcb11', 'Cyp8b1', 'Slc27a2', 'Akr1d1', 'Cyp27a1', 'Hsd3b7', 'Cyp7b1')
+bile_salt_axis1 <- c('Alb', 'Cyp27a1', 'Hsd3b7')
+REACTOME_BCAA_CATABOLISM <- c('Ivd', 'Mccc1', 'Dbt', 'Bcat2','Bckdhb', 'Acadsb', 'Aldh6a1', 'Auh', 'Mccc2', 'Hibch', 'Bckdha', 'Acat1')
+REACTOME_PPARA_ACTIVATES_GENE_EXPRESSION <- c('Cyp7a1', 'Apoa5', 'Fabp1', 'Apoa1', 'Apoa2', 'Agt', 'Pparg', 'Slc27a1', 'Ctgf', 'Gos2', 'Ppargc1b', 'Alas1', 'Tead1', 'Trib3', 'Abcb4', 'Ppargc1a', 'Ppara', 'Hmgcs2', 'Acadm', 'Yap1', 'Ncoa1', 'Cpt2', 'Tead4', 'Rxra', 'Nr1d1')
+REACTOME_PEROXISOMAL_LIPID<- c('Acox2', 'Slc27a2', 'Idh1', 'Phyh', 'Scp2', 'Amacr')
+                                 
+KEGG_PPAR_SIGNALING_PATHWAY <-c('Fabp2', 'Cyp7a1', 'Apoa5', 'Ucp1', 'Slc27a5', 'Apoc3', 'Fabp1', 'Apoa1', 'Apoa2', 'Acox2',  'Adipoq', 'Slc27a2', 'Ppara', 'Hmgcs2', 'Acadm', 'Fabp4', 'Scp2',	'Pck1', 'Agt', 'Ctgf', 'Gos2', 'Ppargc1b', 'Alas1', 'Tead1', 'Tead4', 'Trib3', 'Abcb4', 'Ppargc1a', 'Yap1', 'Ncoa1', 'Cpt2', 'Rxra', 'Nr1d1', 'Ilk')	
+
+figure3 <- c("Mylk2")
+gene.data.name <- c('biocarta_ppara','bp_lipid_transport','go_peroxisome', 'REACTOME_BILE_SALT_METABOLISM', 'REACTOME_BCAA_CATABOLISM', 'REACTOME_PPARA_ACTIVATES_GENE_EXPRESSION', 'REACTOME_PEROXISOMAL_LIPID', 'KEGG_PPAR_SIGNALING_PATHWAY', 'KEGG_PPAR_SIGNALING_PATHWAY', 'ppar_sig_axis2', 'ppar_sig_axis3', 'figure3')
+#gene.data.name <- c('KEGG_PPAR_SIGNALING_PATHWAY', 'ppar_sig_axis2', 'ppar_sig_axis3', 'figure3')
 
 ###Bar plots for WAT####
 for (name in gene.data.name){
   #name <- as.name(name) #convert string to variable name
   gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(as.name(name)),]
   gene.data$external_gene_name <- factor(gene.data$external_gene_name, levels=eval(as.name(name)))
-  
+  gene.data$Diet_Drug <- factor(gene.data$Diet_Drug, levels=c("Normal_Vehicle", "HFD_Vehicle", "HFD_GTX"))
   ggplot(gene.data, aes(x=external_gene_name, y=mean_Expression, fill=Diet_Drug))+ 
     #this line together with show_guide=F and the element_rect=black get rid of the slash in legend box
     geom_bar(stat="identity", width=.8, position=position_dodge(width=.8)) +
@@ -138,13 +157,77 @@ for (name in gene.data.name){
     theme(panel.grid.minor = element_blank()) + theme(panel.grid.major = element_blank()) + 
     theme(panel.border=element_blank())+ 
     theme(axis.line = element_line(color = 'black')) +
-    scale_fill_grey(start = 0.3, end = .9, guide=guide_legend()) +
+    #scale_fill_grey(start = 0.3, end = .9, guide=guide_legend()) +
     #guides(fill = guide_legend(keywidth = .5, keyheight = .5)) +
     theme(text = element_text(size=20), axis.text.x = element_text(angle=70,hjust=.5,vjust=.5)) +
-    theme(legend.position=c(.75,.90), legend.title=element_blank(), legend.key=element_rect(color="black"))   + ggtitle(name)
-    
+    theme(legend.position=c(.25,.90), legend.title=element_blank(), legend.key=element_rect(color="black"))   + ggtitle(name)+
+    #this below line changes the color of the bars.
+    scale_fill_manual(values=c('#0080FF','#E69F00','#999999'))
   ggsave(filename=paste('figures/WAT-', name, '-barplot.pdf',sep=""))
 }
+```
+
+```{r plot_with_different_axis_scale, echo=FALSE}
+#Create a function that will draw into different y-axis scales.
+twocoordinate <- function(LHS, RHS, list_name, index){
+  require(ggplot2)
+  l.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(LHS),]
+  l.gene.data$external_gene_name<- factor(l.gene.data$external_gene_name, levels=eval(LHS))
+  
+  r.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(RHS),]
+  r.gene.data$external_gene_name<- factor(r.gene.data$external_gene_name, levels=eval(RHS))
+  
+  gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(list_name),]
+  gene.data$external_gene_name <- factor(gene.data$external_gene_name, levels=eval(list_name))
+  gene.data$Diet_Drug <- factor(gene.data$Diet_Drug, levels=c("Normal_Vehicle", "HFD_Vehicle", "HFD_GTX"))
+  gene.data$index <- index
+  print(gene.data)
+  d <- ggplot(gene.data, aes(x=external_gene_name, y=mean_Expression, fill=Diet_Drug)) 
+  d+geom_bar(stat="identity",width=.8, position=position_dodge(width=.8), col="black", show_guide=F) + 
+  geom_errorbar(position=position_dodge(width=.8), aes(ymin=mean_Expression-se, ymax=mean_Expression+se), width=.2)+
+  facet_wrap(~index , scales = "free") +
+  theme_bw()+ ylab("mRNA Expression (RPKM)") +xlab("")+
+  theme(panel.grid.minor = element_blank()) + theme(panel.grid.major = element_blank()) + 
+  theme(panel.border=element_blank())+ 
+  theme(axis.line = element_line(color = 'black')) +
+  scale_fill_manual(values=c('#0080FF','#E69F00','#999999')) +
+  #scale_fill_grey(start = 0.3, end = .9, guide=guide_legend()) +
+  #guides(fill = guide_legend(keywidth = .5, keyheight = .5)) +
+  theme(text = element_text(size=20), axis.text.x = element_text(angle=70,hjust=.5,vjust=.5)) +
+  theme(legend.position=c(.25,.90), legend.title=element_blank(), legend.key=element_rect(color="black")) 
+  
+  ggsave(filename=paste('figures/Twocord-', deparse(substitute(list_name)), '-barplot.pdf',sep=""))
+}
+
+lhs <- c('Adipoq') 
+rhs <- c('Fabp4', 'Pck1', 'Agt')
+ppar <- c('Adipoq', 'Fabp4', 'Pck1', 'Agt')
+scale_index <- c(rep("scale 1",9), rep("scale 2", 3))
+twocoordinate(lhs, rhs, ppar, scale_index)
+
+lhs <- c('Acox2', 'Slc27a2')
+rhs <- c('Idh1', 'Phyh', 'Scp2', 'Amacr')
+peroxisomal_lipid <- c('Acox2', 'Slc27a2', 'Idh1', 'Phyh', 'Scp2', 'Amacr')
+scale_index <- c(rep("scale 1",3), rep("scale 2", 12), rep("scale 1", 3))
+twocoordinate(lhs, rhs, peroxisomal_lipid, scale_index)
+
+lhs <- c('Cyp7a1', 'Apoa5', 'Fabp1', 'Ppargc1b', 'Abcb4', 'Ppargc1a', 'Ppara', 'Tead4', 'Ncoa1')
+rhs <- c('Apoa1', 'Apoa2', 'Agt', 'Pparg', 'Slc27a1', 'Ctgf', 'Gos2', 'Alas1', 'Tead1', 'Trib3', 'Hmgcs2', 'Acadm', 'Yap1', 'Cpt2', 'Rxra', 'Nr1d1')
+ppara_activate_ge <- c('Cyp7a1', 'Apoa5', 'Fabp1', 'Ppargc1b', 'Abcb4', 'Ppargc1a', 'Ppara', 'Tead4', 'Ncoa1', 'Apoa1', 'Apoa2', 'Agt', 'Pparg', 'Slc27a1', 'Ctgf', 'Gos2', 'Alas1', 'Tead1', 'Trib3', 'Hmgcs2', 'Acadm', 'Yap1', 'Cpt2', 'Rxra', 'Nr1d1')
+scale_index <- c(rep("scale 2",6), rep("scale 1", 3), rep("scale 2", 9), rep("scale 1", 6), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 6), rep("scale 2", 6), rep("scale 1", 3), rep("scale 2", 15), rep("scale 1", 3))
+twocoordinate(lhs, rhs, ppara_activate_ge, scale_index)
+
+lhs <- c('Cyp7a1', 'Baat', 'Slc27a5', 'Slc10a1', 'Acox2', 'Abcb11', 'Cyp8b1', 'Slc27a2', 'Akr1d1', 'Cyp7b1')
+rhs <- c('Alb', 'Cyp27a1', 'Hsd3b7')
+bile_salt <- c('Cyp7a1', 'Baat', 'Slc27a5', 'Slc10a1', 'Acox2', 'Abcb11', 'Cyp8b1', 'Slc27a2', 'Akr1d1', 'Cyp7b1', 'Alb', 'Cyp27a1', 'Hsd3b7')
+scale_index <- c(rep("scale 1",9), rep("scale 2", 3), rep("scale 1", 9), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 9))
+twocoordinate(lhs, rhs, bile_salt, scale_index)
+
+lhs <- c('Apof', 'Apoc3', 'Apoa1', 'Apoa2', 'Lcat', 'Slco2a1', 'Ldlr', 'Ppara')
+rhs <- c('Apoe', 'Tspo')
+lipid_transport <- c('Apof', 'Apoc3', 'Apoa1', 'Apoa2', 'Lcat', 'Slco2a1', 'Ldlr', 'Ppara', 'Apoe', 'Tspo')
+scale_index <- c(rep("scale 2",3), rep("scale 1", 15), rep("scale 2", 3), rep("scale 1", 9))
+twocoordinate(lhs, rhs, lipid_transport, scale_index)
 ```
 
 
