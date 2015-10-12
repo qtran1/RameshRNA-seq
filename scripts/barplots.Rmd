@@ -74,9 +74,9 @@ rpkm.wat.se <- rpkm.wat.se[order(rpkm.wat.se$external_gene_name, rpkm.wat.se$Die
 ```{r grouped-plots, dev=c('png','pdf'), echo=FALSE, fig.show='asis' }
 library(ggplot2)
 adipocytes <- c("Nrg4", "Ucp1", "Tmem120b", "Adrb3","Aqp7", "Gpr81", "Slc27a1", "Slc7a10", "Epsti1", "Cited1", "Fabp4")
-brown_fat <- c("Ucp1", "Gpr119", "Tspan18", "P2rx5", "Zic1", "Lhx8", "Pat2", "Ebf3", "Prdm16", "Ppargc1a" )
-white_fat <- c("Slc7a10", "Tmem26", "Shox2", "Hoxc8","Hoxc9", "Adpioq", "Fbxo31", "Mpzl2", "Mir206", "Mir133b")
-beige_fat <- c("Tbx1", "Tmem26", "Tnfrsf9", "Irx3", "Irx5")
+brown_fat <- c("Ucp1", "Gpr119", "Tspan18", "P2rx5", "Zic1", "Lhx8", "Pat2", "Ebf3", "Prdm16", "Ppargc1a", 'Eva', 'Fbxo31', 'Pdk4', 'Acot2', 'Hsbp7', 'Slc29a1', 'Oplah' )
+white_fat <- c("Asc1", "Slc7a10", "Tmem26", "Shox2", "Hoxc8","Hoxc9", "Adpioq", "Fbxo31", "Fabp3", "Mpzl2")
+beige_fat <- c('Tbx1', 'Tmem26', 'Tnfrsf9', 'Irx3', 'Irx5', 'Klhl13', 'Cd40','Ear2','Cd137','Sp100','Tbx1','Slc27a1', 'Pat2')
 hormones <- c('Lepr')
 cortisol_signaling <-  c("Hsd11b2","Nr3c1","Nr3c2")
 hsd11b1 <- "Hsd11b1"
@@ -169,13 +169,13 @@ for (name in gene.data.name){
 
 ```{r plot_with_different_axis_scale, echo=FALSE}
 #Create a function that will draw into different y-axis scales.
-twocoordinate <- function(LHS, RHS, list_name, index){
+twocoordinate <- function(list_name, index){
   require(ggplot2)
-  l.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(LHS),]
-  l.gene.data$external_gene_name<- factor(l.gene.data$external_gene_name, levels=eval(LHS))
+  #l.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(LHS),]
+  #l.gene.data$external_gene_name<- factor(l.gene.data$external_gene_name, levels=eval(LHS))
   
-  r.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(RHS),]
-  r.gene.data$external_gene_name<- factor(r.gene.data$external_gene_name, levels=eval(RHS))
+  #r.gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(RHS),]
+  #r.gene.data$external_gene_name<- factor(r.gene.data$external_gene_name, levels=eval(RHS))
   
   gene.data <- rpkm.wat.se[rpkm.wat.se$external_gene_name%in%eval(list_name),]
   gene.data$external_gene_name <- factor(gene.data$external_gene_name, levels=eval(list_name))
@@ -199,35 +199,46 @@ twocoordinate <- function(LHS, RHS, list_name, index){
   ggsave(filename=paste('figures/Twocord-', deparse(substitute(list_name)), '-barplot.pdf',sep=""))
 }
 
-lhs <- c('Adipoq') 
-rhs <- c('Fabp4', 'Pck1', 'Agt')
+
 ppar <- c('Adipoq', 'Fabp4', 'Pck1', 'Agt')
 scale_index <- c(rep("scale 1",9), rep("scale 2", 3))
-twocoordinate(lhs, rhs, ppar, scale_index)
+twocoordinate(ppar, scale_index)
 
-lhs <- c('Acox2', 'Slc27a2')
-rhs <- c('Idh1', 'Phyh', 'Scp2', 'Amacr')
+
 peroxisomal_lipid <- c('Acox2', 'Slc27a2', 'Idh1', 'Phyh', 'Scp2', 'Amacr')
 scale_index <- c(rep("scale 1",3), rep("scale 2", 12), rep("scale 1", 3))
-twocoordinate(lhs, rhs, peroxisomal_lipid, scale_index)
+twocoordinate(peroxisomal_lipid, scale_index)
 
-lhs <- c('Cyp7a1', 'Apoa5', 'Fabp1', 'Ppargc1b', 'Abcb4', 'Ppargc1a', 'Ppara', 'Tead4', 'Ncoa1')
-rhs <- c('Apoa1', 'Apoa2', 'Agt', 'Pparg', 'Slc27a1', 'Ctgf', 'Gos2', 'Alas1', 'Tead1', 'Trib3', 'Hmgcs2', 'Acadm', 'Yap1', 'Cpt2', 'Rxra', 'Nr1d1')
+
 ppara_activate_ge <- c('Cyp7a1', 'Apoa5', 'Fabp1', 'Ppargc1b', 'Abcb4', 'Ppargc1a', 'Ppara', 'Tead4', 'Ncoa1', 'Apoa1', 'Apoa2', 'Agt', 'Pparg', 'Slc27a1', 'Ctgf', 'Gos2', 'Alas1', 'Tead1', 'Trib3', 'Hmgcs2', 'Acadm', 'Yap1', 'Cpt2', 'Rxra', 'Nr1d1')
 scale_index <- c(rep("scale 2",6), rep("scale 1", 3), rep("scale 2", 9), rep("scale 1", 6), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 6), rep("scale 2", 6), rep("scale 1", 3), rep("scale 2", 15), rep("scale 1", 3))
-twocoordinate(lhs, rhs, ppara_activate_ge, scale_index)
+twocoordinate(ppara_activate_ge, scale_index)
 
-lhs <- c('Cyp7a1', 'Baat', 'Slc27a5', 'Slc10a1', 'Acox2', 'Abcb11', 'Cyp8b1', 'Slc27a2', 'Akr1d1', 'Cyp7b1')
-rhs <- c('Alb', 'Cyp27a1', 'Hsd3b7')
+
 bile_salt <- c('Cyp7a1', 'Baat', 'Slc27a5', 'Slc10a1', 'Acox2', 'Abcb11', 'Cyp8b1', 'Slc27a2', 'Akr1d1', 'Cyp7b1', 'Alb', 'Cyp27a1', 'Hsd3b7')
 scale_index <- c(rep("scale 1",9), rep("scale 2", 3), rep("scale 1", 9), rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 3), rep("scale 1", 9))
-twocoordinate(lhs, rhs, bile_salt, scale_index)
+twocoordinate(bile_salt, scale_index)
 
-lhs <- c('Apof', 'Apoc3', 'Apoa1', 'Apoa2', 'Lcat', 'Slco2a1', 'Ldlr', 'Ppara')
-rhs <- c('Apoe', 'Tspo')
+
 lipid_transport <- c('Apof', 'Apoc3', 'Apoa1', 'Apoa2', 'Lcat', 'Slco2a1', 'Ldlr', 'Ppara', 'Apoe', 'Tspo')
 scale_index <- c(rep("scale 2",3), rep("scale 1", 15), rep("scale 2", 3), rep("scale 1", 9))
-twocoordinate(lhs, rhs, lipid_transport, scale_index)
+twocoordinate(lipid_transport, scale_index)
+
+#### BROWN FAT ####
+brown_fat <- c('Ucp1', 'Tspan18', 'P2rx5', 'Lhx8', 'Pat2', 'Ebf3', 'Prdm16', 'Ppargc1a', 'Eva', 'Fbxo31', 'Pdk4', 'Acot2', 'Hsbp7', 'Slc29a1', 'Oplah' )
+scale_index <- c(rep("scale 1", 3),rep("scale 2", 21), rep("scale 1", 3), rep("scale 2", 9))
+twocoordinate(brown_fat, scale_index)
+
+##### WHITE FAT ########
+white_fat <- c("Asc1", "Slc7a10", "Tmem26", "Shox2", "Hoxc8","Hoxc9", "Adpioq", "Fbxo31", "Fabp3", "Mpzl2")
+scale_index <- c(rep("scale 1", 3),rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 12), rep("scale 1",3))
+twocoordinate(white_fat, scale_index)
+
+##### BEIGE FAT #######
+beige_fat <- c('Tbx1', 'Tmem26', 'Tnfrsf9', 'Irx3', 'Irx5', 'Klhl13', 'Cd40','Ear2','Cd137','Sp100','Slc27a1', 'Pat2')
+scale_index <- c(rep("scale 1", 6),rep("scale 2", 3), rep("scale 1", 3), rep("scale 3", 3), rep("scale 2", 3), rep("scale 1",3), rep("scale 2", 9))
+twocoordinate(beige_fat, scale_index)
+
 ```
 
 
