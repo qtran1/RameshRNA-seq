@@ -230,8 +230,8 @@ scale_index <- c(rep("scale 1", 3),rep("scale 2", 21), rep("scale 1", 3), rep("s
 twocoordinate(brown_fat, scale_index)
 
 ##### WHITE FAT ########
-white_fat <- c("Asc1", "Slc7a10", "Tmem26", "Shox2", "Hoxc8","Hoxc9", "Adpioq", "Fbxo31", "Fabp3", "Mpzl2")
-scale_index <- c(rep("scale 1", 3),rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 12), rep("scale 1",3))
+white_fat <- c("Slc7a10", "Tmem26", "Shox2", "Hoxc8","Hoxc9", "Adipoq", "Fbxo31", "Fabp3", "Mpzl2")
+scale_index <- c(rep("scale 1", 3),rep("scale 2", 3), rep("scale 1", 3), rep("scale 2", 12), rep("scale 1",3), rep("scale 3",3))
 twocoordinate(white_fat, scale_index)
 
 ##### BEIGE FAT #######
