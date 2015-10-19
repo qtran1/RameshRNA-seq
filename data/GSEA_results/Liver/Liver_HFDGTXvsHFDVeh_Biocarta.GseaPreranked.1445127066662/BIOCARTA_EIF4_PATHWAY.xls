@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EIF4EBP1	EIF4EBP1	eukaryotic translation initiation factor 4E binding protein 1	2375	0.5841255187988281	-0.13801834	No	
+row_1	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	2878	0.4607425928115845	-0.12346199	No	
+row_2	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.1823196	No	
+row_3	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	-0.1513885	No	
+row_4	RPS6KB1	RPS6KB1	ribosomal protein S6 kinase, 70kDa, polypeptide 1	4375	0.17235976457595825	-0.16972189	No	
+row_5	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	-0.20742665	No	
+row_6	IRS1	IRS1	insulin receptor substrate 1	4925	0.08470755070447922	-0.19698405	No	
+row_7	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.20582175	No	
+row_8	PDK2	PDK2	pyruvate dehydrogenase kinase, isozyme 2	5159	0.05186564475297928	-0.20359725	No	
+row_9	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	-0.25738615	No	
+row_10	EIF4G2	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	5992	-0.06809999793767929	-0.2634969	No	
+row_11	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	-0.33512917	Yes	
+row_12	PDPK1	PDPK1	3-phosphoinositide dependent protein kinase-1	7086	-0.19889120757579803	-0.31051227	Yes	
+row_13	EIF4G3	EIF4G3	eukaryotic translation initiation factor 4 gamma, 3	7439	-0.2584854066371918	-0.3086791	Yes	
+row_14	MKNK1	MKNK1	MAP kinase interacting serine/threonine kinase 1	7448	-0.26010456681251526	-0.2756757	Yes	
+row_15	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	7455	-0.26129454374313354	-0.24233802	Yes	
+row_16	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	8489	-0.4472157061100006	-0.27732596	Yes	
+row_17	GHR	GHR	growth hormone receptor	8853	-0.5421459078788757	-0.23970526	Yes	
+row_18	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9273	-0.6528541445732117	-0.19277094	Yes	
+row_19	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.12264777	Yes	
+row_20	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	9801	-0.9018134474754333	-0.009234707	Yes	
+row_21	EIF4A2	EIF4A2	eukaryotic translation initiation factor 4A, isoform 2	9949	-0.9944663643836975	0.10647102	Yes	

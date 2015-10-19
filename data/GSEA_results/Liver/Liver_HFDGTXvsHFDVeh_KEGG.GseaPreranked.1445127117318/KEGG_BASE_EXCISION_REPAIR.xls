@@ -1,0 +1,33 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NEIL2	NEIL2	nei like 2 (E. coli)	1153	1.0869581699371338	-0.04172508	No	
+row_1	POLL	POLL	polymerase (DNA directed), lambda	1854	0.7479298710823059	-0.062024664	No	
+row_2	POLE4	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	2466	0.559867262840271	-0.08505815	No	
+row_3	APEX2	APEX2	APEX nuclease (apurinic/apyrimidinic endonuclease) 2	2688	0.5070483088493347	-0.07597923	No	
+row_4	POLE2	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	2711	0.5003021955490112	-0.04935966	No	
+row_5	POLD3	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	3331	0.3667592704296112	-0.084153436	No	
+row_6	POLE3	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	3353	0.36358872056007385	-0.06525945	No	
+row_7	APEX1	APEX1	APEX nuclease (multifunctional DNA repair enzyme) 1	4263	0.1898070126771927	-0.13629304	No	
+row_8	UNG	UNG	uracil-DNA glycosylase	4943	0.08237596601247787	-0.19274941	No	
+row_9	LIG1	LIG1	ligase I, DNA, ATP-dependent	5100	0.059532616287469864	-0.20339882	No	
+row_10	HMGB1	HMGB1	high-mobility group box 1	5156	0.05221101641654968	-0.20536853	No	
+row_11	PARP1	PARP1	poly (ADP-ribose) polymerase family, member 1	5891	-0.0551968477666378	-0.2683332	No	
+row_12	POLD2	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	6011	-0.07156875729560852	-0.2749615	No	
+row_13	POLB	POLB	polymerase (DNA directed), beta	6694	-0.13917440176010132	-0.32844105	No	
+row_14	SMUG1	SMUG1	single-strand-selective monofunctional uracil-DNA glycosylase 1	6732	-0.1449533998966217	-0.32348734	No	
+row_15	NEIL1	NEIL1	nei endonuclease VIII-like 1 (E. coli)	7775	-0.3134009540081024	-0.3994362	Yes	
+row_16	XRCC1	XRCC1	X-ray repair complementing defective repair in Chinese hamster cells 1	7850	-0.3258264660835266	-0.38747537	Yes	
+row_17	PARP2	PARP2	poly (ADP-ribose) polymerase family, member 2	8159	-0.38214579224586487	-0.39337403	Yes	
+row_18	PARP3	PARP3	poly (ADP-ribose) polymerase family, member 3	8451	-0.43890032172203064	-0.39449674	Yes	
+row_19	NTHL1	NTHL1	nth endonuclease III-like 1 (E. coli)	8471	-0.44367271661758423	-0.37084433	Yes	
+row_20	MUTYH	MUTYH	mutY homolog (E. coli)	8754	-0.5167196989059448	-0.3667075	Yes	
+row_21	FEN1	FEN1	flap structure-specific endonuclease 1	8883	-0.5481868982315063	-0.34689915	Yes	
+row_22	LIG3	LIG3	ligase III, DNA, ATP-dependent	8908	-0.5523320436477661	-0.3174853	Yes	
+row_23	MBD4	MBD4	methyl-CpG binding domain protein 4	9222	-0.6377309560775757	-0.30922303	Yes	
+row_24	MPG	MPG	N-methylpurine-DNA glycosylase	9308	-0.6658888459205627	-0.27881235	Yes	
+row_25	OGG1	OGG1	8-oxoguanine DNA glycosylase	9527	-0.7509731650352478	-0.25551844	Yes	
+row_26	PARP4	PARP4	poly (ADP-ribose) polymerase family, member 4	9809	-0.9070916771888733	-0.22897467	Yes	
+row_27	POLD1	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	9864	-0.940776526927948	-0.1800566	Yes	
+row_28	NEIL3	NEIL3	nei endonuclease VIII-like 3 (E. coli)	9914	-0.967863142490387	-0.12913965	Yes	
+row_29	POLE	POLE	polymerase (DNA directed), epsilon	9962	-0.9998241066932678	-0.07621536	Yes	
+row_30	PCNA	PCNA	proliferating cell nuclear antigen	10082	-1.0903327465057373	-0.024602761	Yes	
+row_31	TDG	TDG	thymine-DNA glycosylase	10560	-2.0833053588867188	0.051526934	Yes	

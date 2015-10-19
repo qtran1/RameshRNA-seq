@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.24713475	Yes	
+row_1	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	661	1.7324550151824951	0.25922465	Yes	
+row_2	HCK	HCK	hemopoietic cell kinase	1031	1.213817834854126	0.27460024	Yes	
+row_3	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	1152	1.0881930589675903	0.30738667	Yes	
+row_4	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1231	1.025727391242981	0.341456	Yes	
+row_5	CSF2RA	CSF2RA	colony stimulating factor 2 receptor, alpha, low-affinity (granulocyte-macrophage)	1348	0.9697747826576233	0.36985803	Yes	
+row_6	CSF2RB	CSF2RB	colony stimulating factor 2 receptor, beta, low-affinity (granulocyte-macrophage)	1356	0.9661463499069214	0.40793985	Yes	
+row_7	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.43753153	Yes	
+row_8	YWHAZ	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	1563	0.8608410358428955	0.4608476	Yes	
+row_9	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.4601875	Yes	
+row_10	IL2RB	IL2RB	interleukin 2 receptor, beta	2088	0.6672580242156982	0.46979767	Yes	
+row_11	STAT5A	STAT5A	signal transducer and activator of transcription 5A	2213	0.6247561573982239	0.48365396	Yes	
+row_12	VAV1	VAV1	vav 1 oncogene	2385	0.5819265246391296	0.4915576	Yes	
+row_13	IL3RA	IL3RA	interleukin 3 receptor, alpha (low affinity)	2606	0.5270605683326721	0.49284598	Yes	
+row_14	GAB2	GAB2	GRB2-associated binding protein 2	4350	0.17547208070755005	0.3427651	No	
+row_15	IL2RA	IL2RA	interleukin 2 receptor, alpha	4589	0.1383255571126938	0.32685465	No	
+row_16	CRK	CRK	v-crk sarcoma virus CT10 oncogene homolog (avian)	4677	0.12667864561080933	0.32408848	No	
+row_17	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	0.3180994	No	
+row_18	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	4865	0.09439565241336823	0.31539178	No	
+row_19	RAPGEF1	RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	5064	0.06493400782346725	0.30014616	No	
+row_20	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	5361	0.022640947252511978	0.27437228	No	
+row_21	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.24462588	No	
+row_22	INPPL1	INPPL1	inositol polyphosphate phosphatase-like 1	5712	-0.02752436138689518	0.2450978	No	
+row_23	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.23687562	No	
+row_24	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.23440689	No	
+row_25	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.19464105	No	
+row_26	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.13842654	No	
+row_27	TEC	TEC	tec protein tyrosine kinase	7143	-0.20954345166683197	0.14051308	No	
+row_28	FYN	FYN	FYN oncogene related to SRC, FGR, YES	7355	-0.2441510409116745	0.13127674	No	
+row_29	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	7852	-0.3263774812221527	0.09964559	No	
+row_30	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.08269324	No	
+row_31	BLNK	BLNK	B-cell linker	8286	-0.40737849473953247	0.09279702	No	
+row_32	PIK3CB	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	8314	-0.41230708360671997	0.10688411	No	
+row_33	STAT5B	STAT5B	signal transducer and activator of transcription 5B	8412	-0.42906373739242554	0.11533292	No	
+row_34	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	8454	-0.4397171139717102	0.12925637	No	
+row_35	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	0.10800786	No	
+row_36	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	9431	-0.7078027725219727	0.09220098	No	
+row_37	YES1	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	9460	-0.7210115790367126	0.1185675	No	
+row_38	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	9629	-0.79997318983078	0.13547851	No	

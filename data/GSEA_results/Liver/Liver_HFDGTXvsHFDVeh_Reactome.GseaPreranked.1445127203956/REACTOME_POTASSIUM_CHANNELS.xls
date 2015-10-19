@@ -1,0 +1,68 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNA3	KCNA3	potassium voltage-gated channel, shaker-related subfamily, member 3	71	5.267667293548584	0.0418478	No	
+row_1	KCNC4	KCNC4	potassium voltage-gated channel, Shaw-related subfamily, member 4	123	4.6970109939575195	0.080274425	No	
+row_2	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	140	4.4274396896362305	0.119394	No	
+row_3	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.15502295	No	
+row_4	KCNJ14	KCNJ14	potassium inwardly-rectifying channel, subfamily J, member 14	205	4.00852108001709	0.18876803	No	
+row_5	KCNJ6	KCNJ6	potassium inwardly-rectifying channel, subfamily J, member 6	295	3.1459782123565674	0.20954971	No	
+row_6	KCNJ2	KCNJ2	potassium inwardly-rectifying channel, subfamily J, member 2	375	3.094190835952759	0.23076057	No	
+row_7	KCNMB3	KCNMB3	potassium large conductance calcium-activated channel, subfamily M beta member 3	414	2.8841207027435303	0.25375175	No	
+row_8	KCNJ10	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10	608	1.860825777053833	0.25336036	No	
+row_9	KCNK6	KCNK6	potassium channel, subfamily K, member 6	883	1.3811978101730347	0.24125475	No	
+row_10	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.25164825	No	
+row_11	KCNG2	KCNG2	potassium voltage-gated channel, subfamily G, member 2	941	1.306309700012207	0.26054454	No	
+row_12	KCNAB2	KCNAB2	potassium voltage-gated channel, shaker-related subfamily, beta member 2	952	1.2959437370300293	0.27151468	No	
+row_13	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	1023	1.221352458000183	0.27637935	No	
+row_14	KCNA2	KCNA2	potassium voltage-gated channel, shaker-related subfamily, member 2	1122	1.1220195293426514	0.27780366	No	
+row_15	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	1495	0.8912731409072876	0.25235328	No	
+row_16	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.2542786	No	
+row_17	KCNJ16	KCNJ16	potassium inwardly-rectifying channel, subfamily J, member 16	2307	0.598917543888092	0.19253309	No	
+row_18	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	2319	0.5971834659576416	0.19701062	No	
+row_19	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	2463	0.5601628422737122	0.18922053	No	
+row_20	KCNK1	KCNK1	potassium channel, subfamily K, member 1	2724	0.4967276155948639	0.1702763	No	
+row_21	KCNK13	KCNK13	potassium channel, subfamily K, member 13	3165	0.3988439440727234	0.13416918	No	
+row_22	KCNAB1	KCNAB1	potassium voltage-gated channel, shaker-related subfamily, beta member 1	3834	0.2676730751991272	0.076256596	No	
+row_23	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3855	0.2645631432533264	0.07687326	No	
+row_24	HCN2	HCN2	hyperpolarization activated cyclic nucleotide-gated potassium channel 2	4485	0.15741436183452606	0.021474756	No	
+row_25	KCNK3	KCNK3	potassium channel, subfamily K, member 3	4822	0.10212258994579315	-0.007952843	No	
+row_26	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	-0.008032588	No	
+row_27	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	-0.018961253	No	
+row_28	KCNAB3	KCNAB3	potassium voltage-gated channel, shaker-related subfamily, beta member 3	5402	0.01607714220881462	-0.05830428	No	
+row_29	KCNN4	KCNN4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	5653	-0.02033550664782524	-0.08070969	No	
+row_30	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	6070	-0.07875943183898926	-0.1175807	No	
+row_31	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	6071	-0.07875943183898926	-0.11685908	No	
+row_32	KCNK7	KCNK7	potassium channel, subfamily K, member 7	6078	-0.07875943183898926	-0.11667967	No	
+row_33	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	-0.12671171	No	
+row_34	GABBR2	GABBR2	gamma-aminobutyric acid (GABA) B receptor, 2	6413	-0.09965115040540695	-0.14513719	No	
+row_35	KCNK10	KCNK10	potassium channel, subfamily K, member 10	6532	-0.11572210490703583	-0.1547402	No	
+row_36	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	-0.15706475	No	
+row_37	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.16983673	No	
+row_38	KCNN1	KCNN1	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 1	7202	-0.21746429800987244	-0.2105878	No	
+row_39	KCNJ8	KCNJ8	potassium inwardly-rectifying channel, subfamily J, member 8	7298	-0.23455674946308136	-0.21702358	No	
+row_40	HCN3	HCN3	hyperpolarization activated cyclic nucleotide-gated potassium channel 3	7783	-0.31520912051200867	-0.25787312	No	
+row_41	KCNB1	KCNB1	potassium voltage-gated channel, Shab-related subfamily, member 1	8158	-0.38164928555488586	-0.28817356	No	
+row_42	KCNC3	KCNC3	potassium voltage-gated channel, Shaw-related subfamily, member 3	8203	-0.39174795150756836	-0.2885604	No	
+row_43	ABCC9	ABCC9	ATP-binding cassette, sub-family C (CFTR/MRP), member 9	8377	-0.422443151473999	-0.30032334	No	
+row_44	KCNQ4	KCNQ4	potassium voltage-gated channel, KQT-like subfamily, member 4	9130	-0.6110820174217224	-0.36268032	No	
+row_45	GABBR1	GABBR1	gamma-aminobutyric acid (GABA) B receptor, 1	9295	-0.6609962582588196	-0.37144426	No	
+row_46	KCNN2	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	9387	-0.6913993954658508	-0.37333286	No	
+row_47	KCND1	KCND1	potassium voltage-gated channel, Shal-related subfamily, member 1	9399	-0.6948621273040771	-0.36796036	No	
+row_48	KCNK4	KCNK4	potassium channel, subfamily K, member 4	9576	-0.775842010974884	-0.37675646	No	
+row_49	KCNS3	KCNS3	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3	10148	-1.152243971824646	-0.4177988	No	
+row_50	KCNH7	KCNH7	potassium voltage-gated channel, subfamily H (eag-related), member 7	10149	-1.152357816696167	-0.40724054	No	
+row_51	KCNJ9	KCNJ9	potassium inwardly-rectifying channel, subfamily J, member 9	10458	-1.6703126430511475	-0.41976967	Yes	
+row_52	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.40712577	Yes	
+row_53	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.39250398	Yes	
+row_54	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.3748656	Yes	
+row_55	KCNH3	KCNH3	potassium voltage-gated channel, subfamily H (eag-related), member 3	10680	-3.174114465713501	-0.34930775	Yes	
+row_56	KCNJ11	KCNJ11	potassium inwardly-rectifying channel, subfamily J, member 11	10786	-3.2519092559814453	-0.32900137	Yes	
+row_57	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.30245396	Yes	
+row_58	KCNK2	KCNK2	potassium channel, subfamily K, member 2	10844	-3.351161479949951	-0.27265337	Yes	
+row_59	KCNA6	KCNA6	potassium voltage-gated channel, shaker-related subfamily, member 6	10858	-3.3511762619018555	-0.24312371	Yes	
+row_60	KCNH8	KCNH8	potassium voltage-gated channel, subfamily H (eag-related), member 8	10860	-3.3511762619018555	-0.21250966	Yes	
+row_61	KCNQ3	KCNQ3	potassium voltage-gated channel, KQT-like subfamily, member 3	10862	-3.3511762619018555	-0.18189561	Yes	
+row_62	KCNMB2	KCNMB2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	10913	-3.3511762619018555	-0.15570953	Yes	
+row_63	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	11003	-4.336911201477051	-0.12401619	Yes	
+row_64	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	11014	-4.358260631561279	-0.08498825	Yes	
+row_65	KCNH2	KCNH2	potassium voltage-gated channel, subfamily H (eag-related), member 2	11061	-4.939411163330078	-0.043888856	Yes	
+row_66	KCNN3	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	11085	-5.480600833892822	0.004247511	Yes	

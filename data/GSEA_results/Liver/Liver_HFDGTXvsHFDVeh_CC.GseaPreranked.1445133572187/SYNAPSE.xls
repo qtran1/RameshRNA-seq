@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRAPPC4	TRAPPC4	trafficking protein particle complex 4	1697	0.8035626411437988	-0.07067185	No	
+row_1	EFNB1	EFNB1	ephrin-B1	2984	0.436589777469635	-0.14182854	No	
+row_2	NPTN	NPTN	neuroplastin	3402	0.3526225984096527	-0.14334916	No	
+row_3	CDK5R1	CDK5R1	cyclin-dependent kinase 5, regulatory subunit 1 (p35)	3889	0.2582208812236786	-0.16072012	No	
+row_4	PICK1	PICK1	protein interacting with PRKCA 1	4186	0.20224906504154205	-0.16670676	No	
+row_5	APBB1	APBB1	amyloid beta (A4) precursor protein-binding, family B, member 1 (Fe65)	4474	0.15900784730911255	-0.17629915	No	
+row_6	SYNE1	SYNE1	spectrin repeat containing, nuclear envelope 1	5014	0.07296136766672134	-0.21735884	No	
+row_7	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	-0.2185236	No	
+row_8	CDK5	CDK5	cyclin-dependent kinase 5	5695	-0.025349527597427368	-0.26975545	No	
+row_9	ACHE	ACHE	acetylcholinesterase (Yt blood group)	5935	-0.0592668317258358	-0.28521335	No	
+row_10	GRM7	GRM7	glutamate receptor, metabotropic 7	6079	-0.07875943183898926	-0.29004058	No	
+row_11	PCDH15	PCDH15	protocadherin 15	6248	-0.07875961065292358	-0.29711783	No	
+row_12	ERC2	ERC2	ELKS/RAB6-interacting/CAST family member 2	6361	-0.09190449118614197	-0.29781264	No	
+row_13	DNM2	DNM2	dynamin 2	6889	-0.17214538156986237	-0.32766366	No	
+row_14	NUFIP1	NUFIP1	nuclear fragile X mental retardation protein interacting protein 1	7359	-0.2445550411939621	-0.3449002	Yes	
+row_15	MYO7A	MYO7A	myosin VIIA	7549	-0.27676478028297424	-0.3336472	Yes	
+row_16	APBB2	APBB2	amyloid beta (A4) precursor protein-binding, family B, member 2 (Fe65-like)	7865	-0.32897400856018066	-0.3284027	Yes	
+row_17	ERC1	ERC1	ELKS/RAB6-interacting/CAST family member 1	8244	-0.3995244801044464	-0.32162365	Yes	
+row_18	MAGEE1	MAGEE1	melanoma antigen family E, 1	8263	-0.4027159810066223	-0.28211838	Yes	
+row_19	DLG4	DLG4	discs, large homolog 4 (Drosophila)	10086	-1.0914232730865479	-0.33464408	Yes	
+row_20	PCLO	PCLO	piccolo (presynaptic cytomatrix protein)	10192	-1.1991276741027832	-0.22163947	Yes	
+row_21	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	10654	-2.9979500770568848	0.043020252	Yes	

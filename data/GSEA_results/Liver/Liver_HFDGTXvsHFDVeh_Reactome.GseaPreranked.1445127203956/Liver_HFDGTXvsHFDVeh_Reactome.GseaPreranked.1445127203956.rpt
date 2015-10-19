@@ -1,0 +1,23 @@
+producer_class	xtools.gsea.GseaPreranked
+producer_timestamp	1445127203956
+param	collapse	true
+param	plot_top_x	20
+param	rnk	/Users/vphan/Quynh/Obesity/RameshRNA-seq/data/processed/GSEA_Liver_HFGTXvsHFVeh_preranked.rnk
+param	norm	meandiv
+param	scoring_scheme	weighted
+param	make_sets	true
+param	mode	Max_probe
+param	gmx	gseaftp.broadinstitute.org://pub/gsea/gene_sets/c2.cp.reactome.v5.0.symbols.gmt
+param	gui	false
+param	chip	/Users/vphan/Downloads/msigdb_v5.0_files_to_download_locally/chip_files/GENE_SYMBOL.chip
+param	rpt_label	Liver_HFDGTXvsHFDVeh_Reactome
+param	help	false
+param	out	/Users/vphan/gsea_home/output/oct17
+param	include_only_symbols	true
+param	set_min	15
+param	nperm	1000
+param	rnd_seed	149
+param	zip_report	false
+param	set_max	500
+
+file	/Users/vphan/gsea_home/output/oct17/Liver_HFDGTXvsHFDVeh_Reactome.GseaPreranked.1445127203956/index.html

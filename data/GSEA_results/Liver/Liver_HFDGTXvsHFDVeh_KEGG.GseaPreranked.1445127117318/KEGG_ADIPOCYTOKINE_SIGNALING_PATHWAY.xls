@@ -1,0 +1,64 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	G6PC2	G6PC2	glucose-6-phosphatase, catalytic, 2	393	2.8841207027435303	0.0214399	No	
+row_1	ACSL6	ACSL6	acyl-CoA synthetase long-chain family member 6	558	2.045849084854126	0.047016326	No	
+row_2	PCK2	PCK2	phosphoenolpyruvate carboxykinase 2 (mitochondrial)	847	1.434912085533142	0.049329564	No	
+row_3	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	1091	1.1486341953277588	0.050055854	No	
+row_4	G6PC	G6PC	glucose-6-phosphatase, catalytic subunit	1371	0.9540951251983643	0.04368932	No	
+row_5	SOCS3	SOCS3	suppressor of cytokine signaling 3	1584	0.8515413403511047	0.04135046	No	
+row_6	NFKBIE	NFKBIE	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, epsilon	1612	0.8407313227653503	0.055510014	No	
+row_7	PRKAB1	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	1933	0.7169719338417053	0.040758252	No	
+row_8	CAMKK1	CAMKK1	calcium/calmodulin-dependent protein kinase kinase 1, alpha	2015	0.6897591352462769	0.047059108	No	
+row_9	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.053636625	No	
+row_10	NFKBIB	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	2234	0.6183295249938965	0.052836187	No	
+row_11	TRADD	TRADD	TNFRSF1A-associated via death domain	2295	0.6026272773742676	0.05931382	No	
+row_12	PRKCQ	PRKCQ	protein kinase C, theta	2599	0.5281878113746643	0.042370565	No	
+row_13	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2770	0.48576876521110535	0.03660429	No	
+row_14	RXRB	RXRB	retinoid X receptor, beta	2816	0.4744265377521515	0.04190586	No	
+row_15	RXRG	RXRG	retinoid X receptor, gamma	2903	0.45297983288764954	0.043080308	No	
+row_16	TRAF2	TRAF2	TNF receptor-associated factor 2	2962	0.4401461184024811	0.046530735	No	
+row_17	ADIPOR1	ADIPOR1	adiponectin receptor 1	3025	0.4281761646270752	0.049383502	No	
+row_18	ACSL3	ACSL3	acyl-CoA synthetase long-chain family member 3	3198	0.3925117552280426	0.041595384	No	
+row_19	ACACB	ACACB	acetyl-Coenzyme A carboxylase beta	3230	0.38622915744781494	0.04642035	No	
+row_20	SLC2A4	SLC2A4	solute carrier family 2 (facilitated glucose transporter), member 4	3326	0.367336243391037	0.045090925	No	
+row_21	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3776	0.2798222303390503	0.01005539	No	
+row_22	CAMKK2	CAMKK2	calcium/calmodulin-dependent protein kinase kinase 2, beta	3788	0.27720803022384644	0.014534637	No	
+row_23	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.0074906265	No	
+row_24	PRKAG1	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	4168	0.20622436702251434	-0.01056977	No	
+row_25	STK11	STK11	serine/threonine kinase 11	4326	0.179295614361763	-0.021212408	No	
+row_26	ADIPOR2	ADIPOR2	adiponectin receptor 2	4630	0.13256795704364777	-0.04596639	No	
+row_27	IRS1	IRS1	insulin receptor substrate 1	4925	0.08470755070447922	-0.07085227	No	
+row_28	PTPN11	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	4978	0.07850503921508789	-0.073999725	No	
+row_29	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	5536	-0.0037344959564507008	-0.124242164	No	
+row_30	ADIPOQ	ADIPOQ	adiponectin, C1Q and collagen domain containing	5566	-0.008005056530237198	-0.12670381	No	
+row_31	PRKAB2	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	5657	-0.020816173404455185	-0.13442293	No	
+row_32	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	5703	-0.026947231963276863	-0.13795595	No	
+row_33	RXRA	RXRA	retinoid X receptor, alpha	5793	-0.04088921472430229	-0.1451884	No	
+row_34	LEPR	LEPR	leptin receptor	5966	-0.06397009640932083	-0.15946294	No	
+row_35	ACSL4	ACSL4	acyl-CoA synthetase long-chain family member 4	6386	-0.09544256329536438	-0.19542865	No	
+row_36	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	6433	-0.1023421660065651	-0.19756348	No	
+row_37	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	-0.22491853	No	
+row_38	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6939	-0.17999128997325897	-0.2365411	No	
+row_39	PRKAA1	PRKAA1	protein kinase, AMP-activated, alpha 1 catalytic subunit	7046	-0.1937606930732727	-0.24229112	No	
+row_40	CPT1A	CPT1A	carnitine palmitoyltransferase 1A (liver)	7293	-0.23371660709381104	-0.25989908	No	
+row_41	MAPK9	MAPK9	mitogen-activated protein kinase 9	7317	-0.23827174305915833	-0.25727254	No	
+row_42	STAT3	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	7559	-0.2788213789463043	-0.27353832	No	
+row_43	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	8212	-0.3932342231273651	-0.3246726	No	
+row_44	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	8325	-0.41318976879119873	-0.32663244	No	
+row_45	TNFRSF1B	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	8361	-0.4192505478858948	-0.32151687	No	
+row_46	PRKAG2	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	8532	-0.45834028720855713	-0.32782465	No	
+row_47	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	-0.3535198	No	
+row_48	ACSL5	ACSL5	acyl-CoA synthetase long-chain family member 5	9023	-0.581641435623169	-0.34944385	No	
+row_49	PCK1	PCK1	phosphoenolpyruvate carboxykinase 1 (soluble)	9161	-0.6203984618186951	-0.3495711	No	
+row_50	PRKAA2	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	9369	-0.6874133348464966	-0.3546987	Yes	
+row_51	CD36	CD36	CD36 molecule (thrombospondin receptor)	9458	-0.7203365564346313	-0.34842646	Yes	
+row_52	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	9588	-0.7811052203178406	-0.34465823	Yes	
+row_53	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	9795	-0.8974812030792236	-0.34554806	Yes	
+row_54	ACSL1	ACSL1	acyl-CoA synthetase long-chain family member 1	9797	-0.8979437947273254	-0.32791027	Yes	
+row_55	CPT1C	CPT1C	carnitine palmitoyltransferase 1C	9911	-0.9668894410133362	-0.31902874	Yes	
+row_56	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	9990	-1.0178461074829102	-0.30597946	Yes	
+row_57	PPARGC1A	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	10054	-1.068026065826416	-0.29058444	Yes	
+row_58	IRS2	IRS2	insulin receptor substrate 2	10472	-1.7224453687667847	-0.29424754	Yes	
+row_59	AGRP	AGRP	agouti related protein homolog (mouse)	10582	-2.1912028789520264	-0.26083302	Yes	
+row_60	LEP	LEP	leptin (obesity homolog, mouse)	10847	-3.351161479949951	-0.2185192	Yes	
+row_61	CPT1B	CPT1B	carnitine palmitoyltransferase 1B (muscle)	11109	-5.800393104553223	-0.12757915	Yes	
+row_62	PRKAG3	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	11127	-6.562653064727783	4.5175574E-4	Yes	

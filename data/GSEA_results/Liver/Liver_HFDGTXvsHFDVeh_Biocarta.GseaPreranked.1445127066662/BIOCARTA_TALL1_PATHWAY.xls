@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF13B	TNFSF13B	tumor necrosis factor (ligand) superfamily, member 13b	456	2.5809404850006104	0.18288125	No	
+row_1	TRAF5	TRAF5	TNF receptor-associated factor 5	1443	0.9188233613967896	0.17390388	No	
+row_2	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.17376652	No	
+row_3	TRAF2	TRAF2	TNF receptor-associated factor 2	2962	0.4401461184024811	0.1335177	No	
+row_4	TNFSF13	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13	3120	0.408706396818161	0.1548516	No	
+row_5	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	6.3247257E-4	No	
+row_6	TNFRSF13C	TNFRSF13C	tumor necrosis factor receptor superfamily, member 13C	5310	0.03053927607834339	-0.031886447	No	
+row_7	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	5536	-0.0037344959564507008	-0.051799934	No	
+row_8	TRAF3	TRAF3	TNF receptor-associated factor 3	5622	-0.016482116654515266	-0.058015376	No	
+row_9	TRAF6	TRAF6	TNF receptor-associated factor 6	5855	-0.05110254883766174	-0.07444931	No	
+row_10	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	-0.14348853	No	
+row_11	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	9768	-0.8846566677093506	-0.3363077	Yes	
+row_12	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	9990	-1.0178461074829102	-0.26788753	Yes	
+row_13	TNFRSF13B	TNFRSF13B	tumor necrosis factor receptor superfamily, member 13B	9991	-1.0181381702423096	-0.17956434	Yes	
+row_14	TNFRSF17	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	10746	-3.2518937587738037	0.03471854	Yes	

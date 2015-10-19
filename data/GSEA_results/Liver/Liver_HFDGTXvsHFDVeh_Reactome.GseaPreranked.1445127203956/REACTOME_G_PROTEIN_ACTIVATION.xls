@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.10995614	No	
+row_1	GNG13	GNG13	guanine nucleotide binding protein (G protein), gamma 13	353	3.145962953567505	0.1879012	No	
+row_2	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.17869215	No	
+row_3	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	1091	1.1486341953277588	0.19653665	No	
+row_4	GNAT2	GNAT2	guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 2	1317	0.9854432940483093	0.20580201	No	
+row_5	GNAO1	GNAO1	guanine nucleotide binding protein (G protein), alpha activating activity polypeptide O	1396	0.9431934356689453	0.22703429	No	
+row_6	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.23797566	No	
+row_7	GNG11	GNG11	guanine nucleotide binding protein (G protein), gamma 11	1965	0.704420804977417	0.22288989	No	
+row_8	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	2087	0.6674931049346924	0.23199275	No	
+row_9	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3568	0.32027488946914673	0.10836136	No	
+row_10	GNAT1	GNAT1	guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 1	3870	0.2622692883014679	0.08912256	No	
+row_11	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4395	0.16917265951633453	0.047021214	No	
+row_12	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	0.010582915	No	
+row_13	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	4957	0.08053963631391525	0.0020134146	No	
+row_14	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	0.0038556154	No	
+row_15	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	-0.10477621	No	
+row_16	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	-0.13463551	No	
+row_17	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.14434537	No	
+row_18	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.42849958	Yes	
+row_19	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.37145054	Yes	
+row_20	GNAZ	GNAZ	guanine nucleotide binding protein (G protein), alpha z polypeptide	10608	-2.378401756286621	-0.30488577	Yes	
+row_21	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.22519165	Yes	
+row_22	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.14209002	Yes	
+row_23	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	11104	-5.638915538787842	0.0025205757	Yes	

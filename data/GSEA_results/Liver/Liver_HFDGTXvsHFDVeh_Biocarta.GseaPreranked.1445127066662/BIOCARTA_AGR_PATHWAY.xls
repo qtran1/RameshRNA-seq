@@ -1,0 +1,32 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PAK1	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	926	1.3299559354782104	0.011196188	No	
+row_1	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2232	0.6186304092407227	-0.06234478	No	
+row_2	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.19445573	No	
+row_3	PXN	PXN	paxillin	4144	0.21145153045654297	-0.20112222	No	
+row_4	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	4611	0.13444137573242188	-0.23353334	No	
+row_5	CTTN	CTTN	cortactin	4724	0.11777443438768387	-0.23524389	No	
+row_6	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	-0.25846964	No	
+row_7	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	-0.25933716	No	
+row_8	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.25618985	No	
+row_9	PAK4	PAK4	p21(CDKN1A)-activated kinase 4	5224	0.04288158193230629	-0.263498	No	
+row_10	DAG1	DAG1	dystroglycan 1 (dystrophin-associated glycoprotein 1)	5975	-0.06509784609079361	-0.32642278	No	
+row_11	NRG1	NRG1	neuregulin 1	6186	-0.07875943183898926	-0.33973584	No	
+row_12	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	6196	-0.07875943183898926	-0.33494407	No	
+row_13	LAMA4	LAMA4	laminin, alpha 4	6439	-0.10317901521921158	-0.34940243	No	
+row_14	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	-0.36832774	No	
+row_15	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	6988	-0.1868259608745575	-0.37458417	No	
+row_16	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	-0.36493117	No	
+row_17	DVL1	DVL1	dishevelled, dsh homolog 1 (Drosophila)	7158	-0.2111845463514328	-0.36098793	No	
+row_18	LAMA3	LAMA3	laminin, alpha 3	7186	-0.2156481146812439	-0.3480801	No	
+row_19	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	7381	-0.24847066402435303	-0.34787983	No	
+row_20	SP1	SP1	Sp1 transcription factor	8055	-0.36268189549446106	-0.38270065	Yes	
+row_21	PAK6	PAK6	p21(CDKN1A)-activated kinase 6	8095	-0.36932775378227234	-0.3599419	Yes	
+row_22	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	8152	-0.3807934820652008	-0.33789882	Yes	
+row_23	UTRN	UTRN	utrophin (homologous to dystrophin)	8448	-0.43882307410240173	-0.33325553	Yes	
+row_24	GIT2	GIT2	G protein-coupled receptor kinase interactor 2	8731	-0.5131121873855591	-0.32215685	Yes	
+row_25	JUN	JUN	jun oncogene	8842	-0.5396010875701904	-0.29368117	Yes	
+row_26	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.25852212	Yes	
+row_27	ITGA1	ITGA1	integrin, alpha 1	9469	-0.7243530750274658	-0.25941926	Yes	
+row_28	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	9619	-0.7961668372154236	-0.21620603	Yes	
+row_29	RAPSN	RAPSN	receptor-associated protein of the synapse, 43kD	10429	-1.6015832424163818	-0.17514937	Yes	
+row_30	PAK3	PAK3	p21 (CDKN1A)-activated kinase 3	10891	-3.3511762619018555	0.021707874	Yes	

@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH3B1	ALDH3B1	aldehyde dehydrogenase 3 family, member B1	1180	1.0666204690933228	-0.056291945	No	
+row_1	LCMT2	LCMT2	leucine carboxyl methyltransferase 2	2937	0.44577693939208984	-0.19351573	No	
+row_2	WBSCR22	WBSCR22	Williams Beuren syndrome chromosome region 22	2985	0.43604472279548645	-0.17732835	No	
+row_3	MAOA	MAOA	monoamine oxidase A	3282	0.37427282333374023	-0.18645187	No	
+row_4	HEMK1	HEMK1	HemK methyltransferase family member 1	3848	0.2663114070892334	-0.22484995	No	
+row_5	ACY3	ACY3	aspartoacylase (aminocyclase) 3	4483	0.15793722867965698	-0.27453524	No	
+row_6	METTL6	METTL6	methyltransferase like 6	4524	0.15081048011779785	-0.27107447	No	
+row_7	DDC	DDC	dopa decarboxylase (aromatic L-amino acid decarboxylase)	5531	-0.0030150229576975107	-0.3615068	No	
+row_8	AMDHD1	AMDHD1	amidohydrolase domain containing 1	6463	-0.10601634532213211	-0.4403633	No	
+row_9	HAL	HAL	histidine ammonia-lyase	6847	-0.16499336063861847	-0.4671198	No	
+row_10	ALDH9A1	ALDH9A1	aldehyde dehydrogenase 9 family, member A1	6948	-0.18070952594280243	-0.46766093	No	
+row_11	UROC1	UROC1	urocanase domain containing 1	7345	-0.2431398630142212	-0.49192843	No	
+row_12	HDC	HDC	histidine decarboxylase	7867	-0.32911980152130127	-0.52342385	No	
+row_13	FTCD	FTCD	formiminotransferase cyclodeaminase	8106	-0.3719375431537628	-0.5274348	Yes	
+row_14	MAOB	MAOB	monoamine oxidase B	8242	-0.39927491545677185	-0.5208922	Yes	
+row_15	ALDH1B1	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	8530	-0.4578568935394287	-0.5252914	Yes	
+row_16	HNMT	HNMT	histamine N-methyltransferase	8696	-0.5039087533950806	-0.51655	Yes	
+row_17	ALDH7A1	ALDH7A1	aldehyde dehydrogenase 7 family, member A1	8902	-0.5511010885238647	-0.50920004	Yes	
+row_18	ASPA	ASPA	aspartoacylase (Canavan disease)	9388	-0.6919131278991699	-0.52046555	Yes	
+row_19	ALDH3A2	ALDH3A2	aldehyde dehydrogenase 3 family, member A2	9491	-0.7349196672439575	-0.49523434	Yes	
+row_20	ALDH2	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	9920	-0.9754948019981384	-0.48808843	Yes	
+row_21	ALDH1A3	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	10012	-1.0390746593475342	-0.44762403	Yes	
+row_22	LCMT1	LCMT1	leucine carboxyl methyltransferase 1	10047	-1.0653891563415527	-0.40079546	Yes	
+row_23	ALDH3A1	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	10711	-3.174114465713501	-0.3118511	Yes	
+row_24	ALDH3B2	ALDH3B2	aldehyde dehydrogenase 3 family, member B2	10788	-3.2519092559814453	-0.16641429	Yes	
+row_25	CNDP1	CNDP1	carnosine dipeptidase 1 (metallopeptidase M20 family)	10953	-4.213226318359375	0.016115874	Yes	

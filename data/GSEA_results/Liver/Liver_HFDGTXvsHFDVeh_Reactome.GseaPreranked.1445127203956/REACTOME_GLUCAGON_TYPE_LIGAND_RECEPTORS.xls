@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.09286739	No	
+row_1	GIPR	GIPR	gastric inhibitory polypeptide receptor	316	3.1459782123565674	0.16129592	No	
+row_2	GNG13	GNG13	guanine nucleotide binding protein (G protein), gamma 13	353	3.145962953567505	0.23944677	No	
+row_3	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.22471504	No	
+row_4	VIPR1	VIPR1	vasoactive intestinal peptide receptor 1	1533	0.8715981245040894	0.19090909	No	
+row_5	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.21066634	No	
+row_6	GNG11	GNG11	guanine nucleotide binding protein (G protein), gamma 11	1965	0.704420804977417	0.19270086	No	
+row_7	ADCYAP1R1	ADCYAP1R1	adenylate cyclase activating polypeptide 1 (pituitary) receptor type I	1972	0.7027903199195862	0.21034317	No	
+row_8	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	-0.044637237	No	
+row_9	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	-0.04676569	No	
+row_10	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	4957	0.08053963631391525	-0.05107377	No	
+row_11	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	-0.04955637	No	
+row_12	GCGR	GCGR	glucagon receptor	5996	-0.06882280111312866	-0.14059179	No	
+row_13	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	-0.1566492	No	
+row_14	GLP1R	GLP1R	glucagon-like peptide 1 receptor	6570	-0.12082087993621826	-0.1869227	No	
+row_15	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	-0.18379007	No	
+row_16	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.19409184	No	
+row_17	GLP2R	GLP2R	glucagon-like peptide 2 receptor	9149	-0.6168540120124817	-0.3959937	No	
+row_18	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.4698764	Yes	
+row_19	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.42115676	Yes	
+row_20	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.35747838	Yes	
+row_21	SCTR	SCTR	secretin receptor	10679	-3.174114465713501	-0.27877924	Yes	
+row_22	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.2058525	Yes	
+row_23	SCT	SCT	secretin	10854	-3.3511762619018555	-0.120951995	Yes	
+row_24	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	11104	-5.638915538787842	0.0025206993	Yes	

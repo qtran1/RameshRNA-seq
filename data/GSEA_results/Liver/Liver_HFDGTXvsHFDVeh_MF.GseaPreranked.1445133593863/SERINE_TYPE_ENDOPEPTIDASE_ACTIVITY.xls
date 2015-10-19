@@ -1,0 +1,25 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KLK1	KLK1	kallikrein 1, renal/pancreas/salivary	18	6.31800651550293	0.28186837	Yes	
+row_1	CORIN	CORIN	corin, serine peptidase	87	4.9960222244262695	0.49991852	Yes	
+row_2	HTRA1	HTRA1	HtrA serine peptidase 1	983	1.2604975700378418	0.4759117	Yes	
+row_3	KLK8	KLK8	kallikrein 8 (neuropsin/ovasin)	1338	0.9741380214691162	0.48775518	Yes	
+row_4	KLKB1	KLKB1	kallikrein B, plasma (Fletcher factor) 1	1521	0.8784931302070618	0.51079	Yes	
+row_5	TOR1A	TOR1A	torsin family 1, member A (torsin A)	2010	0.691667377948761	0.49789676	No	
+row_6	GZMA	GZMA	granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3)	2443	0.5653510093688965	0.48437664	No	
+row_7	PRSS36	PRSS36	protease, serine, 36	3284	0.3737621009349823	0.42553297	No	
+row_8	GZMB	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	3522	0.32942110300064087	0.41898003	No	
+row_9	PCSK9	PCSK9	proprotein convertase subtilisin/kexin type 9	4477	0.15863735973834991	0.34022176	No	
+row_10	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	4742	0.11554361879825592	0.32164168	No	
+row_11	PCSK6	PCSK6	proprotein convertase subtilisin/kexin type 6	5801	-0.042456675320863724	0.22830862	No	
+row_12	TMPRSS6	TMPRSS6	transmembrane protease, serine 6	6041	-0.07594160735607147	0.21020204	No	
+row_13	ACR	ACR	acrosin	6611	-0.1264386624097824	0.1646556	No	
+row_14	HGFAC	HGFAC	HGF activator	6723	-0.14388015866279602	0.1611196	No	
+row_15	CFI	CFI	complement factor I	6974	-0.18435043096542358	0.14688712	No	
+row_16	HTRA2	HTRA2	HtrA serine peptidase 2	7190	-0.2161790132522583	0.13723339	No	
+row_17	PREP	PREP	prolyl endopeptidase	8112	-0.3733622431755066	0.07108039	No	
+row_18	MASP2	MASP2	mannan-binding lectin serine peptidase 2	8175	-0.38561567664146423	0.082801886	No	
+row_19	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	8238	-0.3981386721134186	0.09508529	No	
+row_20	APEH	APEH	N-acylaminoacyl-peptide hydrolase	8274	-0.405367374420166	0.11012351	No	
+row_21	PLG	PLG	plasminogen	8345	-0.41675254702568054	0.12252198	No	
+row_22	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	8354	-0.4183976650238037	0.14057533	No	
+row_23	CFD	CFD	complement factor D (adipsin)	10611	-2.4382073879241943	0.046899013	No	

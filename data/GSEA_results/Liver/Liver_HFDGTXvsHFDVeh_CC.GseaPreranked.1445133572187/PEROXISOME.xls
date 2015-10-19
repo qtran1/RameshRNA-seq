@@ -1,0 +1,45 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PEX11B	PEX11B	peroxisomal biogenesis factor 11B	1925	0.7185282111167908	-0.13871948	No	
+row_1	PMVK	PMVK	phosphomevalonate kinase	2312	0.5982193946838379	-0.14449234	No	
+row_2	FIS1	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	2818	0.4739414155483246	-0.16702877	No	
+row_3	MLYCD	MLYCD	malonyl-CoA decarboxylase	2847	0.46679842472076416	-0.1468963	No	
+row_4	PRDX5	PRDX5	peroxiredoxin 5	3281	0.3742951452732086	-0.16777644	No	
+row_5	PEX14	PEX14	peroxisomal biogenesis factor 14	3893	0.25736963748931885	-0.21038386	No	
+row_6	GNPAT	GNPAT	glyceronephosphate O-acyltransferase	3966	0.24137292802333832	-0.205161	No	
+row_7	PEX19	PEX19	peroxisomal biogenesis factor 19	4086	0.2210303694009781	-0.20516397	No	
+row_8	EHHADH	EHHADH	enoyl-Coenzyme A, hydratase/3-hydroxyacyl Coenzyme A dehydrogenase	4212	0.19857387244701385	-0.20679802	No	
+row_9	AGPS	AGPS	alkylglycerone phosphate synthase	4430	0.1641027182340622	-0.21840173	No	
+row_10	IDI1	IDI1	isopentenyl-diphosphate delta isomerase 1	4833	0.09987838566303253	-0.24980597	No	
+row_11	ACOX3	ACOX3	acyl-Coenzyme A oxidase 3, pristanoyl	4843	0.09816150367259979	-0.245853	No	
+row_12	IDE	IDE	insulin-degrading enzyme	5043	0.06902965158224106	-0.26044816	No	
+row_13	AMACR	AMACR	alpha-methylacyl-CoA racemase	5057	0.06607134640216827	-0.25841352	No	
+row_14	PXMP4	PXMP4	peroxisomal membrane protein 4, 24kDa	5819	-0.045639652758836746	-0.3248248	No	
+row_15	HAO1	HAO1	hydroxyacid oxidase (glycolate oxidase) 1	5826	-0.04688422754406929	-0.32309023	No	
+row_16	ABCD3	ABCD3	ATP-binding cassette, sub-family D (ALD), member 3	6468	-0.10695069283246994	-0.37570408	No	
+row_17	ABCD2	ABCD2	ATP-binding cassette, sub-family D (ALD), member 2	6635	-0.13020728528499603	-0.38435385	No	
+row_18	PEX10	PEX10	peroxisome biogenesis factor 10	6718	-0.14358378946781158	-0.3847793	Yes	
+row_19	AGXT	AGXT	alanine-glyoxylate aminotransferase (oxalosis I; hyperoxaluria I; glycolicaciduria; serine-pyruvate aminotransferase)	6735	-0.14549711346626282	-0.37916002	Yes	
+row_20	PEX6	PEX6	peroxisomal biogenesis factor 6	6753	-0.1486985683441162	-0.37347552	Yes	
+row_21	PEX13	PEX13	peroxisome biogenesis factor 13	6814	-0.1585555374622345	-0.3711903	Yes	
+row_22	ACOT8	ACOT8	acyl-CoA thioesterase 8	7017	-0.19072268903255463	-0.38014925	Yes	
+row_23	HACL1	HACL1	2-hydroxyacyl-CoA lyase 1	7026	-0.1917957067489624	-0.3715613	Yes	
+row_24	PEX11A	PEX11A	peroxisomal biogenesis factor 11A	7196	-0.21693462133407593	-0.37627205	Yes	
+row_25	ACOT4	ACOT4	acyl-CoA thioesterase 4	7219	-0.22034980356693268	-0.36756063	Yes	
+row_26	PHYH	PHYH	phytanoyl-CoA 2-hydroxylase	7485	-0.26528438925743103	-0.3785818	Yes	
+row_27	PEX7	PEX7	peroxisomal biogenesis factor 7	7614	-0.2883826494216919	-0.37612724	Yes	
+row_28	PEX12	PEX12	peroxisomal biogenesis factor 12	7633	-0.29132404923439026	-0.36361015	Yes	
+row_29	PEX16	PEX16	peroxisomal biogenesis factor 16	7747	-0.30725526809692383	-0.35888687	Yes	
+row_30	SLC25A17	SLC25A17	solute carrier family 25 (mitochondrial carrier; peroxisomal membrane protein, 34kDa), member 17	8109	-0.37303146719932556	-0.37333542	Yes	
+row_31	ISOC1	ISOC1	isochorismatase domain containing 1	8187	-0.38830241560935974	-0.36143178	Yes	
+row_32	ECH1	ECH1	enoyl Coenzyme A hydratase 1, peroxisomal	8618	-0.48257043957710266	-0.3767859	Yes	
+row_33	PNPLA8	PNPLA8	patatin-like phospholipase domain containing 8	8682	-0.5006470084190369	-0.35816678	Yes	
+row_34	CROT	CROT	carnitine O-octanoyltransferase	8790	-0.5269020795822144	-0.34224117	Yes	
+row_35	PEX26	PEX26	peroxisome biogenesis factor 26	9144	-0.6151030659675598	-0.3442186	Yes	
+row_36	PEX3	PEX3	peroxisomal biogenesis factor 3	9195	-0.6274382472038269	-0.31827295	Yes	
+row_37	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9334	-0.6737542748451233	-0.29801497	Yes	
+row_38	PIPOX	PIPOX	pipecolic acid oxidase	9346	-0.6795918941497803	-0.26602086	Yes	
+row_39	ACAD11	ACAD11	acyl-Coenzyme A dehydrogenase family, member 11	9630	-0.8001629710197449	-0.2527033	Yes	
+row_40	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	9766	-0.8837180733680725	-0.22198357	Yes	
+row_41	PEX1	PEX1	peroxisome biogenesis factor 1	10024	-1.0476365089416504	-0.19430943	Yes	
+row_42	SCP2	SCP2	sterol carrier protein 2	10174	-1.1780383586883545	-0.15056647	Yes	
+row_43	HAO2	HAO2	hydroxyacid oxidase 2 (long chain)	11052	-4.88005256652832	0.0072144726	Yes	

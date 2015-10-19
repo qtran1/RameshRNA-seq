@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SOCS1	SOCS1	suppressor of cytokine signaling 1	513	2.189739465713501	0.13063334	Yes	
+row_1	PYCARD	PYCARD	PYD and CARD domain containing	582	1.9316627979278564	0.2804608	Yes	
+row_2	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	854	1.4249783754348755	0.37112302	Yes	
+row_3	PTPRC	PTPRC	protein tyrosine phosphatase, receptor type, C	1094	1.1454366445541382	0.44209614	Yes	
+row_4	IRAK3	IRAK3	interleukin-1 receptor-associated kinase 3	1304	0.9936927556991577	0.50351745	Yes	
+row_5	COMMD7	COMMD7	COMM domain containing 7	1490	0.8949230909347534	0.55912393	Yes	
+row_6	CX3CL1	CX3CL1	chemokine (C-X3-C motif) ligand 1	1850	0.7485502362251282	0.5872619	Yes	
+row_7	IL2RB	IL2RB	interleukin 2 receptor, beta	2088	0.6672580242156982	0.61981136	Yes	
+row_8	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.6736722	Yes	
+row_9	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3776	0.2798222303390503	0.5446028	No	
+row_10	SIGIRR	SIGIRR	single immunoglobulin and toll-interleukin 1 receptor (TIR) domain	3904	0.2556101679801941	0.5538144	No	
+row_11	SOCS5	SOCS5	suppressor of cytokine signaling 5	3919	0.25331825017929077	0.5730056	No	
+row_12	CCR2	CCR2	chemokine (C-C motif) receptor 2	5261	0.03786427155137062	0.45543635	No	
+row_13	IFNK	IFNK	interferon, kappa	6227	-0.07875943183898926	0.37499064	No	
+row_14	EREG	EREG	epiregulin	7499	-0.26858144998550415	0.28234398	No	
+row_15	NUP85	NUP85	nucleoporin 85kDa	8894	-0.5495180487632751	0.20131333	No	

@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP7B1	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	1992	0.6958400011062622	-0.124178894	No	
+row_1	CYP7A1	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	2759	0.4885462820529938	-0.15445256	No	
+row_2	AMACR	AMACR	alpha-methylacyl-CoA racemase	5057	0.06607134640216827	-0.35588422	No	
+row_3	ABCB11	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	5606	-0.013523146510124207	-0.40411735	No	
+row_4	ACOT8	ACOT8	acyl-CoA thioesterase 8	7017	-0.19072268903255463	-0.5158875	No	
+row_5	CYP27A1	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	7067	-0.1959441751241684	-0.50479746	No	
+row_6	HSD3B7	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	7178	-0.21411961317062378	-0.49775794	No	
+row_7	BAAT	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	7874	-0.33017098903656006	-0.53417075	No	
+row_8	SLC27A5	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	8411	-0.4288584887981415	-0.54847276	Yes	
+row_9	CYP8B1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	8463	-0.44177544116973877	-0.5181183	Yes	
+row_10	ACOX2	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	8529	-0.45781514048576355	-0.4877548	Yes	
+row_11	HSD17B4	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	9334	-0.6737542748451233	-0.50679797	Yes	
+row_12	CYP46A1	CYP46A1	cytochrome P450, family 46, subfamily A, polypeptide 1	9392	-0.692282497882843	-0.4571692	Yes	
+row_13	CYP39A1	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	9758	-0.8783960342407227	-0.4205298	Yes	
+row_14	SLC27A2	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	9766	-0.8837180733680725	-0.35126075	Yes	
+row_15	SCP2	SCP2	sterol carrier protein 2	10174	-1.1780383586883545	-0.29469943	Yes	
+row_16	AKR1D1	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	10448	-1.639122724533081	-0.18961227	Yes	
+row_17	CH25H	CH25H	cholesterol 25-hydroxylase	10699	-3.174114465713501	0.038956355	Yes	

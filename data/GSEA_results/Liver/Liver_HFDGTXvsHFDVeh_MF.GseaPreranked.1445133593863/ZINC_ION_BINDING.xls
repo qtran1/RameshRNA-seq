@@ -1,0 +1,69 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MEP1B	MEP1B	meprin A, beta	45	5.65917444229126	0.10014395	Yes	
+row_1	S100B	S100B	S100 calcium binding protein B	155	4.295779705047607	0.16939767	Yes	
+row_2	MMP9	MMP9	matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)	377	2.99924373626709	0.20465434	Yes	
+row_3	MMP13	MMP13	matrix metallopeptidase 13 (collagenase 3)	420	2.884085178375244	0.25396755	Yes	
+row_4	CRIP1	CRIP1	cysteine-rich protein 1 (intestinal)	506	2.2054009437561035	0.286897	Yes	
+row_5	CDA	CDA	cytidine deaminase	529	2.142268657684326	0.32435754	Yes	
+row_6	MMP14	MMP14	matrix metallopeptidase 14 (membrane-inserted)	680	1.6801077127456665	0.34173962	Yes	
+row_7	CRIP2	CRIP2	cysteine-rich protein 2	1057	1.1887224912643433	0.32964832	Yes	
+row_8	TRPS1	TRPS1	trichorhinophalangeal syndrome I	1064	1.1764723062515259	0.3507702	Yes	
+row_9	BRCA1	BRCA1	breast cancer 1, early onset	1401	0.9390989542007446	0.3376972	Yes	
+row_10	MMP2	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	1470	0.907509446144104	0.34826306	Yes	
+row_11	MMP8	MMP8	matrix metallopeptidase 8 (neutrophil collagenase)	1497	0.8899571299552917	0.3623014	Yes	
+row_12	TIMM13	TIMM13	translocase of inner mitochondrial membrane 13 homolog (yeast)	1646	0.829067051410675	0.36419272	Yes	
+row_13	ECE2	ECE2	endothelin converting enzyme 2	1681	0.8113644123077393	0.37606084	Yes	
+row_14	TIMM8B	TIMM8B	translocase of inner mitochondrial membrane 8 homolog B (yeast)	1810	0.7615253925323486	0.37851596	Yes	
+row_15	POLR2K	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	1815	0.7600402235984802	0.3921502	Yes	
+row_16	TIMM9	TIMM9	translocase of inner mitochondrial membrane 9 homolog (yeast)	1991	0.6958687901496887	0.38914862	Yes	
+row_17	RNF7	RNF7	ring finger protein 7	2024	0.6868900656700134	0.39890537	Yes	
+row_18	SIRT2	SIRT2	sirtuin (silent mating type information regulation 2 homolog) 2 (S. cerevisiae)	2144	0.6483092308044434	0.40008903	Yes	
+row_19	MMP17	MMP17	matrix metallopeptidase 17 (membrane-inserted)	2175	0.6361657381057739	0.40909243	Yes	
+row_20	MSRB3	MSRB3	methionine sulfoxide reductase B3	2462	0.5603305697441101	0.39356336	No	
+row_21	TIMM10	TIMM10	translocase of inner mitochondrial membrane 10 homolog (yeast)	2727	0.49512752890586853	0.37882188	No	
+row_22	CSRP1	CSRP1	cysteine and glycine-rich protein 1	2957	0.44202637672424316	0.36626568	No	
+row_23	DUSP12	DUSP12	dual specificity phosphatase 12	3325	0.3676048517227173	0.3398673	No	
+row_24	MSRB2	MSRB2	methionine sulfoxide reductase B2	3446	0.3430350124835968	0.3353391	No	
+row_25	CHD4	CHD4	chromodomain helicase DNA binding protein 4	4141	0.21159127354621887	0.27651516	No	
+row_26	RPS29	RPS29	ribosomal protein S29	4151	0.21076449751853943	0.27958292	No	
+row_27	KLF7	KLF7	Kruppel-like factor 7 (ubiquitous)	4196	0.20177079737186432	0.2793219	No	
+row_28	CD4	CD4	CD4 molecule	4654	0.1292193979024887	0.24040002	No	
+row_29	RPS27	RPS27	ribosomal protein S27 (metallopanstimulin 1)	4673	0.12711724638938904	0.24111407	No	
+row_30	MDM2	MDM2	Mdm2, transformed 3T3 cell double minute 2, p53 binding protein (mouse)	4731	0.11629552394151688	0.23810421	No	
+row_31	RNF11	RNF11	ring finger protein 11	4772	0.11010124534368515	0.23651667	No	
+row_32	ARIH2	ARIH2	ariadne homolog 2 (Drosophila)	5078	0.062794528901577	0.21010861	No	
+row_33	MMP15	MMP15	matrix metallopeptidase 15 (membrane-inserted)	5079	0.06263294816017151	0.21126196	No	
+row_34	RNF5	RNF5	ring finger protein 5	5149	0.05267898365855217	0.20599614	No	
+row_35	POLR2I	POLR2I	polymerase (RNA) II (DNA directed) polypeptide I, 14.5kDa	5282	0.03498334065079689	0.19471084	No	
+row_36	RASSF1	RASSF1	Ras association (RalGDS/AF-6) domain family 1	5347	0.025375306606292725	0.1893941	No	
+row_37	RABIF	RABIF	RAB interacting factor	5398	0.01714245416224003	0.18519102	No	
+row_38	LIMD1	LIMD1	LIM domains containing 1	5463	0.008074289187788963	0.1795557	No	
+row_39	KPNB1	KPNB1	karyopherin (importin) beta 1	5611	-0.014402383007109165	0.16653578	No	
+row_40	MNAT1	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	5680	-0.023727158084511757	0.1608272	No	
+row_41	MMP12	MMP12	matrix metallopeptidase 12 (macrophage elastase)	5719	-0.028212817385792732	0.15791248	No	
+row_42	SOD1	SOD1	superoxide dismutase 1, soluble (amyotrophic lateral sclerosis 1 (adult))	5981	-0.06657350063323975	0.1355505	No	
+row_43	CBLC	CBLC	Cas-Br-M (murine) ecotropic retroviral transforming sequence c	6056	-0.07700376212596893	0.13028073	No	
+row_44	PIAS2	PIAS2	protein inhibitor of activated STAT, 2	6288	-0.08128537982702255	0.11090092	No	
+row_45	RNF4	RNF4	ring finger protein 4	6455	-0.10490621626377106	0.09783046	No	
+row_46	MDM4	MDM4	Mdm4, transformed 3T3 cell double minute 4, p53 binding protein (mouse)	6832	-0.16117416322231293	0.06681738	No	
+row_47	ZFPM2	ZFPM2	zinc finger protein, multitype 2	6987	-0.18659146130084991	0.05633561	No	
+row_48	EEA1	EEA1	early endosome antigen 1, 162kD	7006	-0.18932929635047913	0.05819526	No	
+row_49	SLU7	SLU7	-	7489	-0.26715007424354553	0.019553917	No	
+row_50	PEX12	PEX12	peroxisomal biogenesis factor 12	7633	-0.29132404923439026	0.0119948685	No	
+row_51	CTCF	CTCF	CCCTC-binding factor (zinc finger protein)	7699	-0.3002992868423462	0.011650349	No	
+row_52	SIRT6	SIRT6	sirtuin (silent mating type information regulation 2 homolog) 6 (S. cerevisiae)	7978	-0.34786322712898254	-0.007068192	No	
+row_53	GDA	GDA	guanine deaminase	8341	-0.41648605465888977	-0.032114584	No	
+row_54	MYNN	MYNN	myoneurin	8358	-0.4186331331729889	-0.025851667	No	
+row_55	PRDM4	PRDM4	PR domain containing 4	8388	-0.423818439245224	-0.020668142	No	
+row_56	CIZ1	CIZ1	CDKN1A interacting zinc finger protein 1	9100	-0.6026319265365601	-0.07382765	No	
+row_57	CBLB	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	9260	-0.6490238904953003	-0.07624584	No	
+row_58	RLF	RLF	rearranged L-myc fusion	9751	-0.8767943978309631	-0.104383886	No	
+row_59	HDAC10	HDAC10	histone deacetylase 10	9782	-0.889493465423584	-0.09071557	No	
+row_60	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	9890	-0.9553285837173462	-0.08279381	No	
+row_61	ADAMTS13	ADAMTS13	ADAM metallopeptidase with thrombospondin type 1 motif, 13	9998	-1.023103952407837	-0.073624	No	
+row_62	LTA4H	LTA4H	leukotriene A4 hydrolase	10039	-1.0603193044662476	-0.05771376	No	
+row_63	GLI2	GLI2	GLI-Kruppel family member GLI2	10046	-1.0646213293075562	-0.03865155	No	
+row_64	YY1	YY1	YY1 transcription factor	10131	-1.1406898498535156	-0.025237828	No	
+row_65	APOBEC1	APOBEC1	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	10168	-1.167507290840149	-0.0069922763	No	
+row_66	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	10480	-1.7498677968978882	-0.0028759916	No	
+row_67	MMP16	MMP16	matrix metallopeptidase 16 (membrane-inserted)	10857	-3.3511762619018555	0.024853196	No	

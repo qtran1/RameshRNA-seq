@@ -1,0 +1,55 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	10	6.592044353485107	0.17008945	Yes	
+row_1	FPR1	FPR1	formyl peptide receptor 1	468	2.4810070991516113	0.19319546	Yes	
+row_2	CTSE	CTSE	cathepsin E	516	2.1819350719451904	0.24555075	Yes	
+row_3	CCR5	CCR5	chemokine (C-C motif) receptor 5	521	2.1612420082092285	0.30125052	Yes	
+row_4	TFRC	TFRC	transferrin receptor (p90, CD71)	818	1.476487636566162	0.31283215	Yes	
+row_5	ADRA2C	ADRA2C	adrenergic, alpha-2C-, receptor	924	1.332883358001709	0.33792862	Yes	
+row_6	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	1215	1.038881778717041	0.33870068	Yes	
+row_7	STX6	STX6	syntaxin 6	1645	0.8292111754417419	0.3214878	No	
+row_8	SNX17	SNX17	sorting nexin 17	1883	0.7380549907684326	0.3192405	No	
+row_9	MAL	MAL	mal, T-cell differentiation protein	2211	0.6253210306167603	0.30594552	No	
+row_10	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	2246	0.6154086589813232	0.31883982	No	
+row_11	AVPR1A	AVPR1A	arginine vasopressin receptor 1A	2780	0.48249295353889465	0.28324625	No	
+row_12	LAMP1	LAMP1	lysosomal-associated membrane protein 1	2789	0.4805624186992645	0.29498956	No	
+row_13	RNF32	RNF32	ring finger protein 32	2812	0.4753367602825165	0.30533364	No	
+row_14	BET1L	BET1L	blocked early in transport 1 homolog (S. cerevisiae)-like	3189	0.3946722745895386	0.28163302	No	
+row_15	ARF6	ARF6	ADP-ribosylation factor 6	3449	0.34243443608283997	0.2671379	No	
+row_16	RABEPK	RABEPK	Rab9 effector protein with kelch motifs	3719	0.28995534777641296	0.25037897	No	
+row_17	YKT6	YKT6	YKT6 v-SNARE homolog (S. cerevisiae)	4033	0.23066003620624542	0.22811043	No	
+row_18	NF2	NF2	neurofibromin 2 (bilateral acoustic neuroma)	4208	0.19889993965625763	0.21756434	No	
+row_19	VAMP4	VAMP4	vesicle-associated membrane protein 4	4470	0.15925578773021698	0.19813722	No	
+row_20	WDFY1	WDFY1	WD repeat and FYVE domain containing 1	4614	0.1341923624277115	0.18871075	No	
+row_21	VPS29	VPS29	vacuolar protein sorting 29 (yeast)	4626	0.13302326202392578	0.1911684	No	
+row_22	STEAP2	STEAP2	six transmembrane epithelial antigen of the prostate 2	4704	0.12100488692522049	0.18735707	No	
+row_23	ANKFY1	ANKFY1	ankyrin repeat and FYVE domain containing 1	4890	0.09076498448848724	0.17301318	No	
+row_24	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.17328078	No	
+row_25	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	4923	0.08493895083665848	0.17467166	No	
+row_26	RAB22A	RAB22A	RAB22A, member RAS oncogene family	5795	-0.04139066860079765	0.0971281	No	
+row_27	RAB14	RAB14	RAB14, member RAS oncogene family	5862	-0.052060265094041824	0.09252129	No	
+row_28	ANKRD27	ANKRD27	ankyrin repeat domain 27 (VPS9 domain)	5902	-0.05616099014878273	0.09045788	No	
+row_29	IL15	IL15	interleukin 15	5922	-0.0577840656042099	0.0902418	No	
+row_30	SYT3	SYT3	synaptotagmin III	6060	-0.07720275223255157	0.079878636	No	
+row_31	LYST	LYST	lysosomal trafficking regulator	6743	-0.14736029505729675	0.022143135	No	
+row_32	CTNS	CTNS	cystinosis, nephropathic	6750	-0.14846807718276978	0.025452705	No	
+row_33	RAB21	RAB21	RAB21, member RAS oncogene family	6801	-0.15649427473545074	0.024998993	No	
+row_34	BACE1	BACE1	beta-site APP-cleaving enzyme 1	6886	-0.17159630358219147	0.021868143	No	
+row_35	ATP7B	ATP7B	ATPase, Cu++ transporting, beta polypeptide	6971	-0.1841038465499878	0.01906173	No	
+row_36	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	6988	-0.1868259608745575	0.022463664	No	
+row_37	RABEP1	RABEP1	rabaptin, RAB GTPase binding effector protein 1	7083	-0.19854989647865295	0.01912936	No	
+row_38	FYN	FYN	FYN oncogene related to SRC, FGR, YES	7355	-0.2441510409116745	0.0010017416	No	
+row_39	TM9SF2	TM9SF2	transmembrane 9 superfamily member 2	7431	-0.2573920786380768	9.087105E-4	No	
+row_40	VPS4B	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	7657	-0.29502663016319275	-0.01174724	No	
+row_41	ATP7A	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	7694	-0.2998097538948059	-0.007219819	No	
+row_42	ALS2	ALS2	amyotrophic lateral sclerosis 2 (juvenile)	8034	-0.35841044783592224	-0.028521383	No	
+row_43	RAB5B	RAB5B	RAB5B, member RAS oncogene family	8105	-0.3718552589416504	-0.025194032	No	
+row_44	TPT1	TPT1	tumor protein, translationally-controlled 1	8629	-0.4841978847980499	-0.059840772	No	
+row_45	LAMP2	LAMP2	lysosomal-associated membrane protein 2	8660	-0.4947754740715027	-0.049714543	No	
+row_46	IGF2R	IGF2R	insulin-like growth factor 2 receptor	8952	-0.5628359913825989	-0.06138096	No	
+row_47	TSG101	TSG101	tumor susceptibility gene 101	8962	-0.5641068816184998	-0.047560852	No	
+row_48	TOM1	TOM1	target of myb1 (chicken)	9206	-0.6312465667724609	-0.053120237	No	
+row_49	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	9409	-0.6989395022392273	-0.05322303	No	
+row_50	TOM1L1	TOM1L1	target of myb1-like 1 (chicken)	9427	-0.7064099907875061	-0.036433786	No	
+row_51	VPS35	VPS35	vacuolar protein sorting 35 (yeast)	9673	-0.8232434391975403	-0.037193455	No	
+row_52	AVPR1B	AVPR1B	arginine vasopressin receptor 1B	10761	-3.2519092559814453	-0.05095522	No	
+row_53	DNER	DNER	-	10766	-3.2519092559814453	0.033035513	No	

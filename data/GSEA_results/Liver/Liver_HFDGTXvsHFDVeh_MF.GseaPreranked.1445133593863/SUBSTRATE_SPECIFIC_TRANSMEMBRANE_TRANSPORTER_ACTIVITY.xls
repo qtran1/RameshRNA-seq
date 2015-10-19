@@ -1,0 +1,255 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	15	6.460714340209961	0.019182239	Yes	
+row_1	SLC1A3	SLC1A3	solute carrier family 1 (glial high affinity glutamate transporter), member 3	37	5.825229644775391	0.035790544	Yes	
+row_2	SCN5A	SCN5A	sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)	42	5.7273993492126465	0.05365015	Yes	
+row_3	SLC34A2	SLC34A2	solute carrier family 34 (sodium phosphate), member 2	43	5.723567485809326	0.07186524	Yes	
+row_4	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	59	5.430286884307861	0.087768175	Yes	
+row_5	KCNA3	KCNA3	potassium voltage-gated channel, shaker-related subfamily, member 3	71	5.267667293548584	0.10352125	Yes	
+row_6	SLC1A1	SLC1A1	solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1	99	4.894480228424072	0.11661595	Yes	
+row_7	KCNC4	KCNC4	potassium voltage-gated channel, Shaw-related subfamily, member 4	123	4.6970109939575195	0.12944989	Yes	
+row_8	RYR1	RYR1	ryanodine receptor 1 (skeletal)	131	4.439277172088623	0.14293432	Yes	
+row_9	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	133	4.4274396896362305	0.1569326	Yes	
+row_10	TRPC5	TRPC5	transient receptor potential cation channel, subfamily C, member 5	139	4.4274396896362305	0.1705632	Yes	
+row_11	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	140	4.4274396896362305	0.18465342	Yes	
+row_12	TRPV6	TRPV6	transient receptor potential cation channel, subfamily V, member 6	151	4.305593013763428	0.19743663	Yes	
+row_13	SCN7A	SCN7A	sodium channel, voltage-gated, type VII, alpha	198	4.087671756744385	0.20621721	Yes	
+row_14	KCNJ14	KCNJ14	potassium inwardly-rectifying channel, subfamily J, member 14	205	4.00852108001709	0.2184227	Yes	
+row_15	SLC5A2	SLC5A2	solute carrier family 5 (sodium/glucose cotransporter), member 2	220	3.854637622833252	0.22940308	Yes	
+row_16	SLC15A1	SLC15A1	solute carrier family 15 (oligopeptide transporter), member 1	261	3.2831473350524902	0.2361748	Yes	
+row_17	KCNJ6	KCNJ6	potassium inwardly-rectifying channel, subfamily J, member 6	295	3.1459782123565674	0.24315342	Yes	
+row_18	CACNG4	CACNG4	calcium channel, voltage-dependent, gamma subunit 4	342	3.1459782123565674	0.24893707	Yes	
+row_19	AQP7	AQP7	aquaporin 7	347	3.145963191986084	0.25858134	Yes	
+row_20	SLC22A12	SLC22A12	solute carrier family 22 (organic anion/cation transporter), member 12	367	3.133786678314209	0.26680803	Yes	
+row_21	KCNMB3	KCNMB3	potassium large conductance calcium-activated channel, subfamily M beta member 3	414	2.8841207027435303	0.27175835	Yes	
+row_22	COX7A1	COX7A1	cytochrome c oxidase subunit VIIa polypeptide 1 (muscle)	482	2.371163845062256	0.27314585	Yes	
+row_23	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	488	2.316559314727783	0.28005862	Yes	
+row_24	SLC4A1	SLC4A1	solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)	508	2.1991231441497803	0.2853108	Yes	
+row_25	ATP4A	ATP4A	ATPase, H+/K+ exchanging, alpha polypeptide	544	2.0913877487182617	0.28874937	Yes	
+row_26	SLC14A1	SLC14A1	solute carrier family 14 (urea transporter), member 1 (Kidd blood group)	549	2.068723201751709	0.29496536	Yes	
+row_27	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	568	1.9767751693725586	0.29960182	Yes	
+row_28	KCNJ10	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10	608	1.860825777053833	0.30193895	Yes	
+row_29	SLC7A10	SLC7A10	solute carrier family 7, (neutral amino acid transporter, y+ system) member 10	624	1.7951292991638184	0.3062731	Yes	
+row_30	SLC9A5	SLC9A5	solute carrier family 9 (sodium/hydrogen exchanger), member 5	638	1.771328091621399	0.31071535	Yes	
+row_31	SLC28A2	SLC28A2	solute carrier family 28 (sodium-coupled nucleoside transporter), member 2	654	1.7444772720336914	0.31488827	Yes	
+row_32	SLC9A2	SLC9A2	solute carrier family 9 (sodium/hydrogen exchanger), member 2	655	1.7423369884490967	0.32043323	Yes	
+row_33	SCN4B	SCN4B	sodium channel, voltage-gated, type IV, beta	667	1.711756706237793	0.32486972	Yes	
+row_34	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	715	1.6100420951843262	0.32567337	Yes	
+row_35	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	728	1.5911024808883667	0.32963398	Yes	
+row_36	SLC12A3	SLC12A3	solute carrier family 12 (sodium/chloride transporters), member 3	730	1.5850989818572998	0.3345866	Yes	
+row_37	HVCN1	HVCN1	hydrogen voltage-gated channel 1	745	1.5667790174484253	0.33828592	Yes	
+row_38	CACNB3	CACNB3	calcium channel, voltage-dependent, beta 3 subunit	770	1.539291501045227	0.3409786	Yes	
+row_39	CACNB4	CACNB4	calcium channel, voltage-dependent, beta 4 subunit	803	1.4973276853561401	0.34280235	Yes	
+row_40	SLC5A1	SLC5A1	solute carrier family 5 (sodium/glucose cotransporter), member 1	825	1.462989091873169	0.34552795	Yes	
+row_41	KCNK6	KCNK6	potassium channel, subfamily K, member 6	883	1.3811978101730347	0.34468412	Yes	
+row_42	SLC25A4	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	921	1.3349212408065796	0.34553143	Yes	
+row_43	SLC7A4	SLC7A4	solute carrier family 7 (cationic amino acid transporter, y+ system), member 4	938	1.3080497980117798	0.34822354	Yes	
+row_44	KCNG2	KCNG2	potassium voltage-gated channel, subfamily G, member 2	941	1.306309700012207	0.352197	Yes	
+row_45	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	1023	1.221352458000183	0.3486384	No	
+row_46	KCNA2	KCNA2	potassium voltage-gated channel, shaker-related subfamily, member 2	1122	1.1220195293426514	0.34320098	No	
+row_47	KCNE2	KCNE2	potassium voltage-gated channel, Isk-related family, member 2	1219	1.0378338098526	0.33767954	No	
+row_48	SLC6A8	SLC6A8	solute carrier family 6 (neurotransmitter transporter, creatine), member 8	1266	1.0096629858016968	0.3366644	No	
+row_49	SLC2A3	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	1313	0.986375629901886	0.3355752	No	
+row_50	SLC16A6	SLC16A6	solute carrier family 16, member 6 (monocarboxylic acid transporter 7)	1359	0.9640936255455017	0.334507	No	
+row_51	FXN	FXN	frataxin	1382	0.9489733576774597	0.33550483	No	
+row_52	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	1495	0.8912731409072876	0.3280462	No	
+row_53	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	1573	0.8552020192146301	0.32369003	No	
+row_54	SCN1B	SCN1B	sodium channel, voltage-gated, type I, beta	1641	0.8303014636039734	0.32017377	No	
+row_55	COX4I1	COX4I1	cytochrome c oxidase subunit IV isoform 1	1726	0.7924954295158386	0.31497458	No	
+row_56	COX7A2L	COX7A2L	cytochrome c oxidase subunit VIIa polypeptide 2 like	1743	0.788051426410675	0.3160118	No	
+row_57	ATP1B3	ATP1B3	ATPase, Na+/K+ transporting, beta 3 polypeptide	1783	0.771342396736145	0.31488168	No	
+row_58	SLC35B2	SLC35B2	solute carrier family 35, member B2	1798	0.7660249471664429	0.31603265	No	
+row_59	SLC7A5	SLC7A5	solute carrier family 7 (cationic amino acid transporter, y+ system), member 5	1862	0.7466514110565186	0.31261787	No	
+row_60	SLC1A4	SLC1A4	solute carrier family 1 (glutamate/neutral amino acid transporter), member 4	1869	0.7439122200012207	0.31443384	No	
+row_61	COX10	COX10	COX10 homolog, cytochrome c oxidase assembly protein, heme A: farnesyltransferase (yeast)	1870	0.7430339455604553	0.3167985	No	
+row_62	NOX1	NOX1	NADPH oxidase 1	1938	0.7156305909156799	0.31291735	No	
+row_63	CCS	CCS	copper chaperone for superoxide dismutase	1951	0.709077000617981	0.3140709	No	
+row_64	COX8A	COX8A	cytochrome c oxidase subunit 8A (ubiquitous)	2069	0.6715665459632874	0.30545348	No	
+row_65	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	2098	0.6625812649726868	0.30498838	No	
+row_66	SLC25A10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	2153	0.6442614197731018	0.30207503	No	
+row_67	SLC29A2	SLC29A2	solute carrier family 29 (nucleoside transporters), member 2	2230	0.6190463304519653	0.29705918	No	
+row_68	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	2319	0.5971834659576416	0.29087073	No	
+row_69	SLC12A4	SLC12A4	solute carrier family 12 (potassium/chloride transporters), member 4	2365	0.5862601399421692	0.2886001	No	
+row_70	COX4I2	COX4I2	cytochrome c oxidase subunit IV isoform 2 (lung)	2377	0.5836948752403259	0.28944653	No	
+row_71	TRPM2	TRPM2	transient receptor potential cation channel, subfamily M, member 2	2399	0.5784088969230652	0.28935698	No	
+row_72	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	2463	0.5601628422737122	0.2853487	No	
+row_73	ASNA1	ASNA1	arsA arsenite transporter, ATP-binding, homolog 1 (bacterial)	2516	0.5488622188568115	0.2823156	No	
+row_74	PPBP	PPBP	pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	2521	0.5475327372550964	0.28369042	No	
+row_75	KCNK1	KCNK1	potassium channel, subfamily K, member 1	2724	0.4967276155948639	0.26670337	No	
+row_76	SLC25A1	SLC25A1	solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1	2864	0.462730348110199	0.25539908	No	
+row_77	SLC37A4	SLC37A4	solute carrier family 37 (glycerol-6-phosphate transporter), member 4	2948	0.44378966093063354	0.24918206	No	
+row_78	LASP1	LASP1	LIM and SH3 protein 1	2956	0.44206148386001587	0.24994546	No	
+row_79	ATP2A3	ATP2A3	ATPase, Ca++ transporting, ubiquitous	2971	0.4384484589099884	0.25005394	No	
+row_80	ITPR3	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	3008	0.4315425753593445	0.24811818	No	
+row_81	SLC3A2	SLC3A2	solute carrier family 3 (activators of dibasic and neutral amino acid transport), member 2	3155	0.40048933029174805	0.23597237	No	
+row_82	SLC29A1	SLC29A1	solute carrier family 29 (nucleoside transporters), member 1	3159	0.40027666091918945	0.23697048	No	
+row_83	SLC25A15	SLC25A15	solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15	3273	0.375715047121048	0.2277792	No	
+row_84	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	3276	0.3753437101840973	0.22878988	No	
+row_85	SLC22A7	SLC22A7	solute carrier family 22 (organic anion transporter), member 7	3297	0.3709263205528259	0.22813194	No	
+row_86	SLC2A4	SLC2A4	solute carrier family 2 (facilitated glucose transporter), member 4	3326	0.367336243391037	0.2267272	No	
+row_87	SLC7A6	SLC7A6	solute carrier family 7 (cationic amino acid transporter, y+ system), member 6	3631	0.3064320981502533	0.19975868	No	
+row_88	SLC35A2	SLC35A2	solute carrier family 35 (UDP-galactose transporter), member A2	3803	0.2737744450569153	0.1849116	No	
+row_89	SLC16A1	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	3847	0.2663642466068268	0.18180673	No	
+row_90	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3855	0.2645631432533264	0.18200524	No	
+row_91	SLC35B4	SLC35B4	solute carrier family 35, member B4	3905	0.2554793953895569	0.17831421	No	
+row_92	SLC35B1	SLC35B1	solute carrier family 35, member B1	4005	0.23638924956321716	0.16996641	No	
+row_93	SLC31A2	SLC31A2	solute carrier family 31 (copper transporters), member 2	4006	0.23610971868038177	0.17071782	No	
+row_94	SLC1A5	SLC1A5	solute carrier family 1 (neutral amino acid transporter), member 5	4049	0.22792045772075653	0.16758253	No	
+row_95	ATP6V1C1	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	4100	0.21846245229244232	0.16368176	No	
+row_96	COX7B	COX7B	cytochrome c oxidase subunit VIIb	4210	0.19871379435062408	0.15429486	No	
+row_97	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	4251	0.19196799397468567	0.151229	No	
+row_98	SLC25A11	SLC25A11	solute carrier family 25 (mitochondrial carrier; oxoglutarate carrier), member 11	4365	0.1744440644979477	0.14139716	No	
+row_99	SEC61B	SEC61B	Sec61 beta subunit	4381	0.17146612703800201	0.14056405	No	
+row_100	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	4425	0.1646670401096344	0.13713554	No	
+row_101	ATP6V1B2	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	4428	0.1643102616071701	0.1374746	No	
+row_102	SLC25A19	SLC25A19	solute carrier family 25 (mitochondrial deoxynucleotide carrier), member 19	4594	0.13663077354431152	0.12274259	No	
+row_103	UQCRH	UQCRH	ubiquinol-cytochrome c reductase hinge protein	4622	0.1333700269460678	0.12068519	No	
+row_104	SLC11A2	SLC11A2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2	4629	0.13260804116725922	0.12055569	No	
+row_105	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	4702	0.12133079767227173	0.11432357	No	
+row_106	SLC20A2	SLC20A2	solute carrier family 20 (phosphate transporter), member 2	4714	0.11967600882053375	0.11369331	No	
+row_107	ATP2A1	ATP2A1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	4778	0.10999749600887299	0.1082524	No	
+row_108	KCNK3	KCNK3	potassium channel, subfamily K, member 3	4822	0.10212258994579315	0.10462484	No	
+row_109	SLC38A3	SLC38A3	solute carrier family 38, member 3	4823	0.10208103805780411	0.104949705	No	
+row_110	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	4923	0.08493895083665848	0.09611992	No	
+row_111	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	4927	0.08462249487638474	0.096113466	No	
+row_112	SLC43A1	SLC43A1	solute carrier family 43, member 1	4974	0.07875441759824753	0.09213577	No	
+row_113	SLC9A6	SLC9A6	solute carrier family 9 (sodium/hydrogen exchanger), member 6	4981	0.07827864587306976	0.09183337	No	
+row_114	SLC20A1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	5103	0.059056323021650314	0.08089897	No	
+row_115	SLC25A12	SLC25A12	solute carrier family 25 (mitochondrial carrier, Aralar), member 12	5118	0.0567704513669014	0.07979275	No	
+row_116	SLC2A8	SLC2A8	solute carrier family 2, (facilitated glucose transporter) member 8	5122	0.05632847920060158	0.07969626	No	
+row_117	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	5192	0.048355285078287125	0.07350765	No	
+row_118	ABCC5	ABCC5	ATP-binding cassette, sub-family C (CFTR/MRP), member 5	5208	0.04539663717150688	0.07227332	No	
+row_119	TRPM5	TRPM5	transient receptor potential cation channel, subfamily M, member 5	5264	0.03734278306365013	0.06733655	No	
+row_120	CYB5A	CYB5A	cytochrome b5 type A (microsomal)	5582	-0.010361614637076855	0.03823082	No	
+row_121	ABCB11	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	5606	-0.013523146510124207	0.036159694	No	
+row_122	SLC6A6	SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	5624	-0.01664089784026146	0.03465001	No	
+row_123	KCNN4	KCNN4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	5653	-0.02033550664782524	0.032140963	No	
+row_124	SLC17A5	SLC17A5	solute carrier family 17 (anion/sugar transporter), member 5	5689	-0.02516978047788143	0.029003857	No	
+row_125	SLC9A1	SLC9A1	solute carrier family 9 (sodium/hydrogen exchanger), member 1 (antiporter, Na+/H+, amiloride sensitive)	5698	-0.026000801473855972	0.028351242	No	
+row_126	SLC25A22	SLC25A22	solute carrier family 25 (mitochondrial carrier: glutamate), member 22	5716	-0.02801547944545746	0.026877755	No	
+row_127	CUL5	CUL5	cullin 5	5751	-0.03495711460709572	0.023863718	No	
+row_128	SLC13A2	SLC13A2	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2	5754	-0.03532939404249191	0.023792313	No	
+row_129	KCNK5	KCNK5	potassium channel, subfamily K, member 5	5940	-0.060169246047735214	0.0069785602	No	
+row_130	TRPC1	TRPC1	transient receptor potential cation channel, subfamily C, member 1	5946	-0.060866255313158035	0.0067126644	No	
+row_131	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	6070	-0.07875943183898926	-0.004342872	No	
+row_132	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	6071	-0.07875943183898926	-0.0040922225	No	
+row_133	KCNK7	KCNK7	potassium channel, subfamily K, member 7	6078	-0.07875943183898926	-0.004393094	No	
+row_134	SLC34A1	SLC34A1	solute carrier family 34 (sodium phosphate), member 1	6099	-0.07875943183898926	-0.005980849	No	
+row_135	P2RX2	P2RX2	purinergic receptor P2X, ligand-gated ion channel, 2	6124	-0.07875943183898926	-0.007936284	No	
+row_136	SLC22A14	SLC22A14	solute carrier family 22 (organic cation transporter), member 14	6201	-0.07875943183898926	-0.014671571	No	
+row_137	SCN4A	SCN4A	sodium channel, voltage-gated, type IV, alpha	6215	-0.07875943183898926	-0.015615884	No	
+row_138	SLC16A8	SLC16A8	solute carrier family 16, member 8 (monocarboxylic acid transporter 3)	6232	-0.07875946909189224	-0.016835958	No	
+row_139	SLC5A3	SLC5A3	solute carrier family 5 (inositol transporters), member 3	6319	-0.08742590248584747	-0.024462866	No	
+row_140	GJA1	GJA1	gap junction protein, alpha 1, 43kDa (connexin 43)	6349	-0.09068502485752106	-0.02683995	No	
+row_141	SLC30A4	SLC30A4	solute carrier family 30 (zinc transporter), member 4	6389	-0.09569667279720306	-0.030120285	No	
+row_142	SLC30A5	SLC30A5	solute carrier family 30 (zinc transporter), member 5	6407	-0.09873678535223007	-0.031368703	No	
+row_143	CACNA2D1	CACNA2D1	calcium channel, voltage-dependent, alpha 2/delta subunit 1	6416	-0.09985989332199097	-0.031786263	No	
+row_144	SLC25A5	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	6444	-0.10385974496603012	-0.033937577	No	
+row_145	SLC5A6	SLC5A6	solute carrier family 5 (sodium-dependent vitamin transporter), member 6	6529	-0.11538668721914291	-0.04129166	No	
+row_146	KCNK10	KCNK10	potassium channel, subfamily K, member 10	6532	-0.11572210490703583	-0.04110722	No	
+row_147	SLC2A5	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5	6632	-0.1297510266304016	-0.04979439	No	
+row_148	ATP2B4	ATP2B4	ATPase, Ca++ transporting, plasma membrane 4	6670	-0.13553713262081146	-0.052764095	No	
+row_149	CTNS	CTNS	cystinosis, nephropathic	6750	-0.14846807718276978	-0.059553295	No	
+row_150	SLC35A3	SLC35A3	solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member A3	6785	-0.1543143391609192	-0.06218748	No	
+row_151	SLC23A1	SLC23A1	solute carrier family 23 (nucleobase transporters), member 1	6834	-0.16218899190425873	-0.06608349	No	
+row_152	SHROOM2	SHROOM2	shroom family member 2	6879	-0.17118705809116364	-0.069583185	No	
+row_153	ATP7B	ATP7B	ATPase, Cu++ transporting, beta polypeptide	6971	-0.1841038465499878	-0.077362016	No	
+row_154	SLC3A1	SLC3A1	 1	6995	-0.1875981241464615	-0.078879155	No	
+row_155	MCL1	MCL1	myeloid cell leukemia sequence 1 (BCL2-related)	7047	-0.1937687247991562	-0.08295042	No	
+row_156	ATP1B1	ATP1B1	ATPase, Na+/K+ transporting, beta 1 polypeptide	7138	-0.20900855958461761	-0.09055808	No	
+row_157	SLC9A3	SLC9A3	solute carrier family 9 (sodium/hydrogen exchanger), member 3	7159	-0.21125434339046478	-0.09172417	No	
+row_158	SLC31A1	SLC31A1	solute carrier family 31 (copper transporters), member 1	7170	-0.21266217529773712	-0.091966584	No	
+row_159	SURF1	SURF1	surfeit 1	7191	-0.21647809445858002	-0.09311605	No	
+row_160	COX15	COX15	COX15 homolog, cytochrome c oxidase assembly protein (yeast)	7210	-0.21845760941505432	-0.09407538	No	
+row_161	SERINC1	SERINC1	serine incorporator 1	7224	-0.2213841825723648	-0.094565794	No	
+row_162	SLC8A1	SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	7331	-0.2410692572593689	-0.10354214	No	
+row_163	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	7356	-0.24433216452598572	-0.10497065	No	
+row_164	CACNA1A	CACNA1A	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	7376	-0.2476147562265396	-0.10592911	No	
+row_165	UQCRC1	UQCRC1	ubiquinol-cytochrome c reductase core protein I	7494	-0.2677450180053711	-0.11583168	No	
+row_166	SLC22A1	SLC22A1	solute carrier family 22 (organic cation transporter), member 1	7616	-0.28852349519729614	-0.12603581	No	
+row_167	CACNA1D	CACNA1D	calcium channel, voltage-dependent, L type, alpha 1D subunit	7621	-0.2891162633895874	-0.12548338	No	
+row_168	SLC35A1	SLC35A1	solute carrier family 35 (CMP-sialic acid transporter), member A1	7686	-0.2991527020931244	-0.13041423	No	
+row_169	ATP7A	ATP7A	ATPase, Cu++ transporting, alpha polypeptide (Menkes syndrome)	7694	-0.2998097538948059	-0.13010353	No	
+row_170	TRPC3	TRPC3	transient receptor potential cation channel, subfamily C, member 3	7750	-0.3079054653644562	-0.13417925	No	
+row_171	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7755	-0.30950653553009033	-0.13356194	No	
+row_172	SLC10A1	SLC10A1	solute carrier family 10 (sodium/bile acid cotransporter family), member 1	7774	-0.313258558511734	-0.13421956	No	
+row_173	ATP2B1	ATP2B1	ATPase, Ca++ transporting, plasma membrane 1	7948	-0.3426749110221863	-0.1490312	No	
+row_174	ATP1A1	ATP1A1	ATPase, Na+/K+ transporting, alpha 1 polypeptide	8015	-0.35423609614372253	-0.15397058	No	
+row_175	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	8082	-0.3671605587005615	-0.15886885	No	
+row_176	AQP9	AQP9	aquaporin 9	8197	-0.3904811441898346	-0.16810505	No	
+row_177	KCNC3	KCNC3	potassium voltage-gated channel, Shaw-related subfamily, member 3	8203	-0.39174795150756836	-0.16731793	No	
+row_178	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	8212	-0.3932342231273651	-0.16680184	No	
+row_179	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	8226	-0.39548343420028687	-0.16673818	No	
+row_180	PKD2	PKD2	polycystic kidney disease 2 (autosomal dominant)	8239	-0.3982105851173401	-0.16657393	No	
+row_181	SLC17A4	SLC17A4	solute carrier family 17 (sodium phosphate), member 4	8311	-0.4117403030395508	-0.17178991	No	
+row_182	SLC12A7	SLC12A7	solute carrier family 12 (potassium/chloride transporters), member 7	8331	-0.41487905383110046	-0.17221606	No	
+row_183	SLC16A2	SLC16A2	solute carrier family 16, member 2 (monocarboxylic acid transporter 8)	8438	-0.436404824256897	-0.18057075	No	
+row_184	FXYD1	FXYD1	FXYD domain containing ion transport regulator 1 (phospholemman)	8487	-0.44677653908729553	-0.18356107	No	
+row_185	SLC22A3	SLC22A3	solute carrier family 22 (extraneuronal monoamine transporter), member 3	8568	-0.46678656339645386	-0.18942915	No	
+row_186	SLC4A2	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	8688	-0.5018882751464844	-0.19877042	No	
+row_187	SLC4A4	SLC4A4	solute carrier family 4, sodium bicarbonate cotransporter, member 4	8845	-0.5404437780380249	-0.21139002	No	
+row_188	SLC12A2	SLC12A2	solute carrier family 12 (sodium/potassium/chloride transporters), member 2	8858	-0.5439622402191162	-0.21076192	No	
+row_189	SLC22A4	SLC22A4	solute carrier family 22 (organic cation transporter), member 4	8877	-0.5474613904953003	-0.2106742	No	
+row_190	ATP1A2	ATP1A2	ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide	8930	-0.5582490563392639	-0.21367744	No	
+row_191	SLC17A3	SLC17A3	solute carrier family 17 (sodium phosphate), member 3	8932	-0.5585756897926331	-0.21199171	No	
+row_192	SLC1A2	SLC1A2	solute carrier family 1 (glial high affinity glutamate transporter), member 2	9014	-0.5797126293182373	-0.21759233	No	
+row_193	CLCN3	CLCN3	chloride channel 3	9029	-0.5833232402801514	-0.2170228	No	
+row_194	ITPR1	ITPR1	inositol 1,4,5-triphosphate receptor, type 1	9048	-0.5899640321731567	-0.21679983	No	
+row_195	COX5B	COX5B	cytochrome c oxidase subunit Vb	9094	-0.6013387441635132	-0.21902248	No	
+row_196	SLC17A1	SLC17A1	solute carrier family 17 (sodium phosphate), member 1	9175	-0.6225348711013794	-0.2243949	No	
+row_197	SLC4A3	SLC4A3	solute carrier family 4, anion exchanger, member 3	9196	-0.6276535987854004	-0.22423582	No	
+row_198	SLC25A13	SLC25A13	solute carrier family 25, member 13 (citrin)	9257	-0.6481984257698059	-0.22768816	No	
+row_199	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	9331	-0.6723583340644836	-0.23225857	No	
+row_200	SLC7A2	SLC7A2	solute carrier family 7 (cationic amino acid transporter, y+ system), member 2	9345	-0.6791031360626221	-0.2312923	No	
+row_201	KCNN2	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	9387	-0.6913993954658508	-0.23286068	No	
+row_202	ATP6V0C	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	9428	-0.7068187594413757	-0.23428805	No	
+row_203	SLC17A2	SLC17A2	solute carrier family 17 (sodium phosphate), member 2	9429	-0.7072097063064575	-0.23203738	No	
+row_204	ATP1B2	ATP1B2	ATPase, Na+/K+ transporting, beta 2 polypeptide	9533	-0.7544164061546326	-0.23910426	No	
+row_205	CLCN2	CLCN2	chloride channel 2	9538	-0.757045567035675	-0.23706266	No	
+row_206	KCNK4	KCNK4	potassium channel, subfamily K, member 4	9576	-0.775842010974884	-0.23799461	No	
+row_207	NNT	NNT	nicotinamide nucleotide transhydrogenase	9602	-0.7883973121643066	-0.23778357	No	
+row_208	SLC10A2	SLC10A2	solute carrier family 10 (sodium/bile acid cotransporter family), member 2	9610	-0.7914778590202332	-0.23590815	No	
+row_209	CACNG1	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	9746	-0.8737550377845764	-0.24553667	No	
+row_210	ABCC2	ABCC2	ATP-binding cassette, sub-family C (CFTR/MRP), member 2	9767	-0.8841755390167236	-0.24456121	No	
+row_211	ATP2C1	ATP2C1	ATPase, Ca++ transporting, type 2C, member 1	9787	-0.8943285346031189	-0.24346152	No	
+row_212	SLC6A9	SLC6A9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9	9825	-0.9131582975387573	-0.24395648	No	
+row_213	SLC19A2	SLC19A2	solute carrier family 19 (thiamine transporter), member 2	9828	-0.914871871471405	-0.24122876	No	
+row_214	SLC16A7	SLC16A7	solute carrier family 16, member 7 (monocarboxylic acid transporter 2)	9900	-0.9629396796226501	-0.24469057	No	
+row_215	SLC12A9	SLC12A9	solute carrier family 12 (potassium/chloride transporters), member 9	9904	-0.9641411900520325	-0.24189797	No	
+row_216	RYR3	RYR3	ryanodine receptor 3	10014	-1.041000485420227	-0.24860433	No	
+row_217	SLC1A7	SLC1A7	solute carrier family 1 (glutamate transporter), member 7	10019	-1.0456029176712036	-0.2456444	No	
+row_218	ABCC3	ABCC3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	10022	-1.0466119050979614	-0.24249743	No	
+row_219	SLC23A2	SLC23A2	solute carrier family 23 (nucleobase transporters), member 2	10026	-1.0505951642990112	-0.2394297	No	
+row_220	KCNS3	KCNS3	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3	10148	-1.152243971824646	-0.24688506	No	
+row_221	COX5A	COX5A	cytochrome c oxidase subunit Va	10167	-1.1666308641433716	-0.24482685	No	
+row_222	SLC13A4	SLC13A4	solute carrier family 13 (sodium/sulfate symporters), member 4	10185	-1.1918517351150513	-0.24259646	No	
+row_223	SLC9A7	SLC9A7	solute carrier family 9 (sodium/hydrogen exchanger), member 7	10190	-1.1970467567443848	-0.23915458	No	
+row_224	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	10216	-1.2265994548797607	-0.23754896	No	
+row_225	COX11	COX11	COX11 homolog, cytochrome c oxidase assembly protein (yeast)	10386	-1.516408085823059	-0.24825756	No	
+row_226	SLC26A4	SLC26A4	solute carrier family 26, member 4	10434	-1.6079752445220947	-0.24746047	No	
+row_227	PLP2	PLP2	proteolipid protein 2 (colonic epithelium-enriched)	10453	-1.647687315940857	-0.24387132	No	
+row_228	TRPV1	TRPV1	transient receptor potential cation channel, subfamily V, member 1	10523	-1.9226393699645996	-0.24409507	No	
+row_229	SLC39A2	SLC39A2	solute carrier family 39 (zinc transporter), member 2	10558	-2.0460808277130127	-0.24070875	No	
+row_230	SLC16A4	SLC16A4	solute carrier family 16, member 4 (monocarboxylic acid transporter 5)	10613	-2.4533116817474365	-0.23786485	No	
+row_231	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	10654	-2.9979500770568848	-0.23200077	No	
+row_232	KCNH3	KCNH3	potassium voltage-gated channel, subfamily H (eag-related), member 3	10680	-3.174114465713501	-0.22419725	No	
+row_233	CACNA1E	CACNA1E	calcium channel, voltage-dependent, alpha 1E subunit	10694	-3.174114465713501	-0.21529068	No	
+row_234	CACNA1F	CACNA1F	calcium channel, voltage-dependent, alpha 1F subunit	10727	-3.1799471378326416	-0.20811203	No	
+row_235	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	10730	-3.184537410736084	-0.19816117	No	
+row_236	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	10764	-3.2519092559814453	-0.19084543	No	
+row_237	SLC6A5	SLC6A5	solute carrier family 6 (neurotransmitter transporter, glycine), member 5	10784	-3.2519092559814453	-0.18224281	No	
+row_238	SLC1A6	SLC1A6	solute carrier family 1 (high affinity aspartate/glutamate transporter), member 6	10801	-3.252790689468384	-0.17336161	No	
+row_239	FXYD2	FXYD2	FXYD domain containing ion transport regulator 2	10856	-3.3511762619018555	-0.16766028	No	
+row_240	KCNA6	KCNA6	potassium voltage-gated channel, shaker-related subfamily, member 6	10858	-3.3511762619018555	-0.15708718	No	
+row_241	KCNQ3	KCNQ3	potassium voltage-gated channel, KQT-like subfamily, member 3	10862	-3.3511762619018555	-0.14669792	No	
+row_242	KCNMB2	KCNMB2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	10913	-3.3511762619018555	-0.1406289	No	
+row_243	P2RX5	P2RX5	purinergic receptor P2X, ligand-gated ion channel, 5	10941	-4.166028022766113	-0.12985249	No	
+row_244	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	10960	-4.250924587249756	-0.117978595	No	
+row_245	ATP1A3	ATP1A3	ATPase, Na+/K+ transporting, alpha 3 polypeptide	10973	-4.264456748962402	-0.10551013	No	
+row_246	SLC4A11	SLC4A11	solute carrier family 4, sodium bicarbonate transporter-like, member 11	10992	-4.30354118347168	-0.09346879	No	
+row_247	SLC15A2	SLC15A2	solute carrier family 15 (H+/peptide transporter), member 2	11001	-4.311687469482422	-0.080482334	No	
+row_248	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	11003	-4.336911201477051	-0.066772155	No	
+row_249	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	11014	-4.358260631561279	-0.053821314	No	
+row_250	SCN2B	SCN2B	sodium channel, voltage-gated, type II, beta	11055	-4.883412837982178	-0.041956797	No	
+row_251	ADAMTS8	ADAMTS8	ADAM metallopeptidase with thrombospondin type 1 motif, 8	11057	-4.9009904861450195	-0.026451454	No	
+row_252	KCNH2	KCNH2	potassium voltage-gated channel, subfamily H (eag-related), member 2	11061	-4.939411163330078	-0.011007678	No	
+row_253	KCNN3	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	11085	-5.480600833892822	0.0043200147	No	

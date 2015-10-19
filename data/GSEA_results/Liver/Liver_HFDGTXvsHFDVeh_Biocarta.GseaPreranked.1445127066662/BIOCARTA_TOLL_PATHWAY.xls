@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PGLYRP1	PGLYRP1	peptidoglycan recognition protein 1	41	5.761847019195557	0.26204538	Yes	
+row_1	TLR7	TLR7	toll-like receptor 7	645	1.7593270540237427	0.28885725	Yes	
+row_2	CD14	CD14	CD14 molecule	703	1.6354928016662598	0.35915145	Yes	
+row_3	TLR4	TLR4	toll-like receptor 4	939	1.3077402114868164	0.39829203	Yes	
+row_4	TLR2	TLR2	toll-like receptor 2	1027	1.217453122138977	0.4466031	Yes	
+row_5	TLR6	TLR6	toll-like receptor 6	1507	0.8840712308883667	0.44421986	Yes	
+row_6	TLR9	TLR9	toll-like receptor 9	1935	0.7160693407058716	0.43877342	Yes	
+row_7	RELA	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	2089	0.667168378829956	0.45575857	Yes	
+row_8	IRAK1	IRAK1	interleukin-1 receptor-associated kinase 1	3666	0.2999592423439026	0.32759807	No	
+row_9	TLR3	TLR3	toll-like receptor 3	4296	0.1843736618757248	0.2794297	No	
+row_10	MYD88	MYD88	myeloid differentiation primary response gene (88)	4545	0.1466180682182312	0.26384744	No	
+row_11	MAP3K7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	4633	0.13202670216560364	0.26209804	No	
+row_12	EIF2AK2	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	4838	0.09860587120056152	0.24826577	No	
+row_13	ELK1	ELK1	ELK1, member of ETS oncogene family	4873	0.0936439037322998	0.24952134	No	
+row_14	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	0.24949689	No	
+row_15	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	5234	0.04185903072357178	0.22304653	No	
+row_16	MAP2K3	MAP2K3	mitogen-activated protein kinase kinase 3	5290	0.03326675668358803	0.2196254	No	
+row_17	ECSIT	ECSIT	ECSIT homolog (Drosophila)	5337	0.02695845440030098	0.21672422	No	
+row_18	NFKB1	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	5536	-0.0037344959564507008	0.19905701	No	
+row_19	TRAF6	TRAF6	TNF receptor-associated factor 6	5855	-0.05110254883766174	0.17276266	No	
+row_20	LY96	LY96	lymphocyte antigen 96	5860	-0.05142022296786308	0.1747738	No	
+row_21	IKBKB	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	6433	-0.1023421660065651	0.1279577	No	
+row_22	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	0.10468643	No	
+row_23	TOLLIP	TOLLIP	toll interacting protein	6817	-0.15916664898395538	0.10788277	No	
+row_24	IKBKG	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	6939	-0.17999128997325897	0.10528218	No	
+row_25	TIRAP	TIRAP	toll-interleukin 1 receptor (TIR) domain containing adaptor protein	8001	-0.3507424294948578	0.025864407	No	
+row_26	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	8248	-0.4003917872905731	0.02216653	No	
+row_27	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1	8251	-0.40070152282714844	0.040466897	No	
+row_28	NFKBIA	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	8325	-0.41318976879119873	0.05294626	No	
+row_29	JUN	JUN	jun oncogene	8842	-0.5396010875701904	0.03134227	No	
+row_30	PPARA	PPARA	peroxisome proliferative activated receptor, alpha	9588	-0.7811052203178406	2.4409205E-4	No	
+row_31	MAP3K14	MAP3K14	mitogen-activated protein kinase kinase kinase 14	9768	-0.8846566677093506	0.024917345	No	
+row_32	CHUK	CHUK	conserved helix-loop-helix ubiquitous kinase	9990	-1.0178461074829102	0.05194924	No	
+row_33	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	10100	-1.10260808467865	0.0929814	No	

@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.22013582	Yes	
+row_1	IFNG	IFNG	interferon, gamma	142	4.4274396896362305	0.3678004	Yes	
+row_2	IL4	IL4	interleukin 4	195	4.091798305511475	0.50931925	Yes	
+row_3	IL18R1	IL18R1	interleukin 18 receptor 1	738	1.578883171081543	0.5169814	Yes	
+row_4	CD86	CD86	CD86 molecule	1274	1.0078647136688232	0.5048713	No	
+row_5	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	1670	0.814215362071991	0.49843445	No	
+row_6	IFNGR1	IFNGR1	interferon gamma receptor 1	2247	0.6143765449523926	0.46857762	No	
+row_7	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	2593	0.5288906097412109	0.4564436	No	
+row_8	IFNGR2	IFNGR2	interferon gamma receptor 2 (interferon gamma transducer 1)	2980	0.4374246597290039	0.4373539	No	
+row_9	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	3302	0.37053346633911133	0.4217206	No	
+row_10	IL2RA	IL2RA	interleukin 2 receptor, alpha	4589	0.1383255571126938	0.31099457	No	
+row_11	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	6210	-0.07875943183898926	0.1680989	No	
+row_12	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	10062	-1.0751752853393555	-0.13986138	No	
+row_13	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	10780	-3.2519092559814453	-0.08816385	No	
+row_14	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	0.019517863	No	

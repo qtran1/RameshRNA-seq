@@ -1,0 +1,20 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.04289973	No	
+row_1	TUBE1	TUBE1	tubulin, epsilon 1	1140	1.097443699836731	0.062398117	No	
+row_2	UXT	UXT	ubiquitously-expressed transcript	1221	1.0336174964904785	0.11500402	No	
+row_3	TOP2A	TOP2A	topoisomerase (DNA) II alpha 170kDa	1494	0.8913071751594543	0.14210048	No	
+row_4	TUBG1	TUBG1	tubulin, gamma 1	2654	0.5146428942680359	0.06759429	No	
+row_5	CETN3	CETN3	centrin, EF-hand protein, 3 (CDC31 homolog, yeast)	3632	0.30637791752815247	-0.0025861477	No	
+row_6	CKAP5	CKAP5	cytoskeleton associated protein 5	5165	0.0513153076171875	-0.13746126	No	
+row_7	TUBGCP6	TUBGCP6	tubulin, gamma complex associated protein 6	5434	0.01134917326271534	-0.16091834	No	
+row_8	TUBD1	TUBD1	tubulin, delta 1	6626	-0.12893547117710114	-0.26062042	No	
+row_9	TUBGCP5	TUBGCP5	tubulin, gamma complex associated protein 5	8651	-0.49251556396484375	-0.41423663	No	
+row_10	CEP290	CEP290	centrosomal protein 290kDa	9310	-0.666523814201355	-0.43487686	Yes	
+row_11	MARK4	MARK4	MAP/microtubule affinity-regulating kinase 4	9669	-0.8206785321235657	-0.4196049	Yes	
+row_12	KATNB1	KATNB1	katanin p80 (WD repeat containing) subunit B 1	9739	-0.8695603013038635	-0.37550142	Yes	
+row_13	BBS4	BBS4	Bardet-Biedl syndrome 4	9788	-0.89565509557724	-0.32799864	Yes	
+row_14	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	10064	-1.0788389444351196	-0.2903217	Yes	
+row_15	PCM1	PCM1	pericentriolar material 1	10139	-1.1451456546783447	-0.23072304	Yes	
+row_16	CNTROB	CNTROB	centrobin, centrosomal BRCA2 interacting protein	10349	-1.425058126449585	-0.16707578	Yes	
+row_17	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	10480	-1.7498677968978882	-0.07752722	Yes	
+row_18	CROCC	CROCC	ciliary rootlet coiled-coil, rootletin	10606	-2.3523035049438477	0.047327533	Yes	

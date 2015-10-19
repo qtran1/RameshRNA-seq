@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UXT	UXT	ubiquitously-expressed transcript	1221	1.0336174964904785	-0.058998194	No	
+row_1	MAPT	MAPT	microtubule-associated protein tau	1754	0.7838812470436096	-0.06826303	No	
+row_2	RAE1	RAE1	RAE1 RNA export 1 homolog (S. pombe)	2062	0.6739281415939331	-0.062686875	No	
+row_3	MAPRE1	MAPRE1	microtubule-associated protein, RP/EB family, member 1	2273	0.6093549728393555	-0.05155906	No	
+row_4	ATG4D	ATG4D	ATG4 autophagy related 4 homolog D (S. cerevisiae)	2924	0.44897034764289856	-0.087959215	No	
+row_5	MAP1S	MAP1S	microtubule-associated protein 1S	3100	0.4135967493057251	-0.08332959	No	
+row_6	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	3286	0.3734842538833618	-0.08157781	No	
+row_7	KIF5B	KIF5B	kinesin family member 5B	4500	0.1548122614622116	-0.1831764	No	
+row_8	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	4579	0.13956303894519806	-0.18332048	No	
+row_9	TUBGCP6	TUBGCP6	tubulin, gamma complex associated protein 6	5434	0.01134917326271534	-0.2596633	No	
+row_10	CLASP2	CLASP2	cytoplasmic linker associated protein 2	6614	-0.12679554522037506	-0.35958132	No	
+row_11	CLASP1	CLASP1	cytoplasmic linker associated protein 1	6628	-0.12921951711177826	-0.35438207	No	
+row_12	POLB	POLB	polymerase (DNA directed), beta	6694	-0.13917440176010132	-0.3533747	No	
+row_13	APC	APC	adenomatosis polyposis coli	7269	-0.22912870347499847	-0.3937682	No	
+row_14	HOOK3	HOOK3	hook homolog 3 (Drosophila)	7649	-0.2938847243785858	-0.4134099	No	
+row_15	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	7986	-0.3486081659793854	-0.42648184	No	
+row_16	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	8125	-0.37607306241989136	-0.4203701	No	
+row_17	TARDBP	TARDBP	TAR DNA binding protein	8546	-0.4619118571281433	-0.43542093	No	
+row_18	TUBGCP5	TUBGCP5	tubulin, gamma complex associated protein 5	8651	-0.49251556396484375	-0.42050746	No	
+row_19	CEP290	CEP290	centrosomal protein 290kDa	9310	-0.666523814201355	-0.4469037	Yes	
+row_20	MARK4	MARK4	MAP/microtubule affinity-regulating kinase 4	9669	-0.8206785321235657	-0.43868598	Yes	
+row_21	TPPP	TPPP	-	9934	-0.9835708141326904	-0.41397384	Yes	
+row_22	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	9935	-0.9836189150810242	-0.36548623	Yes	
+row_23	ATG4C	ATG4C	ATG4 autophagy related 4 homolog C (S. cerevisiae)	10075	-1.0868558883666992	-0.32442644	Yes	
+row_24	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	10165	-1.163871169090271	-0.27506772	Yes	
+row_25	ATG4A	ATG4A	ATG4 autophagy related 4 homolog A (S. cerevisiae)	10230	-1.2417757511138916	-0.21961741	Yes	
+row_26	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	10480	-1.7498677968978882	-0.15577984	Yes	
+row_27	DCX	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	11005	-4.349355220794678	0.011436147	Yes	

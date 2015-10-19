@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.35582107	Yes	
+row_1	LCK	LCK	lymphocyte-specific protein tyrosine kinase	650	1.752270221710205	0.4003921	Yes	
+row_2	IL2RG	IL2RG	interleukin 2 receptor, gamma (severe combined immunodeficiency)	661	1.7324550151824951	0.49917355	Yes	
+row_3	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.48230952	Yes	
+row_4	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.4832432	Yes	
+row_5	IL2RB	IL2RB	interleukin 2 receptor, beta	2088	0.6672580242156982	0.5045355	Yes	
+row_6	STAT5A	STAT5A	signal transducer and activator of transcription 5A	2213	0.6247561573982239	0.52932245	Yes	
+row_7	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.41361862	No	
+row_8	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.40918788	No	
+row_9	CSNK2A1	CSNK2A1	casein kinase 2, alpha 1 polypeptide	4250	0.1920335292816162	0.38900673	No	
+row_10	IL2RA	IL2RA	interleukin 2 receptor, alpha	4589	0.1383255571126938	0.36654538	No	
+row_11	JAK1	JAK1	Janus kinase 1 (a protein tyrosine kinase)	4865	0.09439565241336823	0.34722644	No	
+row_12	ELK1	ELK1	ELK1, member of ETS oncogene family	4873	0.0936439037322998	0.35198447	No	
+row_13	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.27883613	No	
+row_14	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.2664122	No	
+row_15	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	0.1948664	No	
+row_16	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	0.1518995	No	
+row_17	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.10218097	No	
+row_18	STAT5B	STAT5B	signal transducer and activator of transcription 5B	8412	-0.42906373739242554	0.10931814	No	
+row_19	JUN	JUN	jun oncogene	8842	-0.5396010875701904	0.10175516	No	
+row_20	JAK3	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	9431	-0.7078027725219727	0.08955997	No	
+row_21	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	10100	-1.10260808467865	0.0928809	No	

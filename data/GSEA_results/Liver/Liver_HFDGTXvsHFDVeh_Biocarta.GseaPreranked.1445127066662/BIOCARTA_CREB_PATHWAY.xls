@@ -1,0 +1,26 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	1363	0.9604483842849731	-0.03369048	No	
+row_1	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.044980384	No	
+row_2	CAMK2B	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	1579	0.8526473641395569	0.111399785	No	
+row_3	ADCY1	ADCY1	adenylate cyclase 1 (brain)	2123	0.6545860171318054	0.1231828	No	
+row_4	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.0131402835	No	
+row_5	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.008481943	No	
+row_6	CAMK2D	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	4165	0.207004576921463	0.005880923	No	
+row_7	CAMK2G	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	4260	0.1908029168844223	0.015102073	No	
+row_8	CREB1	CREB1	cAMP responsive element binding protein 1	4538	0.1476452350616455	0.0038487767	No	
+row_9	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	0.012458472	No	
+row_10	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	-0.0058690337	No	
+row_11	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	-8.326337E-4	No	
+row_12	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.012455859	No	
+row_13	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	-0.042954165	No	
+row_14	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	-0.062599815	No	
+row_15	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	-0.06906977	No	
+row_16	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	-0.06873822	No	
+row_17	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	-0.07523017	No	
+row_18	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	-0.09669428	No	
+row_19	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	-0.1394234	No	
+row_20	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	-0.12454151	No	
+row_21	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	-0.20213671	No	
+row_22	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.24599485	Yes	
+row_23	RPS6KA5	RPS6KA5	ribosomal protein S6 kinase, 90kDa, polypeptide 5	10338	-1.4046822786331177	-0.16766413	Yes	
+row_24	CAMK2A	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	10626	-2.579364061355591	0.045552805	Yes	

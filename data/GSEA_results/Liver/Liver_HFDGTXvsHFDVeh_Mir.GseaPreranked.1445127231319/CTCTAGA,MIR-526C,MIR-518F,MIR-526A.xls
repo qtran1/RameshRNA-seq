@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARL2BP	ARL2BP	ADP-ribosylation factor-like 2 binding protein	1162	1.0795317888259888	-0.053364858	No	
+row_1	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1231	1.025727391242981	-0.010703728	No	
+row_2	HMGN1	HMGN1	high-mobility group nucleosome binding domain 1	2844	0.46808966994285583	-0.13370344	No	
+row_3	CBX8	CBX8	chromobox homolog 8 (Pc class homolog, Drosophila)	3274	0.3757040798664093	-0.15449211	No	
+row_4	DTNA	DTNA	dystrobrevin, alpha	3371	0.3601374626159668	-0.14601308	No	
+row_5	EGLN3	EGLN3	egl nine homolog 3 (C. elegans)	3785	0.27798646688461304	-0.17000787	No	
+row_6	FAM126A	FAM126A	family with sequence similarity 126, member A	4492	0.1556684821844101	-0.22622427	No	
+row_7	TMEM117	TMEM117	transmembrane protein 117	5173	0.05062325298786163	-0.2850942	No	
+row_8	SLC25A3	SLC25A3	solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 3	5192	0.048355285078287125	-0.28441623	No	
+row_9	TJAP1	TJAP1	tight junction associated protein 1 (peripheral)	5934	-0.05919391289353371	-0.34837547	No	
+row_10	CS	CS	citrate synthase	5949	-0.06132753938436508	-0.34672	No	
+row_11	TBC1D8B	TBC1D8B	TBC1 domain family, member 8B (with GRAM domain)	6017	-0.0720554068684578	-0.34933034	No	
+row_12	JPH4	JPH4	junctophilin 4	6136	-0.07875943183898926	-0.35621765	No	
+row_13	SLC4A10	SLC4A10	solute carrier family 4, sodium bicarbonate transporter-like, member 10	6159	-0.07875943183898926	-0.35445395	No	
+row_14	SS18	SS18	synovial sarcoma translocation, chromosome 18	6357	-0.09161260724067688	-0.36784893	No	
+row_15	FHL1	FHL1	four and a half LIM domains 1	6396	-0.097429558634758	-0.36663902	No	
+row_16	ZC3H12B	ZC3H12B	zinc finger CCCH-type containing 12B	6489	-0.10930239409208298	-0.36973056	No	
+row_17	BCL2L2	BCL2L2	BCL2-like 2	6884	-0.17134074866771698	-0.3970858	No	
+row_18	H3F3B	H3F3B	H3 histone, family 3B (H3.3B)	7231	-0.22212918102741241	-0.41769978	No	
+row_19	SLTM	SLTM	SAFB-like, transcription modulator	7248	-0.2249452769756317	-0.40844205	No	
+row_20	WAPAL	WAPAL	wings apart-like homolog (Drosophila)	7264	-0.22761236131191254	-0.39896736	No	
+row_21	USP8	USP8	ubiquitin specific peptidase 8	7364	-0.2451636642217636	-0.39622742	No	
+row_22	PUM2	PUM2	pumilio homolog 2 (Drosophila)	7479	-0.2641860544681549	-0.3939344	No	
+row_23	CD9	CD9	CD9 molecule	8070	-0.3653624355792999	-0.4297234	No	
+row_24	ANTXR1	ANTXR1	anthrax toxin receptor 1	8464	-0.44182059168815613	-0.4441231	Yes	
+row_25	SLC25A33	SLC25A33	solute carrier family 25, member 33	8561	-0.4656677544116974	-0.4306245	Yes	
+row_26	CBX4	CBX4	chromobox homolog 4 (Pc class homolog, Drosophila)	9016	-0.5797749757766724	-0.44395936	Yes	
+row_27	FLT3	FLT3	fms-related tyrosine kinase 3	9108	-0.6041225790977478	-0.42342457	Yes	
+row_28	SMC1A	SMC1A	structural maintenance of chromosomes 1A	9700	-0.8425208926200867	-0.43660754	Yes	
+row_29	KLHL7	KLHL7	kelch-like 7 (Drosophila)	10053	-1.066999077796936	-0.41757584	Yes	
+row_30	ZFP36L1	ZFP36L1	zinc finger protein 36, C3H type-like 1	10251	-1.2722291946411133	-0.37481457	Yes	
+row_31	RBM3	RBM3	RNA binding motif (RNP1, RRM) protein 3	10325	-1.3716340065002441	-0.3161509	Yes	
+row_32	ING3	ING3	inhibitor of growth family, member 3	10352	-1.4308470487594604	-0.25043535	Yes	
+row_33	KLF12	KLF12	Kruppel-like factor 12	10366	-1.461053729057312	-0.18211156	Yes	
+row_34	ANK2	ANK2	ankyrin 2, neuronal	10524	-1.9249314069747925	-0.10469981	Yes	
+row_35	SORCS1	SORCS1	sortilin-related VPS10 domain containing receptor 1	10889	-3.3511762619018555	0.021897845	Yes	

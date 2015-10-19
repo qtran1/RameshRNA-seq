@@ -1,0 +1,39 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNNI2	TNNI2	troponin I type 2 (skeletal, fast)	403	2.8841207027435303	0.032483406	No	
+row_1	TNNT1	TNNT1	troponin T type 1 (skeletal, slow)	449	2.6576385498046875	0.09183045	No	
+row_2	TMOD1	TMOD1	tropomodulin 1	453	2.6244659423828125	0.15417159	No	
+row_3	MYL6B	MYL6B	myosin, light chain 6B, alkali, smooth muscle and non-muscle	1436	0.9212344884872437	0.08764101	No	
+row_4	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.09499654	No	
+row_5	TPM4	TPM4	tropomyosin 4	1631	0.833195149898529	0.11045756	No	
+row_6	DES	DES	desmin	1878	0.7386014461517334	0.10590613	No	
+row_7	MYBPC2	MYBPC2	myosin binding protein C, fast type	1905	0.7289971113204956	0.12095431	No	
+row_8	MYL3	MYL3	myosin, light chain 3, alkali; ventricular, skeletal, slow	1967	0.7039380669593811	0.1322501	No	
+row_9	VIM	VIM	vimentin	2404	0.5771478414535522	0.10672205	No	
+row_10	TCAP	TCAP	titin-cap (telethonin)	2994	0.4346964359283447	0.06400557	No	
+row_11	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	-0.015373832	No	
+row_12	MYL4	MYL4	myosin, light chain 4, alkali; atrial, embryonic	4321	0.18015994131565094	-0.045235313	No	
+row_13	ITGB5	ITGB5	integrin, beta 5	4725	0.11767137795686722	-0.078750715	No	
+row_14	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	-0.1025039	No	
+row_15	TLN1	TLN1	talin 1	5715	-0.02793869748711586	-0.16537951	No	
+row_16	MYH3	MYH3	myosin, heavy chain 3, skeletal muscle, embryonic	6129	-0.07875943183898926	-0.20072454	No	
+row_17	CALD1	CALD1	caldesmon 1	7469	-0.2630423605442047	-0.31513417	No	
+row_18	MYL9	MYL9	myosin, light chain 9, regulatory	7912	-0.3364001512527466	-0.34694648	No	
+row_19	TPM1	TPM1	tropomyosin 1 (alpha)	8450	-0.43886756896972656	-0.38487667	No	
+row_20	SORBS3	SORBS3	sorbin and SH3 domain containing 3	8697	-0.5040609240531921	-0.3950235	No	
+row_21	TPM3	TPM3	tropomyosin 3	8717	-0.5086304545402527	-0.38460165	No	
+row_22	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.38665295	No	
+row_23	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.4191959	Yes	
+row_24	ITGA1	ITGA1	integrin, alpha 1	9469	-0.7243530750274658	-0.40479928	Yes	
+row_25	MYL6	MYL6	myosin, light chain 6, alkali, smooth muscle and non-muscle	9685	-0.8354088068008423	-0.40424713	Yes	
+row_26	TNNI3	TNNI3	troponin I type 3 (cardiac)	9986	-1.0145419836044312	-0.40708256	Yes	
+row_27	NEB	NEB	nebulin	9989	-1.0173245668411255	-0.38299263	Yes	
+row_28	TNNC1	TNNC1	troponin C type 1 (slow)	10158	-1.1619027853012085	-0.37041524	Yes	
+row_29	ACTG2	ACTG2	actin, gamma 2, smooth muscle, enteric	10209	-1.2155005931854248	-0.34592375	Yes	
+row_30	VCL	VCL	vinculin	10259	-1.2776516675949097	-0.3198594	Yes	
+row_31	TPM2	TPM2	tropomyosin 2 (beta)	10400	-1.5474249124526978	-0.29556096	Yes	
+row_32	LMOD1	LMOD1	leiomodin 1 (smooth muscle)	10536	-1.9680300951004028	-0.2607776	Yes	
+row_33	SORBS1	SORBS1	sorbin and SH3 domain containing 1	10563	-2.101379871368408	-0.21298864	Yes	
+row_34	MYH11	MYH11	myosin, heavy chain 11, smooth muscle	10578	-2.1716086864471436	-0.1624427	Yes	
+row_35	ACTA2	ACTA2	actin, alpha 2, smooth muscle, aorta	10622	-2.5684735774993896	-0.1050426	Yes	
+row_36	TNNT2	TNNT2	troponin T type 2 (cardiac)	10652	-2.9710710048675537	-0.03677595	Yes	
+row_37	TNNI1	TNNI1	troponin I type 1 (skeletal, slow)	10896	-3.3511762619018555	0.021270849	Yes	

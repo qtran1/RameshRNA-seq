@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EIF4E	EIF4E	eukaryotic translation initiation factor 4E	2878	0.4607425928115845	-0.19001652	No	
+row_1	TNKS1BP1	TNKS1BP1	tankyrase 1 binding protein 1, 182kDa	4715	0.11965400725603104	-0.33729336	No	
+row_2	PARN	PARN	poly(A)-specific ribonuclease (deadenylation nuclease)	4905	0.08788567036390305	-0.34115532	No	
+row_3	CNOT2	CNOT2	CCR4-NOT transcription complex, subunit 2	5709	-0.027338841930031776	-0.4093059	No	
+row_4	RQCD1	RQCD1	RCD1 required for cell differentiation1 homolog (S. pombe)	6048	-0.0762878805398941	-0.42830604	No	
+row_5	CNOT6	CNOT6	CCR4-NOT transcription complex, subunit 6	6354	-0.09111011773347855	-0.44212133	No	
+row_6	CNOT8	CNOT8	CCR4-NOT transcription complex, subunit 8	6577	-0.12216044217348099	-0.4438273	No	
+row_7	EIF4B	EIF4B	eukaryotic translation initiation factor 4B	7033	-0.19251583516597748	-0.45597458	Yes	
+row_8	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	7455	-0.26129454374313354	-0.45477954	Yes	
+row_9	CNOT7	CNOT7	CCR4-NOT transcription complex, subunit 7	7759	-0.31025198101997375	-0.43564913	Yes	
+row_10	CNOT4	CNOT4	CCR4-NOT transcription complex, subunit 4	8840	-0.538668692111969	-0.4522654	Yes	
+row_11	PAIP1	PAIP1	poly(A) binding protein interacting protein 1	8890	-0.5493104457855225	-0.37454134	Yes	
+row_12	CNOT10	CNOT10	CCR4-NOT transcription complex, subunit 10	8989	-0.5726247429847717	-0.29773945	Yes	
+row_13	EIF4G1	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	9273	-0.6528541445732117	-0.22558443	Yes	
+row_14	CNOT3	CNOT3	CCR4-NOT transcription complex, subunit 3	9480	-0.7291525602340698	-0.13509445	Yes	
+row_15	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	9801	-0.9018134474754333	-0.029043926	Yes	
+row_16	EIF4A2	EIF4A2	eukaryotic translation initiation factor 4A, isoform 2	9949	-0.9944663643836975	0.10642307	Yes	

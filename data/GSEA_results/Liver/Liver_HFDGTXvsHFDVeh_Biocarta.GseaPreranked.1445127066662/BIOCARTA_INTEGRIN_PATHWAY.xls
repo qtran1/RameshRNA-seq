@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RAP1A	RAP1A	RAP1A, member of RAS oncogene family	1420	0.9287262558937073	-0.06747354	No	
+row_1	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	-0.009037363	No	
+row_2	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2232	0.6186304092407227	-0.04020603	No	
+row_3	CAPNS1	CAPNS1	calpain, small subunit 1	2464	0.5601456761360168	-0.024539554	No	
+row_4	MAP2K2	MAP2K2	mitogen-activated protein kinase kinase 2	3560	0.32191628217697144	-0.1022481	No	
+row_5	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	-0.09449719	No	
+row_6	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.09700692	No	
+row_7	CAPN1	CAPN1	calpain 1, (mu/I) large subunit	3971	0.2410678118467331	-0.08743368	No	
+row_8	ZYX	ZYX	zyxin	4126	0.21503327786922455	-0.08730595	No	
+row_9	PXN	PXN	paxillin	4144	0.21145153045654297	-0.07506582	No	
+row_10	BCAR1	BCAR1	breast cancer anti-estrogen resistance 1	4233	0.19453644752502441	-0.070325516	No	
+row_11	CSK	CSK	c-src tyrosine kinase	4417	0.16523046791553497	-0.07605482	No	
+row_12	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	-0.12737758	No	
+row_13	RAPGEF1	RAPGEF1	Rap guanine nucleotide exchange factor (GEF) 1	5064	0.06493400782346725	-0.12540123	No	
+row_14	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	-0.124288104	No	
+row_15	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.12149043	No	
+row_16	BCR	BCR	breakpoint cluster region	5359	0.022885898128151894	-0.14252846	No	
+row_17	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	-0.17177054	No	
+row_18	TLN1	TLN1	talin 1	5715	-0.02793869748711586	-0.170852	No	
+row_19	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	-0.18190087	No	
+row_20	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	6196	-0.07875943183898926	-0.20542759	No	
+row_21	RHOA	RHOA	ras homolog gene family, member A	6342	-0.0900280550122261	-0.21263056	No	
+row_22	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	-0.24122162	No	
+row_23	FYN	FYN	FYN oncogene related to SRC, FGR, YES	7355	-0.2441510409116745	-0.27794662	No	
+row_24	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	-0.26633802	No	
+row_25	TNS1	TNS1	tensin 1	7547	-0.27654629945755005	-0.2604917	No	
+row_26	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	-0.29505777	Yes	
+row_27	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	8434	-0.4351596236228943	-0.28627017	Yes	
+row_28	CRKL	CRKL	v-crk sarcoma virus CT10 oncogene homolog (avian)-like	8454	-0.4397171139717102	-0.2593431	Yes	
+row_29	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	8496	-0.44884276390075684	-0.23380415	Yes	
+row_30	JUN	JUN	jun oncogene	8842	-0.5396010875701904	-0.22974882	Yes	
+row_31	ACTN1	ACTN1	actinin, alpha 1	9245	-0.6439093947410583	-0.22403629	Yes	
+row_32	ITGA1	ITGA1	integrin, alpha 1	9469	-0.7243530750274658	-0.19695388	Yes	
+row_33	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	9604	-0.7888804078102112	-0.15764856	Yes	
+row_34	VCL	VCL	vinculin	10259	-1.2776516675949097	-0.13336854	Yes	
+row_35	ACTN3	ACTN3	actinin, alpha 3	10807	-3.2541801929473877	0.029287243	Yes	

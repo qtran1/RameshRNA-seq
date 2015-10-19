@@ -1,0 +1,27 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BDKRB2	BDKRB2	bradykinin receptor B2	19	6.309900760650635	0.25889575	No	
+row_1	KDR	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)	1428	0.9263536930084229	0.17038836	No	
+row_2	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.19190627	No	
+row_3	FLT1	FLT1	fms-related tyrosine kinase 1 (vascular endothelial growth factor/vascular permeability factor receptor)	3170	0.3976309895515442	0.065356	No	
+row_4	PDE2A	PDE2A	phosphodiesterase 2A, cGMP-stimulated	3267	0.37747323513031006	0.0723029	No	
+row_5	SLC7A1	SLC7A1	solute carrier family 7 (cationic amino acid transporter, y+ system), member 1	3271	0.37623363733291626	0.087571695	No	
+row_6	NOS3	NOS3	nitric oxide synthase 3 (endothelial cell)	3364	0.3611946105957031	0.09420639	No	
+row_7	FLT4	FLT4	fms-related tyrosine kinase 4	3654	0.30176788568496704	0.08065014	No	
+row_8	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.06700911	No	
+row_9	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	0.07557534	No	
+row_10	PDE3A	PDE3A	phosphodiesterase 3A, cGMP-inhibited	4411	0.16680344939231873	0.040238895	No	
+row_11	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	0.030295439	No	
+row_12	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	-0.0046624397	No	
+row_13	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	-0.044537246	No	
+row_14	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	-0.09263168	No	
+row_15	ACTA1	ACTA1	actin, alpha 1, skeletal muscle	6196	-0.07875943183898926	-0.104594454	No	
+row_16	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	-0.11547563	No	
+row_17	CHRM1	CHRM1	cholinergic receptor, muscarinic 1	8152	-0.3807934820652008	-0.26099807	No	
+row_18	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	-0.2629811	No	
+row_19	CAV1	CAV1	caveolin 1, caveolae protein, 22kDa	8496	-0.44884276390075684	-0.25587758	No	
+row_20	KNG1	KNG1	kininogen 1	8703	-0.5053521394729614	-0.2535528	No	
+row_21	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	9603	-0.788467288017273	-0.3019281	Yes	
+row_22	HSP90AA1	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	9790	-0.8968024849891663	-0.28163528	Yes	
+row_23	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	10428	-1.59954833984375	-0.27292326	Yes	
+row_24	TNNI1	TNNI1	troponin I type 1 (skeletal, slow)	10896	-3.3511762619018555	-0.17656125	Yes	
+row_25	PRKG2	PRKG2	protein kinase, cGMP-dependent, type II	11031	-4.78725004196167	0.009093391	Yes	

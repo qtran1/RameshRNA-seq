@@ -1,0 +1,29 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BTK	BTK	Bruton agammaglobulinemia tyrosine kinase	472	2.4286115169525146	0.08669425	Yes	
+row_1	CD79B	CD79B	CD79b molecule, immunoglobulin-associated beta	476	2.4011917114257812	0.21416305	Yes	
+row_2	SH3KBP1	SH3KBP1	SH3-domain kinase binding protein 1	744	1.5680279731750488	0.273536	Yes	
+row_3	PLCG2	PLCG2	phospholipase C, gamma 2 (phosphatidylinositol-specific)	829	1.4566253423690796	0.34346163	Yes	
+row_4	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1231	1.025727391242981	0.36191857	Yes	
+row_5	CD19	CD19	CD19 molecule	1451	0.913950502872467	0.39081818	Yes	
+row_6	BLK	BLK	B lymphoid tyrosine kinase	1481	0.9033333659172058	0.4362624	Yes	
+row_7	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.47269085	Yes	
+row_8	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.48330003	Yes	
+row_9	NCK1	NCK1	NCK adaptor protein 1	1929	0.7177436947822571	0.5186911	Yes	
+row_10	VAV1	VAV1	vav 1 oncogene	2385	0.5819265246391296	0.508676	No	
+row_11	ITPR3	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	3008	0.4315425753593445	0.47562248	No	
+row_12	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	3276	0.3753437101840973	0.47154683	No	
+row_13	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	0.42487514	No	
+row_14	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	0.35402435	No	
+row_15	CD79A	CD79A	CD79a molecule, immunoglobulin-associated alpha	4913	0.08686971664428711	0.3478397	No	
+row_16	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	0.34319577	No	
+row_17	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.2821367	No	
+row_18	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.27381796	No	
+row_19	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.27205116	No	
+row_20	STIM1	STIM1	stromal interaction molecule 1	7007	-0.18938212096691132	0.18046	No	
+row_21	FYN	FYN	FYN oncogene related to SRC, FGR, YES	7355	-0.2441510409116745	0.16220121	No	
+row_22	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.105693124	No	
+row_23	PLCG1	PLCG1	phospholipase C, gamma 1	8220	-0.3944179117679596	0.12640527	No	
+row_24	BLNK	BLNK	B-cell linker	8286	-0.40737849473953247	0.14222383	No	
+row_25	CBLB	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	9260	-0.6490238904953003	0.08913251	No	
+row_26	PIK3AP1	PIK3AP1	phosphoinositide-3-kinase adaptor protein 1	9378	-0.6899285912513733	0.11529964	No	
+row_27	CBL	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	9629	-0.79997318983078	0.13534436	No	

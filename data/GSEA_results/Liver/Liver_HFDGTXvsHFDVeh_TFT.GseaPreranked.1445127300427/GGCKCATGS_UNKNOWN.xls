@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OVOL2	OVOL2	ovo-like 2 (Drosophila)	91	4.936389446258545	0.17075351	Yes	
+row_1	HAND1	HAND1	heart and neural crest derivatives expressed 1	400	2.8841207027435303	0.24753265	Yes	
+row_2	BASP1	BASP1	brain abundant, membrane attached signal protein 1	586	1.9273911714553833	0.30072108	Yes	
+row_3	SLC7A10	SLC7A10	solute carrier family 7, (neutral amino acid transporter, y+ system) member 10	624	1.7951292991638184	0.36246353	Yes	
+row_4	HK2	HK2	hexokinase 2	945	1.303466796875	0.38085613	Yes	
+row_5	CCND1	CCND1	cyclin D1	967	1.2794570922851562	0.4253468	Yes	
+row_6	CABP7	CABP7	calcium binding protein 7	1126	1.111298680305481	0.4513843	Yes	
+row_7	NF1	NF1	neurofibromin 1 (neurofibromatosis, von Recklinghausen disease, Watson disease)	2829	0.4716951847076416	0.3149718	No	
+row_8	SPTBN4	SPTBN4	spectrin, beta, non-erythrocytic 4	2862	0.4631083607673645	0.32887483	No	
+row_9	CCNI	CCNI	cyclin I	3283	0.3739115595817566	0.3045482	No	
+row_10	MAP3K11	MAP3K11	mitogen-activated protein kinase kinase kinase 11	3329	0.36694809794425964	0.31379256	No	
+row_11	SOCS2	SOCS2	suppressor of cytokine signaling 2	3373	0.35993531346321106	0.32296306	No	
+row_12	JAG1	JAG1	jagged 1 (Alagille syndrome)	3411	0.35082197189331055	0.33234432	No	
+row_13	BFAR	BFAR	bifunctional apoptosis regulator	3425	0.34764400124549866	0.3437751	No	
+row_14	ZFAND3	ZFAND3	zinc finger, AN1-type domain 3	3677	0.29764389991760254	0.33192658	No	
+row_15	ZBTB17	ZBTB17	zinc finger and BTB domain containing 17	4015	0.23317581415176392	0.30998406	No	
+row_16	CLOCK	CLOCK	clock homolog (mouse)	4502	0.15446986258029938	0.27174902	No	
+row_17	GON4L	GON4L	gon-4-like (C.elegans)	5237	0.041574373841285706	0.20705257	No	
+row_18	USF2	USF2	upstream transcription factor 2, c-fos interacting	5259	0.03803563117980957	0.20653738	No	
+row_19	FUT8	FUT8	fucosyltransferase 8 (alpha (1,6) fucosyltransferase)	5771	-0.03742106631398201	0.161804	No	
+row_20	INTS7	INTS7	integrator complex subunit 7	5880	-0.05352114140987396	0.1540032	No	
+row_21	CORO6	CORO6	coronin 6	6262	-0.07875975966453552	0.122493945	No	
+row_22	FXR2	FXR2	fragile X mental retardation, autosomal homolog 2	6435	-0.10241915285587311	0.11069333	No	
+row_23	KCNK10	KCNK10	potassium channel, subfamily K, member 10	6532	-0.11572210490703583	0.10622987	No	
+row_24	NDUFS8	NDUFS8	NADH dehydrogenase (ubiquinone) Fe-S protein 8, 23kDa (NADH-coenzyme Q reductase)	6622	-0.12851564586162567	0.10286159	No	
+row_25	BLVRB	BLVRB	biliverdin reductase B (flavin reductase (NADPH))	6877	-0.17075631022453308	0.08614239	No	
+row_26	RSF1	RSF1	remodeling and spacing factor 1	7005	-0.18926909565925598	0.0815492	No	
+row_27	CBFB	CBFB	core-binding factor, beta subunit	7089	-0.19985581934452057	0.08130842	No	
+row_28	RAB23	RAB23	RAB23, member RAS oncogene family	7122	-0.20635999739170074	0.08590343	No	
+row_29	CXCR4	CXCR4	chemokine (C-X-C motif) receptor 4	7274	-0.23086398839950562	0.080653496	No	
+row_30	RBBP8	RBBP8	retinoblastoma binding protein 8	7276	-0.23131148517131805	0.088949144	No	
+row_31	RPL7	RPL7	ribosomal protein L7	7304	-0.2356642484664917	0.09505751	No	
+row_32	GOLGA1	GOLGA1	golgi autoantigen, golgin subfamily a, 1	7519	-0.2711092531681061	0.08558428	No	
+row_33	OVOL1	OVOL1	ovo-like 1(Drosophila)	7532	-0.27429094910621643	0.09444594	No	
+row_34	ACIN1	ACIN1	apoptotic chromatin condensation inducer 1	7868	-0.32922568917274475	0.076165944	No	
+row_35	PTPN2	PTPN2	protein tyrosine phosphatase, non-receptor type 2	7929	-0.3393554389476776	0.08305702	No	
+row_36	RDH10	RDH10	retinol dehydrogenase 10 (all-trans)	7979	-0.34807088971138	0.091256216	No	
+row_37	SDHB	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	8178	-0.38604333996772766	0.087392874	No	
+row_38	DHX30	DHX30	DEAH (Asp-Glu-Ala-His) box polypeptide 30	8319	-0.4126981496810913	0.08972722	No	
+row_39	SMAD7	SMAD7	SMAD, mothers against DPP homolog 7 (Drosophila)	8405	-0.4273306131362915	0.097552806	No	
+row_40	CENPO	CENPO	centromere protein O	8473	-0.44392475485801697	0.10760351	No	
+row_41	CCAR1	CCAR1	cell division cycle and apoptosis regulator 1	8508	-0.4526447057723999	0.12094681	No	
+row_42	ZMYM2	ZMYM2	zinc finger, MYM-type 2	8972	-0.5670149922370911	0.09974246	No	
+row_43	MORC3	MORC3	MORC family CW-type zinc finger 3	9239	-0.6419621706008911	0.09902376	No	
+row_44	RUNX1T1	RUNX1T1	runt-related transcription factor 1; translocated to, 1 (cyclin D-related)	9916	-0.9696142077445984	0.07320335	No	
+row_45	PRPF39	PRPF39	PRP39 pre-mRNA processing factor 39 homolog (S. cerevisiae)	9968	-1.0036120414733887	0.10498779	No	

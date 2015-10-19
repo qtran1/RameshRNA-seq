@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PGLYRP1	PGLYRP1	peptidoglycan recognition protein 1	41	5.761847019195557	0.20234513	Yes	
+row_1	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	432	2.805776357650757	0.26755422	Yes	
+row_2	CD14	CD14	CD14 molecule	703	1.6354928016662598	0.3017221	Yes	
+row_3	PODXL2	PODXL2	podocalyxin-like 2	813	1.4819748401641846	0.34489968	Yes	
+row_4	PF4	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	854	1.4249783754348755	0.39225307	Yes	
+row_5	LPL	LPL	lipoprotein lipase	947	1.302017331123352	0.43052652	Yes	
+row_6	TLR2	TLR2	toll-like receptor 2	1027	1.217453122138977	0.46694678	Yes	
+row_7	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	1632	0.8331052660942078	0.44234294	Yes	
+row_8	RPL29	RPL29	ribosomal protein L29	1642	0.8302397727966309	0.4712209	Yes	
+row_9	APOA5	APOA5	apolipoprotein A-V	1772	0.7766969203948975	0.48737732	Yes	
+row_10	HBEGF	HBEGF	heparin-binding EGF-like growth factor	2335	0.5927602648735046	0.4579614	No	
+row_11	STAB2	STAB2	stabilin 2	2631	0.5200739502906799	0.44999167	No	
+row_12	FSTL1	FSTL1	follistatin-like 1	2744	0.49186405539512634	0.45749375	No	
+row_13	LRPAP1	LRPAP1	low density lipoprotein receptor-related protein associated protein 1	3091	0.4150749444961548	0.44117644	No	
+row_14	THBS2	THBS2	thrombospondin 2	3134	0.40565383434295654	0.4518998	No	
+row_15	HDGF	HDGF	hepatoma-derived growth factor (high-mobility group protein 1-like)	3481	0.3370697498321533	0.4327931	No	
+row_16	PGLYRP2	PGLYRP2	peptidoglycan recognition protein 2	3611	0.31058672070503235	0.4322819	No	
+row_17	HABP2	HABP2	hyaluronan binding protein 2	3876	0.26096662878990173	0.41783857	No	
+row_18	TNFAIP6	TNFAIP6	tumor necrosis factor, alpha-induced protein 6	4776	0.10999749600887299	0.34081015	No	
+row_19	AAMP	AAMP	angio-associated, migratory cell protein	5266	0.03731006011366844	0.29810613	No	
+row_20	POSTN	POSTN	periostin, osteoblast specific factor	5681	-0.023796867579221725	0.26167324	No	
+row_21	FGFBP1	FGFBP1	fibroblast growth factor binding protein 1	6255	-0.07875968515872955	0.21288657	No	
+row_22	TGFBR3	TGFBR3	transforming growth factor, beta receptor III (betaglycan, 300kDa)	6600	-0.12587052583694458	0.18640774	No	
+row_23	LAYN	LAYN	layilin	7246	-0.2241259217262268	0.13633507	No	
+row_24	COL13A1	COL13A1	collagen, type XIII, alpha 1	8060	-0.36355701088905334	0.076118626	No	
+row_25	MDK	MDK	midkine (neurite growth-promoting factor 2)	9896	-0.9596167802810669	-0.054822262	No	
+row_26	IMPG2	IMPG2	interphotoreceptor matrix proteoglycan 2	10030	-1.0540494918823242	-0.029108245	No	
+row_27	TNXB	TNXB	tenascin XB	10236	-1.2508267164230347	-0.0028418326	No	
+row_28	COL25A1	COL25A1	collagen, type XXV, alpha 1	10601	-2.333498001098633	0.047820583	No	

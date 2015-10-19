@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	25	6.186200141906738	0.5277217	Yes	
+row_1	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.46087885	No	
+row_2	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	2059	0.6750165224075317	0.47580397	No	
+row_3	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	0.32774907	No	
+row_4	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	0.28169468	No	
+row_5	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	4696	0.12222306430339813	0.28236157	No	
+row_6	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	0.2605968	No	
+row_7	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	0.2211594	No	
+row_8	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	0.17638615	No	
+row_9	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.15430503	No	
+row_10	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	7683	-0.298370361328125	0.060960066	No	
+row_11	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	0.035476867	No	
+row_12	GRIN2D	GRIN2D	glutamate receptor, ionotropic, N-methyl D-aspartate 2D	8737	-0.5143139362335205	0.04643854	No	
+row_13	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	0.029721614	No	
+row_14	DLG4	DLG4	discs, large homolog 4 (Drosophila)	10086	-1.0914232730865479	0.094081655	No	

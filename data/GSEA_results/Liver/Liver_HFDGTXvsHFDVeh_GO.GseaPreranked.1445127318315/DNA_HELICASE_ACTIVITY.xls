@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ERCC8	ERCC8	excision repair cross-complementing rodent repair deficiency, complementation group 8	3089	0.415137380361557	-0.24608278	No	
+row_1	XRCC6	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	4000	0.23720651865005493	-0.30973902	No	
+row_2	CHD4	CHD4	chromodomain helicase DNA binding protein 4	4141	0.21159127354621887	-0.30606475	No	
+row_3	SUPV3L1	SUPV3L1	suppressor of var1, 3-like 1 (S. cerevisiae)	5171	0.05075583979487419	-0.3947718	No	
+row_4	IGHMBP2	IGHMBP2	immunoglobulin mu binding protein 2	6364	-0.0922493040561676	-0.49495763	No	
+row_5	XRCC5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	7711	-0.3017115294933319	-0.5928929	Yes	
+row_6	CHD1	CHD1	chromodomain helicase DNA binding protein 1	7843	-0.3253380060195923	-0.5796599	Yes	
+row_7	ERCC3	ERCC3	excision repair cross-complementing rodent repair deficiency, complementation group 3 (xeroderma pigmentosum group B complementing)	7924	-0.33853182196617126	-0.56082195	Yes	
+row_8	SETX	SETX	senataxin	8100	-0.3713373839855194	-0.54801095	Yes	
+row_9	ERCC2	ERCC2	excision repair cross-complementing rodent repair deficiency, complementation group 2 (xeroderma pigmentosum D)	8157	-0.3816443681716919	-0.5236971	Yes	
+row_10	ATRX	ATRX	alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)	8268	-0.4036073386669159	-0.502554	Yes	
+row_11	WRN	WRN	Werner syndrome	8398	-0.42612019181251526	-0.4813894	Yes	
+row_12	DHX9	DHX9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	8938	-0.5606584548950195	-0.48677722	Yes	
+row_13	CHD3	CHD3	chromodomain helicase DNA binding protein 3	9324	-0.6706520318984985	-0.46984482	Yes	
+row_14	RUVBL2	RUVBL2	RuvB-like 2 (E. coli)	9338	-0.6745622158050537	-0.4191313	Yes	
+row_15	CHD2	CHD2	chromodomain helicase DNA binding protein 2	9364	-0.6861487030982971	-0.3686067	Yes	
+row_16	RECQL	RECQL	RecQ protein-like (DNA helicase Q1-like)	9552	-0.7628536224365234	-0.32676247	Yes	
+row_17	ERCC6	ERCC6	excision repair cross-complementing rodent repair deficiency, complementation group 6	9812	-0.9083837866783142	-0.28020498	Yes	
+row_18	SMARCAL1	SMARCAL1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1	9861	-0.9388027191162109	-0.21231766	Yes	
+row_19	RUVBL1	RUVBL1	RuvB-like 1 (E. coli)	9937	-0.983896791934967	-0.14339197	Yes	
+row_20	RAD54B	RAD54B	RAD54 homolog B (S. cerevisiae)	10439	-1.6141804456710815	-0.06432882	Yes	
+row_21	RECQL4	RECQL4	RecQ protein-like 4	10451	-1.6461089849472046	0.061290525	Yes	

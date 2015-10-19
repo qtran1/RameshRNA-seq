@@ -1,0 +1,46 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BDKRB2	BDKRB2	bradykinin receptor B2	19	6.309900760650635	0.14772543	Yes	
+row_1	SERPINA5	SERPINA5	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 5	432	2.805776357650757	0.17701806	Yes	
+row_2	C1QA	C1QA	complement component 1, q subcomponent, A chain	507	2.2016701698303223	0.22248688	Yes	
+row_3	C1QB	C1QB	complement component 1, q subcomponent, B chain	596	1.9034610986709595	0.25963053	Yes	
+row_4	C1QC	C1QC	complement component 1, q subcomponent, C chain	660	1.7340872287750244	0.29501754	Yes	
+row_5	CD55	CD55	CD55 molecule, decay accelerating factor for complement (Cromer blood group)	678	1.682716727256775	0.33333656	Yes	
+row_6	PLAUR	PLAUR	plasminogen activator, urokinase receptor	799	1.5019186735153198	0.35808438	Yes	
+row_7	C3AR1	C3AR1	complement component 3a receptor 1	956	1.2920454740524292	0.37461495	Yes	
+row_8	C5AR1	C5AR1	complement component 5a receptor 1	1182	1.0652525424957275	0.3795514	Yes	
+row_9	TFPI	TFPI	tissue factor pathway inhibitor (lipoprotein-associated coagulation inhibitor)	1330	0.976763129234314	0.38942677	Yes	
+row_10	KLKB1	KLKB1	kallikrein B, plasma (Fletcher factor) 1	1521	0.8784931302070618	0.3930967	Yes	
+row_11	C8B	C8B	complement component 8, beta polypeptide	1555	0.8649392127990723	0.41060507	Yes	
+row_12	CFB	CFB	complement factor B	1719	0.7948312163352966	0.41472867	Yes	
+row_13	MBL2	MBL2	mannose-binding lectin (protein C) 2, soluble (opsonic defect)	1748	0.785270631313324	0.4308012	Yes	
+row_14	FGA	FGA	fibrinogen alpha chain	2710	0.5003112554550171	0.35597992	No	
+row_15	SERPINC1	SERPINC1	serpin peptidase inhibitor, clade C (antithrombin), member 1	3085	0.4157519042491913	0.33209613	No	
+row_16	SERPINF2	SERPINF2	serpin peptidase inhibitor, clade F (alpha-2 antiplasmin, pigment epithelium derived factor), member 2	3540	0.3255251348018646	0.29886046	No	
+row_17	PLAU	PLAU	plasminogen activator, urokinase	3730	0.28795871138572693	0.2886348	No	
+row_18	F13A1	F13A1	coagulation factor XIII, A1 polypeptide	3810	0.27284660935401917	0.28797188	No	
+row_19	CD46	CD46	CD46 molecule, complement regulatory protein	3817	0.271801620721817	0.2938679	No	
+row_20	FGB	FGB	fibrinogen beta chain	4397	0.16845698654651642	0.24563889	No	
+row_21	PROC	PROC	protein C (inactivator of coagulation factors Va and VIIIa)	4742	0.11554361879825592	0.21735081	No	
+row_22	SERPING1	SERPING1	serpin peptidase inhibitor, clade G (C1 inhibitor), member 1, (angioedema, hereditary)	4806	0.10517589747905731	0.21415989	No	
+row_23	FGG	FGG	fibrinogen gamma chain	5204	0.045822031795978546	0.17944063	No	
+row_24	C8A	C8A	complement component 8, alpha polypeptide	5581	-0.010309222154319286	0.14577426	No	
+row_25	PROS1	PROS1	protein S (alpha)	5731	-0.030377013608813286	0.13305573	No	
+row_26	CR2	CR2	complement component (3d/Epstein Barr virus) receptor 2	6266	-0.07875978201627731	0.08676085	No	
+row_27	SERPIND1	SERPIND1	serpin peptidase inhibitor, clade D (heparin cofactor), member 1	6356	-0.09155864268541336	0.08090256	No	
+row_28	CFH	CFH	complement factor H	6484	-0.1089521273970604	0.07202908	No	
+row_29	C8G	C8G	complement component 8, gamma polypeptide	6808	-0.15774069726467133	0.0466343	No	
+row_30	CFI	CFI	complement factor I	6974	-0.18435043096542358	0.036119368	No	
+row_31	CPB2	CPB2	carboxypeptidase B2 (plasma, carboxypeptidase U)	7049	-0.19415204226970673	0.034043636	No	
+row_32	F2R	F2R	coagulation factor II (thrombin) receptor	7241	-0.22386176884174347	0.022119584	No	
+row_33	THBD	THBD	thrombomodulin	8087	-0.36829978227615356	-0.04536639	No	
+row_34	MASP2	MASP2	mannan-binding lectin serine peptidase 2	8175	-0.38561567664146423	-0.04408008	No	
+row_35	MASP1	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	8238	-0.3981386721134186	-0.04024249	No	
+row_36	SERPINE1	SERPINE1	serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1	8328	-0.4137732684612274	-0.03846969	No	
+row_37	PLG	PLG	plasminogen	8345	-0.41675254702568054	-0.030042633	No	
+row_38	KNG1	KNG1	kininogen 1	8703	-0.5053521394729614	-0.05027122	No	
+row_39	C4B	C4B	complement component 4B (Childo blood group)	9098	-0.602233350276947	-0.071542285	No	
+row_40	VWF	VWF	von Willebrand factor	9210	-0.6324416995048523	-0.06657483	No	
+row_41	F13B	F13B	coagulation factor XIII, B polypeptide	9333	-0.6733182668685913	-0.061631348	No	
+row_42	PLAT	PLAT	plasminogen activator, tissue	10567	-2.1222710609436035	-0.12257036	No	
+row_43	CFD	CFD	complement factor D (adipsin)	10611	-2.4382073879241943	-0.06870374	No	
+row_44	A2M	A2M	alpha-2-macroglobulin	11053	-4.881142616271973	0.007124879	No	

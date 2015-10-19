@@ -1,0 +1,35 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAV3	CAV3	caveolin 3	410	2.8841207027435303	0.061397474	No	
+row_1	APLP1	APLP1	amyloid beta (A4) precursor-like protein 1	834	1.4471549987792969	0.07262851	No	
+row_2	COL4A4	COL4A4	collagen, type IV, alpha 4	1228	1.0294032096862793	0.07231872	No	
+row_3	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	1632	0.8331052660942078	0.06441492	No	
+row_4	COL4A2	COL4A2	collagen, type IV, alpha 2	1955	0.7083749175071716	0.059556235	No	
+row_5	EFEMP2	EFEMP2	EGF-containing fibulin-like extracellular matrix protein 2	2392	0.5796523690223694	0.040037397	No	
+row_6	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	2407	0.5759530663490295	0.058413867	No	
+row_7	DST	DST	dystonin	2868	0.46234995126724243	0.0327331	No	
+row_8	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	3756	0.28258833289146423	-0.037548803	No	
+row_9	SNTB2	SNTB2	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)	4249	0.1920984834432602	-0.07532728	No	
+row_10	COL4A5	COL4A5	collagen, type IV, alpha 5 (Alport syndrome)	4479	0.15848936140537262	-0.09055587	No	
+row_11	FBN1	FBN1	fibrillin 1	4953	0.08096857368946075	-0.1304116	No	
+row_12	SGCB	SGCB	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	5541	-0.004540989641100168	-0.1831444	No	
+row_13	TINAG	TINAG	tubulointerstitial nephritis antigen	6125	-0.07875943183898926	-0.23298626	No	
+row_14	SGCE	SGCE	sarcoglycan, epsilon	6280	-0.08014316111803055	-0.24412881	No	
+row_15	COL4A3	COL4A3	collagen, type IV, alpha 3 (Goodpasture antigen)	6355	-0.09123609960079193	-0.24768527	No	
+row_16	LAMA4	LAMA4	laminin, alpha 4	6439	-0.10317901521921158	-0.2516454	No	
+row_17	LAMA3	LAMA3	laminin, alpha 3	7186	-0.2156481146812439	-0.31150585	No	
+row_18	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	7218	-0.22032430768013	-0.30678666	No	
+row_19	SNTB1	SNTB1	syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	7604	-0.28704869747161865	-0.33168718	No	
+row_20	USH2A	USH2A	Usher syndrome 2A (autosomal recessive, mild)	8027	-0.35698238015174866	-0.35753688	No	
+row_21	LAMB1	LAMB1	laminin, beta 1	8172	-0.3851238787174225	-0.35737973	No	
+row_22	MAGEE1	MAGEE1	melanoma antigen family E, 1	8263	-0.4027159810066223	-0.35175747	No	
+row_23	SMC3	SMC3	structural maintenance of chromosomes 3	8513	-0.4540150463581085	-0.3587117	No	
+row_24	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.373519	Yes	
+row_25	NID2	NID2	nidogen 2 (osteonidogen)	8984	-0.5707097053527832	-0.36279947	Yes	
+row_26	LAMB2	LAMB2	laminin, beta 2 (laminin S)	9068	-0.5942015647888184	-0.35001758	Yes	
+row_27	SNTG2	SNTG2	syntrophin, gamma 2	9155	-0.6185427308082581	-0.33667603	Yes	
+row_28	ERBB2IP	ERBB2IP	erbb2 interacting protein	9252	-0.6471136808395386	-0.3232613	Yes	
+row_29	LAMA2	LAMA2	laminin, alpha 2 (merosin, congenital muscular dystrophy)	9619	-0.7961668372154236	-0.32909092	Yes	
+row_30	COL7A1	COL7A1	collagen, type VII, alpha 1 (epidermolysis bullosa, dystrophic, dominant and recessive)	10085	-1.0911532640457153	-0.33378235	Yes	
+row_31	SGCA	SGCA	sarcoglycan, alpha (50kDa dystrophin-associated glycoprotein)	10868	-3.3511762619018555	-0.28997654	Yes	
+row_32	COLQ	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	10967	-4.25128173828125	-0.15385336	Yes	
+row_33	SNTG1	SNTG1	syntrophin, gamma 1	11065	-4.945688724517822	0.006036618	Yes	

@@ -1,0 +1,43 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UXT	UXT	ubiquitously-expressed transcript	1221	1.0336174964904785	-0.07046794	No	
+row_1	STMN1	STMN1	stathmin 1/oncoprotein 18	1305	0.9936233758926392	-0.039863255	No	
+row_2	MAPT	MAPT	microtubule-associated protein tau	1754	0.7838812470436096	-0.05020811	No	
+row_3	RAE1	RAE1	RAE1 RNA export 1 homolog (S. pombe)	2062	0.6739281415939331	-0.052054744	No	
+row_4	MAPRE1	MAPRE1	microtubule-associated protein, RP/EB family, member 1	2273	0.6093549728393555	-0.047630817	No	
+row_5	GABARAP	GABARAP	GABA(A) receptor-associated protein	2456	0.5625717639923096	-0.04247564	No	
+row_6	ATG4D	ATG4D	ATG4 autophagy related 4 homolog D (S. cerevisiae)	2924	0.44897034764289856	-0.06737162	No	
+row_7	MAP1S	MAP1S	microtubule-associated protein 1S	3100	0.4135967493057251	-0.06729591	No	
+row_8	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	3286	0.3734842538833618	-0.06965946	No	
+row_9	RAB11FIP5	RAB11FIP5	RAB11 family interacting protein 5 (class I)	3511	0.331969290971756	-0.07713074	No	
+row_10	GABARAPL2	GABARAPL2	GABA(A) receptor-associated protein-like 2	3652	0.3019186556339264	-0.078180246	No	
+row_11	ARL8A	ARL8A	ADP-ribosylation factor-like 8A	4444	0.16222822666168213	-0.14328068	No	
+row_12	KIF5B	KIF5B	kinesin family member 5B	4500	0.1548122614622116	-0.1423053	No	
+row_13	NDE1	NDE1	nudE nuclear distribution gene E homolog 1 (A. nidulans)	4579	0.13956303894519806	-0.1439882	No	
+row_14	ARL8B	ARL8B	ADP-ribosylation factor-like 8B	5362	0.022373899817466736	-0.21363817	No	
+row_15	TUBGCP6	TUBGCP6	tubulin, gamma complex associated protein 6	5434	0.01134917326271534	-0.21960472	No	
+row_16	VAPB	VAPB	VAMP (vesicle-associated membrane protein)-associated protein B and C	6027	-0.0741925984621048	-0.2701373	No	
+row_17	NCALD	NCALD	neurocalcin delta	6278	-0.07993023097515106	-0.28961417	No	
+row_18	RABGAP1	RABGAP1	RAB GTPase activating protein 1	6478	-0.10846077650785446	-0.30339906	No	
+row_19	CLASP2	CLASP2	cytoplasmic linker associated protein 2	6614	-0.12679554522037506	-0.3107107	No	
+row_20	CLASP1	CLASP1	cytoplasmic linker associated protein 1	6628	-0.12921951711177826	-0.30692947	No	
+row_21	POLB	POLB	polymerase (DNA directed), beta	6694	-0.13917440176010132	-0.30745515	No	
+row_22	GABARAPL1	GABARAPL1	GABA(A) receptor-associated protein like 1	7133	-0.20799610018730164	-0.33897358	No	
+row_23	APC	APC	adenomatosis polyposis coli	7269	-0.22912870347499847	-0.34236252	No	
+row_24	HOOK3	HOOK3	hook homolog 3 (Drosophila)	7649	-0.2938847243785858	-0.36526898	No	
+row_25	BRCA2	BRCA2	breast cancer 2, early onset	7662	-0.2953092157840729	-0.35503095	No	
+row_26	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	7986	-0.3486081659793854	-0.37079057	No	
+row_27	KATNA1	KATNA1	katanin p60 (ATPase-containing) subunit A 1	8125	-0.37607306241989136	-0.3688172	No	
+row_28	TARDBP	TARDBP	TAR DNA binding protein	8546	-0.4619118571281433	-0.38897943	No	
+row_29	TUBGCP5	TUBGCP5	tubulin, gamma complex associated protein 5	8651	-0.49251556396484375	-0.37947696	No	
+row_30	CEP290	CEP290	centrosomal protein 290kDa	9310	-0.666523814201355	-0.41325474	Yes	
+row_31	RACGAP1	RACGAP1	Rac GTPase activating protein 1	9362	-0.685002863407135	-0.39159507	Yes	
+row_32	MARK4	MARK4	MAP/microtubule affinity-regulating kinase 4	9669	-0.8206785321235657	-0.3877262	Yes	
+row_33	CENPJ	CENPJ	centromere protein J	9794	-0.8970035314559937	-0.3645219	Yes	
+row_34	TPPP	TPPP	-	9934	-0.9835708141326904	-0.33935168	Yes	
+row_35	CDK5RAP2	CDK5RAP2	CDK5 regulatory subunit associated protein 2	9935	-0.9836189150810242	-0.30164695	Yes	
+row_36	TUBGCP3	TUBGCP3	tubulin, gamma complex associated protein 3	10064	-1.0788389444351196	-0.27183306	Yes	
+row_37	ATG4C	ATG4C	ATG4 autophagy related 4 homolog C (S. cerevisiae)	10075	-1.0868558883666992	-0.23107262	Yes	
+row_38	LRPPRC	LRPPRC	leucine-rich PPR-motif containing	10165	-1.163871169090271	-0.19448286	Yes	
+row_39	ATG4A	ATG4A	ATG4 autophagy related 4 homolog A (S. cerevisiae)	10230	-1.2417757511138916	-0.15265273	Yes	
+row_40	BIRC5	BIRC5	baculoviral IAP repeat-containing 5 (survivin)	10480	-1.7498677968978882	-0.10802626	Yes	
+row_41	DCX	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	11005	-4.349355220794678	0.011450613	Yes	

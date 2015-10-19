@@ -1,0 +1,61 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTGS2	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	94	4.894480228424072	0.10065819	Yes	
+row_1	SHC2	SHC2	SHC (Src homology 2 domain containing) transforming protein 2	235	3.431955575942993	0.16454773	Yes	
+row_2	PIK3R5	PIK3R5	phosphoinositide-3-kinase, regulatory subunit 5, p101	566	1.9867322444915771	0.17904979	Yes	
+row_3	RAC2	RAC2	ras-related C3 botulinum toxin substrate 2 (rho family, small GTP binding protein Rac2)	604	1.873409390449524	0.21748552	Yes	
+row_4	SPHK1	SPHK1	sphingosine kinase 1	702	1.6367417573928833	0.24522494	Yes	
+row_5	PLCG2	PLCG2	phospholipase C, gamma 2 (phosphatidylinositol-specific)	829	1.4566253423690796	0.26632878	Yes	
+row_6	SH2D2A	SH2D2A	SH2 domain protein 2A	858	1.4179041385650635	0.29541948	Yes	
+row_7	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	986	1.255082130432129	0.31193858	Yes	
+row_8	BAD	BAD	BCL2-antagonist of cell death	1025	1.219999074935913	0.33571288	Yes	
+row_9	PIK3R3	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	1152	1.0881930589675903	0.34860066	Yes	
+row_10	PIK3CD	PIK3CD	phosphoinositide-3-kinase, catalytic, delta polypeptide	1231	1.025727391242981	0.36443028	Yes	
+row_11	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1236	1.0232479572296143	0.38688758	Yes	
+row_12	KDR	KDR	kinase insert domain receptor (a type III receptor tyrosine kinase)	1428	0.9263536930084229	0.39029616	Yes	
+row_13	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.4100157	Yes	
+row_14	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	1570	0.8554084897041321	0.41726083	Yes	
+row_15	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	2059	0.6750165224075317	0.38824257	No	
+row_16	MAPKAPK3	MAPKAPK3	mitogen-activated protein kinase-activated protein kinase 3	2149	0.644672691822052	0.39458126	No	
+row_17	SRC	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	2232	0.6186304092407227	0.40097138	No	
+row_18	PLA2G12B	PLA2G12B	phospholipase A2, group XIIB	2310	0.5985322594642639	0.40736485	No	
+row_19	AKT3	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2770	0.48576876521110535	0.37674534	No	
+row_20	HSPB1	HSPB1	heat shock 27kDa protein 1	2909	0.4515249729156494	0.37435165	No	
+row_21	NOS3	NOS3	nitric oxide synthase 3 (endothelial cell)	3364	0.3611946105957031	0.3414057	No	
+row_22	MAP2K2	MAP2K2	mitogen-activated protein kinase kinase 2	3560	0.32191628217697144	0.33097404	No	
+row_23	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.32607698	No	
+row_24	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.3125536	No	
+row_25	MAPKAPK2	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2	3916	0.2539771795272827	0.3170433	No	
+row_26	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.32220596	No	
+row_27	PPP3R1	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	4043	0.2290821671485901	0.31647733	No	
+row_28	PXN	PXN	paxillin	4144	0.21145153045654297	0.31216174	No	
+row_29	CDC42	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	4611	0.13444137573242188	0.27307546	No	
+row_30	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4666	0.1279822289943695	0.27105275	No	
+row_31	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	4696	0.12222306430339813	0.27115935	No	
+row_32	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	0.25310588	No	
+row_33	PTK2	PTK2	PTK2 protein tyrosine kinase 2	5038	0.0698312371969223	0.24391626	No	
+row_34	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.23898217	No	
+row_35	SPHK2	SPHK2	sphingosine kinase 2	5229	0.04209175333380699	0.22908364	No	
+row_36	PIK3R2	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	5361	0.022640947252511978	0.21775797	No	
+row_37	AKT2	AKT2	v-akt murine thymoma viral oncogene homolog 2	5703	-0.026947231963276863	0.18756326	No	
+row_38	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.17767838	No	
+row_39	NRAS	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	5921	-0.05777043476700783	0.17038724	No	
+row_40	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	6049	-0.07631111145019531	0.16061965	No	
+row_41	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	6476	-0.10829923301935196	0.12456277	No	
+row_42	CASP9	CASP9	caspase 9, apoptosis-related cysteine peptidase	6828	-0.16051915287971497	0.09644363	No	
+row_43	RAC1	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	7034	-0.1926838904619217	0.082227	No	
+row_44	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.083267815	No	
+row_45	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	0.05841474	No	
+row_46	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	7683	-0.298370361328125	0.040594477	No	
+row_47	MAPK11	MAPK11	mitogen-activated protein kinase 11	8072	-0.36543917655944824	0.013703613	No	
+row_48	PLA2G6	PLA2G6	phospholipase A2, group VI (cytosolic, calcium-independent)	8077	-0.3661227524280548	0.021506941	No	
+row_49	PLCG1	PLCG1	phospholipase C, gamma 1	8220	-0.3944179117679596	0.017478507	No	
+row_50	PIK3CB	PIK3CB	phosphoinositide-3-kinase, catalytic, beta polypeptide	8314	-0.41230708360671997	0.01827418	No	
+row_51	NFAT5	NFAT5	nuclear factor of activated T-cells 5, tonicity-responsive	9096	-0.6016815900802612	-0.038840193	No	
+row_52	PLA2G4B	PLA2G4B	phospholipase A2, group IVB (cytosolic)	9153	-0.6173573136329651	-0.030130422	No	
+row_53	MAPK12	MAPK12	mitogen-activated protein kinase 12	9218	-0.6361843347549438	-0.021723283	No	
+row_54	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	9342	-0.6782974004745483	-0.017705297	No	
+row_55	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.035855006	No	
+row_56	MAPK13	MAPK13	mitogen-activated protein kinase 13	10120	-1.1347190141677856	-0.042881574	No	
+row_57	RAC3	RAC3	ras-related C3 botulinum toxin substrate 3 (rho family, small GTP binding protein Rac3)	10292	-1.326201319694519	-0.028750146	No	
+row_58	PLA2G12A	PLA2G12A	phospholipase A2, group XIIA	10381	-1.5088354349136353	-0.0030502512	No	
+row_59	PLA2G10	PLA2G10	phospholipase A2, group X	10664	-3.1740989685058594	0.042265065	No	

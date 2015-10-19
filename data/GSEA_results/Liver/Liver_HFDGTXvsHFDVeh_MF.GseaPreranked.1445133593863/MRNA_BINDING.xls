@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ELAVL2	ELAVL2	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B)	305	3.1459782123565674	0.15001829	No	
+row_1	PURB	PURB	purine-rich element binding protein B	3118	0.40893352031707764	-0.079905994	No	
+row_2	PARN	PARN	poly(A)-specific ribonuclease (deadenylation nuclease)	4905	0.08788567036390305	-0.23563229	No	
+row_3	SERBP1	SERBP1	SERPINE1 mRNA binding protein 1	4916	0.08631443977355957	-0.23166314	No	
+row_4	AUH	AUH	AU RNA binding protein/enoyl-Coenzyme A hydratase	4937	0.08354488015174866	-0.2287499	No	
+row_5	SSB	SSB	Sjogren syndrome antigen B (autoantigen La)	5243	0.04045011103153229	-0.25390857	No	
+row_6	GRSF1	GRSF1	G-rich RNA sequence binding factor 1	6661	-0.1338888555765152	-0.37384155	No	
+row_7	EIF4A1	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	7455	-0.26129454374313354	-0.43044743	No	
+row_8	SLU7	SLU7	-	7489	-0.26715007424354553	-0.41834697	No	
+row_9	PABPC4	PABPC4	poly(A) binding protein, cytoplasmic 4 (inducible form)	8833	-0.5360565185546875	-0.50893676	Yes	
+row_10	FMR1	FMR1	fragile X mental retardation 1	9026	-0.5827425122261047	-0.4933393	Yes	
+row_11	SLBP	SLBP	stem-loop (histone) binding protein	9470	-0.7244824171066284	-0.49232867	Yes	
+row_12	PABPC1	PABPC1	poly(A) binding protein, cytoplasmic 1	9801	-0.9018134474754333	-0.47114867	Yes	
+row_13	CPSF1	CPSF1	cleavage and polyadenylation specific factor 1, 160kDa	9830	-0.9163866639137268	-0.42197615	Yes	
+row_14	ZFP36	ZFP36	zinc finger protein 36, C3H type, homolog (mouse)	9887	-0.9548715949058533	-0.3731519	Yes	
+row_15	TIA1	TIA1	TIA1 cytotoxic granule-associated RNA binding protein	10061	-1.074869990348816	-0.32808506	Yes	
+row_16	ZFP36L1	ZFP36L1	zinc finger protein 36, C3H type-like 1	10251	-1.2722291946411133	-0.27332506	Yes	
+row_17	RPL35	RPL35	ribosomal protein L35	11125	-6.249054431915283	6.2975864E-4	Yes	

@@ -1,0 +1,65 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	133	4.4274396896362305	0.091305554	Yes	
+row_1	TRPV6	TRPV6	transient receptor potential cation channel, subfamily V, member 6	151	4.305593013763428	0.19024734	Yes	
+row_2	ELAVL2	ELAVL2	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B)	305	3.1459782123565674	0.24984117	Yes	
+row_3	SLC39A5	SLC39A5	solute carrier family 39 (metal ion transporter), member 5	633	1.777845025062561	0.26178795	Yes	
+row_4	MFRP	MFRP	membrane frizzled-related protein	767	1.5420769453048706	0.28575912	Yes	
+row_5	BCL11A	BCL11A	B-cell CLL/lymphoma 11A (zinc finger protein)	1178	1.0669928789138794	0.27361867	Yes	
+row_6	NRP2	NRP2	neuropilin 2	1216	1.0387669801712036	0.29451722	Yes	
+row_7	GIMAP1	GIMAP1	GTPase, IMAP family member 1	1482	0.9016584753990173	0.29161805	Yes	
+row_8	GJC1	GJC1	gap junction protein, chi 1, 31.9kDa (connexin 31.9)	1517	0.879569411277771	0.30907252	Yes	
+row_9	MRPL2	MRPL2	mitochondrial ribosomal protein L2	1671	0.814207136631012	0.3142509	Yes	
+row_10	ADAMTS5	ADAMTS5	ADAM metallopeptidase with thrombospondin type 1 motif, 5 (aggrecanase-2)	1751	0.7849072217941284	0.32543087	Yes	
+row_11	KLHL25	KLHL25	kelch-like 25 (Drosophila)	1771	0.777416467666626	0.34185657	Yes	
+row_12	ATOH8	ATOH8	atonal homolog 8 (Drosophila)	2060	0.6744242906570435	0.33157668	Yes	
+row_13	PMP22	PMP22	peripheral myelin protein 22	2064	0.6736339926719666	0.34702593	Yes	
+row_14	CD3EAP	CD3EAP	CD3e molecule, epsilon associated protein	2072	0.6707373857498169	0.3620462	Yes	
+row_15	MRVI1	MRVI1	murine retrovirus integration site 1 homolog	2506	0.551730215549469	0.33580342	Yes	
+row_16	NRGN	NRGN	neurogranin (protein kinase C substrate, RC3)	2560	0.5370163321495056	0.34354737	Yes	
+row_17	PRDM1	PRDM1	PR domain containing 1, with ZNF domain	2665	0.5117162466049194	0.34609345	Yes	
+row_18	BTBD3	BTBD3	BTB (POZ) domain containing 3	2776	0.48364657163619995	0.34744242	Yes	
+row_19	LDB2	LDB2	LIM domain binding 2	2797	0.47859635949134827	0.35680434	Yes	
+row_20	TBCC	TBCC	tubulin-specific chaperone c	2827	0.47176027297973633	0.36519367	Yes	
+row_21	HIVEP3	HIVEP3	human immunodeficiency virus type I enhancer binding protein 3	3065	0.4195641875267029	0.35357368	No	
+row_22	OTUB2	OTUB2	OTU domain, ubiquitin aldehyde binding 2	3257	0.37918922305107117	0.34516725	No	
+row_23	ONECUT2	ONECUT2	one cut domain, family member 2	3628	0.30659449100494385	0.31889543	No	
+row_24	SSBP3	SSBP3	single stranded DNA binding protein 3	3838	0.26747244596481323	0.30625573	No	
+row_25	SMG5	SMG5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	3937	0.2476656138896942	0.30318183	No	
+row_26	DLG3	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	3949	0.24490518867969513	0.30790332	No	
+row_27	TMEM79	TMEM79	transmembrane protein 79	4050	0.22780679166316986	0.3041853	No	
+row_28	PUS7L	PUS7L	pseudouridylate synthase 7 homolog (S. cerevisiae)-like	4121	0.2157442718744278	0.30289605	No	
+row_29	KLC4	KLC4	kinesin light chain 4	4177	0.20477628707885742	0.30270597	No	
+row_30	PLXDC2	PLXDC2	plexin domain containing 2	4256	0.19149209558963776	0.30012804	No	
+row_31	TXNDC12	TXNDC12	thioredoxin domain containing 12 (endoplasmic reticulum)	4262	0.19009190797805786	0.3041124	No	
+row_32	ZBTB22	ZBTB22	zinc finger and BTB domain containing 22	4818	0.10354240983724594	0.2563887	No	
+row_33	STAG3	STAG3	stromal antigen 3	5172	0.05062325298786163	0.2256792	No	
+row_34	HDLBP	HDLBP	high density lipoprotein binding protein (vigilin)	5564	-0.007428459357470274	0.19052868	No	
+row_35	INPPL1	INPPL1	inositol polyphosphate phosphatase-like 1	5712	-0.02752436138689518	0.17789066	No	
+row_36	CDC14A	CDC14A	CDC14 cell division cycle 14 homolog A (S. cerevisiae)	5729	-0.03010224737226963	0.17714767	No	
+row_37	JPH4	JPH4	junctophilin 4	6136	-0.07875943183898926	0.14230663	No	
+row_38	AICDA	AICDA	activation-induced cytidine deaminase	6166	-0.07875943183898926	0.14152467	No	
+row_39	DAB2IP	DAB2IP	DAB2 interacting protein	6275	-0.0788276195526123	0.13360725	No	
+row_40	BRPF1	BRPF1	bromodomain and PHD finger containing, 1	6663	-0.1341620236635208	0.10177562	No	
+row_41	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	6888	-0.17186418175697327	0.08554964	No	
+row_42	ITGA3	ITGA3	integrin, alpha 3 (antigen CD49C, alpha 3 subunit of VLA-3 receptor)	7056	-0.1947779357433319	0.07500789	No	
+row_43	PLP1	PLP1	proteolipid protein 1 (Pelizaeus-Merzbacher disease, spastic paraplegia 2, uncomplicated)	7121	-0.20633664727210999	0.074041165	No	
+row_44	ABI1	ABI1	abl-interactor 1	7445	-0.2593177258968353	0.050912146	No	
+row_45	PLAG1	PLAG1	pleiomorphic adenoma gene 1	7618	-0.28893086314201355	0.042115897	No	
+row_46	ADRB3	ADRB3	adrenergic, beta-3-, receptor	7646	-0.2931952178478241	0.04651881	No	
+row_47	EPHA1	EPHA1	EPH receptor A1	7940	-0.34109750390052795	0.02800852	No	
+row_48	PTMA	PTMA	prothymosin, alpha (gene sequence 28)	8067	-0.364579975605011	0.02513341	No	
+row_49	QRICH1	QRICH1	glutamine-rich 1	8279	-0.4060301184654236	0.015546498	No	
+row_50	PRPH	PRPH	peripherin	8291	-0.40822717547416687	0.024079338	No	
+row_51	IVNS1ABP	IVNS1ABP	influenza virus NS1A binding protein	8490	-0.44722405076026917	0.016628202	No	
+row_52	IRAK4	IRAK4	interleukin-1 receptor-associated kinase 4	8493	-0.44760891795158386	0.026893156	No	
+row_53	LIG3	LIG3	ligase III, DNA, ATP-dependent	8908	-0.5523320436477661	0.0023809168	No	
+row_54	NLGN2	NLGN2	neuroligin 2	8914	-0.5543690919876099	0.014866257	No	
+row_55	PELI2	PELI2	pellino homolog 2 (Drosophila)	9002	-0.5759772062301636	0.02044778	No	
+row_56	MSI2	MSI2	musashi homolog 2 (Drosophila)	9296	-0.6613011956214905	0.0094099315	No	
+row_57	KCNN2	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	9387	-0.6913993954658508	0.01741398	No	
+row_58	CLN3	CLN3	ceroid-lipofuscinosis, neuronal 3, juvenile (Batten, Spielmeyer-Vogt disease)	9409	-0.6989395022392273	0.031827614	No	
+row_59	ERRFI1	ERRFI1	ERBB receptor feedback inhibitor 1	9477	-0.7277538180351257	0.04275792	No	
+row_60	NR3C2	NR3C2	nuclear receptor subfamily 3, group C, member 2	9879	-0.9483632445335388	0.028662127	No	
+row_61	LMBR1L	LMBR1L	limb region 1 homolog (mouse)-like	10117	-1.1293402910232544	0.033605866	No	
+row_62	KTN1	KTN1	kinectin 1 (kinesin receptor)	10119	-1.1330431699752808	0.059956823	No	
+row_63	DPF3	DPF3	D4, zinc and double PHD fingers, family 3	10308	-1.3485214710235596	0.07444227	No	

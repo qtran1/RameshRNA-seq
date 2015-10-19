@@ -1,0 +1,40 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KLRC1	KLRC1	killer cell lectin-like receptor subfamily C, member 1	262	3.2831473350524902	0.066016115	Yes	
+row_1	CD8A	CD8A	CD8a molecule	451	2.646453857421875	0.12132027	Yes	
+row_2	CD247	CD247	CD247 molecule	475	2.409532308578491	0.1850292	Yes	
+row_3	ITGB7	ITGB7	integrin, beta 7	528	2.1424448490142822	0.23883238	Yes	
+row_4	ICAM4	ICAM4	intercellular adhesion molecule 4 (Landsteiner-Wiener blood group)	589	1.9198380708694458	0.28583714	Yes	
+row_5	TYROBP	TYROBP	TYRO protein tyrosine kinase binding protein	684	1.6733462810516357	0.32304776	Yes	
+row_6	KLRK1	KLRK1	killer cell lectin-like receptor subfamily K, member 1	734	1.5816421508789062	0.361811	Yes	
+row_7	ICAM1	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	959	1.2873830795288086	0.37676647	Yes	
+row_8	ITGAL	ITGAL	integrin, alpha L (antigen CD11A (p180), lymphocyte function-associated antigen 1; alpha polypeptide)	975	1.2661516666412354	0.4099813	Yes	
+row_9	CD160	CD160	CD160 molecule	1271	1.0081130266189575	0.41091263	Yes	
+row_10	CD19	CD19	CD19 molecule	1451	0.913950502872467	0.41972935	Yes	
+row_11	ITGB2	ITGB2	integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)	1501	0.8873239159584045	0.4395372	Yes	
+row_12	VCAM1	VCAM1	vascular cell adhesion molecule 1	1571	0.8553553223609924	0.45666948	Yes	
+row_13	CDH1	CDH1	cadherin 1, type 1, E-cadherin (epithelial)	1648	0.8274844288825989	0.4724099	Yes	
+row_14	CD40	CD40	CD40 molecule, TNF receptor superfamily member 5	1670	0.814215362071991	0.4927457	Yes	
+row_15	ICAM2	ICAM2	intercellular adhesion molecule 2	1950	0.7093556523323059	0.48696294	Yes	
+row_16	HCST	HCST	hematopoietic cell signal transducer	2270	0.6097328662872314	0.47485483	Yes	
+row_17	PVRL2	PVRL2	poliovirus receptor-related 2 (herpesvirus entry mediator B)	2346	0.5902357697486877	0.48420832	Yes	
+row_18	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	2412	0.5746639370918274	0.49403808	Yes	
+row_19	FCGR2B	FCGR2B	Fc fragment of IgG, low affinity IIb, receptor (CD32)	3166	0.39869052171707153	0.4370481	No	
+row_20	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	3208	0.3908016085624695	0.4440216	No	
+row_21	SELL	SELL	selectin L (lymphocyte adhesion molecule 1)	3521	0.32982614636421204	0.4249028	No	
+row_22	CD34	CD34	CD34 molecule	4020	0.23268362879753113	0.38636613	No	
+row_23	CD96	CD96	CD96 molecule	4280	0.18779227137565613	0.36814705	No	
+row_24	CD81	CD81	CD81 molecule	4515	0.1528470516204834	0.3512274	No	
+row_25	LILRB4	LILRB4	leukocyte immunoglobulin-like receptor, subfamily B (with TM and ITIM domains), member 4	5066	0.06471474468708038	0.30341783	No	
+row_26	ITGB1	ITGB1	integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)	5096	0.05998154357075691	0.30244133	No	
+row_27	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	5313	0.030349355190992355	0.28379992	No	
+row_28	CXADR	CXADR	coxsackie virus and adenovirus receptor	5368	0.02170242741703987	0.27952492	No	
+row_29	CD200R1	CD200R1	CD200 receptor 1	5481	0.005717507563531399	0.26958546	No	
+row_30	B2M	B2M	beta-2-microglobulin	5800	-0.04242503270506859	0.24207956	No	
+row_31	CRTAM	CRTAM	cytotoxic and regulatory T cell molecule	6194	-0.07875943183898926	0.2088052	No	
+row_32	PVR	PVR	poliovirus receptor	6322	-0.08797544986009598	0.19975936	No	
+row_33	KLRD1	KLRD1	killer cell lectin-like receptor subfamily D, member 1	6375	-0.09441381692886353	0.19764972	No	
+row_34	IFITM1	IFITM1	interferon induced transmembrane protein 1 (9-27)	6447	-0.10434804856777191	0.19409865	No	
+row_35	AMICA1	AMICA1	adhesion molecule, interacts with CXADR antigen 1	9770	-0.8854077458381653	-0.081170164	No	
+row_36	RAET1E	RAET1E	retinoic acid early transcript 1E	9772	-0.8858111500740051	-0.05707697	No	
+row_37	CD40LG	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	10780	-3.2519092559814453	-0.059067093	No	
+row_38	CD226	CD226	CD226 molecule	10813	-3.322465658187866	0.028754367	No	

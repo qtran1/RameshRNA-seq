@@ -1,0 +1,47 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC7A8	SLC7A8	solute carrier family 7 (cationic amino acid transporter, y+ system), member 8	715	1.6100420951843262	-0.013098692	No	
+row_1	SOX4	SOX4	SRY (sex determining region Y)-box 4	936	1.3090988397598267	0.008843631	No	
+row_2	ERP29	ERP29	endoplasmic reticulum protein 29	1676	0.8128145337104797	-0.03186662	No	
+row_3	GPM6A	GPM6A	glycoprotein M6A	1988	0.6975404620170593	-0.03765256	No	
+row_4	LRRC1	LRRC1	leucine rich repeat containing 1	2203	0.6281181573867798	-0.03690542	No	
+row_5	DYNLL1	DYNLL1	dynein, light chain, LC8-type 1	2640	0.5182433724403381	-0.059688844	No	
+row_6	ABCB9	ABCB9	ATP-binding cassette, sub-family B (MDR/TAP), member 9	2675	0.510050892829895	-0.046475086	No	
+row_7	SPTBN4	SPTBN4	spectrin, beta, non-erythrocytic 4	2862	0.4631083607673645	-0.048469443	No	
+row_8	ADIPOR1	ADIPOR1	adiponectin receptor 1	3025	0.4281761646270752	-0.04941411	No	
+row_9	SLC22A7	SLC22A7	solute carrier family 22 (organic anion transporter), member 7	3297	0.3709263205528259	-0.06201748	No	
+row_10	GTF2I	GTF2I	general transcription factor II, i	3475	0.33784785866737366	-0.06719829	No	
+row_11	RBCK1	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	3879	0.26063087582588196	-0.09522804	No	
+row_12	CALN1	CALN1	calneuron 1	3996	0.23765653371810913	-0.09810494	No	
+row_13	HECW2	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2	4013	0.2336103320121765	-0.09209142	No	
+row_14	TLK2	TLK2	tousled-like kinase 2	4382	0.17133143544197083	-0.11981468	No	
+row_15	IGF2BP2	IGF2BP2	insulin-like growth factor 2 mRNA binding protein 2	4386	0.1707160472869873	-0.11463615	No	
+row_16	CHD9	CHD9	chromodomain helicase DNA binding protein 9	4758	0.1127484142780304	-0.14449993	No	
+row_17	ELK1	ELK1	ELK1, member of ETS oncogene family	4873	0.0936439037322998	-0.1517932	No	
+row_18	ZGPAT	ZGPAT	zinc finger, CCCH-type with G patch domain	5386	0.01947837322950363	-0.19735168	No	
+row_19	KLHL18	KLHL18	kelch-like 18 (Drosophila)	5748	-0.034217994660139084	-0.22882012	No	
+row_20	TMEM47	TMEM47	transmembrane protein 47	5930	-0.058742325752973557	-0.24327055	No	
+row_21	CAPN6	CAPN6	calpain 6	5974	-0.06501929461956024	-0.24507359	No	
+row_22	DUSP13	DUSP13	dual specificity phosphatase 13	6221	-0.07875943183898926	-0.2647478	No	
+row_23	TM9SF3	TM9SF3	transmembrane 9 superfamily member 3	6296	-0.08223486691713333	-0.26879743	No	
+row_24	RAB10	RAB10	RAB10, member RAS oncogene family	6616	-0.1272740662097931	-0.29350737	No	
+row_25	ARID2	ARID2	AT rich interactive domain 2 (ARID, RFX-like)	6776	-0.15303358435630798	-0.30296376	No	
+row_26	YPEL5	YPEL5	yippee-like 5 (Drosophila)	6912	-0.17625375092029572	-0.3095143	No	
+row_27	SMURF1	SMURF1	SMAD specific E3 ubiquitin protein ligase 1	7235	-0.2223159670829773	-0.3314612	No	
+row_28	ACACA	ACACA	acetyl-Coenzyme A carboxylase alpha	7371	-0.24660037457942963	-0.33576635	No	
+row_29	IDH3G	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	7402	-0.2529890239238739	-0.330397	No	
+row_30	H3F3A	H3F3A	H3 histone, family 3A	7575	-0.2815220355987549	-0.3369247	No	
+row_31	PPP1CB	PPP1CB	protein phosphatase 1, catalytic subunit, beta isoform	7581	-0.28252729773521423	-0.32835764	No	
+row_32	RSBN1	RSBN1	round spermatid basic protein 1	7594	-0.2851589322090149	-0.32033795	No	
+row_33	RPS6KA3	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	7803	-0.319113552570343	-0.32891282	No	
+row_34	BCORL1	BCORL1	BCL6 co-repressor-like 1	7882	-0.3310127556324005	-0.3253824	No	
+row_35	SIN3A	SIN3A	SIN3 homolog A, transcription regulator (yeast)	7990	-0.3489696681499481	-0.32389453	No	
+row_36	FURIN	FURIN	furin (paired basic amino acid cleaving enzyme)	8354	-0.4183976650238037	-0.34328064	No	
+row_37	PCGF3	PCGF3	polycomb group ring finger 3	8768	-0.5208992958068848	-0.3639048	No	
+row_38	CXXC1	CXXC1	CXXC finger 1 (PHD domain)	9185	-0.6247904300689697	-0.3814834	No	
+row_39	CLK2	CLK2	CDC-like kinase 2	9970	-1.0077612400054932	-0.42002994	Yes	
+row_40	CAMTA1	CAMTA1	calmodulin binding transcription activator 1	10357	-1.4357198476791382	-0.40901846	Yes	
+row_41	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	10428	-1.59954833984375	-0.36427587	Yes	
+row_42	PPM1E	PPM1E	protein phosphatase 1E (PP2C domain containing)	10599	-2.3305506706237793	-0.30521983	Yes	
+row_43	LEP	LEP	leptin (obesity homolog, mouse)	10847	-3.351161479949951	-0.22053179	Yes	
+row_44	NTRK3	NTRK3	neurotrophic tyrosine kinase, receptor, type 3	10877	-3.3511762619018555	-0.11618061	Yes	
+row_45	PTGIR	PTGIR	prostaglandin I2 (prostacyclin) receptor (IP)	11010	-4.357571125030518	0.011003718	Yes	

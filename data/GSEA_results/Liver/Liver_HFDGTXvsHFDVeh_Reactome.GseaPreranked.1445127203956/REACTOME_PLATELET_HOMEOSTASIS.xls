@@ -1,0 +1,71 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NOS1	NOS1	nitric oxide synthase 1 (neuronal)	25	6.186200141906738	0.067008816	No	
+row_1	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	140	4.4274396896362305	0.10627946	No	
+row_2	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.1504232	No	
+row_3	PDE11A	PDE11A	phosphodiesterase 11A	301	3.1459782123565674	0.1739891	No	
+row_4	GNG13	GNG13	guanine nucleotide binding protein (G protein), gamma 13	353	3.145962953567505	0.20460536	No	
+row_5	PDE6A	PDE6A	phosphodiesterase 6A, cGMP-specific, rod, alpha	398	2.8841207027435303	0.23292243	No	
+row_6	KCNMB3	KCNMB3	potassium large conductance calcium-activated channel, subfamily M beta member 3	414	2.8841207027435303	0.26386085	No	
+row_7	SLC8A3	SLC8A3	solute carrier family 8 (sodium-calcium exchanger), member 3	520	2.163029432296753	0.27858981	No	
+row_8	GUCY1A2	GUCY1A2	guanylate cyclase 1, soluble, alpha 2	701	1.6388593912124634	0.2806701	No	
+row_9	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	728	1.5911024808883667	0.29613596	No	
+row_10	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.29526824	No	
+row_11	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	986	1.255082130432129	0.30218083	No	
+row_12	FGR	FGR	Gardner-Rasheed feline sarcoma viral (v-fgr) oncogene homolog	1217	1.0380326509475708	0.29301396	No	
+row_13	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.27156118	No	
+row_14	GNG11	GNG11	guanine nucleotide binding protein (G protein), gamma 11	1965	0.704420804977417	0.24311143	No	
+row_15	MRVI1	MRVI1	murine retrovirus integration site 1 homolog	2506	0.551730215549469	0.20047796	No	
+row_16	ATP2A3	ATP2A3	ATPase, Ca++ transporting, ubiquitous	2971	0.4384484589099884	0.16344577	No	
+row_17	PDE1B	PDE1B	phosphodiesterase 1B, calmodulin-dependent	3007	0.43182435631752014	0.16511734	No	
+row_18	ITPR3	ITPR3	inositol 1,4,5-triphosphate receptor, type 3	3008	0.4315425753593445	0.16994943	No	
+row_19	PDE2A	PDE2A	phosphodiesterase 2A, cGMP-stimulated	3267	0.37747323513031006	0.15085512	No	
+row_20	ITPR2	ITPR2	inositol 1,4,5-triphosphate receptor, type 2	3276	0.3753437101840973	0.15433483	No	
+row_21	PDE9A	PDE9A	phosphodiesterase 9A	3336	0.36633220314979553	0.15310365	No	
+row_22	NOS3	NOS3	nitric oxide synthase 3 (endothelial cell)	3364	0.3611946105957031	0.15470748	No	
+row_23	PECAM1	PECAM1	platelet/endothelial cell adhesion molecule (CD31 antigen)	3496	0.3344595432281494	0.14661124	No	
+row_24	PPP2R5A	PPP2R5A	protein phosphatase 2, regulatory subunit B (B56), alpha isoform	3584	0.3157016336917877	0.14228219	No	
+row_25	PPP2R1A	PPP2R1A	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), alpha isoform	3597	0.3123394846916199	0.14469485	No	
+row_26	PDE1A	PDE1A	phosphodiesterase 1A, calmodulin-dependent	3868	0.26311078667640686	0.12323529	No	
+row_27	PPP2CA	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	4041	0.22945372760295868	0.11025723	No	
+row_28	PPP2CB	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4179	0.20445889234542847	0.10016299	No	
+row_29	ATP2B2	ATP2B2	ATPase, Ca++ transporting, plasma membrane 2	4216	0.19785760343074799	0.099124365	No	
+row_30	PDE3A	PDE3A	phosphodiesterase 3A, cGMP-inhibited	4411	0.16680344939231873	0.08345618	No	
+row_31	PPP2R5D	PPP2R5D	protein phosphatase 2, regulatory subunit B (B56), delta isoform	4635	0.13176032900810242	0.06477426	No	
+row_32	PDE10A	PDE10A	phosphodiesterase 10A	4729	0.11709772795438766	0.05767903	No	
+row_33	ATP2A1	ATP2A1	ATPase, Ca++ transporting, cardiac muscle, fast twitch 1	4778	0.10999749600887299	0.05457192	No	
+row_34	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	0.050717752	No	
+row_35	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	0.04722513	No	
+row_36	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	0.045289136	No	
+row_37	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	4957	0.08053963631391525	0.042756088	No	
+row_38	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	0.043104246	No	
+row_39	GUCY1A3	GUCY1A3	guanylate cyclase 1, soluble, alpha 3	5238	0.041542500257492065	0.018892558	No	
+row_40	SLC8A2	SLC8A2	solute carrier family 8 (sodium-calcium exchanger), member 2	6119	-0.07875943183898926	-0.05976998	No	
+row_41	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	-0.06593862	No	
+row_42	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	-0.09820842	No	
+row_43	PPP2R1B	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	6623	-0.12858900427818298	-0.10137854	No	
+row_44	PPP2R5B	PPP2R5B	protein phosphatase 2, regulatory subunit B (B56), beta isoform	6719	-0.14372855424880981	-0.10835635	No	
+row_45	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.10745988	No	
+row_46	STIM1	STIM1	stromal interaction molecule 1	7007	-0.18938212096691132	-0.13046812	No	
+row_47	PPP2R5C	PPP2R5C	protein phosphatase 2, regulatory subunit B (B56), gamma isoform	7084	-0.19880640506744385	-0.13511178	No	
+row_48	SLC8A1	SLC8A1	solute carrier family 8 (sodium/calcium exchanger), member 1	7331	-0.2410692572593689	-0.15464874	No	
+row_49	ATP2A2	ATP2A2	ATPase, Ca++ transporting, cardiac muscle, slow twitch 2	7356	-0.24433216452598572	-0.15408228	No	
+row_50	PDE5A	PDE5A	phosphodiesterase 5A, cGMP-specific	7395	-0.25072425603866577	-0.15470973	No	
+row_51	PPP2R5E	PPP2R5E	protein phosphatase 2, regulatory subunit B (B56), epsilon isoform	7526	-0.2720566391944885	-0.16341431	No	
+row_52	TRPC3	TRPC3	transient receptor potential cation channel, subfamily C, member 3	7750	-0.3079054653644562	-0.1801239	No	
+row_53	PTPN6	PTPN6	protein tyrosine phosphatase, non-receptor type 6	7852	-0.3263774812221527	-0.18559888	No	
+row_54	GUCY1B3	GUCY1B3	guanylate cyclase 1, soluble, beta 3	7895	-0.3332275152206421	-0.18566409	No	
+row_55	PDE6G	PDE6G	phosphodiesterase 6G, cGMP-specific, rod, gamma	8416	-0.43112948536872864	-0.22784013	No	
+row_56	APOB	APOB	apolipoprotein B (including Ag(x) antigen)	9018	-0.5802692770957947	-0.27566794	No	
+row_57	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	9603	-0.788467288017273	-0.31962782	No	
+row_58	PRKG1	PRKG1	protein kinase, cGMP-dependent, type I	10428	-1.59954833984375	-0.37619975	Yes	
+row_59	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.36245698	Yes	
+row_60	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.34368548	Yes	
+row_61	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.3204456	Yes	
+row_62	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.30027688	Yes	
+row_63	LRP8	LRP8	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor	10845	-3.351161479949951	-0.2637473	Yes	
+row_64	PDE6B	PDE6B	phosphodiesterase 6B, cGMP-specific, rod, beta (congenital stationary night blindness 3, autosomal dominant)	10872	-3.3511762619018555	-0.22857341	Yes	
+row_65	KCNMB2	KCNMB2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	10913	-3.3511762619018555	-0.19466503	Yes	
+row_66	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	11003	-4.336911201477051	-0.15414827	Yes	
+row_67	PTGIR	PTGIR	prostaglandin I2 (prostacyclin) receptor (IP)	11010	-4.357571125030518	-0.10589768	Yes	
+row_68	PRKG2	PRKG2	protein kinase, cGMP-dependent, type II	11031	-4.78725004196167	-0.05410134	Yes	
+row_69	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	11104	-5.638915538787842	0.002530974	Yes	

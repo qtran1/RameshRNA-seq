@@ -1,0 +1,22 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IFNG	IFNG	interferon, gamma	142	4.4274396896362305	0.18106803	Yes	
+row_1	STAT4	STAT4	signal transducer and activator of transcription 4	275	3.283132314682007	0.3129347	Yes	
+row_2	CD247	CD247	CD247 molecule	475	2.409532308578491	0.40052292	Yes	
+row_3	CCR5	CCR5	chemokine (C-C motif) receptor 5	521	2.1612420082092285	0.49109912	Yes	
+row_4	IL18R1	IL18R1	interleukin 18 receptor 1	738	1.578883171081543	0.54078907	Yes	
+row_5	CXCR3	CXCR3	chemokine (C-X-C motif) receptor 3	2155	0.6441619396209717	0.44156265	No	
+row_6	CD3E	CD3E	CD3e molecule, epsilon (CD3-TCR complex)	2412	0.5746639370918274	0.44368505	No	
+row_7	IL18	IL18	interleukin 18 (interferon-gamma-inducing factor)	2593	0.5288906097412109	0.45064282	No	
+row_8	CD3D	CD3D	CD3d molecule, delta (CD3-TCR complex)	3208	0.3908016085624695	0.41249776	No	
+row_9	IL12RB1	IL12RB1	interleukin 12 receptor, beta 1	3302	0.37053346633911133	0.42035154	No	
+row_10	MAPK14	MAPK14	mitogen-activated protein kinase 14	4918	0.08542566001415253	0.27875337	No	
+row_11	ETV5	ETV5	ets variant gene 5 (ets-related molecule)	5023	0.07131420075893402	0.27251646	No	
+row_12	CD3G	CD3G	CD3g molecule, gamma (CD3-TCR complex)	5313	0.030349355190992355	0.24783733	No	
+row_13	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	6210	-0.07875943183898926	0.17065212	No	
+row_14	TYK2	TYK2	tyrosine kinase 2	6598	-0.1258280873298645	0.14133406	No	
+row_15	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	0.13259216	No	
+row_16	MAP2K6	MAP2K6	mitogen-activated protein kinase kinase 6	8248	-0.4003917872905731	0.017203193	No	
+row_17	JUN	JUN	jun oncogene	8842	-0.5396010875701904	-0.01253713	No	
+row_18	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	0.0032849214	No	
+row_19	IL12RB2	IL12RB2	interleukin 12 receptor, beta 2	10062	-1.0751752853393555	-0.050522503	No	
+row_20	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	0.019528514	No	

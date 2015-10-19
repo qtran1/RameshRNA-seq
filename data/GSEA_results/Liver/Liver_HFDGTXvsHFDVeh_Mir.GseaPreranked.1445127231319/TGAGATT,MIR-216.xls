@@ -1,0 +1,82 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KRT80	KRT80	keratin 80	194	4.091865062713623	0.05422006	No	
+row_1	ELAVL2	ELAVL2	ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B)	305	3.1459782123565674	0.09944921	No	
+row_2	PPP1R9B	PPP1R9B	protein phosphatase 1, regulatory subunit 9B, spinophilin	1565	0.8584932088851929	5.915883E-4	No	
+row_3	MAPRE1	MAPRE1	microtubule-associated protein, RP/EB family, member 1	2273	0.6093549728393555	-0.05269033	No	
+row_4	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	2407	0.5759530663490295	-0.054621838	No	
+row_5	BRI3	BRI3	brain protein I3	2641	0.5178757905960083	-0.066620186	No	
+row_6	ZBTB4	ZBTB4	zinc finger and BTB domain containing 4	2974	0.43824875354766846	-0.08897288	No	
+row_7	AKT1S1	AKT1S1	AKT1 substrate 1 (proline-rich)	2975	0.43781065940856934	-0.081293456	No	
+row_8	VANGL2	VANGL2	vang-like 2 (van gogh, Drosophila)	2982	0.4369983673095703	-0.07417117	No	
+row_9	ADIPOR1	ADIPOR1	adiponectin receptor 1	3025	0.4281761646270752	-0.07046095	No	
+row_10	FBXO33	FBXO33	F-box protein 33	3171	0.39750567078590393	-0.07660829	No	
+row_11	ETF1	ETF1	eukaryotic translation termination factor 1	3261	0.37853074073791504	-0.078021504	No	
+row_12	PARP12	PARP12	poly (ADP-ribose) polymerase family, member 12	3299	0.3707120716571808	-0.07486683	No	
+row_13	MYBBP1A	MYBBP1A	MYB binding protein (P160) 1a	3789	0.27707022428512573	-0.11425227	No	
+row_14	TNFRSF11B	TNFRSF11B	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)	3826	0.2695555090904236	-0.11278145	No	
+row_15	IKZF4	IKZF4	IKAROS family zinc finger 4 (Eos)	3854	0.26468831300735474	-0.11058167	No	
+row_16	CAPZA2	CAPZA2	capping protein (actin filament) muscle Z-line, alpha 2	4290	0.18648827075958252	-0.14666997	No	
+row_17	YBX1	YBX1	Y box binding protein 1	4346	0.17578847706317902	-0.14856303	No	
+row_18	CSK	CSK	c-src tyrosine kinase	4417	0.16523046791553497	-0.15199849	No	
+row_19	HSBP1	HSBP1	heat shock factor binding protein 1	4610	0.1345950961112976	-0.16701004	No	
+row_20	SSX2IP	SSX2IP	synovial sarcoma, X breakpoint 2 interacting protein	4627	0.13297711312770844	-0.16612525	No	
+row_21	CRYZL1	CRYZL1	crystallin, zeta (quinone reductase)-like 1	4658	0.12868113815784454	-0.16658257	No	
+row_22	KRAS	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	4666	0.1279822289943695	-0.16497105	No	
+row_23	RAB11A	RAB11A	RAB11A, member RAS oncogene family	4973	0.07877714931964874	-0.19127657	No	
+row_24	BUB3	BUB3	BUB3 budding uninhibited by benzimidazoles 3 homolog (yeast)	5068	0.06407129019498825	-0.19865797	No	
+row_25	MATR3	MATR3	matrin 3	5226	0.04227256774902344	-0.21212205	No	
+row_26	POM121	POM121	POM121 membrane glycoprotein (rat)	5239	0.04136471077799797	-0.21248227	No	
+row_27	UBN1	UBN1	ubinuclein 1	5255	0.038395702838897705	-0.21316601	No	
+row_28	RANBP10	RANBP10	RAN binding protein 10	5791	-0.04062284156680107	-0.260861	No	
+row_29	ARID1A	ARID1A	AT rich interactive domain 1A (SWI- like)	5857	-0.05130784213542938	-0.26584232	No	
+row_30	BCL9	BCL9	B-cell CLL/lymphoma 9	5887	-0.05478190630674362	-0.26750538	No	
+row_31	EML4	EML4	echinoderm microtubule associated protein like 4	5897	-0.05550990626215935	-0.26734602	No	
+row_32	GPBP1	GPBP1	GC-rich promoter binding protein 1	5903	-0.0563008189201355	-0.2668109	No	
+row_33	NHS	NHS	Nance-Horan syndrome (congenital cataracts and dental anomalies)	6173	-0.07875943183898926	-0.2897689	No	
+row_34	TBX3	TBX3	T-box 3 (ulnar mammary syndrome)	6404	-0.09808462113142014	-0.30885917	No	
+row_35	SMC4	SMC4	structural maintenance of chromosomes 4	6412	-0.0995590016245842	-0.30774623	No	
+row_36	RAB10	RAB10	RAB10, member RAS oncogene family	6616	-0.1272740662097931	-0.32388148	No	
+row_37	ZFP91	ZFP91	zinc finger protein 91 homolog (mouse)	6662	-0.13406455516815186	-0.32560158	No	
+row_38	MEF2D	MEF2D	MADS box transcription enhancer factor 2, polypeptide D (myocyte enhancer factor 2D)	6888	-0.17186418175697327	-0.3429453	No	
+row_39	RAB6A	RAB6A	RAB6A, member RAS oncogene family	7041	-0.19335949420928955	-0.35330683	No	
+row_40	SRR	SRR	serine racemase	7105	-0.20377220213413239	-0.3554329	No	
+row_41	PRKCE	PRKCE	protein kinase C, epsilon	7220	-0.22050529718399048	-0.36188	No	
+row_42	PDIK1L	PDIK1L	PDLIM1 interacting kinase 1 like	7320	-0.2384428083896637	-0.36665523	No	
+row_43	NCOA1	NCOA1	nuclear receptor coactivator 1	7336	-0.2421603798866272	-0.36376485	No	
+row_44	TNPO2	TNPO2	transportin 2 (importin 3, karyopherin beta 2b)	7496	-0.2682400643825531	-0.37344632	No	
+row_45	PCCA	PCCA	propionyl Coenzyme A carboxylase, alpha polypeptide	7579	-0.28176379203796387	-0.37592348	No	
+row_46	DAZAP1	DAZAP1	DAZ associated protein 1	7642	-0.29253488779067993	-0.3764021	No	
+row_47	SP4	SP4	Sp4 transcription factor	7644	-0.2930934429168701	-0.3713516	No	
+row_48	SORBS2	SORBS2	sorbin and SH3 domain containing 2	7744	-0.30700090527534485	-0.3749243	No	
+row_49	PPM1B	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	7792	-0.3168780207633972	-0.37361872	No	
+row_50	ZBTB2	ZBTB2	zinc finger and BTB domain containing 2	7813	-0.32067564129829407	-0.36980352	No	
+row_51	YTHDF3	YTHDF3	YTH domain family, member 3	7952	-0.34294393658638	-0.37627453	No	
+row_52	WDFY3	WDFY3	WD repeat and FYVE domain containing 3	7985	-0.34845855832099915	-0.37305778	No	
+row_53	MICALCL	MICALCL	MICAL C-terminal like	8000	-0.35057684779167175	-0.36817524	No	
+row_54	CEP192	CEP192	centrosomal protein 192kDa	8102	-0.3717896044254303	-0.37079248	No	
+row_55	SMAD7	SMAD7	SMAD, mothers against DPP homolog 7 (Drosophila)	8405	-0.4273306131362915	-0.39062223	No	
+row_56	PTEN	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	8489	-0.4472157061100006	-0.3902878	No	
+row_57	OSBPL11	OSBPL11	oxysterol binding protein-like 11	8624	-0.4838697016239166	-0.39392498	Yes	
+row_58	VCPIP1	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	8707	-0.5065635442733765	-0.39245906	Yes	
+row_59	TMEM106B	TMEM106B	transmembrane protein 106B	8756	-0.5172590017318726	-0.38772917	Yes	
+row_60	CCDC28A	CCDC28A	coiled-coil domain containing 28A	8762	-0.5192888379096985	-0.37907296	Yes	
+row_61	SLC24A3	SLC24A3	solute carrier family 24 (sodium/potassium/calcium exchanger), member 3	8835	-0.5363578200340271	-0.37617964	Yes	
+row_62	SMG1	SMG1	-	8838	-0.5373111963272095	-0.36693588	Yes	
+row_63	GATAD2B	GATAD2B	GATA zinc finger domain containing 2B	8851	-0.5418742895126343	-0.3585169	Yes	
+row_64	JAK2	JAK2	Janus kinase 2 (a protein tyrosine kinase)	8940	-0.5607495903968811	-0.3566434	Yes	
+row_65	ITCH	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	9135	-0.6116428375244141	-0.36346826	Yes	
+row_66	CRIM1	CRIM1	cysteine rich transmembrane BMP regulator 1 (chordin-like)	9216	-0.6351560354232788	-0.35956582	Yes	
+row_67	RNF138	RNF138	ring finger protein 138	9322	-0.6694726943969727	-0.35732347	Yes	
+row_68	KLF13	KLF13	Kruppel-like factor 13	9325	-0.6709288954734802	-0.34573597	Yes	
+row_69	GPBP1L1	GPBP1L1	GC-rich promoter binding protein 1-like 1	9408	-0.6982571482658386	-0.34090766	Yes	
+row_70	TMEM161B	TMEM161B	transmembrane protein 161B	9494	-0.7357023358345032	-0.33569396	Yes	
+row_71	MBNL2	MBNL2	muscleblind-like 2 (Drosophila)	9592	-0.7838817238807678	-0.33072096	Yes	
+row_72	CPEB4	CPEB4	cytoplasmic polyadenylation element binding protein 4	9754	-0.877423882484436	-0.329898	Yes	
+row_73	AP3S1	AP3S1	adaptor-related protein complex 3, sigma 1 subunit	9929	-0.9803247451782227	-0.32844633	Yes	
+row_74	ANKRD16	ANKRD16	ankyrin repeat domain 16	10265	-1.2846986055374146	-0.3362233	Yes	
+row_75	COL12A1	COL12A1	collagen, type XII, alpha 1	10276	-1.297063946723938	-0.31437695	Yes	
+row_76	ADAMTS6	ADAMTS6	ADAM metallopeptidase with thrombospondin type 1 motif, 6	10657	-3.106755256652832	-0.29426578	Yes	
+row_77	EGR3	EGR3	early growth response 3	10716	-3.174114465713501	-0.24383806	Yes	
+row_78	MMP16	MMP16	matrix metallopeptidase 16 (membrane-inserted)	10857	-3.3511762619018555	-0.19772407	Yes	
+row_79	BCL11B	BCL11B	B-cell CLL/lymphoma 11B (zinc finger protein)	11114	-5.858859062194824	-0.118119866	Yes	
+row_80	PTPRT	PTPRT	protein tyrosine phosphatase, receptor type, T	11128	-6.821798801422119	3.6177778E-4	Yes	

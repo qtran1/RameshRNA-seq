@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ESR1	ESR1	estrogen receptor 1	1108	1.1332130432128906	0.007503163	No	
+row_1	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1236	1.0232479572296143	0.09287821	No	
+row_2	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.16189572	No	
+row_3	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	-0.012598233	No	
+row_4	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	-0.007530305	No	
+row_5	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	-0.11045839	No	
+row_6	CARM1	CARM1	coactivator-associated arginine methyltransferase 1	5436	0.011188892647624016	-0.13882488	No	
+row_7	IL6ST	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	5557	-0.006894583813846111	-0.14897078	No	
+row_8	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	-0.15955608	No	
+row_9	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	-0.16593121	No	
+row_10	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	-0.16549538	No	
+row_11	EGFR	EGFR	epidermal growth factor receptor (erythroblastic leukemia viral (v-erb-b) oncogene homolog, avian)	6988	-0.1868259608745575	-0.24770397	No	
+row_12	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	-0.23658173	No	
+row_13	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	-0.24293582	No	
+row_14	STAT3	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	7559	-0.2788213789463043	-0.22978602	No	
+row_15	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	-0.25158757	No	
+row_16	EP300	EP300	E1A binding protein p300	9520	-0.7487161159515381	-0.29800627	Yes	
+row_17	ERBB3	ERBB3	v-erb-b2 erythroblastic leukemia viral oncogene homolog 3 (avian)	9939	-0.9886053204536438	-0.2420941	Yes	
+row_18	GRIP1	GRIP1	glutamate receptor interacting protein 1	9950	-0.9950694441795349	-0.14885664	Yes	
+row_19	ERBB4	ERBB4	v-erb-a erythroblastic leukemia viral oncogene homolog 4 (avian)	10638	-2.6968138217926025	0.04445258	Yes	

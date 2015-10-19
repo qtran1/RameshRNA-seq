@@ -1,0 +1,21 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GML	GML	GPI anchored molecule like protein	178	4.151076316833496	0.14933549	Yes	
+row_1	SCUBE1	SCUBE1	signal peptide, CUB domain, EGF-like 1	389	2.8935697078704834	0.24570031	Yes	
+row_2	GFRA2	GFRA2	GDNF family receptor alpha 2	474	2.4256770610809326	0.33476532	Yes	
+row_3	BST1	BST1	bone marrow stromal cell antigen 1	788	1.5196760892868042	0.36713442	Yes	
+row_4	PLAUR	PLAUR	plasminogen activator, urokinase receptor	799	1.5019186735153198	0.42606157	Yes	
+row_5	RGS19	RGS19	regulator of G-protein signalling 19	943	1.3057063817977905	0.4652049	Yes	
+row_6	ARRB1	ARRB1	arrestin, beta 1	2928	0.44861459732055664	0.30454522	No	
+row_7	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3568	0.32027488946914673	0.25980273	No	
+row_8	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	0.14503618	No	
+row_9	SYTL1	SYTL1	synaptotagmin-like 1	5098	0.05970856174826622	0.12833785	No	
+row_10	CNTFR	CNTFR	ciliary neurotrophic factor receptor	5426	0.012835505418479443	0.09942413	No	
+row_11	UMOD	UMOD	uromodulin (uromucoid, Tamm-Horsfall glycoprotein)	6112	-0.07875943183898926	0.04092189	No	
+row_12	SYTL2	SYTL2	synaptotagmin-like 2	6977	-0.18458892405033112	-0.02947203	No	
+row_13	EEA1	EEA1	early endosome antigen 1, 162kD	7006	-0.18932929635047913	-0.024449915	No	
+row_14	PRNP	PRNP	prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)	7986	-0.3486081659793854	-0.09865858	No	
+row_15	SYTL4	SYTL4	synaptotagmin-like 4 (granuphilin-a)	8955	-0.5632869601249695	-0.16332597	No	
+row_16	GNA14	GNA14	guanine nucleotide binding protein (G protein), alpha 14	9924	-0.978009819984436	-0.21147339	No	
+row_17	APC2	APC2	adenomatosis polyposis coli 2	10379	-1.5057216882705688	-0.19234797	No	
+row_18	MUC16	MUC16	mucin 16, cell surface associated	10719	-3.174114465713501	-0.09641603	No	
+row_19	GFRA3	GFRA3	GDNF family receptor alpha 3	10883	-3.3511762619018555	0.022406237	No	

@@ -1,0 +1,75 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVPR2	AVPR2	arginine vasopressin receptor 2 (nephrogenic diabetes insipidus)	10	6.592044353485107	0.07400962	No	
+row_1	GNG10	GNG10	guanine nucleotide binding protein (G protein), gamma 10	171	4.184542179107666	0.10709609	No	
+row_2	PDE11A	PDE11A	phosphodiesterase 11A	301	3.1459782123565674	0.13118318	No	
+row_3	GIPR	GIPR	gastric inhibitory polypeptide receptor	316	3.1459782123565674	0.16566902	No	
+row_4	GNG13	GNG13	guanine nucleotide binding protein (G protein), gamma 13	353	3.145962953567505	0.19816537	No	
+row_5	ADRB1	ADRB1	adrenergic, beta-1-, receptor	455	2.602407455444336	0.21860704	No	
+row_6	PTGER4	PTGER4	prostaglandin E receptor 4 (subtype EP4)	725	1.5932990312576294	0.21238966	No	
+row_7	RAMP1	RAMP1	receptor (calcitonin) activity modifying protein 1	846	1.4351310729980469	0.217848	No	
+row_8	GNGT2	GNGT2	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 2	906	1.3513615131378174	0.22787024	No	
+row_9	POMC	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	1091	1.1486341953277588	0.22428562	No	
+row_10	ADRB2	ADRB2	adrenergic, beta-2-, receptor, surface	1215	1.038881778717041	0.2249696	No	
+row_11	VIPR1	VIPR1	vasoactive intestinal peptide receptor 1	1533	0.8715981245040894	0.20621026	No	
+row_12	GNG2	GNG2	guanine nucleotide binding protein (G protein), gamma 2	1562	0.8610903024673462	0.21346405	No	
+row_13	RAMP2	RAMP2	receptor (calcitonin) activity modifying protein 2	1856	0.7476009130477905	0.19546574	No	
+row_14	GNG11	GNG11	guanine nucleotide binding protein (G protein), gamma 11	1965	0.704420804977417	0.19370519	No	
+row_15	ADCYAP1R1	ADCYAP1R1	adenylate cyclase activating polypeptide 1 (pituitary) receptor type I	1972	0.7027903199195862	0.20114934	No	
+row_16	GNAI2	GNAI2	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 2	2087	0.6674931049346924	0.19842657	No	
+row_17	ADCY3	ADCY3	adenylate cyclase 3	2100	0.6621763110160828	0.20486665	No	
+row_18	ADCY1	ADCY1	adenylate cyclase 1 (brain)	2123	0.6545860171318054	0.21031623	No	
+row_19	ADORA2A	ADORA2A	adenosine A2a receptor	2411	0.5746789574623108	0.19089532	No	
+row_20	PDE4B	PDE4B	phosphodiesterase 4B, cAMP-specific (phosphodiesterase E4 dunce homolog, Drosophila)	2419	0.5724280476570129	0.19676758	No	
+row_21	RAMP3	RAMP3	receptor (calcitonin) activity modifying protein 3	2551	0.539989173412323	0.19105862	No	
+row_22	ADM	ADM	adrenomedullin	2822	0.4722691774368286	0.17201112	No	
+row_23	PTHLH	PTHLH	parathyroid hormone-like hormone	2873	0.4618370831012726	0.17273836	No	
+row_24	PDE1B	PDE1B	phosphodiesterase 1B, calmodulin-dependent	3007	0.43182435631752014	0.16561933	No	
+row_25	PDE2A	PDE2A	phosphodiesterase 2A, cGMP-stimulated	3267	0.37747323513031006	0.1464892	No	
+row_26	ADCY4	ADCY4	adenylate cyclase 4	3392	0.3545568287372589	0.1393059	No	
+row_27	GNAI1	GNAI1	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 1	3568	0.32027488946914673	0.12712139	No	
+row_28	PDE1A	PDE1A	phosphodiesterase 1A, calmodulin-dependent	3868	0.26311078667640686	0.10307465	No	
+row_29	ADCY7	ADCY7	adenylate cyclase 7	4061	0.2246609628200531	0.088266335	No	
+row_30	CALCRL	CALCRL	calcitonin receptor-like	4228	0.19605089724063873	0.07548391	No	
+row_31	HRH2	HRH2	histamine receptor H2	4279	0.18779227137565613	0.073096834	No	
+row_32	GNAI3	GNAI3	guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3	4395	0.16917265951633453	0.06462059	No	
+row_33	PDE3A	PDE3A	phosphodiesterase 3A, cGMP-inhibited	4411	0.16680344939231873	0.06515983	No	
+row_34	ADCY2	ADCY2	adenylate cyclase 2 (brain)	4416	0.16590680181980133	0.066683546	No	
+row_35	PDE10A	PDE10A	phosphodiesterase 10A	4729	0.11709772795438766	0.039801963	No	
+row_36	GNG12	GNG12	guanine nucleotide binding protein (G protein), gamma 12	4834	0.09978850930929184	0.03153188	No	
+row_37	GNAS	GNAS	GNAS complex locus	4885	0.09171398729085922	0.028052941	No	
+row_38	GNB4	GNB4	guanine nucleotide binding protein (G protein), beta polypeptide 4	4957	0.08053963631391525	0.022548106	No	
+row_39	GNB2	GNB2	guanine nucleotide binding protein (G protein), beta polypeptide 2	4964	0.07952870428562164	0.022909347	No	
+row_40	PDE7B	PDE7B	phosphodiesterase 7B	5354	0.024902159348130226	-0.011982627	No	
+row_41	GCGR	GCGR	glucagon receptor	5996	-0.06882280111312866	-0.06916235	No	
+row_42	CALCB	CALCB	calcitonin-related polypeptide, beta	6144	-0.07875943183898926	-0.08155964	No	
+row_43	RLN3	RLN3	relaxin 3	6172	-0.07875943183898926	-0.08310605	No	
+row_44	ADORA2B	ADORA2B	adenosine A2b receptor	6187	-0.07875943183898926	-0.08347694	No	
+row_45	GNG4	GNG4	guanine nucleotide binding protein (G protein), gamma 4	6198	-0.07875943183898926	-0.08348614	No	
+row_46	CRHR2	CRHR2	corticotropin releasing hormone receptor 2	6270	-0.0787598043680191	-0.0890112	No	
+row_47	GLP1R	GLP1R	glucagon-like peptide 1 receptor	6570	-0.12082087993621826	-0.114674956	No	
+row_48	GNG8	GNG8	guanine nucleotide binding protein (G protein), gamma 8	6571	-0.1210828423500061	-0.11329894	No	
+row_49	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.12576135	No	
+row_50	ADCY5	ADCY5	adenylate cyclase 5	7016	-0.19010767340660095	-0.14955261	No	
+row_51	PTGER2	PTGER2	prostaglandin E receptor 2 (subtype EP2), 53kDa	7197	-0.21701014041900635	-0.16336279	No	
+row_52	ADRB3	ADRB3	adrenergic, beta-3-, receptor	7646	-0.2931952178478241	-0.20054083	No	
+row_53	PDE7A	PDE7A	phosphodiesterase 7A	8090	-0.36851590871810913	-0.23641077	No	
+row_54	GLP2R	GLP2R	glucagon-like peptide 2 receptor	9149	-0.6168540120124817	-0.32506937	No	
+row_55	PDE8B	PDE8B	phosphodiesterase 8B	9177	-0.6226707100868225	-0.3204346	No	
+row_56	PDE4C	PDE4C	phosphodiesterase 4C, cAMP-specific (phosphodiesterase E1 dunce homolog, Drosophila)	9471	-0.7245744466781616	-0.33869457	No	
+row_57	ADCY6	ADCY6	adenylate cyclase 6	9528	-0.7510226368904114	-0.3352235	No	
+row_58	PDE3B	PDE3B	phosphodiesterase 3B, cGMP-inhibited	9603	-0.788467288017273	-0.33295453	No	
+row_59	PDE8A	PDE8A	phosphodiesterase 8A	9956	-0.9967571496963501	-0.35345638	No	
+row_60	ADCY9	ADCY9	adenylate cyclase 9	10152	-1.1545588970184326	-0.35796833	No	
+row_61	GNG3	GNG3	guanine nucleotide binding protein (G protein), gamma 3	10509	-1.8731410503387451	-0.3688724	Yes	
+row_62	PDE4D	PDE4D	phosphodiesterase 4D, cAMP-specific (phosphodiesterase E3 dunce homolog, Drosophila)	10511	-1.8755524158477783	-0.3476485	Yes	
+row_63	INSL3	INSL3	insulin-like 3 (Leydig cell)	10538	-1.9743479490280151	-0.32756248	Yes	
+row_64	GNG5	GNG5	guanine nucleotide binding protein (G protein), gamma 5	10555	-2.039701461791992	-0.30582952	Yes	
+row_65	GNAZ	GNAZ	guanine nucleotide binding protein (G protein), alpha z polypeptide	10608	-2.378401756286621	-0.28350276	Yes	
+row_66	GNG7	GNG7	guanine nucleotide binding protein (G protein), gamma 7	10640	-2.7535946369171143	-0.25501326	Yes	
+row_67	SCTR	SCTR	secretin receptor	10679	-3.174114465713501	-0.22237784	Yes	
+row_68	TSHB	TSHB	thyroid stimulating hormone, beta	10713	-3.174114465713501	-0.18929029	Yes	
+row_69	HTR7	HTR7	5-hydroxytryptamine (serotonin) receptor 7 (adenylate cyclase-coupled)	10754	-3.2519092559814453	-0.15595163	Yes	
+row_70	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	-0.124921165	Yes	
+row_71	SCT	SCT	secretin	10854	-3.3511762619018555	-0.088645935	Yes	
+row_72	PTGIR	PTGIR	prostaglandin I2 (prostacyclin) receptor (IP)	11010	-4.357571125030518	-0.05314099	Yes	
+row_73	GNB5	GNB5	guanine nucleotide binding protein (G protein), beta 5	11104	-5.638915538787842	0.0025318044	Yes	

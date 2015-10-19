@@ -1,0 +1,67 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC5A11	SLC5A11	solute carrier family 5 (sodium/glucose cotransporter), member 11	32	5.908012390136719	0.10212868	Yes	
+row_1	SLC6A19	SLC6A19	solute carrier family 6 (neutral amino acid transporter), member 19	219	3.854637622833252	0.15384156	Yes	
+row_2	SLC5A2	SLC5A2	solute carrier family 5 (sodium/glucose cotransporter), member 2	220	3.854637622833252	0.22236116	Yes	
+row_3	SLC22A12	SLC22A12	solute carrier family 22 (organic anion/cation transporter), member 12	367	3.133786678314209	0.2648746	Yes	
+row_4	SLC2A12	SLC2A12	solute carrier family 2 (facilitated glucose transporter), member 12	512	2.1917924880981445	0.29082403	Yes	
+row_5	SLC14A1	SLC14A1	solute carrier family 14 (urea transporter), member 1 (Kidd blood group)	549	2.068723201751709	0.3243445	Yes	
+row_6	SLC39A5	SLC39A5	solute carrier family 39 (metal ion transporter), member 5	633	1.777845025062561	0.34844747	Yes	
+row_7	SLC2A6	SLC2A6	solute carrier family 2 (facilitated glucose transporter), member 6	712	1.6199064254760742	0.37019476	Yes	
+row_8	SLC5A1	SLC5A1	solute carrier family 5 (sodium/glucose cotransporter), member 1	825	1.462989091873169	0.38608053	Yes	
+row_9	SLC30A2	SLC30A2	solute carrier family 30 (zinc transporter), member 2	1001	1.2392405271530151	0.39229634	Yes	
+row_10	SLC10A6	SLC10A6	solute carrier family 10 (sodium/bile acid cotransporter family), member 6	1218	1.0379241704940796	0.39122888	Yes	
+row_11	SLC11A1	SLC11A1	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 1	1257	1.014119029045105	0.40582213	Yes	
+row_12	SLC2A3	SLC2A3	solute carrier family 2 (facilitated glucose transporter), member 3	1313	0.986375629901886	0.4183861	Yes	
+row_13	SLC44A2	SLC44A2	solute carrier family 44, member 2	1373	0.9530020356178284	0.4299954	Yes	
+row_14	SLC2A10	SLC2A10	solute carrier family 2 (facilitated glucose transporter), member 10	1557	0.8633490204811096	0.42880654	No	
+row_15	SLC40A1	SLC40A1	solute carrier family 40 (iron-regulated transporter), member 1	2098	0.6625812649726868	0.39179078	No	
+row_16	SLC13A5	SLC13A5	solute carrier family 13 (sodium-dependent citrate transporter), member 5	2285	0.6057512164115906	0.38575184	No	
+row_17	SLC39A3	SLC39A3	solute carrier family 39 (zinc transporter), member 3	2416	0.5732932686805725	0.38419598	No	
+row_18	SLC39A7	SLC39A7	solute carrier family 39 (zinc transporter), member 7	2513	0.550123393535614	0.3853005	No	
+row_19	SLC22A7	SLC22A7	solute carrier family 22 (organic anion transporter), member 7	3297	0.3709263205528259	0.32114315	No	
+row_20	SLC2A4	SLC2A4	solute carrier family 2 (facilitated glucose transporter), member 4	3326	0.367336243391037	0.32514283	No	
+row_21	SLC30A7	SLC30A7	solute carrier family 30 (zinc transporter), member 7	3581	0.31671077013015747	0.30782154	No	
+row_22	SLC16A3	SLC16A3	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)	3839	0.2672273814678192	0.28934956	No	
+row_23	SLC16A1	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	3847	0.2663642466068268	0.2934519	No	
+row_24	SLC30A1	SLC30A1	solute carrier family 30 (zinc transporter), member 1	3878	0.2606440484523773	0.2953743	No	
+row_25	SLC39A6	SLC39A6	solute carrier family 39 (zinc transporter), member 6	3938	0.24725554883480072	0.29443833	No	
+row_26	CP	CP	ceruloplasmin (ferroxidase)	3980	0.2402472198009491	0.29500425	No	
+row_27	HEPH	HEPH	hephaestin	4149	0.21112070977687836	0.28357685	No	
+row_28	SLC39A1	SLC39A1	solute carrier family 39 (zinc transporter), member 1	4243	0.19300198554992676	0.27860424	No	
+row_29	SLC44A3	SLC44A3	solute carrier family 44, member 3	4608	0.13468188047409058	0.24810776	No	
+row_30	SLC13A3	SLC13A3	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 3	4756	0.11333980411291122	0.23683976	No	
+row_31	SLC30A3	SLC30A3	solute carrier family 30 (zinc transporter), member 3	4923	0.08493895083665848	0.22335006	No	
+row_32	SLC2A8	SLC2A8	solute carrier family 2, (facilitated glucose transporter) member 8	5122	0.05632847920060158	0.20646033	No	
+row_33	SLC39A8	SLC39A8	solute carrier family 39 (zinc transporter), member 8	5303	0.031235944479703903	0.190751	No	
+row_34	SLC22A15	SLC22A15	solute carrier family 22 (organic cation transporter), member 15	5403	0.015657780691981316	0.18208383	No	
+row_35	SLC41A2	SLC41A2	solute carrier family 41, member 2	5562	-0.007297360338270664	0.16793686	No	
+row_36	SLC6A6	SLC6A6	solute carrier family 6 (neurotransmitter transporter, taurine), member 6	5624	-0.01664089784026146	0.16272078	No	
+row_37	SLC6A12	SLC6A12	solute carrier family 6 (neurotransmitter transporter, betaine/GABA), member 12	5645	-0.019297685474157333	0.16125664	No	
+row_38	SLC13A2	SLC13A2	solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2	5754	-0.03532939404249191	0.15212592	No	
+row_39	SLC22A18	SLC22A18	solute carrier family 22 (organic cation transporter), member 18	6006	-0.07035013288259506	0.13069642	No	
+row_40	SLC16A8	SLC16A8	solute carrier family 16, member 8 (monocarboxylic acid transporter 3)	6232	-0.07875946909189224	0.11176572	No	
+row_41	SLC5A3	SLC5A3	solute carrier family 5 (inositol transporters), member 3	6319	-0.08742590248584747	0.10554895	No	
+row_42	SLC30A5	SLC30A5	solute carrier family 30 (zinc transporter), member 5	6407	-0.09873678535223007	0.09944287	No	
+row_43	SLC39A10	SLC39A10	solute carrier family 39 (zinc transporter), member 10	6488	-0.10919596254825592	0.09415523	No	
+row_44	SLC2A5	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5	6632	-0.1297510266304016	0.08354037	No	
+row_45	SLC18A2	SLC18A2	solute carrier family 18 (vesicular monoamine), member 2	6910	-0.1759290099143982	0.0616383	No	
+row_46	SLC31A1	SLC31A1	solute carrier family 31 (copper transporters), member 1	7170	-0.21266217529773712	0.04201565	No	
+row_47	SLC18A1	SLC18A1	solute carrier family 18 (vesicular monoamine), member 1	7173	-0.21302832663059235	0.045621697	No	
+row_48	SLC39A4	SLC39A4	solute carrier family 39 (zinc transporter), member 4	7416	-0.25515449047088623	0.028290486	No	
+row_49	SLC22A1	SLC22A1	solute carrier family 22 (organic cation transporter), member 1	7616	-0.28852349519729614	0.015437861	No	
+row_50	SLC2A1	SLC2A1	solute carrier family 2 (facilitated glucose transporter), member 1	8212	-0.3932342231273651	-0.03133549	No	
+row_51	SLC44A1	SLC44A1	solute carrier family 44, member 1	8363	-0.4194214642047882	-0.03743371	No	
+row_52	SLC22A3	SLC22A3	solute carrier family 22 (extraneuronal monoamine transporter), member 3	8568	-0.46678656339645386	-0.047569346	No	
+row_53	SLC22A4	SLC22A4	solute carrier family 22 (organic cation transporter), member 4	8877	-0.5474613904953003	-0.06566822	No	
+row_54	SLC2A9	SLC2A9	solute carrier family 2 (facilitated glucose transporter), member 9	9328	-0.6713985800743103	-0.09439494	No	
+row_55	SLC2A2	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	9331	-0.6723583340644836	-0.08262389	No	
+row_56	SLC22A5	SLC22A5	solute carrier family 22 (organic cation transporter), member 5	9353	-0.6824156641960144	-0.072390884	No	
+row_57	SLC41A1	SLC41A1	solute carrier family 41, member 1	9493	-0.7353571653366089	-0.07187912	No	
+row_58	SLC2A13	SLC2A13	solute carrier family 2 (facilitated glucose transporter), member 13	9698	-0.8420827388763428	-0.07534353	No	
+row_59	SLC6A9	SLC6A9	solute carrier family 6 (neurotransmitter transporter, glycine), member 9	9825	-0.9131582975387573	-0.07049653	No	
+row_60	SLC16A7	SLC16A7	solute carrier family 16, member 7 (monocarboxylic acid transporter 2)	9900	-0.9629396796226501	-0.06006597	No	
+row_61	SLC44A4	SLC44A4	solute carrier family 44, member 4	9940	-0.9913390874862671	-0.04596803	No	
+row_62	SLC6A7	SLC6A7	solute carrier family 6 (neurotransmitter transporter, L-proline), member 7	10431	-1.6023560762405396	-0.061760504	No	
+row_63	SLC13A1	SLC13A1	solute carrier family 13 (sodium/sulfate symporters), member 1	10473	-1.7244977951049805	-0.034810733	No	
+row_64	SLC39A2	SLC39A2	solute carrier family 39 (zinc transporter), member 2	10558	-2.0460808277130127	-0.006029967	No	
+row_65	SLC6A5	SLC6A5	solute carrier family 6 (neurotransmitter transporter, glycine), member 5	10784	-3.2519092559814453	0.03144489	No	

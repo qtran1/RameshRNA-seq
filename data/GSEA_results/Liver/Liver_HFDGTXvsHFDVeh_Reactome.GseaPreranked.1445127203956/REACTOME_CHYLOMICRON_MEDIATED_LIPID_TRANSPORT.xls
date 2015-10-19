@@ -1,0 +1,17 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APOC2	APOC2	apolipoprotein C-II	753	1.5564671754837036	0.07052202	Yes	
+row_1	APOA1	APOA1	apolipoprotein A-I	857	1.4204115867614746	0.18742765	Yes	
+row_2	LPL	LPL	lipoprotein lipase	947	1.302017331123352	0.295076	Yes	
+row_3	APOC3	APOC3	apolipoprotein C-III	1052	1.1915587186813354	0.39156342	Yes	
+row_4	APOA2	APOA2	apolipoprotein A-II	1666	0.8175535798072815	0.40904337	Yes	
+row_5	APOA5	APOA5	apolipoprotein A-V	1772	0.7766969203948975	0.46858993	Yes	
+row_6	SDC1	SDC1	syndecan 1	1885	0.7370295524597168	0.5239833	Yes	
+row_7	LDLRAP1	LDLRAP1	low density lipoprotein receptor adaptor protein 1	2246	0.6154086589813232	0.5462653	Yes	
+row_8	APOE	APOE	apolipoprotein E	2756	0.4890991151332855	0.5439247	Yes	
+row_9	HSPG2	HSPG2	heparan sulfate proteoglycan 2 (perlecan)	2846	0.4670306146144867	0.57740384	Yes	
+row_10	P4HB	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	3233	0.3859870433807373	0.57696825	No	
+row_11	LIPC	LIPC	lipase, hepatic	6436	-0.10256803035736084	0.2980517	No	
+row_12	SAR1B	SAR1B	SAR1 gene homolog B (S. cerevisiae)	6908	-0.17541474103927612	0.27126572	No	
+row_13	LDLR	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	7742	-0.3064996600151062	0.22356082	No	
+row_14	MTTP	MTTP	microsomal triglyceride transfer protein	7899	-0.3338424861431122	0.23918246	No	
+row_15	APOB	APOB	apolipoprotein B (including Ag(x) antigen)	9018	-0.5802692770957947	0.19015926	No	

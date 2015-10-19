@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL4I1	IL4I1	interleukin 4 induced 1	1141	1.097277283668518	-0.037602916	No	
+row_1	ALDH3B1	ALDH3B1	aldehyde dehydrogenase 3 family, member B1	1180	1.0666204690933228	0.022211967	No	
+row_2	HPD	HPD	4-hydroxyphenylpyruvate dioxygenase	1518	0.8788408637046814	0.043993916	No	
+row_3	MIF	MIF	macrophage migration inhibitory factor (glycosylation-inhibiting factor)	1672	0.8141788244247437	0.078496635	No	
+row_4	GOT1	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	2515	0.5494438409805298	0.03531646	No	
+row_5	MAOA	MAOA	monoamine oxidase A	3282	0.37427282333374023	-0.011410971	No	
+row_6	PRDX6	PRDX6	peroxiredoxin 6	3626	0.30721864104270935	-0.024056973	No	
+row_7	NAT6	NAT6	N-acetyltransferase 6	4580	0.13941459357738495	-0.101531886	No	
+row_8	DDC	DDC	dopa decarboxylase (aromatic L-amino acid decarboxylase)	5531	-0.0030150229576975107	-0.18682323	No	
+row_9	GOT2	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	8222	-0.3948633372783661	-0.4054294	No	
+row_10	MAOB	MAOB	monoamine oxidase B	8242	-0.39927491545677185	-0.38346812	No	
+row_11	AOC2	AOC2	amine oxidase, copper containing 2 (retina-specific)	9373	-0.6876576542854309	-0.44436532	Yes	
+row_12	TAT	TAT	tyrosine aminotransferase	9464	-0.7227177023887634	-0.4096168	Yes	
+row_13	PAH	PAH	phenylalanine hydroxylase	9553	-0.7632606029510498	-0.37228477	Yes	
+row_14	ALDH1A3	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	10012	-1.0390746593475342	-0.35188967	Yes	
+row_15	AOC3	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	10195	-1.2047593593597412	-0.29684082	Yes	
+row_16	ALDH3A1	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	10711	-3.174114465713501	-0.15499991	Yes	
+row_17	ALDH3B2	ALDH3B2	aldehyde dehydrogenase 3 family, member B2	10788	-3.2519092559814453	0.030949155	Yes	

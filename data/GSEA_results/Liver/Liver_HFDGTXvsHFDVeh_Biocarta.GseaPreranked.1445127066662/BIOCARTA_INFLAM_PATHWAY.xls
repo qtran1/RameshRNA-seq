@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL2	IL2	interleukin 2	24	6.221678733825684	0.19089213	Yes	
+row_1	IFNG	IFNG	interferon, gamma	142	4.4274396896362305	0.31774405	Yes	
+row_2	IL10	IL10	interleukin 10	189	4.1493611335754395	0.44235528	Yes	
+row_3	IL4	IL4	interleukin 4	195	4.091798305511475	0.5688691	Yes	
+row_4	CSF1	CSF1	colony stimulating factor 1 (macrophage)	972	1.2675321102142334	0.5383836	No	
+row_5	PDGFA	PDGFA	platelet-derived growth factor alpha polypeptide	1201	1.0484287738800049	0.5504023	No	
+row_6	TGFB3	TGFB3	transforming growth factor, beta 3	2130	0.6526597142219543	0.48716277	No	
+row_7	TGFB2	TGFB2	transforming growth factor, beta 2	2439	0.5657141804695129	0.47700593	No	
+row_8	TGFB1	TGFB1	transforming growth factor, beta 1 (Camurati-Engelmann disease)	2799	0.47843223810195923	0.4595524	No	
+row_9	IL7	IL7	interleukin 7	3664	0.30003389716148376	0.3911293	No	
+row_10	CD4	CD4	CD4 molecule	4654	0.1292193979024887	0.30615997	No	
+row_11	IL15	IL15	interleukin 15	5922	-0.0577840656042099	0.19396286	No	
+row_12	LTA	LTA	lymphotoxin alpha (TNF superfamily, member 1)	6162	-0.07875943183898926	0.1749042	No	
+row_13	IL12A	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	6210	-0.07875943183898926	0.17311949	No	
+row_14	IL1A	IL1A	interleukin 1, alpha	6945	-0.1805589348077774	0.11268513	No	
+row_15	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	9795	-0.8974812030792236	-0.11578737	No	
+row_16	IL12B	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	10915	-3.3511762619018555	-0.11247908	No	
+row_17	IL11	IL11	interleukin 11	10966	-4.25128173828125	0.014934751	No	

@@ -1,0 +1,91 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHRNA7	CHRNA7	cholinergic receptor, nicotinic, alpha 7	15	6.460714340209961	0.036122765	Yes	
+row_1	SCN5A	SCN5A	sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)	42	5.7273993492126465	0.06699518	Yes	
+row_2	CFTR	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	59	5.430286884307861	0.09704948	Yes	
+row_3	KCNA3	KCNA3	potassium voltage-gated channel, shaker-related subfamily, member 3	71	5.267667293548584	0.12661314	Yes	
+row_4	KCNC4	KCNC4	potassium voltage-gated channel, Shaw-related subfamily, member 4	123	4.6970109939575195	0.149244	Yes	
+row_5	RYR1	RYR1	ryanodine receptor 1 (skeletal)	131	4.439277172088623	0.17436408	Yes	
+row_6	FXYD3	FXYD3	FXYD domain containing ion transport regulator 3	133	4.4274396896362305	0.1999588	Yes	
+row_7	TRPC5	TRPC5	transient receptor potential cation channel, subfamily C, member 5	139	4.4274396896362305	0.22519131	Yes	
+row_8	KCNMB4	KCNMB4	potassium large conductance calcium-activated channel, subfamily M, beta member 4	140	4.4274396896362305	0.25087658	Yes	
+row_9	TRPV6	TRPV6	transient receptor potential cation channel, subfamily V, member 6	151	4.305593013763428	0.27494943	Yes	
+row_10	SCN7A	SCN7A	sodium channel, voltage-gated, type VII, alpha	198	4.087671756744385	0.29449806	Yes	
+row_11	KCNJ14	KCNJ14	potassium inwardly-rectifying channel, subfamily J, member 14	205	4.00852108001709	0.3172097	Yes	
+row_12	KCNJ6	KCNJ6	potassium inwardly-rectifying channel, subfamily J, member 6	295	3.1459782123565674	0.32740134	Yes	
+row_13	CACNG4	CACNG4	calcium channel, voltage-dependent, gamma subunit 4	342	3.1459782123565674	0.3414868	Yes	
+row_14	KCNMB3	KCNMB3	potassium large conductance calcium-activated channel, subfamily M beta member 3	414	2.8841207027435303	0.3517893	Yes	
+row_15	CLCA1	CLCA1	chloride channel, calcium activated, family member 1	488	2.316559314727783	0.35861805	Yes	
+row_16	CACNA1G	CACNA1G	calcium channel, voltage-dependent, alpha 1G subunit	568	1.9767751693725586	0.3629322	Yes	
+row_17	KCNJ10	KCNJ10	potassium inwardly-rectifying channel, subfamily J, member 10	608	1.860825777053833	0.37019593	Yes	
+row_18	SCN4B	SCN4B	sodium channel, voltage-gated, type IV, beta	667	1.711756706237793	0.3748743	Yes	
+row_19	P2RX1	P2RX1	purinergic receptor P2X, ligand-gated ion channel, 1	728	1.5911024808883667	0.3786716	Yes	
+row_20	HVCN1	HVCN1	hydrogen voltage-gated channel 1	745	1.5667790174484253	0.3863122	Yes	
+row_21	CACNB3	CACNB3	calcium channel, voltage-dependent, beta 3 subunit	770	1.539291501045227	0.3930689	Yes	
+row_22	CACNB4	CACNB4	calcium channel, voltage-dependent, beta 4 subunit	803	1.4973276853561401	0.3988577	Yes	
+row_23	KCNK6	KCNK6	potassium channel, subfamily K, member 6	883	1.3811978101730347	0.3997167	Yes	
+row_24	KCNG2	KCNG2	potassium voltage-gated channel, subfamily G, member 2	941	1.306309700012207	0.40213346	Yes	
+row_25	KCNJ5	KCNJ5	potassium inwardly-rectifying channel, subfamily J, member 5	1023	1.221352458000183	0.40188405	No	
+row_26	KCNA2	KCNA2	potassium voltage-gated channel, shaker-related subfamily, member 2	1122	1.1220195293426514	0.3995189	No	
+row_27	KCNE2	KCNE2	potassium voltage-gated channel, Isk-related family, member 2	1219	1.0378338098526	0.3968465	No	
+row_28	KCNQ1	KCNQ1	potassium voltage-gated channel, KQT-like subfamily, member 1	1495	0.8912731409072876	0.37711447	No	
+row_29	TRPV2	TRPV2	transient receptor potential cation channel, subfamily V, member 2	1573	0.8552020192146301	0.3751031	No	
+row_30	SCN1B	SCN1B	sodium channel, voltage-gated, type I, beta	1641	0.8303014636039734	0.3738528	No	
+row_31	NOX1	NOX1	NADPH oxidase 1	1938	0.7156305909156799	0.35120013	No	
+row_32	KCNA1	KCNA1	potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)	2319	0.5971834659576416	0.32025367	No	
+row_33	TRPM2	TRPM2	transient receptor potential cation channel, subfamily M, member 2	2399	0.5784088969230652	0.3164554	No	
+row_34	KCNJ15	KCNJ15	potassium inwardly-rectifying channel, subfamily J, member 15	2463	0.5601628422737122	0.31400013	No	
+row_35	KCNK1	KCNK1	potassium channel, subfamily K, member 1	2724	0.4967276155948639	0.29333752	No	
+row_36	KCNQ5	KCNQ5	potassium voltage-gated channel, KQT-like subfamily, member 5	3855	0.2645631432533264	0.19254509	No	
+row_37	CACNB1	CACNB1	calcium channel, voltage-dependent, beta 1 subunit	4251	0.19196799397468567	0.1578895	No	
+row_38	P2RX7	P2RX7	purinergic receptor P2X, ligand-gated ion channel, 7	4425	0.1646670401096344	0.14317876	No	
+row_39	P2RX4	P2RX4	purinergic receptor P2X, ligand-gated ion channel, 4	4702	0.12133079767227173	0.118889436	No	
+row_40	KCNK3	KCNK3	potassium channel, subfamily K, member 3	4822	0.10212258994579315	0.10870583	No	
+row_41	CHRNA2	CHRNA2	cholinergic receptor, nicotinic, alpha 2 (neuronal)	4927	0.08462249487638474	0.099779025	No	
+row_42	TRPM5	TRPM5	transient receptor potential cation channel, subfamily M, member 5	5264	0.03734278306365013	0.069569156	No	
+row_43	KCNN4	KCNN4	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4	5653	-0.02033550664782524	0.034551747	No	
+row_44	CUL5	CUL5	cullin 5	5751	-0.03495711460709572	0.0259707	No	
+row_45	KCNK5	KCNK5	potassium channel, subfamily K, member 5	5940	-0.060169246047735214	0.009295405	No	
+row_46	TRPC1	TRPC1	transient receptor potential cation channel, subfamily C, member 1	5946	-0.060866255313158035	0.0091957385	No	
+row_47	KCNA5	KCNA5	potassium voltage-gated channel, shaker-related subfamily, member 5	6070	-0.07875943183898926	-0.0014856262	No	
+row_48	KCNB2	KCNB2	potassium voltage-gated channel, Shab-related subfamily, member 2	6071	-0.07875943183898926	-0.0010287125	No	
+row_49	KCNK7	KCNK7	potassium channel, subfamily K, member 7	6078	-0.07875943183898926	-0.0011151293	No	
+row_50	P2RX2	P2RX2	purinergic receptor P2X, ligand-gated ion channel, 2	6124	-0.07875943183898926	-0.0047331955	No	
+row_51	SCN4A	SCN4A	sodium channel, voltage-gated, type IV, alpha	6215	-0.07875943183898926	-0.012426241	No	
+row_52	CACNA2D1	CACNA2D1	calcium channel, voltage-dependent, alpha 2/delta subunit 1	6416	-0.09985989332199097	-0.029957937	No	
+row_53	KCNK10	KCNK10	potassium channel, subfamily K, member 10	6532	-0.11572210490703583	-0.039700426	No	
+row_54	SHROOM2	SHROOM2	shroom family member 2	6879	-0.17118705809116364	-0.07003937	No	
+row_55	CACNA1A	CACNA1A	calcium channel, voltage-dependent, P/Q type, alpha 1A subunit	7376	-0.2476147562265396	-0.11351819	No	
+row_56	CACNA1D	CACNA1D	calcium channel, voltage-dependent, L type, alpha 1D subunit	7621	-0.2891162633895874	-0.13393636	No	
+row_57	TRPC3	TRPC3	transient receptor potential cation channel, subfamily C, member 3	7750	-0.3079054653644562	-0.14374115	No	
+row_58	CHRNA4	CHRNA4	cholinergic receptor, nicotinic, alpha 4	7755	-0.30950653553009033	-0.14230779	No	
+row_59	CACNB2	CACNB2	calcium channel, voltage-dependent, beta 2 subunit	8082	-0.3671605587005615	-0.16969872	No	
+row_60	KCNC3	KCNC3	potassium voltage-gated channel, Shaw-related subfamily, member 3	8203	-0.39174795150756836	-0.17829265	No	
+row_61	CHRNB2	CHRNB2	cholinergic receptor, nicotinic, beta 2 (neuronal)	8226	-0.39548343420028687	-0.17799051	No	
+row_62	PKD2	PKD2	polycystic kidney disease 2 (autosomal dominant)	8239	-0.3982105851173401	-0.176767	No	
+row_63	FXYD1	FXYD1	FXYD domain containing ion transport regulator 1 (phospholemman)	8487	-0.44677653908729553	-0.19654219	No	
+row_64	CLCN3	CLCN3	chloride channel 3	9029	-0.5833232402801514	-0.24214841	No	
+row_65	KCNN2	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	9387	-0.6913993954658508	-0.27046552	No	
+row_66	CLCN2	CLCN2	chloride channel 2	9538	-0.757045567035675	-0.27965686	No	
+row_67	KCNK4	KCNK4	potassium channel, subfamily K, member 4	9576	-0.775842010974884	-0.27850646	No	
+row_68	CACNG1	CACNG1	calcium channel, voltage-dependent, gamma subunit 1	9746	-0.8737550377845764	-0.28874126	No	
+row_69	RYR3	RYR3	ryanodine receptor 3	10014	-1.041000485420227	-0.30688024	No	
+row_70	KCNS3	KCNS3	potassium voltage-gated channel, delayed-rectifier, subfamily S, member 3	10148	-1.152243971824646	-0.31223947	No	
+row_71	P2RX3	P2RX3	purinergic receptor P2X, ligand-gated ion channel, 3	10216	-1.2265994548797607	-0.31119066	No	
+row_72	TRPV1	TRPV1	transient receptor potential cation channel, subfamily V, member 1	10523	-1.9226393699645996	-0.32774657	No	
+row_73	CACNA1C	CACNA1C	calcium channel, voltage-dependent, L type, alpha 1C subunit	10654	-2.9979500770568848	-0.32212648	No	
+row_74	KCNH3	KCNH3	potassium voltage-gated channel, subfamily H (eag-related), member 3	10680	-3.174114465713501	-0.3059761	No	
+row_75	CACNA1E	CACNA1E	calcium channel, voltage-dependent, alpha 1E subunit	10694	-3.174114465713501	-0.28873906	No	
+row_76	CACNA1F	CACNA1F	calcium channel, voltage-dependent, alpha 1F subunit	10727	-3.1799471378326416	-0.2731887	No	
+row_77	CNGB1	CNGB1	cyclic nucleotide gated channel beta 1	10730	-3.184537410736084	-0.2548951	No	
+row_78	CACNA1H	CACNA1H	calcium channel, voltage-dependent, alpha 1H subunit	10764	-3.2519092559814453	-0.23901783	No	
+row_79	KCNA6	KCNA6	potassium voltage-gated channel, shaker-related subfamily, member 6	10858	-3.3511762619018555	-0.227998	No	
+row_80	KCNQ3	KCNQ3	potassium voltage-gated channel, KQT-like subfamily, member 3	10862	-3.3511762619018555	-0.2088282	No	
+row_81	KCNMB2	KCNMB2	potassium large conductance calcium-activated channel, subfamily M, beta member 2	10913	-3.3511762619018555	-0.19391449	No	
+row_82	P2RX5	P2RX5	purinergic receptor P2X, ligand-gated ion channel, 5	10941	-4.166028022766113	-0.17219076	No	
+row_83	CHRNE	CHRNE	cholinergic receptor, nicotinic, epsilon	10960	-4.250924587249756	-0.14915949	No	
+row_84	SLC4A11	SLC4A11	solute carrier family 4, sodium bicarbonate transporter-like, member 11	10992	-4.30354118347168	-0.1270002	No	
+row_85	KCNMB1	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	11003	-4.336911201477051	-0.10274566	No	
+row_86	KCND3	KCND3	potassium voltage-gated channel, Shal-related subfamily, member 3	11014	-4.358260631561279	-0.07836726	No	
+row_87	SCN2B	SCN2B	sodium channel, voltage-gated, type II, beta	11055	-4.883412837982178	-0.05365891	No	
+row_88	KCNH2	KCNH2	potassium voltage-gated channel, subfamily H (eag-related), member 2	11061	-4.939411163330078	-0.02545626	No	
+row_89	KCNN3	KCNN3	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 3	11085	-5.480600833892822	0.0042560445	No	

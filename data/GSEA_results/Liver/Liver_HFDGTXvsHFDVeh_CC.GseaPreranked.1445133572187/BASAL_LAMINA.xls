@@ -1,0 +1,19 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CAV3	CAV3	caveolin 3	410	2.8841207027435303	0.10338739	No	
+row_1	ANG	ANG	angiogenin, ribonuclease, RNase A family, 5	1632	0.8331052660942078	0.034055438	No	
+row_2	LAMC1	LAMC1	laminin, gamma 1 (formerly LAMB2)	2407	0.5759530663490295	-0.0075676595	No	
+row_3	SSPN	SSPN	sarcospan (Kras oncogene-associated gene)	3756	0.28258833289146423	-0.11510101	No	
+row_4	SNTB2	SNTB2	syntrophin, beta 2 (dystrophin-associated protein A1, 59kDa, basic component 2)	4249	0.1920984834432602	-0.15002246	No	
+row_5	SGCB	SGCB	sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)	5541	-0.004540989641100168	-0.26595095	No	
+row_6	SGCE	SGCE	sarcoglycan, epsilon	6280	-0.08014316111803055	-0.3284498	No	
+row_7	LAMA4	LAMA4	laminin, alpha 4	6439	-0.10317901521921158	-0.3376465	No	
+row_8	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	7218	-0.22032430768013	-0.39692613	No	
+row_9	SNTB1	SNTB1	syntrophin, beta 1 (dystrophin-associated protein A1, 59kDa, basic component 1)	7604	-0.28704869747161865	-0.4176029	No	
+row_10	LAMB1	LAMB1	laminin, beta 1	8172	-0.3851238787174225	-0.44988382	No	
+row_11	MAGEE1	MAGEE1	melanoma antigen family E, 1	8263	-0.4027159810066223	-0.43839416	No	
+row_12	DMD	DMD	dystrophin (muscular dystrophy, Duchenne and Becker types)	8886	-0.548717200756073	-0.46766672	Yes	
+row_13	LAMB2	LAMB2	laminin, beta 2 (laminin S)	9068	-0.5942015647888184	-0.45505095	Yes	
+row_14	SNTG2	SNTG2	syntrophin, gamma 2	9155	-0.6185427308082581	-0.43270427	Yes	
+row_15	SGCA	SGCA	sarcoglycan, alpha (50kDa dystrophin-associated glycoprotein)	10868	-3.3511762619018555	-0.42373976	Yes	
+row_16	COLQ	COLQ	collagen-like tail subunit (single strand of homotrimer) of asymmetric acetylcholinesterase	10967	-4.25128173828125	-0.22578782	Yes	
+row_17	SNTG1	SNTG1	syntrophin, gamma 1	11065	-4.945688724517822	0.006027857	Yes	

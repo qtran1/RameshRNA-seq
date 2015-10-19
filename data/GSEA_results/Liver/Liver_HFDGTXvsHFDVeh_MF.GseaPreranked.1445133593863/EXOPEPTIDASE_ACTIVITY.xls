@@ -1,0 +1,24 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACE2	ACE2	angiotensin I converting enzyme (peptidyl-dipeptidase A) 2	845	1.4354649782180786	0.042096116	No	
+row_1	AEBP1	AEBP1	AE binding protein 1	2205	0.62788325548172	-0.028544787	No	
+row_2	PEPD	PEPD	peptidase D	3277	0.37504103779792786	-0.094074644	No	
+row_3	BLMH	BLMH	bleomycin hydrolase	4487	0.15674202144145966	-0.18999402	No	
+row_4	XPNPEP1	XPNPEP1	X-prolyl aminopeptidase (aminopeptidase P) 1, soluble	4878	0.09247025847434998	-0.21748628	No	
+row_5	ACE	ACE	angiotensin I converting enzyme (peptidyl-dipeptidase A) 1	5012	0.07312825322151184	-0.22343825	No	
+row_6	METAP1	METAP1	methionyl aminopeptidase 1	5207	0.045429691672325134	-0.23716067	No	
+row_7	CPD	CPD	carboxypeptidase D	5907	-0.05645999684929848	-0.2954297	No	
+row_8	DPP4	DPP4	dipeptidyl-peptidase 4 (CD26, adenosine deaminase complexing protein 2)	5942	-0.060548413544893265	-0.29350623	No	
+row_9	NPEPPS	NPEPPS	aminopeptidase puromycin sensitive	6454	-0.10487259924411774	-0.33086875	No	
+row_10	METAP2	METAP2	methionyl aminopeptidase 2	6509	-0.11280924081802368	-0.32644385	No	
+row_11	BACE1	BACE1	beta-site APP-cleaving enzyme 1	6886	-0.17159630358219147	-0.34616306	No	
+row_12	ZMPSTE24	ZMPSTE24	zinc metallopeptidase (STE24 homolog, yeast)	7038	-0.19290712475776672	-0.34387615	No	
+row_13	CPB2	CPB2	carboxypeptidase B2 (plasma, carboxypeptidase U)	7049	-0.19415204226970673	-0.32879552	No	
+row_14	TPP1	TPP1	tripeptidyl peptidase I	8217	-0.3935704827308655	-0.40144107	No	
+row_15	ANPEP	ANPEP	alanyl (membrane) aminopeptidase (aminopeptidase N, aminopeptidase M, microsomal aminopeptidase, CD13, p150)	9064	-0.5939467549324036	-0.4287007	Yes	
+row_16	UCHL1	UCHL1	ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)	9080	-0.5963128209114075	-0.38096806	Yes	
+row_17	ENPEP	ENPEP	glutamyl aminopeptidase (aminopeptidase A)	9230	-0.6392778754234314	-0.3417602	Yes	
+row_18	DPEP1	DPEP1	dipeptidase 1 (renal)	9808	-0.9069555997848511	-0.3190435	Yes	
+row_19	LNPEP	LNPEP	leucyl/cystinyl aminopeptidase	9890	-0.9553285837173462	-0.24770072	Yes	
+row_20	GGH	GGH	gamma-glutamyl hydrolase (conjugase, folylpolygammaglutamyl hydrolase)	10055	-1.0680420398712158	-0.17455122	Yes	
+row_21	CPE	CPE	carboxypeptidase E	10337	-1.4045372009277344	-0.08423571	Yes	
+row_22	TRHDE	TRHDE	thyrotropin-releasing hormone degrading enzyme	10514	-1.8916534185409546	0.05562549	Yes	

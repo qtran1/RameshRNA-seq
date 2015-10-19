@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BNIP3	BNIP3	BCL2/adenovirus E1B 19kDa interacting protein 3	2332	0.5935447216033936	-0.09866983	Yes	
+row_1	FIS1	FIS1	fission 1 (mitochondrial outer membrane) homolog (S. cerevisiae)	2818	0.4739414155483246	-0.053573772	Yes	
+row_2	VDAC3	VDAC3	voltage-dependent anion channel 3	2824	0.4721747040748596	0.034372546	Yes	
+row_3	RHOT1	RHOT1	ras homolog gene family, member T1	2993	0.4348362684249878	0.10066516	Yes	
+row_4	BCL2	BCL2	B-cell CLL/lymphoma 2	3059	0.42147478461265564	0.17372228	Yes	
+row_5	TOMM34	TOMM34	translocase of outer mitochondrial membrane 34	3386	0.3554925322532654	0.21094717	Yes	
+row_6	TOMM22	TOMM22	translocase of outer mitochondrial membrane 22 homolog (yeast)	3418	0.34889620542526245	0.27347547	Yes	
+row_7	RAB11FIP5	RAB11FIP5	RAB11 family interacting protein 5 (class I)	3511	0.331969290971756	0.32734728	Yes	
+row_8	RHOT2	RHOT2	ras homolog gene family, member T2	3657	0.3011484146118164	0.3706812	Yes	
+row_9	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.42315713	Yes	
+row_10	VDAC1	VDAC1	voltage-dependent anion channel 1	5110	0.05787161365151405	0.30615753	No	
+row_11	MSTO1	MSTO1	misato homolog 1 (Drosophila)	5245	0.04021933302283287	0.30163234	No	
+row_12	MTX2	MTX2	metaxin 2	5578	-0.009918348863720894	0.2736223	No	
+row_13	MFN2	MFN2	mitofusin 2	5636	-0.0180218406021595	0.27186844	No	
+row_14	VDAC2	VDAC2	voltage-dependent anion channel 2	5842	-0.050262246280908585	0.26283616	No	
+row_15	MCL1	MCL1	myeloid cell leukemia sequence 1 (BCL2-related)	7047	-0.1937687247991562	0.19079939	No	
+row_16	OPA1	OPA1	optic atrophy 1 (autosomal dominant)	9868	-0.943317711353302	0.11371008	No	

@@ -1,0 +1,18 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NME5	NME5	non-metastatic cells 5, protein expressed in (nucleoside-diphosphate kinase)	348	3.145963191986084	0.15361334	Yes	
+row_1	AK5	AK5	adenylate kinase 5	442	2.7254345417022705	0.30544794	Yes	
+row_2	AK1	AK1	adenylate kinase 1	446	2.687044620513916	0.4631224	Yes	
+row_3	NME6	NME6	non-metastatic cells 6, protein expressed in (nucleoside-diphosphate kinase)	694	1.6519136428833008	0.5380016	Yes	
+row_4	NME4	NME4	non-metastatic cells 4, protein expressed in	1331	0.976446270942688	0.5381822	Yes	
+row_5	NME1	NME1	non-metastatic cells 1, protein (NM23A) expressed in	2146	0.6467515230178833	0.50297046	No	
+row_6	PMVK	PMVK	phosphomevalonate kinase	2312	0.5982193946838379	0.5232903	No	
+row_7	DTYMK	DTYMK	deoxythymidylate kinase (thymidylate kinase)	3195	0.3931078314781189	0.46705204	No	
+row_8	MPP1	MPP1	membrane protein, palmitoylated 1, 55kDa	5284	0.0341758094727993	0.28122354	No	
+row_9	AK2	AK2	adenylate kinase 2	5491	0.0036127259954810143	0.26290405	No	
+row_10	GUK1	GUK1	guanylate kinase 1	6582	-0.12309304624795914	0.1720826	No	
+row_11	MPP2	MPP2	membrane protein, palmitoylated 2 (MAGUK p55 subfamily member 2)	7176	-0.21341820061206818	0.13128078	No	
+row_12	NME2	NME2	non-metastatic cells 2, protein (NM23B) expressed in	7288	-0.23260994255542755	0.13496798	No	
+row_13	CASK	CASK	calcium/calmodulin-dependent serine protein kinase (MAGUK family)	7703	-0.30049678683280945	0.11538755	No	
+row_14	TJP2	TJP2	tight junction protein 2 (zona occludens 2)	8014	-0.35415148735046387	0.10831683	No	
+row_15	DLG1	DLG1	discs, large homolog 1 (Drosophila)	8306	-0.4107823669910431	0.10628411	No	
+row_16	MPP3	MPP3	membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3)	10617	-2.515385150909424	0.04632975	No	

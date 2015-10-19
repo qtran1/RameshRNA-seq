@@ -1,0 +1,37 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BTK	BTK	Bruton agammaglobulinemia tyrosine kinase	472	2.4286115169525146	0.09189043	Yes	
+row_1	FCER1G	FCER1G	Fc fragment of IgE, high affinity I, receptor for; gamma polypeptide	537	2.1122946739196777	0.2030393	Yes	
+row_2	PLA2G4A	PLA2G4A	phospholipase A2, group IVA (cytosolic, calcium-dependent)	986	1.255082130432129	0.23213725	Yes	
+row_3	PIK3CG	PIK3CG	phosphoinositide-3-kinase, catalytic, gamma polypeptide	1236	1.0232479572296143	0.26633584	Yes	
+row_4	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.2991855	Yes	
+row_5	NFATC2	NFATC2	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2	1570	0.8554084897041321	0.33472767	Yes	
+row_6	CALM3	CALM3	calmodulin 3 (phosphorylase kinase, delta)	1581	0.8523480296134949	0.38100427	Yes	
+row_7	SYK	SYK	spleen tyrosine kinase	1897	0.7326346635818481	0.3931698	Yes	
+row_8	PPP3CC	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	2059	0.6750165224075317	0.41602376	Yes	
+row_9	VAV1	VAV1	vav 1 oncogene	2385	0.5819265246391296	0.4189464	Yes	
+row_10	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.31793022	No	
+row_11	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.31291497	No	
+row_12	CALM1	CALM1	calmodulin 1 (phosphorylase kinase, delta)	3941	0.2466474324464798	0.32314262	No	
+row_13	PPP3CA	PPP3CA	protein phosphatase 3 (formerly 2B), catalytic subunit, alpha isoform (calcineurin A alpha)	4696	0.12222306430339813	0.26196143	No	
+row_14	LYN	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	4792	0.10698327422142029	0.2593221	No	
+row_15	ELK1	ELK1	ELK1, member of ETS oncogene family	4873	0.0936439037322998	0.25729617	No	
+row_16	CALM2	CALM2	calmodulin 2 (phosphorylase kinase, delta)	5009	0.07351310551166534	0.24919969	No	
+row_17	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.24358843	No	
+row_18	MAP2K4	MAP2K4	mitogen-activated protein kinase kinase 4	5234	0.04185903072357178	0.23464103	No	
+row_19	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.19387075	No	
+row_20	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.18564482	No	
+row_21	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.18398902	No	
+row_22	NFATC4	NFATC4	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 4	6049	-0.07631111145019531	0.1728033	No	
+row_23	NFATC3	NFATC3	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 3	6476	-0.10829923301935196	0.14040893	No	
+row_24	MAPK8	MAPK8	mitogen-activated protein kinase 8	6770	-0.1518138349056244	0.12240835	No	
+row_25	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.10616102	No	
+row_26	PAK2	PAK2	p21 (CDKN1A)-activated kinase 2	7381	-0.24847066402435303	0.092158705	No	
+row_27	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	0.10362273	No	
+row_28	PPP3CB	PPP3CB	protein phosphatase 3 (formerly 2B), catalytic subunit, beta isoform (calcineurin A beta)	7683	-0.298370361328125	0.09571661	No	
+row_29	MAP2K7	MAP2K7	mitogen-activated protein kinase kinase 7	8071	-0.36539995670318604	0.08106733	No	
+row_30	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.089872286	No	
+row_31	PLCG1	PLCG1	phospholipase C, gamma 1	8220	-0.3944179117679596	0.1114331	No	
+row_32	MAP3K1	MAP3K1	mitogen-activated protein kinase kinase kinase 1	8251	-0.40070152282714844	0.13090862	No	
+row_33	JUN	JUN	jun oncogene	8842	-0.5396010875701904	0.10760821	No	
+row_34	NFATC1	NFATC1	nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1	9342	-0.6782974004745483	0.10018508	No	
+row_35	FOS	FOS	v-fos FBJ murine osteosarcoma viral oncogene homolog	10100	-1.10260808467865	0.09299816	No	

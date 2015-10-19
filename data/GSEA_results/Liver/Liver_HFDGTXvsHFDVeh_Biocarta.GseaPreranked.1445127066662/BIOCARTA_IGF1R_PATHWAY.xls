@@ -1,0 +1,23 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IGF1R	IGF1R	insulin-like growth factor 1 receptor	779	1.5304582118988037	0.12141735	Yes	
+row_1	BAD	BAD	BCL2-antagonist of cell death	1025	1.219999074935913	0.252043	Yes	
+row_2	RPS6KA1	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	1363	0.9604483842849731	0.3419073	Yes	
+row_3	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	0.4504712	Yes	
+row_4	ADCY1	ADCY1	adenylate cyclase 1 (brain)	2123	0.6545860171318054	0.47082826	Yes	
+row_5	RAF1	RAF1	v-raf-1 murine leukemia viral oncogene homolog 1	3688	0.2947201132774353	0.36694938	No	
+row_6	MAPK3	MAPK3	mitogen-activated protein kinase 3	3902	0.25617027282714844	0.37983742	No	
+row_7	AKT1	AKT1	v-akt murine thymoma viral oncogene homolog 1	3922	0.2517569363117218	0.40963334	No	
+row_8	PRKAR1B	PRKAR1B	protein kinase, cAMP-dependent, regulatory, type I, beta	4586	0.13855145871639252	0.36730167	No	
+row_9	IRS1	IRS1	insulin receptor substrate 1	4925	0.08470755070447922	0.34748203	No	
+row_10	MAPK1	MAPK1	mitogen-activated protein kinase 1	5108	0.0581740140914917	0.338382	No	
+row_11	YWHAH	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	5136	0.054048292338848114	0.3427158	No	
+row_12	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	0.3150369	No	
+row_13	GRB2	GRB2	growth factor receptor-bound protein 2	5704	-0.026980668306350708	0.29627314	No	
+row_14	PIK3R1	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	5825	-0.04675322771072388	0.29132393	No	
+row_15	SOS1	SOS1	son of sevenless homolog 1 (Drosophila)	5877	-0.05311677232384682	0.29338115	No	
+row_16	PRKAR1A	PRKAR1A	protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)	6026	-0.07371412217617035	0.2892859	No	
+row_17	PRKACB	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	6360	-0.09186793863773346	0.27081236	No	
+row_18	PIK3CA	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	7072	-0.19651402533054352	0.2314143	No	
+row_19	MAP2K1	MAP2K1	mitogen-activated protein kinase kinase 1	7411	-0.2543317675590515	0.23282216	No	
+row_20	SHC1	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	8216	-0.3935195207595825	0.20970814	No	
+row_21	PRKAR2B	PRKAR2B	protein kinase, cAMP-dependent, regulatory, type II, beta	8368	-0.4206695258617401	0.24876238	No	

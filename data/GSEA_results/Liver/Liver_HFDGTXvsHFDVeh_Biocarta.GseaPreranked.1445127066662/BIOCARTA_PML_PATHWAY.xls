@@ -1,0 +1,16 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HRAS	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	1438	0.9207292795181274	-0.054141637	No	
+row_1	SP100	SP100	SP100 nuclear antigen	2777	0.483471155166626	-0.13500077	No	
+row_2	TNFRSF1A	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	3776	0.2798222303390503	-0.20191136	No	
+row_3	PML	PML	promyelocytic leukemia	3935	0.24819546937942505	-0.19585183	No	
+row_4	DAXX	DAXX	death-associated protein 6	5246	0.040041934698820114	-0.31040844	No	
+row_5	CREBBP	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	5399	0.017102820798754692	-0.32268316	No	
+row_6	PRAM1	PRAM1	PML-RARA regulated adaptor molecule 1	6138	-0.07875943183898926	-0.3826295	No	
+row_7	RARA	RARA	retinoic acid receptor, alpha	7172	-0.212800994515419	-0.45816195	No	
+row_8	FAS	FAS	Fas (TNF receptor superfamily, member 6)	7645	-0.293192595243454	-0.47666988	No	
+row_9	TNFRSF1B	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	8361	-0.4192505478858948	-0.5067388	No	
+row_10	RB1	RB1	retinoblastoma 1 (including osteosarcoma)	8791	-0.5270013213157654	-0.5022834	No	
+row_11	TNF	TNF	tumor necrosis factor (TNF superfamily, member 2)	9795	-0.8974812030792236	-0.51919806	Yes	
+row_12	SIRT1	SIRT1	sirtuin (silent mating type information regulation 2 homolog) 1 (S. cerevisiae)	9858	-0.9345455169677734	-0.448448	Yes	
+row_13	PAX3	PAX3	paired box gene 3 (Waardenburg syndrome 1)	10895	-3.3511762619018555	-0.26793164	Yes	
+row_14	SUMO1	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	10921	-3.540468454360962	0.018978316	Yes	

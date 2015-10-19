@@ -1,0 +1,30 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARHGEF7	ARHGEF7	Rho guanine nucleotide exchange factor (GEF) 7	2357	0.5884242653846741	-0.17829037	No	
+row_1	ARHGEF15	ARHGEF15	Rho guanine nucleotide exchange factor (GEF) 15	2577	0.5341611504554749	-0.16717064	No	
+row_2	ARHGEF2	ARHGEF2	rho/rac guanine nucleotide exchange factor (GEF) 2	3286	0.3734842538833618	-0.20936656	No	
+row_3	PKN1	PKN1	protein kinase N1	5522	-0.0022149314172565937	-0.41051748	No	
+row_4	ARHGEF19	ARHGEF19	Rho guanine nucleotide exchange factor (GEF) 19	5584	-0.010411679744720459	-0.41540983	No	
+row_5	GNA13	GNA13	guanine nucleotide binding protein (G protein), alpha 13	6014	-0.07173971086740494	-0.44990233	No	
+row_6	ARHGEF5	ARHGEF5	Rho guanine nucleotide exchange factor (GEF) 5	6300	-0.08302173763513565	-0.4707751	No	
+row_7	ARHGEF17	ARHGEF17	Rho guanine nucleotide exchange factor (GEF) 17	6461	-0.10570993274450302	-0.47908065	No	
+row_8	ARHGEF18	ARHGEF18	rho/rac guanine nucleotide exchange factor (GEF) 18	6668	-0.13500183820724487	-0.48983756	No	
+row_9	GNB1	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	6728	-0.14464247226715088	-0.48679933	No	
+row_10	GNAQ	GNAQ	guanine nucleotide binding protein (G protein), q polypeptide	6869	-0.16930456459522247	-0.4896318	No	
+row_11	GNA12	GNA12	guanine nucleotide binding protein (G protein) alpha 12	6882	-0.17123925685882568	-0.48082516	No	
+row_12	ARHGEF1	ARHGEF1	Rho guanine nucleotide exchange factor (GEF) 1	7475	-0.26384586095809937	-0.51890486	No	
+row_13	ARHGEF10	ARHGEF10	Rho guanine nucleotide exchange factor (GEF) 10	7545	-0.2760639190673828	-0.509179	No	
+row_14	ARHGEF12	ARHGEF12	Rho guanine nucleotide exchange factor (GEF) 12	8383	-0.42335906624794006	-0.5601126	Yes	
+row_15	ROCK1	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	8434	-0.4351596236228943	-0.53948945	Yes	
+row_16	ARHGEF16	ARHGEF16	Rho guanine exchange factor (GEF) 16	8581	-0.4704916775226593	-0.5254718	Yes	
+row_17	PLCB1	PLCB1	phospholipase C, beta 1 (phosphoinositide-specific)	8658	-0.4947636127471924	-0.50374866	Yes	
+row_18	ARHGEF11	ARHGEF11	Rho guanine nucleotide exchange factor (GEF) 11	8797	-0.5281533598899841	-0.48568115	Yes	
+row_19	MYL7	MYL7	myosin, light chain 7, regulatory	8978	-0.5685898661613464	-0.4690613	Yes	
+row_20	ARHGEF6	ARHGEF6	Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6	9040	-0.5863207578659058	-0.44070077	Yes	
+row_21	ARHGEF3	ARHGEF3	Rho guanine nucleotide exchange factor (GEF) 3	9250	-0.6451243162155151	-0.42227352	Yes	
+row_22	MYLK	MYLK	myosin, light chain kinase	9436	-0.71001797914505	-0.3979379	Yes	
+row_23	ARHGAP5	ARHGAP5	Rho GTPase activating protein 5	9523	-0.7491650581359863	-0.36242625	Yes	
+row_24	PPP1R12B	PPP1R12B	protein phosphatase 1, regulatory (inhibitor) subunit 12B	9604	-0.7888804078102112	-0.3240811	Yes	
+row_25	PRKCA	PRKCA	protein kinase C, alpha	9761	-0.8789101839065552	-0.287382	Yes	
+row_26	ARHGEF9	ARHGEF9	Cdc42 guanine nucleotide exchange factor (GEF) 9	9957	-0.9969584941864014	-0.24737911	Yes	
+row_27	ARHGEF4	ARHGEF4	Rho guanine nucleotide exchange factor (GEF) 4	10641	-2.7627663612365723	-0.14936699	Yes	
+row_28	GNGT1	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	10833	-3.351161003112793	0.026927223	Yes	

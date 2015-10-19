@@ -1,0 +1,62 @@
+NAME	PROBE	GENE SYMBOL	GENE_TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKAP2	AKAP2	A kinase (PRKA) anchor protein 2	244	3.2831473350524902	0.054086313	No	
+row_1	IL16	IL16	interleukin 16 (lymphocyte chemoattractant factor)	919	1.3390135765075684	0.024258748	No	
+row_2	BAIAP2	BAIAP2	BAI1-associated protein 2	1203	1.0479507446289062	0.02299683	No	
+row_3	FZD7	FZD7	frizzled homolog 7 (Drosophila)	1788	0.7692120671272278	-0.011913688	No	
+row_4	CTDSPL	CTDSPL	CTD (carboxy-terminal domain, RNA polymerase II, polypeptide A) small phosphatase-like	1946	0.7107346653938293	-0.009614327	No	
+row_5	SORT1	SORT1	sortilin 1	2882	0.4587949514389038	-0.083423845	No	
+row_6	VANGL2	VANGL2	vang-like 2 (van gogh, Drosophila)	2982	0.4369983673095703	-0.08223296	No	
+row_7	PURB	PURB	purine-rich element binding protein B	3118	0.40893352031707764	-0.08494424	No	
+row_8	IER2	IER2	immediate early response 2	3141	0.4039805829524994	-0.07756444	No	
+row_9	HAS3	HAS3	hyaluronan synthase 3	3239	0.3835934102535248	-0.07743119	No	
+row_10	POLR3E	POLR3E	polymerase (RNA) III (DNA directed) polypeptide E (80kD)	3610	0.3107058107852936	-0.10364471	No	
+row_11	IKZF4	IKZF4	IKAROS family zinc finger 4 (Eos)	3854	0.26468831300735474	-0.11945483	No	
+row_12	POMT2	POMT2	protein-O-mannosyltransferase 2	4119	0.21574820578098297	-0.13829637	No	
+row_13	MECP2	MECP2	methyl CpG binding protein 2 (Rett syndrome)	4139	0.21193256974220276	-0.13509849	No	
+row_14	CAMK2G	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	4260	0.1908029168844223	-0.14151263	No	
+row_15	SH2D3C	SH2D3C	SH2 domain containing 3C	4604	0.13524898886680603	-0.16935576	No	
+row_16	SAMD11	SAMD11	sterile alpha motif domain containing 11	4640	0.13113850355148315	-0.16947627	No	
+row_17	RRAGC	RRAGC	Ras-related GTP binding C	4965	0.07952848821878433	-0.19689532	No	
+row_18	ELOVL6	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	5106	0.0584896020591259	-0.20818368	No	
+row_19	CNTFR	CNTFR	ciliary neurotrophic factor receptor	5426	0.012835505418479443	-0.23669748	No	
+row_20	PRKAR2A	PRKAR2A	protein kinase, cAMP-dependent, regulatory, type II, alpha	5457	0.008960605598986149	-0.23919925	No	
+row_21	PCDH1	PCDH1	protocadherin 1 (cadherin-like 1)	5500	0.0022599573712795973	-0.2429402	No	
+row_22	COPS7B	COPS7B	COP9 constitutive photomorphogenic homolog subunit 7B (Arabidopsis)	5573	-0.008586473762989044	-0.249244	No	
+row_23	ZDHHC9	ZDHHC9	zinc finger, DHHC-type containing 9	5671	-0.02263159304857254	-0.2574801	No	
+row_24	SLC25A22	SLC25A22	solute carrier family 25 (mitochondrial carrier: glutamate), member 22	5716	-0.02801547944545746	-0.2608045	No	
+row_25	KLHL18	KLHL18	kelch-like 18 (Drosophila)	5748	-0.034217994660139084	-0.26281098	No	
+row_26	CNOT6	CNOT6	CCR4-NOT transcription complex, subunit 6	6354	-0.09111011773347855	-0.31534082	No	
+row_27	FXR2	FXR2	fragile X mental retardation, autosomal homolog 2	6435	-0.10241915285587311	-0.32019153	No	
+row_28	CEP170	CEP170	centrosomal protein 170kDa	6749	-0.14835074543952942	-0.34502134	No	
+row_29	ZMYND11	ZMYND11	zinc finger, MYND domain containing 11	6952	-0.18204863369464874	-0.35904455	No	
+row_30	GPC4	GPC4	glypican 4	7192	-0.2166581004858017	-0.37560704	No	
+row_31	SGCD	SGCD	sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)	7218	-0.22032430768013	-0.37275648	No	
+row_32	H3F3B	H3F3B	H3 histone, family 3B (H3.3B)	7231	-0.22212918102741241	-0.36868995	No	
+row_33	MMD	MMD	monocyte to macrophage differentiation-associated	7366	-0.24539490044116974	-0.37510276	No	
+row_34	CHD6	CHD6	chromodomain helicase DNA binding protein 6	7407	-0.25387123227119446	-0.37282917	No	
+row_35	NRF1	NRF1	nuclear respiratory factor 1	7422	-0.2556600570678711	-0.36816582	No	
+row_36	NFIX	NFIX	nuclear factor I/X (CCAAT-binding transcription factor)	7664	-0.29545122385025024	-0.38308203	No	
+row_37	USP2	USP2	ubiquitin specific peptidase 2	7680	-0.2978224754333496	-0.3775314	No	
+row_38	SDC4	SDC4	syndecan 4 (amphiglycan, ryudocan)	8276	-0.4055206775665283	-0.42186806	No	
+row_39	DBNDD1	DBNDD1	dysbindin (dystrobrevin binding protein 1) domain containing 1	8831	-0.5358763933181763	-0.4594792	Yes	
+row_40	RNF44	RNF44	ring finger protein 44	8899	-0.5504171848297119	-0.45276842	Yes	
+row_41	CSNK1G1	CSNK1G1	casein kinase 1, gamma 1	8948	-0.5619980096817017	-0.44407305	Yes	
+row_42	DND1	DND1	dead end homolog 1 (zebrafish)	9099	-0.6026235222816467	-0.44364816	Yes	
+row_43	MNT	MNT	MAX binding protein	9124	-0.609697699546814	-0.43167916	Yes	
+row_44	PCDH17	PCDH17	protocadherin 17	9143	-0.6144537329673767	-0.41905802	Yes	
+row_45	ARNT	ARNT	aryl hydrocarbon receptor nuclear translocator	9204	-0.6301540732383728	-0.40986618	Yes	
+row_46	CHD3	CHD3	chromodomain helicase DNA binding protein 3	9324	-0.6706520318984985	-0.4050641	Yes	
+row_47	KLF13	KLF13	Kruppel-like factor 13	9325	-0.6709288954734802	-0.38950777	Yes	
+row_48	YES1	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	9460	-0.7210115790367126	-0.38489282	Yes	
+row_49	HMGN2	HMGN2	high-mobility group nucleosomal binding domain 2	9546	-0.7596326470375061	-0.37495682	Yes	
+row_50	BACH2	BACH2	BTB and CNC homology 1, basic leucine zipper transcription factor 2	9764	-0.880168080329895	-0.37414798	Yes	
+row_51	CHRD	CHRD	chordin	9826	-0.9135725498199463	-0.35847506	Yes	
+row_52	SMPD3	SMPD3	sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)	9853	-0.9314007759094238	-0.33922762	Yes	
+row_53	USP9X	USP9X	ubiquitin specific peptidase 9, X-linked	10029	-1.0530320405960083	-0.3306174	Yes	
+row_54	OGT	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	10172	-1.1727948188781738	-0.31624982	Yes	
+row_55	LIF	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	10393	-1.5300060510635376	-0.30064464	Yes	
+row_56	STC1	STC1	stanniocalcin 1	10489	-1.7957834005355835	-0.26758736	Yes	
+row_57	ATP1B4	ATP1B4	ATPase, (Na+)/K+ transporting, beta 4 polypeptide	10674	-3.1740994453430176	-0.21061037	Yes	
+row_58	HTR7	HTR7	5-hydroxytryptamine (serotonin) receptor 7 (adenylate cyclase-coupled)	10754	-3.2519092559814453	-0.1423459	Yes	
+row_59	GATA3	GATA3	GATA binding protein 3	10808	-3.2545166015625	-0.07167271	Yes	
+row_60	DCX	DCX	doublecortex; lissencephaly, X-linked (doublecortin)	11005	-4.349355220794678	0.011470239	Yes	
