@@ -1,0 +1,73 @@
+---
+title: "Venn_diagram"
+author: "Quynh Tran"
+date: "October 25, 2015"
+output: html_document
+---
+
+
+```{r setup}
+serum_file <- "../data/metabolomic/Serum_q_value.csv"
+wat_file <- "../data/metabolomic/WAT_q_value.csv"
+liver_file <- "../data/metabolomic/Liver_q_value.csv"
+wat_dna_file <- "../data/metabolomic/WAT_q_value_DNA_normalized.csv"
+
+serum_data <- read.csv(serum_file)
+serum_data <- serum_data[!is.na(serum_data$q.value),]
+wat_data <- read.csv(wat_file)
+wat_data <- wat_data[!is.na(wat_data$q.value),]
+liver_data <- read.csv(liver_file)
+liver_data <- liver_data[!is.na(liver_data$q.value),]
+watDNA_data <- read.csv(wat_dna_file)
+watDNA_data <- watDNA_data[!is.na(watDNA_data$q.value),]
+
+serum.sig <- serum_data[serum_data$q.value <= 0.05,]
+serum.sig <- serum.sig[!is.na(serum.sig$q.value),]
+
+wat.sig <- wat_data[wat_data$q.value <= 0.05,]
+wat.sig <- wat.sig[!is.na(wat.sig$q.value),]
+
+liver.sig <- liver_data[liver_data$q.value <= 0.05,]
+liver.sig <- liver.sig[!is.na(liver.sig$q.value),]
+
+watDNA.sig <- watDNA_data[watDNA_data$q.value <= 0.05,]
+watDNA.sig <- watDNA.sig[!is.na(watDNA.sig$q.value),]
+```
+
+```{r venn_diagram, warning=FALSE, message=FALSE, echo=FALSE}
+library(Vennerable)
+
+tissue.lists <- list("Serum"=serum.sig$Metabolites, 
+                 "Liver"=liver.sig$Metabolites, "WAT"=wat.sig$Metabolites)
+v.sig <- Venn(tissue.lists, Weight=c(`01`=7, `11`=8,`10`=12))
+plot(v.sig, doWeights=FALSE)
+dev.copy2pdf(file='figures/Venn_sigHFDGTXvsHFDVeh_metabolites.pdf')
+
+all.lists <- list("Serum"=serum_data$Metabolites, 
+                 "Liver"=liver_data$Metabolites, "WAT"=wat_data$Metabolites)
+v.all <- Venn(all.lists, Weight=c(`01`=7, `11`=8,`10`=12))
+plot(v.all, doWeights=FALSE)
+dev.copy2pdf(file='figures/Venn_all_metabolites.pdf')
+
+wat.sig.list <- list("WAT"=wat.sig$Metabolites, "WAT_DNA_Norm"=watDNA.sig$Metabolites)
+v.wat <- Venn(wat.sig.list)
+plot(v.wat, doWeights=FALSE)
+dev.copy2pdf(file='figures/Venn_WAT_WATDNANorm_sig.pdf')
+
+
+allDNA.lists <- list("Serum"=serum_data$Metabolites, 
+                "WATDNA"=watDNA_data$Metabolites)
+v.allDNA <- Venn(allDNA.lists)
+plot(v.allDNA, doWeights=FALSE)
+dev.copy2pdf(file='figures/Venn_Serum_WATDNA_metabolites.pdf')
+
+library(gplots)
+venn(list(serum.sig$Metabolites, liver.sig$Metabolites, wat.sig$Metabolites))
+```
+
+Session Information
+-------------------
+
+```{r session-info}
+sessionInfo()
+```
