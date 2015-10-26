@@ -41,7 +41,7 @@ tissue.lists <- list("Serum"=serum.sig$Metabolites,
                  "Liver"=liver.sig$Metabolites, "WAT"=wat.sig$Metabolites)
 v.sig <- Venn(tissue.lists, Weight=c(`01`=7, `11`=8,`10`=12))
 plot(v.sig, doWeights=FALSE)
-dev.copy2pdf(file='figures/Venn_sigHFDGTXvsHFDVeh_metabolites.pdf')
+dev.copy2pdf(file='figures/Venn_sig_AreaCountsNorm_metabolites.pdf')
 
 all.lists <- list("Serum"=serum_data$Metabolites, 
                  "Liver"=liver_data$Metabolites, "WAT"=wat_data$Metabolites)
